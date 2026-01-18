@@ -298,10 +298,26 @@ export default async function LessonPage({ params }: LessonPageProps) {
     </div>
   );
 
+  const practiceAudioSrc = `/data/${languageId}/${levelId}/${lessonId}-practice.mp3`;
+  const practiceContent = (
+    <div className="space-y-4">
+      <div className="rounded-xl border border-zinc-200 bg-white p-4 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
+        <div className="rounded-lg border border-zinc-100 bg-white p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950">
+          <DialogAudioPlayer
+            className="w-full"
+            groupId={`${languageId}-${levelId}-${lessonId}-practice`}
+            src={practiceAudioSrc}
+          />
+        </div>
+      </div>
+    </div>
+  );
+
   const tabs = [
     { id: 'new-words', label: 'New Words', content: newWordsContent },
     { id: 'dialogs', label: 'Dialogs', content: dialogsContent },
     { id: 'grammar', label: 'Grammar', content: grammarContent },
+    { id: 'practice', label: 'Practice', content: practiceContent },
     {
       id: 'games',
       label: 'Games',
