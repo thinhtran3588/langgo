@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 
 type FlashcardWord = {
   word: string;
@@ -110,6 +110,7 @@ const FlashcardGame = ({
   );
   const [isRevealed, setIsRevealed] = useState(false);
   const [isComplete, setIsComplete] = useState(false);
+  const hasInitialized = useRef(false);
 
   const persistScores = useCallback(
     (nextScores: ScoreMap) => {
@@ -143,22 +144,28 @@ const FlashcardGame = ({
   );
 
   useEffect(() => {
+    hasInitialized.current = false;
+    setScoresLoaded(false);
     try {
       const stored = localStorage.getItem(storageKey);
       if (stored) {
         const parsed = JSON.parse(stored) as ScoreMap;
         setScores(parsed);
+      } else {
+        setScores({});
       }
     } catch {
       // Ignore malformed storage.
+      setScores({});
     } finally {
       setScoresLoaded(true);
     }
   }, [storageKey]);
 
   useEffect(() => {
-    if (scoresLoaded) {
+    if (scoresLoaded && !hasInitialized.current) {
       resetGame(scores);
+      hasInitialized.current = true;
     }
   }, [resetGame, scores, scoresLoaded]);
 
@@ -258,6 +265,9 @@ const FlashcardGame = ({
       ? ratingStyles[activeScore]
       : undefined;
 
+  const reviewedCount =
+    words.length - remaining.length - (currentIndex !== undefined ? 1 : 0);
+
   return (
     <div
       className={['space-y-5 sm:space-y-6', className]
@@ -342,7 +352,7 @@ const FlashcardGame = ({
           {remaining.length + (currentIndex !== undefined ? 1 : 0)} cards
         </span>
         <div className="flex items-center gap-3">
-          <span>{words.length - remaining.length} reviewed</span>
+          <span>{reviewedCount} reviewed</span>
           <button
             type="button"
             onClick={handleClearProgress}

@@ -6,9 +6,9 @@
       "description": "HSK-aligned lessons for beginners.",
       "levels": [
         {
-          "id": "hsk1",
-          "label": "HSK1",
-          "description": "Beginner vocabulary and sentence patterns.",
+          "id": "hsk3",
+          "label": "HSK3",
+          "description": "HSK3 is the third level of Chinese proficiency.",
           "lessons": [
             {
               "id": "lesson01",
