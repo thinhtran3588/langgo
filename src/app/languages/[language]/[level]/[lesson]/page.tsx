@@ -1,5 +1,7 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
+import ContentTabs from '@/components/ContentTabs';
+import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import LanguageText from '@/components/LanguageText';
 import { getLanguage, getLesson, getLevel } from '@/lib/languages';
 import { notFound } from 'next/navigation';
@@ -88,33 +90,14 @@ export default async function LessonPage({ params }: LessonPageProps) {
     notFound();
   }
 
-  return (
-    <section className="space-y-8">
-      <header className="space-y-3">
-        <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          {language.label} · {level.label} · {lesson.label}
-        </p>
-        <LanguageText
-          text={lessonData.title?.text ?? lesson.label}
-          pronunciation={lessonData.title?.pronunciation}
-          translation={lessonData.title?.translation}
-          textClassName="text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100"
-        />
-        {lesson.description ? (
-          <p className="text-sm text-zinc-600 dark:text-zinc-300">
-            {lesson.description}
-          </p>
-        ) : undefined}
-      </header>
+  const newWordsContent = (
+    <div className="space-y-4">
       {lessonData.newWords?.length ? (
-        <section className="space-y-4">
+        <>
           <div className="flex items-center justify-between">
-            <h2 className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
-              New Words
-            </h2>
-            <span className="text-xs uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+            <p className="text-sm font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
               {lessonData.newWords.length} items
-            </span>
+            </p>
           </div>
           <div className="overflow-hidden rounded-xl border border-zinc-200 dark:border-zinc-800">
             <div className="hidden grid-cols-4 gap-2 border-b border-zinc-200 bg-zinc-50 px-4 py-3 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:bg-zinc-900/40 dark:text-zinc-400 md:grid">
@@ -171,119 +154,174 @@ export default async function LessonPage({ params }: LessonPageProps) {
               ))}
             </div>
           </div>
-        </section>
-      ) : undefined}
+        </>
+      ) : (
+        <p className="text-sm text-zinc-600 dark:text-zinc-300">
+          No new words available for this lesson yet.
+        </p>
+      )}
+    </div>
+  );
 
+  const dialogsContent = (
+    <div className="space-y-4">
       {lessonData.dialogs?.length ? (
-        <section className="space-y-4">
-          <h2 className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
-            Dialogs
-          </h2>
-          <div className="space-y-4">
-            {lessonData.dialogs.map((dialog, index) => (
-              <details
-                key={dialog.id ?? index}
-                className="group rounded-xl border border-zinc-200 bg-white shadow-sm open:bg-zinc-50 dark:border-zinc-800 dark:bg-zinc-900/40 dark:open:bg-zinc-950"
-              >
-                <summary className="cursor-pointer list-none rounded-xl px-4 py-3 outline-none transition hover:bg-zinc-50 dark:hover:bg-zinc-950">
-                  <div className="flex items-start justify-between gap-4">
-                    <div className="space-y-1">
-                      <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-                        {dialog.name?.text ?? `Dialog ${index + 1}`}
-                      </p>
-                      {dialog.name?.pronunciation ? (
-                        <p className="text-sm text-zinc-500 dark:text-zinc-400">
-                          {dialog.name.pronunciation}
-                        </p>
-                      ) : undefined}
-                      {dialog.name?.translation ? (
-                        <p className="text-sm text-zinc-600 dark:text-zinc-300">
-                          {dialog.name.translation}
-                        </p>
-                      ) : undefined}
-                    </div>
-                    <span className="mt-1 inline-flex h-7 w-7 items-center justify-center rounded-full border border-zinc-200 text-zinc-500 transition dark:border-zinc-800 dark:text-zinc-400">
-                      <svg
-                        className="h-3.5 w-3.5 transition group-open:rotate-180"
-                        viewBox="0 0 20 20"
-                        fill="currentColor"
-                        aria-hidden="true"
-                      >
-                        <path
-                          fillRule="evenodd"
-                          d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.17l3.71-3.94a.75.75 0 1 1 1.08 1.04l-4.25 4.5a.75.75 0 0 1-1.08 0l-4.25-4.5a.75.75 0 0 1 .02-1.06Z"
-                          clipRule="evenodd"
-                        />
-                      </svg>
-                    </span>
-                  </div>
-                </summary>
-                <div className="space-y-3 px-4 pb-4">
-                  <ol className="space-y-3">
-                    {dialog.sentences?.map((sentence, sentenceIndex) => (
-                      <li
-                        key={`${sentence.text}-${sentenceIndex}`}
-                        className="rounded-lg border border-zinc-100 bg-white p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950"
-                      >
-                        <LanguageText
-                          text={sentence.text}
-                          pronunciation={sentence.pronunciation}
-                          translation={sentence.translation}
-                          textClassName="text-base font-medium text-zinc-900 dark:text-zinc-100"
-                        />
-                      </li>
-                    ))}
-                  </ol>
-                </div>
-              </details>
-            ))}
-          </div>
-        </section>
-      ) : undefined}
+        <div className="space-y-4">
+          {lessonData.dialogs.map((dialog, index) => {
+            const dialogNumber = dialog.id ?? index + 1;
+            const dialogAudioSrc = `/data/${languageId}/${levelId}/${lessonId}-dialog${dialogNumber}.mp3`;
+            const dialogAudioId = `${languageId}-${levelId}-${lessonId}`;
 
-      {lessonData.grammars?.length ? (
-        <section className="space-y-4">
-          <h2 className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
-            Grammar Focus
-          </h2>
-          <div className="space-y-4">
-            {lessonData.grammars.map((grammarItem, index) => (
-              <article
-                key={`${grammarItem.grammar}-${index}`}
-                className="space-y-3 rounded-xl border border-zinc-200 bg-white p-4 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40"
+            return (
+              <div
+                key={dialog.id ?? index}
+                className="space-y-3 rounded-xl bg-white shadow-sm dark:bg-zinc-900/40"
               >
-                <div>
-                  <h3 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-                    {grammarItem.grammar}
-                  </h3>
-                  {grammarItem.description ? (
-                    <p className="mt-2 whitespace-pre-line text-sm text-zinc-600 dark:text-zinc-300">
-                      {stripInlineMarkdown(grammarItem.description)}
-                    </p>
-                  ) : undefined}
-                </div>
-                {grammarItem.examples?.length ? (
-                  <div className="space-y-2">
-                    {grammarItem.examples.map((example, exampleIndex) => (
-                      <div
-                        key={`${example.text}-${exampleIndex}`}
-                        className="rounded-lg border border-zinc-100 bg-zinc-50 p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950"
-                      >
-                        <LanguageText
-                          text={example.text}
-                          pronunciation={example.pronunciation}
-                          translation={example.translation}
-                          textClassName="font-medium text-zinc-900 dark:text-zinc-100"
-                        />
+                <details className="group">
+                  <summary className="cursor-pointer list-none rounded-xl px-4 py-3 outline-none transition hover:bg-zinc-50 dark:hover:bg-zinc-950">
+                    <div className="flex items-start justify-between gap-4">
+                      <div className="space-y-1">
+                        <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
+                          {dialog.name?.text ?? `Dialog ${index + 1}`}
+                        </p>
+                        {dialog.name?.pronunciation ? (
+                          <p className="text-sm text-zinc-500 dark:text-zinc-400">
+                            {dialog.name.pronunciation}
+                          </p>
+                        ) : undefined}
+                        {dialog.name?.translation ? (
+                          <p className="text-sm text-zinc-600 dark:text-zinc-300">
+                            {dialog.name.translation}
+                          </p>
+                        ) : undefined}
                       </div>
-                    ))}
+                      <span className="mt-1 inline-flex h-7 w-7 items-center justify-center rounded-full border border-zinc-200 text-zinc-500 transition dark:border-zinc-800 dark:text-zinc-400">
+                        <svg
+                          className="h-3.5 w-3.5 transition group-open:rotate-180"
+                          viewBox="0 0 20 20"
+                          fill="currentColor"
+                          aria-hidden="true"
+                        >
+                          <path
+                            fillRule="evenodd"
+                            d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.17l3.71-3.94a.75.75 0 1 1 1.08 1.04l-4.25 4.5a.75.75 0 0 1-1.08 0l-4.25-4.5a.75.75 0 0 1 .02-1.06Z"
+                            clipRule="evenodd"
+                          />
+                        </svg>
+                      </span>
+                    </div>
+                  </summary>
+                  <div className="space-y-3 px-4 pb-4">
+                    <ol className="space-y-3">
+                      {dialog.sentences?.map((sentence, sentenceIndex) => (
+                        <li
+                          key={`${sentence.text}-${sentenceIndex}`}
+                          className="rounded-lg border border-zinc-100 bg-white p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950"
+                        >
+                          <LanguageText
+                            text={sentence.text}
+                            pronunciation={sentence.pronunciation}
+                            translation={sentence.translation}
+                            textClassName="text-base font-medium text-zinc-900 dark:text-zinc-100"
+                          />
+                        </li>
+                      ))}
+                    </ol>
                   </div>
+                </details>
+                <div className="px-4 pb-4">
+                  <div className="rounded-lg border border-zinc-100 bg-white p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950">
+                    <DialogAudioPlayer
+                      className="w-full"
+                      groupId={dialogAudioId}
+                      src={dialogAudioSrc}
+                    />
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      ) : (
+        <p className="text-sm text-zinc-600 dark:text-zinc-300">
+          No dialogs available for this lesson yet.
+        </p>
+      )}
+    </div>
+  );
+
+  const grammarContent = (
+    <div className="space-y-4">
+      {lessonData.grammars?.length ? (
+        <div className="space-y-4">
+          {lessonData.grammars.map((grammarItem, index) => (
+            <article
+              key={`${grammarItem.grammar}-${index}`}
+              className="space-y-3 rounded-xl border border-zinc-200 bg-white p-4 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40"
+            >
+              <div>
+                <h3 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
+                  {grammarItem.grammar}
+                </h3>
+                {grammarItem.description ? (
+                  <p className="mt-2 whitespace-pre-line text-sm text-zinc-600 dark:text-zinc-300">
+                    {stripInlineMarkdown(grammarItem.description)}
+                  </p>
                 ) : undefined}
-              </article>
-            ))}
-          </div>
-        </section>
-      ) : undefined}
+              </div>
+              {grammarItem.examples?.length ? (
+                <div className="space-y-2">
+                  {grammarItem.examples.map((example, exampleIndex) => (
+                    <div
+                      key={`${example.text}-${exampleIndex}`}
+                      className="rounded-lg border border-zinc-100 bg-zinc-50 p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950"
+                    >
+                      <LanguageText
+                        text={example.text}
+                        pronunciation={example.pronunciation}
+                        translation={example.translation}
+                        textClassName="font-medium text-zinc-900 dark:text-zinc-100"
+                      />
+                    </div>
+                  ))}
+                </div>
+              ) : undefined}
+            </article>
+          ))}
+        </div>
+      ) : (
+        <p className="text-sm text-zinc-600 dark:text-zinc-300">
+          No grammar notes available for this lesson yet.
+        </p>
+      )}
+    </div>
+  );
+
+  const tabs = [
+    { id: 'new-words', label: 'New Words', content: newWordsContent },
+    { id: 'dialogs', label: 'Dialogs', content: dialogsContent },
+    { id: 'grammar', label: 'Grammar', content: grammarContent },
+  ];
+
+  return (
+    <section className="space-y-8">
+      <header className="space-y-3">
+        <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+          {language.label} · {level.label} · {lesson.label}
+        </p>
+        <LanguageText
+          text={lessonData.title?.text ?? lesson.label}
+          pronunciation={lessonData.title?.pronunciation}
+          translation={lessonData.title?.translation}
+          textClassName="text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100"
+        />
+        {lesson.description ? (
+          <p className="text-sm text-zinc-600 dark:text-zinc-300">
+            {lesson.description}
+          </p>
+        ) : undefined}
+      </header>
+      <ContentTabs tabs={tabs} />
     </section>
   );
 }
