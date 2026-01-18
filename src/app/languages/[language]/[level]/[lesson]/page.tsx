@@ -2,6 +2,7 @@ import { readFile } from 'fs/promises';
 import path from 'path';
 import ContentTabs from '@/components/ContentTabs';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
+import GamesTab from '@/components/GamesTab';
 import LanguageText from '@/components/LanguageText';
 import { getLanguage, getLesson, getLevel } from '@/lib/languages';
 import { notFound } from 'next/navigation';
@@ -301,6 +302,16 @@ export default async function LessonPage({ params }: LessonPageProps) {
     { id: 'new-words', label: 'New Words', content: newWordsContent },
     { id: 'dialogs', label: 'Dialogs', content: dialogsContent },
     { id: 'grammar', label: 'Grammar', content: grammarContent },
+    {
+      id: 'games',
+      label: 'Games',
+      content: (
+        <GamesTab
+          words={lessonData.newWords ?? []}
+          storageKey={`langgo.flashcard.${languageId}.${levelId}.${lessonId}`}
+        />
+      ),
+    },
   ];
 
   return (
