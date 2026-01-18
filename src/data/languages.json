@@ -11,48 +11,12 @@
           "description": "Beginner vocabulary and sentence patterns.",
           "lessons": [
             {
-              "id": "lesson-1",
-              "label": "Lesson 1",
-              "description": "Greetings, tones, and classroom phrases."
+              "id": "lesson01",
+              "label": "Bài 1"
             },
             {
-              "id": "lesson-2",
-              "label": "Lesson 2",
-              "description": "Numbers, dates, and simple questions."
-            },
-            {
-              "id": "lesson-3",
-              "label": "Lesson 3",
-              "description": "Everyday nouns and simple sentences."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "english",
-      "label": "English",
-      "description": "Everyday English foundations.",
-      "levels": [
-        {
-          "id": "level-1",
-          "label": "Level 1",
-          "description": "Key phrases, pronunciation, and grammar basics.",
-          "lessons": [
-            {
-              "id": "lesson-1",
-              "label": "Lesson 1",
-              "description": "Introductions, greetings, and pronunciation."
-            },
-            {
-              "id": "lesson-2",
-              "label": "Lesson 2",
-              "description": "Common questions and daily schedule words."
-            },
-            {
-              "id": "lesson-3",
-              "label": "Lesson 3",
-              "description": "Describe people, places, and routines."
+              "id": "lesson02",
+              "label": "Bài 2"
             }
           ]
         }
