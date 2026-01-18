@@ -1,9 +1,9 @@
 'use client';
 
-import { useState } from 'react';
+import { languages } from '@/lib/languages';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { languages } from '@/lib/languages';
+import { useState } from 'react';
 
 type NavItem = {
   label: string;
@@ -32,44 +32,89 @@ function NavList({
   items,
   depth = 0,
   pathname,
+  expandedItems,
+  onToggle,
 }: {
   items: NavItem[];
   depth?: number;
   pathname: string;
+  expandedItems: Record<string, boolean>;
+  onToggle: (key: string, nextExpanded: boolean) => void;
 }) {
   return (
     <ul className={depth === 0 ? 'space-y-3' : 'space-y-2'}>
       {items.map((item) => {
+        const itemKey = item.href ?? item.label;
         const isActive =
           item.href &&
           (pathname === item.href || pathname.startsWith(`${item.href}/`));
+        const hasChildren = Boolean(item.children?.length);
+        const isExpanded = hasChildren
+          ? (expandedItems[itemKey] ?? depth < 1)
+          : false;
         return (
           <li
             key={`${item.label}-${item.href ?? 'group'}`}
             className="space-y-2"
           >
-            {item.href ? (
-              <Link
-                href={item.href}
-                className={`block rounded-xl px-3 py-2 text-sm transition ${
-                  isActive
-                    ? 'font-semibold text-primary'
-                    : 'font-medium text-zinc-700 hover:bg-white/60 dark:text-zinc-300 dark:hover:bg-zinc-900/70'
-                }`}
-              >
-                {item.label}
-              </Link>
-            ) : (
-              <span className="block px-3 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-                {item.label}
-              </span>
-            )}
-            {item.children ? (
+            <div className="flex items-center gap-2">
+              {item.href ? (
+                <Link
+                  href={item.href}
+                  className={`flex-1 rounded-xl px-3 py-2 text-sm transition ${
+                    isActive
+                      ? 'font-semibold text-primary'
+                      : 'font-medium text-zinc-700 hover:bg-white/60 dark:text-zinc-300 dark:hover:bg-zinc-900/70'
+                  }`}
+                >
+                  {item.label}
+                </Link>
+              ) : (
+                <span className="block flex-1 px-3 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+                  {item.label}
+                </span>
+              )}
+              {hasChildren ? (
+                <button
+                  type="button"
+                  onClick={(event) => {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    onToggle(itemKey, !isExpanded);
+                  }}
+                  className="inline-flex h-8 w-8 items-center justify-center rounded-lg text-zinc-500 transition hover:bg-white/60 hover:text-zinc-900 dark:text-zinc-400 dark:hover:bg-zinc-900/70 dark:hover:text-zinc-100"
+                  aria-label={
+                    isExpanded
+                      ? `Hide ${item.label} items`
+                      : `Show ${item.label} items`
+                  }
+                  aria-expanded={isExpanded}
+                >
+                  <svg
+                    aria-hidden="true"
+                    viewBox="0 0 24 24"
+                    className={`h-4 w-4 transition ${
+                      isExpanded ? 'rotate-90' : ''
+                    }`}
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.8"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              ) : undefined}
+            </div>
+            {hasChildren && isExpanded ? (
               <div className="pl-3">
                 <NavList
-                  items={item.children}
+                  items={item.children ?? []}
                   depth={depth + 1}
                   pathname={pathname}
+                  expandedItems={expandedItems}
+                  onToggle={onToggle}
                 />
               </div>
             ) : undefined}
@@ -86,7 +131,16 @@ export default function LayoutShell({
   children: React.ReactNode;
 }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [expandedItems, setExpandedItems] = useState<Record<string, boolean>>(
+    {}
+  );
   const pathname = usePathname();
+  const handleToggle = (key: string, nextExpanded: boolean) => {
+    setExpandedItems((prev) => ({
+      ...prev,
+      [key]: nextExpanded,
+    }));
+  };
 
   return (
     <div className="min-h-screen text-zinc-900 dark:text-zinc-50">
@@ -152,7 +206,12 @@ export default function LayoutShell({
           }`}
         >
           <nav aria-label="Main">
-            <NavList items={navItems} pathname={pathname} />
+            <NavList
+              items={navItems}
+              pathname={pathname}
+              expandedItems={expandedItems}
+              onToggle={handleToggle}
+            />
           </nav>
         </aside>
 
