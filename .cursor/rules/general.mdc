@@ -1,0 +1,65 @@
+---
+alwaysApply: true
+---
+
+# LangGo Web - Cursor Configuration
+
+## Documentation References
+
+**CRITICAL**: When making code changes, refer to:
+
+- **[@README.md](README.md)**: Project overview, scripts, and structure
+- `src/app/` for route organization and layout patterns
+- `src/components/` for shared UI components
+- `src/lib/` and `src/data/` for utilities and static content
+
+## Project Overview
+
+LangGo is a Next.js App Router web frontend for language learning. It uses React 19, TypeScript, and Tailwind CSS.
+
+## Key Project Facts
+
+- **Framework**: Next.js (App Router)
+- **Language**: TypeScript (strict)
+- **Styling**: Tailwind CSS + `src/app/globals.css`
+- **Source Directory**: `src/`
+- **Routing**: File-based routes in `src/app/`, dynamic segments in `[param]`
+- **Path Alias**: `@/*` resolves to `src/*`
+- **Static Content**: `src/data/*.json`
+- **Utilities**: `src/lib/*`
+
+## Essential Code Conventions
+
+### File and Folder Naming
+
+- Route segments and folders use `kebab-case`
+- Dynamic route segments use `[param]` naming
+- React components use `PascalCase.tsx`
+- Hooks and utilities use descriptive lowercase names (follow existing patterns)
+
+### Components and Rendering
+
+- Prefer Server Components by default
+- Add `'use client'` only for interactivity (state, effects, event handlers, browser-only APIs)
+- Keep shared UI in `src/components`
+- Use `next/link` for navigation and `next/image` for images
+
+### Data Fetching
+
+- Use async Server Components with `fetch` when possible
+- Import static data from `src/data` for lightweight pages
+
+### Styling
+
+- Use Tailwind utility classes for layout and spacing
+- Keep global styling in `src/app/globals.css`
+- Prefer CSS variables defined in `globals.css` for theme values
+
+### Imports
+
+- Group imports: external packages → `@/` alias → relative
+- Prefer the `@/` alias for app code
+
+### Validation
+
+- Run `npm run validate` after changes (lint + format)
