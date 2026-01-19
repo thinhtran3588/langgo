@@ -4,7 +4,7 @@
     "pronunciation": "Zhuōzi shang fàngzhe hěn duō yǐnliào.",
     "translations": {
       "vi": "Trên bàn có rất nhiều thức uống.",
-      "en": "There are plenty of drinks on the table."
+      "en": "There are many drinks on the table."
     }
   },
   "newWords": [
@@ -13,7 +13,7 @@
       "type": "liên từ",
       "pronunciation": "háishi",
       "translations": {
-        "vi": "hay là",
+        "vi": "hay (dùng trong câu hỏi lựa chọn)",
         "en": "or (used in questions)"
       },
       "example": {
@@ -21,7 +21,7 @@
         "pronunciation": "Míngtiān shì qíngtiān háishi yīntiān?",
         "translations": {
           "vi": "Ngày mai là trời nắng hay trời âm u?",
-          "en": "Will it be sunny or cloudy tomorrow?"
+          "en": "Is tomorrow sunny or cloudy?"
         }
       }
     },
@@ -31,14 +31,14 @@
       "pronunciation": "pá shān",
       "translations": {
         "vi": "leo núi",
-        "en": "to climb a mountain"
+        "en": "to climb a mountain; to hike"
       },
       "example": {
         "text": "我们明天要去爬山。",
         "pronunciation": "Wǒmen míngtiān yào qù pá shān.",
         "translations": {
           "vi": "Ngày mai chúng tôi sẽ đi leo núi.",
-          "en": "We are going to climb a mountain tomorrow."
+          "en": "We are going mountain climbing tomorrow."
         }
       }
     },
@@ -54,8 +54,8 @@
         "text": "爬山的时候要小心点儿。",
         "pronunciation": "Pá shān de shíhou yào xiǎoxīn diǎnr.",
         "translations": {
-          "vi": "Lúc leo núi phải cẩn thận một chút.",
-          "en": "Be careful when climbing the mountain."
+          "vi": "Khi leo núi cần phải cẩn thận một chút.",
+          "en": "Be a bit careful when climbing the mountain."
         }
       }
     },
@@ -64,14 +64,14 @@
       "type": "lượng từ",
       "pronunciation": "tiáo",
       "translations": {
-        "vi": "con, cái (lượng từ cho quần, váy...)",
-        "en": "measure word (for pants, skirts, etc.)"
+        "vi": "(được dùng cho quần, váy...) cái, chiếc",
+        "en": "(measure word for pants, dresses, etc.)"
       },
       "example": {
         "text": "你觉得这条裤子怎么样？",
         "pronunciation": "Nǐ juéde zhè tiáo kùzi zěnmeyàng?",
         "translations": {
-          "vi": "Bà thấy chiếc quần này thế nào?",
+          "vi": "Anh cảm thấy chiếc quần này thế nào?",
           "en": "What do you think of this pair of pants?"
         }
       }
@@ -88,7 +88,7 @@
         "text": "我记得你已经有两条这样的裤子了。",
         "pronunciation": "Wǒ jìde nǐ yǐjīng yǒu liǎng tiáo zhèyàng de kùzi le.",
         "translations": {
-          "vi": "Tôi nhớ là bà đã có hai chiếc quần như thế này rồi.",
+          "vi": "Anh nhớ em đã có hai chiếc quần như thế này rồi.",
           "en": "I remember you already have two pairs of pants like this."
         }
       }
@@ -105,7 +105,7 @@
         "text": "我记得你已经有两条这样的裤子了。",
         "pronunciation": "Wǒ jìde nǐ yǐjīng yǒu liǎng tiáo zhèyàng de kùzi le.",
         "translations": {
-          "vi": "Tôi nhớ là bà đã có hai chiếc quần như thế này rồi.",
+          "vi": "Anh nhớ em đã có hai chiếc quần như thế này rồi.",
           "en": "I remember you already have two pairs of pants like this."
         }
       }
@@ -122,7 +122,7 @@
         "text": "这件衬衫怎么样？",
         "pronunciation": "Zhè jiàn chènshān zěnmeyàng?",
         "translations": {
-          "vi": "Chiếc sơ mi này thì sao?",
+          "vi": "Chiếc áo sơ mi này thế nào?",
           "en": "How about this shirt?"
         }
       }
@@ -132,15 +132,15 @@
       "type": "lượng từ",
       "pronunciation": "yuán",
       "translations": {
-        "vi": "đồng (đơn vị tiền tệ)",
-        "en": "yuan (unit of currency)"
+        "vi": "(đơn vị tiền tệ) đồng, tệ",
+        "en": "yuan (currency unit)"
       },
       "example": {
         "text": "这上面写着320元。",
         "pronunciation": "Zhè shàngmian xiězhe sān bǎi èrshí yuán.",
         "translations": {
-          "vi": "Trên đó có ghi 320 tệ.",
-          "en": "It says 320 yuan on it."
+          "vi": "Trên này viết 320 tệ.",
+          "en": "It says 320 yuan on this."
         }
       }
     },
@@ -156,8 +156,8 @@
         "text": "这些水果真新鲜。",
         "pronunciation": "Zhèxiē shuǐguǒ zhēn xīnxiān.",
         "translations": {
-          "vi": "Những trái cây này thật tươi.",
-          "en": "This fruit is really fresh."
+          "vi": "Những loại trái cây này thật tươi.",
+          "en": "These fruits are really fresh."
         }
       }
     },
@@ -174,7 +174,7 @@
         "pronunciation": "Xīguā bù tián bú yào qián.",
         "translations": {
           "vi": "Dưa hấu không ngọt không lấy tiền.",
-          "en": "If the watermelon isn't sweet, you don't have to pay."
+          "en": "If the watermelon isn't sweet, it's free."
         }
       }
     },
@@ -190,8 +190,8 @@
         "text": "今天晚上只吃水果不吃饭！",
         "pronunciation": "Jīntiān wǎnshang zhǐ chī shuǐguǒ bù chī fàn!",
         "translations": {
-          "vi": "Tối nay chỉ ăn hoa quả thôi, không ăn cơm!",
-          "en": "Tonight we'll only eat fruit and no dinner!"
+          "vi": "Tối nay chỉ ăn trái cây không ăn cơm!",
+          "en": "Tonight we'll only eat fruit, no dinner!"
         }
       }
     },
@@ -208,7 +208,7 @@
         "pronunciation": "Zhuōzi shang fàngzhe hěn duō yǐnliào.",
         "translations": {
           "vi": "Trên bàn có đặt rất nhiều đồ uống.",
-          "en": "There are many drinks on the table."
+          "en": "There are many drinks placed on the table."
         }
       }
     },
@@ -217,15 +217,15 @@
       "type": "danh từ",
       "pronunciation": "yǐnliào",
       "translations": {
-        "vi": "thức uống, đồ uống",
-        "en": "drink; beverage"
+        "vi": "đồ uống, thức uống",
+        "en": "beverage; drink"
       },
       "example": {
         "text": "桌子上放着很多饮料。",
         "pronunciation": "Zhuōzi shang fàngzhe hěn duō yǐnliào.",
         "translations": {
           "vi": "Trên bàn có đặt rất nhiều đồ uống.",
-          "en": "There are many drinks on the table."
+          "en": "There are many drinks placed on the table."
         }
       }
     },
@@ -234,15 +234,15 @@
       "type": "liên từ",
       "pronunciation": "huòzhě",
       "translations": {
-        "vi": "hoặc",
+        "vi": "hoặc (dùng trong câu trần thuật)",
         "en": "or (used in statements)"
       },
       "example": {
         "text": "茶或者咖啡都可以。",
         "pronunciation": "Chá huòzhě kāfēi dōu kěyǐ.",
         "translations": {
-          "vi": "Trà hay cà phê đều được.",
-          "en": "Either tea or coffee is fine."
+          "vi": "Trà hoặc cà phê đều được.",
+          "en": "Tea or coffee are both fine."
         }
       }
     },
@@ -251,7 +251,7 @@
       "type": "tính từ",
       "pronunciation": "shūfu",
       "translations": {
-        "vi": "dễ chịu",
+        "vi": "dễ chịu, thoải mái",
         "en": "comfortable"
       },
       "example": {
@@ -259,7 +259,7 @@
         "pronunciation": "Hē bēi rè chá huì hěn shūfu.",
         "translations": {
           "vi": "Uống một tách trà nóng sẽ rất dễ chịu.",
-          "en": "Having a cup of hot tea will be very comfortable."
+          "en": "Drinking a cup of hot tea will be very comfortable."
         }
       }
     },
@@ -272,11 +272,11 @@
         "en": "flower"
       },
       "example": {
-        "text": "茶或者咖啡都可以。你喝什么？",
-        "pronunciation": "Chá huòzhě kāfēi dōu kěyǐ. Nǐ hē shénme?",
+        "text": "花茶、绿茶、红茶，我都喜欢。",
+        "pronunciation": "Huāchá, lǜchá, hóngchá, wǒ dōu xǐhuan.",
         "translations": {
-          "vi": "Trà hay cà phê đều được. Bạn uống gì?",
-          "en": "Either tea or coffee is fine. What are you drinking?"
+          "vi": "Trà hoa, trà xanh, hồng trà, tôi đều thích.",
+          "en": "Flower tea, green tea, black tea, I like them all."
         }
       }
     },
@@ -285,25 +285,25 @@
       "type": "tính từ",
       "pronunciation": "lǜ",
       "translations": {
-        "vi": "xanh lá cây",
+        "vi": "có màu xanh lá cây",
         "en": "green"
       },
       "example": {
-        "text": "那边的草和树都绿了。",
-        "pronunciation": "Nàbiān de cǎo hé shù dōu lǜ le.",
+        "text": "花茶、绿茶、红茶，我都喜欢。",
+        "pronunciation": "Huāchá, lǜchá, hóngchá, wǒ dōu xǐhuan.",
         "translations": {
-          "vi": "Cỏ và cây ở đằng kia đều xanh rồi.",
-          "en": "The grass and trees over there have all turned green."
+          "vi": "Trà hoa, trà xanh, hồng trà, tôi đều thích.",
+          "en": "Flower tea, green tea, black tea, I like them all."
         }
       }
     }
   ],
   "grammars": [
     {
-      "grammar": "“还是”和“或者”",
+      "grammar": "“还是” 和 “或者”",
       "descriptions": {
-        "vi": "还是 và 或者 được dùng để diễn tả sự lựa chọn. Thông thường 还是 được dùng trong câu hỏi còn 或者 được dùng trong câu trần thuật. Đối với những câu có mệnh đề mang hình thức nghi vấn, ta chỉ được dùng 还是 trong mệnh đề đó.",
-        "en": "Both 还是 and 或者 are used to express choices. Generally, 还是 is used in interrogative sentences while 或者 is used in declarative sentences. In sentences containing an interrogative clause, only 还是 can be used within that clause."
+        "vi": "Trong tiếng Trung Quốc, \"还是\" và \"或者\" đều biểu thị sự lựa chọn. Thông thường, \"还是\" được dùng trong câu hỏi, còn \"或者\" được dùng trong câu trần thuật. Đối với những câu có mệnh đề mang hình thức nghi vấn, ta chỉ được dùng \"还是\" trong mệnh đề đó.",
+        "en": "In Chinese, both \"还是\" and \"或者\" indicate a choice. Generally, \"还是\" is used in interrogative sentences (questions), while \"或者\" is used in declarative sentences (statements). In sentences containing an interrogative clause, only \"还是\" can be used."
       },
       "examples": [
         {
@@ -318,8 +318,16 @@
           "text": "今天晚上吃米饭或者面条都可以。",
           "pronunciation": "Jīntiān wǎnshang chī mǐfàn huòzhě miàntiáo dōu kěyǐ.",
           "translations": {
-            "vi": "Tối nay ăn cơm hay mì đều được.",
-            "en": "Either rice or noodles will be fine for dinner tonight."
+            "vi": "Tối nay ăn cơm hoặc mì sợi đều được.",
+            "en": "Rice or noodles are both fine for dinner tonight."
+          }
+        },
+        {
+          "text": "周太太40岁还是50岁，我们不知道。",
+          "pronunciation": "Zhōu tàitai sìshí suì háishi wǔshí suì, wǒmen bù zhīdào.",
+          "translations": {
+            "vi": "Bà Chu 40 tuổi hay 50 tuổi, chúng tôi không biết.",
+            "en": "We don't know if Mrs. Zhou is 40 or 50 years old."
           }
         }
       ]
@@ -327,49 +335,73 @@
     {
       "grammar": "存在的表达：处所词+动词着+数词+量词+名词",
       "descriptions": {
-        "vi": "Cấu trúc “từ/cụm từ chỉ vị trí + động từ + 着 + cụm danh từ diễn tả ý ở nơi nào đó có vật gì. Các động từ thường được dùng là 放, 写, 坐, 住... Người ta dùng cụm danh từ chỉ sự vật không xác định. Dạng phủ định là: Từ chỉ vị trí + 没 + động từ + 着 + cụm danh từ (không có lượng từ).",
-        "en": "The structure 'place word + verb + 着 + noun phrase' indicates that something exists in a certain place. Common verbs include 放, 写, 坐, 住... Usually, an indefinite noun phrase is used. The negative form is: place word + 没 + verb + 着 + noun phrase (without a measure word)."
+        "vi": "Cấu trúc “Từ/cụm từ chỉ vị trí + động từ + 着 + cụm danh từ” diễn tả ý ở nơi nào đó có vật gì. Các động từ thường được dùng trong cấu trúc này là 放, 写, 坐, 住... Thông thường người ta dùng cụm danh từ chỉ sự vật không xác định (như 'một quyển sách', 'vài người') chứ không dùng cụm danh từ chỉ sự vật xác định.",
+        "en": "The structure “Location word/phrase + Verb + 着 + Noun phrase” indicates that something exists at a certain place. Common verbs used include 放 (put), 写 (write), 坐 (sit), 住 (live), etc. The noun phrase is usually indefinite (e.g., 'a book', 'a few people') rather than definite."
       },
       "examples": [
         {
-          "text": "桌子上放着很多饮料。",
-          "pronunciation": "Zhuōzi shang fàngzhe hěn duō yǐnliào.",
+          "text": "桌子上放着一杯咖啡。",
+          "pronunciation": "Zhuōzi shang fàngzhe yì bēi kāfēi.",
           "translations": {
-            "vi": "Trên bàn có đặt rất nhiều đồ uống.",
-            "en": "There are many drinks on the table."
+            "vi": "Trên bàn có đặt một tách cà phê.",
+            "en": "There is a cup of coffee on the table."
           }
         },
         {
-          "text": "上面没写着多少钱。",
-          "pronunciation": "Shàngmian méi xiězhe duōshao qián.",
+          "text": "我家楼上住着一个老师。",
+          "pronunciation": "Wǒ jiā lóushàng zhùzhe yí ge lǎoshī.",
           "translations": {
-            "vi": "Trên đó không có ghi bao nhiêu tiền.",
-            "en": "It doesn't say how much it is on it."
+            "vi": "Trên lầu nhà tôi có một giáo viên đang ở.",
+            "en": "A teacher lives on the floor above my home."
+          }
+        },
+        {
+          "text": "上面写着320元。",
+          "pronunciation": "Shàngmian xiězhe sān bǎi èrshí yuán.",
+          "translations": {
+            "vi": "Phía trên có viết 320 đồng.",
+            "en": "It says 320 yuan on it."
+          }
+        },
+        {
+          "text": "桌子上没放着咖啡。",
+          "pronunciation": "Zhuōzi shang méi fàngzhe kāfēi.",
+          "translations": {
+            "vi": "Trên bàn không có để cà phê.",
+            "en": "There is no coffee on the table."
           }
         }
       ]
     },
     {
-      "grammar": "“会”表示可能",
+      "grammar": "“会” 表示可能",
       "descriptions": {
-        "vi": "Trợ động từ 会 được dùng trong câu để chỉ khả năng, thường được sử dụng để diễn tả những sự việc chưa xảy ra.",
-        "en": "The modal verb 会 is used in a sentence to indicate possibility, usually referring to events that have not yet occurred."
+        "vi": "Trợ động từ “会” được dùng trong câu để chỉ khả năng, thường được sử dụng để diễn tả những sự việc chưa xảy ra.",
+        "en": "The auxiliary verb “会” is used to indicate possibility, often describing events that have not yet happened."
       },
       "examples": [
         {
           "text": "你穿得那么少，会感冒的。",
           "pronunciation": "Nǐ chuān de nàme shǎo, huì gǎnmào de.",
           "translations": {
-            "vi": "Bạn mặc ít thế kia sẽ bị cảm đấy.",
-            "en": "You're wearing so little, you'll catch a cold."
+            "vi": "Bạn mặc ít như thế, sẽ bị cảm đấy.",
+            "en": "You are wearing so little, you will catch a cold."
           }
         },
         {
           "text": "别担心，我会照顾好自己。",
           "pronunciation": "Bié dānxīn, wǒ huì zhàogù hǎo zìjǐ.",
           "translations": {
-            "vi": "Đừng lo lắng, tôi sẽ tự chăm sóc tốt cho bản thân.",
+            "vi": "Đừng lo lắng, tôi sẽ chăm sóc tốt bản thân.",
             "en": "Don't worry, I will take good care of myself."
+          }
+        },
+        {
+          "text": "喝杯热茶会很舒服。",
+          "pronunciation": "Hē bēi rè chá huì hěn shūfu.",
+          "translations": {
+            "vi": "Uống một tách trà nóng sẽ rất dễ chịu.",
+            "en": "Drinking a cup of hot tea will be very comfortable."
           }
         }
       ]
@@ -391,32 +423,48 @@
           "text": "小刚：明天是晴天还是阴天？",
           "pronunciation": "Xiǎogāng: Míngtiān shì qíngtiān háishi yīntiān?",
           "translations": {
-            "vi": "Tiểu Cương: Ngày mai trời nắng hay trời âm u?",
-            "en": "Xiaogang: Will it be sunny or cloudy tomorrow?"
+            "vi": "Tiểu Cương: Ngày mai là trời nắng hay trời âm u?",
+            "en": "Xiaogang: Is tomorrow sunny or cloudy?"
           }
         },
         {
           "text": "小丽：阴天，电视上说多云。怎么了？有事？",
           "pronunciation": "Xiǎolì: Yīntiān, diànshì shang shuō duōyún. Zěnme le? Yǒu shì?",
           "translations": {
-            "vi": "Tiểu Lệ: Trời âm u, TV nói là nhiều mây. Sao vậy? Có chuyện gì à?",
-            "en": "Xiaoli: Cloudy, the TV says it will be overcast. What's up? Do you have something going on?"
+            "vi": "Tiểu Lệ: Trời âm u, trên ti vi nói có nhiều mây. Sao vậy? Có việc gì à?",
+            "en": "Xiaoli: Cloudy, the TV says partly cloudy. What's up? Something happening?"
           }
         },
         {
           "text": "小刚：没事，我们明天要去爬山。",
-          "pronunciation": "Xiǎogāng: Méi shì, wǒmen míngtiān yào qù pá shān.",
+          "pronunciation": "Xiǎogāng: Méishì, wǒmen míngtiān yào qù pá shān.",
           "translations": {
-            "vi": "Tiểu Cương: Không có gì, ngày mai chúng tôi định đi leo núi.",
-            "en": "Xiaogang: Nothing, we are going to climb a mountain tomorrow."
+            "vi": "Tiểu Cương: Không có gì, ngày mai chúng tôi sẽ đi leo núi.",
+            "en": "Xiaogang: Nothing, we are going hiking tomorrow."
           }
         },
         {
           "text": "小丽：爬山的时候要小心点儿。",
           "pronunciation": "Xiǎolì: Pá shān de shíhou yào xiǎoxīn diǎnr.",
           "translations": {
-            "vi": "Tiểu Lệ: Lúc leo núi phải cẩn thận một chút.",
-            "en": "Xiaoli: Be careful when you climb the mountain."
+            "vi": "Tiểu Lệ: Khi leo núi cần phải cẩn thận một chút.",
+            "en": "Xiaoli: Be careful when hiking."
+          }
+        },
+        {
+          "text": "小刚：好，你也去吗？",
+          "pronunciation": "Xiǎogāng: Hǎo, nǐ yě qù ma?",
+          "translations": {
+            "vi": "Tiểu Cương: Được, bạn có đi không?",
+            "en": "Xiaogang: Okay, are you going too?"
+          }
+        },
+        {
+          "text": "小丽：我不去，我有事。",
+          "pronunciation": "Xiǎolì: Wǒ bú qù, wǒ yǒu shì.",
+          "translations": {
+            "vi": "Tiểu Lệ: Tôi không đi, tôi có việc bận.",
+            "en": "Xiaoli: I'm not going, I have things to do."
           }
         }
       ]
@@ -428,7 +476,7 @@
         "pronunciation": "Zài shāngchǎng",
         "translations": {
           "vi": "Ở cửa hàng bách hóa",
-          "en": "In the department store"
+          "en": "At the mall"
         }
       },
       "sentences": [
@@ -436,7 +484,7 @@
           "text": "周太太：你觉得这条裤子怎么样？",
           "pronunciation": "Zhōu tàitai: Nǐ juéde zhè tiáo kùzi zěnmeyàng?",
           "translations": {
-            "vi": "Bà Châu: Bà thấy chiếc quần này thế nào?",
+            "vi": "Châu phu nhân: Anh thấy chiếc quần này thế nào?",
             "en": "Mrs. Zhou: What do you think of this pair of pants?"
           }
         },
@@ -444,16 +492,48 @@
           "text": "周明：我记得你已经有两条这样的裤子了。",
           "pronunciation": "Zhōu Míng: Wǒ jìde nǐ yǐjīng yǒu liǎng tiáo zhèyàng de kùzi le.",
           "translations": {
-            "vi": "Châu Minh: Tôi nhớ bà đã có hai chiếc quần như thế này rồi.",
-            "en": "Zhou Ming: I remember you already have two pairs of pants like this."
+            "vi": "Chu Minh: Anh nhớ em đã có hai chiếc quần như thế này rồi.",
+            "en": "Zhou Ming: I remember you already have two pairs like this."
           }
         },
         {
-          "text": "周太太：那我们再看看别的。这件衬衫怎么样？",
-          "pronunciation": "Zhōu tàitai: Nà wǒmen zài kànkàn biéde. Zhè jiàn chènshān zěnmeyàng?",
+          "text": "周太太：那我们再看看别的。",
+          "pronunciation": "Zhōu tàitai: Nà wǒmen zài kànkan biéde.",
           "translations": {
-            "vi": "Bà Châu: Vậy chúng ta xem cái khác. Chiếc sơ mi này thì sao?",
-            "en": "Mrs. Zhou: Then let's look at something else. How about this shirt?"
+            "vi": "Châu phu nhân: Vậy chúng ta xem cái khác đi.",
+            "en": "Mrs. Zhou: Then let's look at something else."
+          }
+        },
+        {
+          "text": "周明：这件衬衫怎么样？",
+          "pronunciation": "Zhōu Míng: Zhè jiàn chènshān zěnmeyàng?",
+          "translations": {
+            "vi": "Chu Minh: Chiếc áo sơ mi này thế nào?",
+            "en": "Zhou Ming: How about this shirt?"
+          }
+        },
+        {
+          "text": "周太太：还不错，多少钱？",
+          "pronunciation": "Zhōu tàitai: Hái búcuò, duōshao qián?",
+          "translations": {
+            "vi": "Châu phu nhân: Cũng được đấy, bao nhiêu tiền?",
+            "en": "Mrs. Zhou: Not bad, how much is it?"
+          }
+        },
+        {
+          "text": "周明：这上面写着320元。",
+          "pronunciation": "Zhōu Míng: Zhè shàngmian xiězhe sān bǎi èrshí yuán.",
+          "translations": {
+            "vi": "Chu Minh: Trên này viết 320 tệ.",
+            "en": "Zhou Ming: It says 320 yuan here."
+          }
+        },
+        {
+          "text": "周太太：买一件。",
+          "pronunciation": "Zhōu tàitai: Mǎi yí jiàn.",
+          "translations": {
+            "vi": "Châu phu nhân: Mua một chiếc.",
+            "en": "Mrs. Zhou: Buy one."
           }
         }
       ]
@@ -462,10 +542,10 @@
       "id": 3,
       "name": {
         "text": "在水果店",
-        "pronunciation": "Zài shuǐguǒdiàn",
+        "pronunciation": "Zài shuǐguǒ diàn",
         "translations": {
           "vi": "Ở cửa hàng trái cây",
-          "en": "In the fruit store"
+          "en": "At the fruit store"
         }
       },
       "sentences": [
@@ -473,16 +553,40 @@
           "text": "周太太：这些水果真新鲜，我们买西瓜还是苹果？",
           "pronunciation": "Zhōu tàitai: Zhèxiē shuǐguǒ zhēn xīnxiān, wǒmen mǎi xīguā háishi píngguǒ?",
           "translations": {
-            "vi": "Bà Châu: Những trái cây này thật tươi, chúng ta mua dưa hấu hay táo?",
-            "en": "Mrs. Zhou: This fruit is so fresh, should we buy watermelon or apples?"
+            "vi": "Châu phu nhân: Những trái cây này tươi thật, chúng ta mua dưa hấu hay táo?",
+            "en": "Mrs. Zhou: These fruits are so fresh, should we buy watermelon or apples?"
           }
         },
         {
           "text": "周明：西瓜吧。你看，这上面写着“西瓜不甜不要钱”。",
-          "pronunciation": "Zhōu Míng: Xīguā ba. Nǐ kàn, zhè shàngmian xiězhe “xīguā bù tián bú yào qián”.",
+          "pronunciation": "Zhōu Míng: Xīguā ba. Nǐ kàn, zhè shàngmian xiězhe “Xīguā bù tián bú yào qián”.",
           "translations": {
-            "vi": "Châu Minh: Dưa hấu đi. Bà xem, trên này ghi là “Dưa hấu không ngọt không lấy tiền”.",
-            "en": "Zhou Ming: Watermelon. Look, it says 'If the watermelon isn't sweet, you don't have to pay' on it."
+            "vi": "Chu Minh: Dưa hấu đi. Em xem, trên này viết \"Dưa hấu không ngọt không lấy tiền\".",
+            "en": "Zhou Ming: Watermelon. Look, it says here \"If the watermelon isn't sweet, you don't pay.\""
+          }
+        },
+        {
+          "text": "周太太：那我们买一个大点儿的吧。",
+          "pronunciation": "Zhōu tàitai: Nà wǒmen mǎi yí ge dà diǎnr de ba.",
+          "translations": {
+            "vi": "Châu phu nhân: Vậy chúng ta mua một quả to hơn chút đi.",
+            "en": "Mrs. Zhou: Then let's buy a bigger one."
+          }
+        },
+        {
+          "text": "周明：再买几个苹果。",
+          "pronunciation": "Zhōu Míng: Zài mǎi jǐ ge píngguǒ.",
+          "translations": {
+            "vi": "Chu Minh: Mua thêm mấy quả táo nữa.",
+            "en": "Zhou Ming: Let's buy a few apples too."
+          }
+        },
+        {
+          "text": "周太太：好啊，今天晚上只吃水果不吃饭！",
+          "pronunciation": "Zhōu tàitai: Hǎo a, jīntiān wǎnshang zhǐ chī shuǐguǒ bù chī fàn!",
+          "translations": {
+            "vi": "Châu phu nhân: Được thôi, tối nay chỉ ăn trái cây không ăn cơm!",
+            "en": "Mrs. Zhou: Okay! Tonight we'll only eat fruit and no dinner!"
           }
         }
       ]
@@ -502,24 +606,40 @@
           "text": "小丽：桌子上放着很多饮料，你喝什么？",
           "pronunciation": "Xiǎolì: Zhuōzi shang fàngzhe hěn duō yǐnliào, nǐ hē shénme?",
           "translations": {
-            "vi": "Tiểu Lệ: Trên bàn có đặt rất nhiều đồ uống, anh uống gì?",
-            "en": "Xiaoli: There are many drinks on the table, what would you like to drink?"
+            "vi": "Tiểu Lệ: Trên bàn có rất nhiều đồ uống, anh uống gì?",
+            "en": "Xiaoli: There are many drinks on the table, what do you want?"
           }
         },
         {
           "text": "小刚：茶或者咖啡都可以。你呢？你喝什么？",
           "pronunciation": "Xiǎogāng: Chá huòzhě kāfēi dōu kěyǐ. Nǐ ne? Nǐ hē shénme?",
           "translations": {
-            "vi": "Tiểu Cương: Trà hay cà phê đều được. Còn em? Em uống gì?",
-            "en": "Xiaogang: Either tea or coffee is fine. How about you? What are you drinking?"
+            "vi": "Tiểu Cương: Trà hoặc cà phê đều được. Còn em? Em uống gì?",
+            "en": "Xiaogang: Tea or coffee are both fine. How about you? What are you drinking?"
           }
         },
         {
           "text": "小丽：我喝茶，茶是我的最爱。天冷了或者工作累了的时候，喝杯热茶会很舒服。",
-          "pronunciation": "Xiǎolì: Wǒ hē chá, chá shì wǒ de zuì ài. Tiān lěngle huòzhě gōngzuò lèile de shíhou, hē bēi rè chá huì hěn shūfu.",
+          "pronunciation": "Xiǎolì: Wǒ hē chá, chá shì wǒ de zuì ài. Tiān lěng le huòzhě gōngzuò lèi le de shíhou, hē bēi rè chá huì hěn shūfu.",
           "translations": {
-            "vi": "Tiểu Lệ: Em uống trà, trà là sở thích nhất của em. Khi trời lạnh hoặc khi làm việc mệt mỏi, uống một tách trà nóng sẽ rất dễ chịu.",
-            "en": "Xiaoli: I'm drinking tea; tea is my favorite. When it gets cold or when I'm tired from work, having a cup of hot tea is very comfortable."
+            "vi": "Tiểu Lệ: Em uống trà, trà là thứ em thích nhất. Khi trời lạnh hoặc làm việc mệt, uống một tách trà nóng sẽ rất dễ chịu.",
+            "en": "Xiaoli: I'll drink tea, tea is my favorite. When it's cold or I'm tired from work, a cup of hot tea feels very comfortable."
+          }
+        },
+        {
+          "text": "小刚：你喜欢喝什么茶？",
+          "pronunciation": "Xiǎogāng: Nǐ xǐhuan hē shénme chá?",
+          "translations": {
+            "vi": "Tiểu Cương: Em thích uống trà gì?",
+            "en": "Xiaogang: What kind of tea do you like?"
+          }
+        },
+        {
+          "text": "小丽：花茶、绿茶、红茶，我都喜欢。",
+          "pronunciation": "Xiǎolì: Huāchá, lǜchá, hóngchá, wǒ dōu xǐhuan.",
+          "translations": {
+            "vi": "Tiểu Lệ: Trà hoa, trà xanh, hồng trà, em đều thích.",
+            "en": "Xiaoli: Flower tea, green tea, black tea, I like them all."
           }
         }
       ]

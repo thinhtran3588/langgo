@@ -100,6 +100,7 @@ const LevelOverviewTabs = ({
   const [isLoading, setIsLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | undefined>(undefined);
   const [selectedLessonIds, setSelectedLessonIds] = useState<string[]>([]);
+  const [isLessonPickerOpen, setIsLessonPickerOpen] = useState(true);
 
   useEffect(() => {
     let cancelled = false;
@@ -483,34 +484,63 @@ const LevelOverviewTabs = ({
   const gamesContent = (
     <div className="space-y-4">
       <div className="rounded-2xl border border-zinc-200 bg-white p-4 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
-        <p className="text-sm font-semibold text-zinc-900 dark:text-zinc-100">
-          <TranslatedText
-            id="level.selectLessons"
-            fallback="Select lessons for games"
-          />
-        </p>
-        <div className="mt-3 grid gap-2 sm:grid-cols-2">
-          {lessons.map((lesson) => {
-            const isChecked = selectedLessonSet.has(lesson.id);
-            return (
-              <label
-                key={lesson.id}
-                className="flex items-center gap-2 rounded-xl border border-zinc-200 px-3 py-2 text-sm text-zinc-700 transition hover:border-zinc-300 dark:border-zinc-800 dark:text-zinc-200 dark:hover:border-zinc-700"
-              >
-                <input
-                  type="checkbox"
-                  checked={isChecked}
-                  onChange={() => toggleLessonSelection(lesson.id)}
-                  className="h-4 w-4 rounded border-zinc-300 text-zinc-900"
-                />
-                <LocalizedText
-                  translations={lesson.label.translations}
-                  fallback={lesson.label.text}
-                />
-              </label>
-            );
-          })}
+        <div className="flex items-center justify-between gap-3">
+          <p className="text-sm font-semibold text-zinc-900 dark:text-zinc-100">
+            <TranslatedText
+              id="level.selectLessons"
+              fallback="Select lessons for games"
+            />
+          </p>
+          <button
+            type="button"
+            onClick={() => setIsLessonPickerOpen((open) => !open)}
+            aria-label={
+              isLessonPickerOpen
+                ? 'Collapse lesson selection'
+                : 'Expand lesson selection'
+            }
+            className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-zinc-200 text-zinc-500 transition hover:border-zinc-300 hover:text-zinc-700 dark:border-zinc-800 dark:text-zinc-300 dark:hover:border-zinc-700 dark:hover:text-zinc-100"
+          >
+            <svg
+              aria-hidden="true"
+              viewBox="0 0 20 20"
+              className={`h-4 w-4 transition ${
+                isLessonPickerOpen ? 'rotate-180' : ''
+              }`}
+              fill="currentColor"
+            >
+              <path
+                fillRule="evenodd"
+                d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.17l3.71-3.94a.75.75 0 1 1 1.08 1.04l-4.25 4.5a.75.75 0 0 1-1.08 0l-4.25-4.5a.75.75 0 0 1 .02-1.06Z"
+                clipRule="evenodd"
+              />
+            </svg>
+          </button>
         </div>
+        {isLessonPickerOpen ? (
+          <div className="mt-3 grid gap-2 sm:grid-cols-2">
+            {lessons.map((lesson) => {
+              const isChecked = selectedLessonSet.has(lesson.id);
+              return (
+                <label
+                  key={lesson.id}
+                  className="flex items-center gap-2 rounded-xl border border-zinc-200 px-3 py-2 text-sm text-zinc-700 transition hover:border-zinc-300 dark:border-zinc-800 dark:text-zinc-200 dark:hover:border-zinc-700"
+                >
+                  <input
+                    type="checkbox"
+                    checked={isChecked}
+                    onChange={() => toggleLessonSelection(lesson.id)}
+                    className="h-4 w-4 rounded border-zinc-300 text-zinc-900"
+                  />
+                  <LocalizedText
+                    translations={lesson.label.translations}
+                    fallback={lesson.label.text}
+                  />
+                </label>
+              );
+            })}
+          </div>
+        ) : undefined}
       </div>
       <GamesTab
         words={selectedWords}

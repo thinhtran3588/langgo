@@ -1,27 +1,27 @@
 {
   "title": {
-    "text": "她总是笑着跟客人说话",
-    "pronunciation": "Tā zǒngshì xiàozhe gēn kèrén shuōhuà",
+    "text": "她总是笑着跟客人说话。",
+    "pronunciation": "Tā zǒngshì xiàozhe gēn kèrén shuōhuà.",
     "translations": {
-      "vi": "Cô ấy luôn cười khi nói chuyện với khách hàng",
-      "en": "She always smiles when talking to customers"
+      "vi": "Cô ấy luôn cười khi nói chuyện với khách hàng.",
+      "en": "She always smiles when talking to guests."
     }
   },
   "newWords": [
     {
       "word": "比赛",
-      "type": "danh từ/động từ",
+      "type": "danh từ",
       "pronunciation": "bǐsài",
       "translations": {
-        "vi": "cuộc thi đấu, trận đấu",
-        "en": "match, competition"
+        "vi": "cuộc thi đấu",
+        "en": "match; competition"
       },
       "example": {
-        "text": "你听，是不是要有比赛了？",
-        "pronunciation": "Nǐ tīng, shì bushì yào yǒu bǐsài le?",
+        "text": "这是你们比赛的照片吗？",
+        "pronunciation": "Zhè shì nǐmen bǐsài de zhàopiàn ma?",
         "translations": {
-          "vi": "Bạn nghe xem, có phải sắp có cuộc thi đấu không?",
-          "en": "Listen, is there going to be a match?"
+          "vi": "Đây là ảnh thi đấu của các bạn à?",
+          "en": "Is this the photo of your competition?"
         }
       }
     },
@@ -34,11 +34,11 @@
         "en": "photo"
       },
       "example": {
-        "text": "这是你小时候的照片吗？",
-        "pronunciation": "Zhè shì nǐ xiǎoshíhou de zhàopiàn ma?",
+        "text": "这是你们比赛的照片吗？",
+        "pronunciation": "Zhè shì nǐmen bǐsài de zhàopiàn ma?",
         "translations": {
-          "vi": "Đây là ảnh hồi nhỏ của bạn à?",
-          "en": "Is this a photo of you when you were a child?"
+          "vi": "Đây là ảnh thi đấu của các bạn à?",
+          "en": "Is this the photo of your competition?"
         }
       }
     },
@@ -47,15 +47,15 @@
       "type": "danh từ",
       "pronunciation": "niánjí",
       "translations": {
-        "vi": "lớp, khối lớp",
+        "vi": "lớp (năm thứ...)",
         "en": "grade"
       },
       "example": {
-        "text": "谁是那个年级的学生？",
-        "pronunciation": "Shéi shì nàge niánjí de xuésheng?",
+        "text": "你们都是一个年级的吗？",
+        "pronunciation": "Nǐmen dōu shì yí ge niánjí de ma?",
         "translations": {
-          "vi": "Ai là học sinh của khối lớp đó?",
-          "en": "Who is the student of that grade?"
+          "vi": "Các bạn đều cùng một khóa à?",
+          "en": "Are you all in the same grade?"
         }
       }
     },
@@ -64,15 +64,15 @@
       "type": "phó từ",
       "pronunciation": "yòu",
       "translations": {
-        "vi": "vừa... vừa...",
-        "en": "both... and..."
+        "vi": "vừa... (lại)...",
+        "en": "and; also (used for two qualities)"
       },
       "example": {
-        "text": "那个女孩子又聪明又热情。",
-        "pronunciation": "Nàge nǚ háizi yòu cōngming yòu rèqíng.",
+        "text": "那个又高又漂亮的女孩儿是二年级的。",
+        "pronunciation": "Nàge yòu gāo yòu piàoliang de nǚháir shì èrniánjí de.",
         "translations": {
-          "vi": "Cô gái đó vừa thông minh vừa nhiệt tình.",
-          "en": "That girl is both smart and enthusiastic."
+          "vi": "Cô gái vừa cao vừa xinh đẹp kia là sinh viên năm hai.",
+          "en": "That tall and pretty girl is in the second grade."
         }
       }
     },
@@ -82,14 +82,14 @@
       "pronunciation": "cōngming",
       "translations": {
         "vi": "thông minh",
-        "en": "smart, clever"
+        "en": "smart; clever"
       },
       "example": {
-        "text": "大家都说他很聪明。",
-        "pronunciation": "Dàjiā dōu shuō tā hěn cōngming.",
+        "text": "她又聪明又热情。",
+        "pronunciation": "Tā yòu cōngming yòu rèqíng.",
         "translations": {
-          "vi": "Mọi người đều nói anh ấy rất thông minh.",
-          "en": "Everyone says he is very smart."
+          "vi": "Cô ấy vừa thông minh vừa nhiệt tình.",
+          "en": "She is both smart and enthusiastic."
         }
       }
     },
@@ -102,11 +102,11 @@
         "en": "enthusiastic"
       },
       "example": {
-        "text": "他是个很热情的人。",
-        "pronunciation": "Tā shì gè hěn rèqíng de rén.",
+        "text": "她又聪明又热情。",
+        "pronunciation": "Tā yòu cōngming yòu rèqíng.",
         "translations": {
-          "vi": "Anh ấy là một người rất nhiệt tình.",
-          "en": "He is a very enthusiastic person."
+          "vi": "Cô ấy vừa thông minh vừa nhiệt tình.",
+          "en": "She is both smart and enthusiastic."
         }
       }
     },
@@ -115,15 +115,15 @@
       "type": "tính từ",
       "pronunciation": "nǔlì",
       "translations": {
-        "vi": "chăm chỉ, nỗ lực",
-        "en": "hard-working"
+        "vi": "hăng hái, tích cực làm việc, nỗ lực",
+        "en": "hardworking"
       },
       "example": {
-        "text": "我们要努力学习。",
-        "pronunciation": "Wǒmen yào nǔlì xuéxí.",
+        "text": "她又聪明又热情，也很努力。",
+        "pronunciation": "Tā yòu cōngming yòu rèqíng, yě hěn nǔlì.",
         "translations": {
-          "vi": "Chúng ta phải chăm chỉ học tập.",
-          "en": "We must study hard."
+          "vi": "Cô ấy vừa thông minh vừa nhiệt tình, cũng rất nỗ lực.",
+          "en": "She is smart, enthusiastic, and also very hardworking."
         }
       }
     },
@@ -136,11 +136,11 @@
         "en": "always"
       },
       "example": {
-        "text": "她总是笑着跟客人说话。",
-        "pronunciation": "Tā zǒngshì xiàozhe gēn kèrén shuōhuà.",
+        "text": "我看她总是笑着回答老师的问题。",
+        "pronunciation": "Wǒ kàn tā zǒngshì xiàozhe huídá lǎoshī de wèntí.",
         "translations": {
-          "vi": "Cô ấy luôn luôn mỉm cười nói chuyện với khách.",
-          "en": "She always talks to customers with a smile."
+          "vi": "Tớ thấy cô ấy luôn cười khi trả lời câu hỏi của thầy giáo.",
+          "en": "I see she always smiles when answering the teacher's questions."
         }
       }
     },
@@ -153,11 +153,11 @@
         "en": "to answer"
       },
       "example": {
-        "text": "请回答我的问题。",
-        "pronunciation": "Qǐng huídá wǒ de wèntí.",
+        "text": "我看她总是笑着回答老师的问题。",
+        "pronunciation": "Wǒ kàn tā zǒngshì xiàozhe huídá lǎoshī de wèntí.",
         "translations": {
-          "vi": "Vui lòng trả lời câu hỏi của tôi.",
-          "en": "Please answer my question."
+          "vi": "Tớ thấy cô ấy luôn cười khi trả lời câu hỏi của thầy giáo.",
+          "en": "I see she always smiles when answering the teacher's questions."
         }
       }
     },
@@ -170,11 +170,11 @@
         "en": "to stand"
       },
       "example": {
-        "text": "他们在那儿站着呢。",
-        "pronunciation": "Tāmen zài nàr zhànzhe ne.",
+        "text": "你看那些拿着鲜花站在门口的，都是等她的。",
+        "pronunciation": "Nǐ kàn nàxiē názhe xiānhuā zhàn zài ménkǒu de, dōu shì děng tā de.",
         "translations": {
-          "vi": "Họ đang đứng ở đằng kia.",
-          "en": "They are standing over there."
+          "vi": "Cậu nhìn những người cầm hoa tươi đứng ở cửa kia, đều là đợi cô ấy đấy.",
+          "en": "Look at those people standing at the door holding flowers, they are all waiting for her."
         }
       }
     },
@@ -190,8 +190,8 @@
         "text": "我有点儿饿了。",
         "pronunciation": "Wǒ yǒudiǎnr è le.",
         "translations": {
-          "vi": "Tôi hơi đói rồi.",
-          "en": "I'm a bit hungry."
+          "vi": "Anh hơi đói rồi.",
+          "en": "I'm a little hungry."
         }
       }
     },
@@ -204,11 +204,11 @@
         "en": "supermarket"
       },
       "example": {
-        "text": "我们要去超市买点儿东西。",
-        "pronunciation": "Wǒmen yào qù chāoshì mǎi diǎnr dōngxi.",
+        "text": "我们进超市买点儿东西吧。",
+        "pronunciation": "Wǒmen jìn chāoshì mǎi diǎnr dōngxi ba.",
         "translations": {
-          "vi": "Chúng ta định đi siêu thị mua ít đồ.",
-          "en": "We are going to the supermarket to buy some things."
+          "vi": "Chúng ta vào siêu thị mua chút đồ đi.",
+          "en": "Let's go into the supermarket to buy something."
         }
       }
     },
@@ -217,15 +217,15 @@
       "type": "danh từ",
       "pronunciation": "dàngāo",
       "translations": {
-        "vi": "bánh kem, bánh ngọt",
+        "vi": "bánh kem, bánh gato",
         "en": "cake"
       },
       "example": {
-        "text": "我想买个蛋糕。",
-        "pronunciation": "Wǒ xiǎng mǎi gè dàngāo.",
+        "text": "这家超市的蛋糕又便宜又好吃。",
+        "pronunciation": "Zhè jiā chāoshì de dàngāo yòu piányi yòu hǎochī.",
         "translations": {
-          "vi": "Tôi muốn mua một chiếc bánh kem.",
-          "en": "I want to buy a cake."
+          "vi": "Bánh kem của siêu thị này vừa rẻ vừa ngon.",
+          "en": "The cakes in this supermarket are both cheap and delicious."
         }
       }
     },
@@ -234,15 +234,15 @@
       "type": "tính từ",
       "pronunciation": "niánqīng",
       "translations": {
-        "vi": "trẻ trung",
+        "vi": "trẻ tuổi",
         "en": "young"
       },
       "example": {
-        "text": "他看起来很年轻。",
-        "pronunciation": "Tā kàn qǐlái hěn niánqīng.",
+        "text": "我们这儿年轻、漂亮的服务员有很多。",
+        "pronunciation": "Wǒmen zhèr niánqīng, piàoliang de fúwùyuán yǒu hěn duō.",
         "translations": {
-          "vi": "Anh ấy trông rất trẻ.",
-          "en": "He looks very young."
+          "vi": "Ở chỗ chúng tôi có rất nhiều nhân viên phục vụ trẻ đẹp.",
+          "en": "We have many young and pretty waitresses here."
         }
       }
     },
@@ -252,14 +252,14 @@
       "pronunciation": "rènzhēn",
       "translations": {
         "vi": "nghiêm túc, chăm chỉ",
-        "en": "serious, conscientious"
+        "en": "serious; earnest"
       },
       "example": {
-        "text": "他学习非常认真。",
-        "pronunciation": "Tā xuéxí fēicháng rènzhēn.",
+        "text": "她工作又认真又热情。",
+        "pronunciation": "Tā gōngzuò yòu rènzhēn yòu rèqíng.",
         "translations": {
-          "vi": "Anh ấy học tập vô cùng chăm chỉ.",
-          "en": "He studies very seriously."
+          "vi": "Cô ấy làm việc vừa chăm chỉ vừa nhiệt tình.",
+          "en": "She is both serious and enthusiastic in her work."
         }
       }
     },
@@ -269,14 +269,14 @@
       "pronunciation": "kèrén",
       "translations": {
         "vi": "khách, khách hàng",
-        "en": "customer, guest"
+        "en": "guest; customer"
       },
       "example": {
-        "text": "家里来了几个客人。",
-        "pronunciation": "Jiālǐ láile jǐ gè kèrén.",
+        "text": "她总是笑着跟客人说话。",
+        "pronunciation": "Tā zǒngshì xiàozhe gēn kèrén shuōhuà.",
         "translations": {
-          "vi": "Trong nhà có mấy vị khách đến.",
-          "en": "Several guests came to the house."
+          "vi": "Cô ấy luôn cười khi nói chuyện với khách hàng.",
+          "en": "She always smiles when talking to customers."
         }
       }
     }
@@ -285,8 +285,8 @@
     {
       "grammar": "又……又……",
       "descriptions": {
-        "vi": "Cấu trúc **“又……又……”** được dùng để nối hai tính từ hoặc động từ nhằm chỉ hai đặc điểm hoặc hành động cùng tồn tại ở một đối tượng. Thông thường, hai thành phần này phải cùng mang nghĩa tích cực hoặc cùng mang nghĩa tiêu cực.",
-        "en": "Cấu trúc **“又……又……”** được dùng để nối hai tính từ hoặc động từ nhằm chỉ hai đặc điểm hoặc hành động cùng tồn tại ở một đối tượng. Thông thường, hai thành phần này phải cùng mang nghĩa tích cực hoặc cùng mang nghĩa tiêu cực."
+        "vi": "Cấu trúc \"又 + tính từ 1 + 又 + tính từ 2\" được dùng để nói về hai đặc điểm cùng tồn tại ở một người hay sự vật, chẳng hạn \"又高又漂亮\" diễn tả rằng người nào đó cao và rất đẹp.",
+        "en": "The structure \"又 + Adjective 1 + 又 + Adjective 2\" describes a person or thing having two qualities simultaneously. For example, \"又高又漂亮\" means someone is both tall and pretty."
       },
       "examples": [
         {
@@ -298,36 +298,52 @@
           }
         },
         {
-          "text": "外边又冷又刮风。",
-          "pronunciation": "Wàibian yòu lěng yòu guā fēng.",
+          "text": "外边又黑又冷。",
+          "pronunciation": "Wàibian yòu hēi yòu lěng.",
           "translations": {
-            "vi": "Bên ngoài vừa lạnh lại vừa có gió.",
-            "en": "It's cold and windy outside."
+            "vi": "Bên ngoài vừa tối vừa lạnh.",
+            "en": "It is both dark and cold outside."
           }
         },
         {
-          "text": "那个女孩子又聪明又热情。",
-          "pronunciation": "Nàge nǚ háizi yòu cōngming yòu rèqíng.",
+          "text": "服务员又年轻又漂亮。",
+          "pronunciation": "Fúwùyuán yòu niánqīng yòu piàoliang.",
           "translations": {
-            "vi": "Cô gái đó vừa thông minh vừa nhiệt tình.",
-            "en": "That girl is both smart and enthusiastic."
+            "vi": "Người phục vụ vừa trẻ vừa xinh đẹp.",
+            "en": "The waitress is both young and beautiful."
+          }
+        },
+        {
+          "text": "她工作又认真又热情。",
+          "pronunciation": "Tā gōngzuò yòu rènzhēn yòu rèqíng.",
+          "translations": {
+            "vi": "Cô ấy làm việc vừa chăm chỉ vừa nhiệt tình.",
+            "en": "She works seriously and enthusiastically."
           }
         }
       ]
     },
     {
-      "grammar": "动词1 + 着 + 动词2",
+      "grammar": "动作的伴随：动词1着（宾语1）+动词2（宾语2）",
       "descriptions": {
-        "vi": "Cấu trúc này dùng để diễn tả hai hành động xảy ra cùng lúc, trong đó hành động 1 (kèm với **着**) chỉ trạng thái hoặc cách thức thực hiện hành động 2.",
-        "en": "Cấu trúc này dùng để diễn tả hai hành động xảy ra cùng lúc, trong đó hành động 1 (kèm với **着**) chỉ trạng thái hoặc cách thức thực hiện hành động 2."
+        "vi": "Cấu trúc \"động từ 1 + 着 (+ tân ngữ 1) + động từ 2 (+ tân ngữ 2)\" được dùng để diễn tả hai hành động xảy ra cùng lúc, trong đó hành động thứ nhất là hành động đi kèm hoặc cho biết phương thức thực hiện hành động thứ hai.",
+        "en": "The structure \"V1 + 着 (+ Obj1) + V2 (+ Obj2)\" indicates two actions happening simultaneously. V1 indicates the accompanying state or the manner of V2."
       },
       "examples": [
         {
-          "text": "他们站着说话。",
-          "pronunciation": "Tāmen zhànzhe shuōhuà.",
+          "text": "弟弟吃着苹果写作业。",
+          "pronunciation": "Dìdi chīzhe píngguǒ xiě zuòyè.",
           "translations": {
-            "vi": "Họ đứng nói chuyện (Nói chuyện trong trạng thái đứng).",
-            "en": "They are talking while standing."
+            "vi": "Em trai vừa ăn táo vừa làm bài tập.",
+            "en": "My younger brother does homework while eating an apple."
+          }
+        },
+        {
+          "text": "周先生和周太太坐着看电视。",
+          "pronunciation": "Zhōu xiānsheng hé Zhōu tàitai zuòzhe kàn diànshì.",
+          "translations": {
+            "vi": "Ông Chu và bà Chu ngồi xem ti vi.",
+            "en": "Mr. and Mrs. Zhou sit watching TV."
           }
         },
         {
@@ -342,8 +358,8 @@
           "text": "她总是笑着跟客人说话。",
           "pronunciation": "Tā zǒngshì xiàozhe gēn kèrén shuōhuà.",
           "translations": {
-            "vi": "Cô ấy luôn mỉm cười khi nói chuyện với khách.",
-            "en": "She always talks to customers with a smile."
+            "vi": "Cô ấy luôn cười khi nói chuyện với khách hàng.",
+            "en": "She always smiles when talking to customers."
           }
         }
       ]
@@ -362,35 +378,51 @@
       },
       "sentences": [
         {
-          "text": "小明：你听，是不是要有比赛了？",
-          "pronunciation": "Xiǎomíng: Nǐ tīng, shì bushì yào yǒu bǐsài le?",
+          "text": "小明：这是你们比赛的照片吗？",
+          "pronunciation": "Xiǎomíng: Zhè shì nǐmen bǐsài de zhàopiàn ma?",
           "translations": {
-            "vi": "Tiểu Minh: Bạn nghe xem, có phải sắp có cuộc thi đấu không?",
-            "en": "Xiaoming: Listen, is there going to be a match?"
+            "vi": "Tiểu Minh: Đây là ảnh thi đấu của các bạn à?",
+            "en": "Xiaoming: Is this the photo of your competition?"
           }
         },
         {
-          "text": "小方：是，我们要跟一年级的学生比赛。那是周经理的儿子。",
-          "pronunciation": "Xiǎofāng: Shì, wǒmen yào gēn yī niánjí de xuésheng bǐsài. Nà shì Zhōu jīnglǐ de érzi.",
+          "text": "马可：是，这是我们比赛后照的。",
+          "pronunciation": "Mǎkě: Shì, zhè shì wǒmen bǐsài hòu zhào de.",
           "translations": {
-            "vi": "Tiểu Phương: Đúng vậy, chúng ta sẽ thi đấu với học sinh khối lớp 1. Đó là con trai của giám đốc Châu.",
-            "en": "Xiaofang: Yes, we are going to play against the first-grade students. That's Manager Zhou's son."
+            "vi": "Marco: Đúng vậy, đây là ảnh chúng tôi chụp sau khi thi đấu.",
+            "en": "Marco: Yes, this was taken after our competition."
           }
         },
         {
-          "text": "小明：他在哪个年级？",
-          "pronunciation": "Xiǎomíng: Tā zài nǎge niánjí?",
+          "text": "小明：照得不错，你们都是一个年级的吗？",
+          "pronunciation": "Xiǎomíng: Zhào de búcuò, nǐmen dōu shì yí ge niánjí de ma?",
           "translations": {
-            "vi": "Tiểu Minh: Cậu ấy học khối lớp mấy?",
-            "en": "Xiaoming: Which grade is he in?"
+            "vi": "Tiểu Minh: Chụp đẹp đấy, các bạn đều cùng một khóa à?",
+            "en": "Xiaoming: Nice photo. Are you all in the same grade?"
           }
         },
         {
-          "text": "小方：他在三年级。",
-          "pronunciation": "Xiǎofāng: Tā zài sān niánjí.",
+          "text": "马可：不是。那个又高又漂亮的女孩儿是二年级的。",
+          "pronunciation": "Mǎkě: Bú shì. Nàge yòu gāo yòu piàoliang de nǚháir shì èrniánjí de.",
           "translations": {
-            "vi": "Tiểu Phương: Cậu ấy học khối lớp 3.",
-            "en": "Xiaofang: He is in the third grade."
+            "vi": "Marco: Không phải. Cô gái vừa cao vừa xinh đẹp kia là sinh viên năm hai.",
+            "en": "Marco: No. That tall and pretty girl is in the second grade."
+          }
+        },
+        {
+          "text": "小明：旁边那个拿着书笑的人是谁？",
+          "pronunciation": "Xiǎomíng: Pángbiān nàge názhe shū xiào de rén shì shéi?",
+          "translations": {
+            "vi": "Tiểu Minh: Người cầm sách cười ở bên cạnh là ai vậy?",
+            "en": "Xiaoming: Who is that person next to her holding a book and smiling?"
+          }
+        },
+        {
+          "text": "马可：那是我！",
+          "pronunciation": "Mǎkě: Nà shì wǒ!",
+          "translations": {
+            "vi": "Marco: Đó là tớ!",
+            "en": "Marco: That's me!"
           }
         }
       ]
@@ -398,44 +430,60 @@
     {
       "id": 2,
       "name": {
-        "text": "在看照片",
-        "pronunciation": "Zài kàn zhàopiàn",
+        "text": "在教室",
+        "pronunciation": "Zài jiàoshì",
         "translations": {
-          "vi": "Đang xem ảnh",
-          "en": "Looking at photos"
+          "vi": "Trong lớp học",
+          "en": "In the classroom"
         }
       },
       "sentences": [
         {
-          "text": "小丽：这张照片是你拍的吗？真漂亮！",
-          "pronunciation": "Xiǎolì: Zhè zhāng zhàopiàn shì nǐ pāi de ma? Zhēn piàoliang!",
+          "text": "小丽：你觉得小红怎么样？",
+          "pronunciation": "Xiǎolì: Nǐ juéde Xiǎohóng zěnmeyàng?",
           "translations": {
-            "vi": "Tiểu Lệ: Bức ảnh này là do anh chụp à? Thật là đẹp!",
-            "en": "Xiaoli: Did you take this photo? It's so beautiful!"
+            "vi": "Tiểu Lệ: Cậu thấy Tiểu Hồng thế nào?",
+            "en": "Xiaoli: What do you think of Xiaohong?"
           }
         },
         {
-          "text": "小刚：是。那是去年夏天在南方旅游时拍的。",
-          "pronunciation": "Xiǎogāng: Shì. Nà shì qùnián xiàtiān zài nánfāng lǚyóu shí pāi de.",
+          "text": "同学：她又聪明又热情，也很努力。",
+          "pronunciation": "Tóngxué: Tā yòu cōngming yòu rèqíng, yě hěn nǔlì.",
           "translations": {
-            "vi": "Tiểu Cương: Đúng vậy. Đó là ảnh chụp khi đi du lịch miền Nam vào mùa hè năm ngoái.",
-            "en": "Xiaogang: Yes. That was taken when traveling in the south last summer."
+            "vi": "Bạn học: Cô ấy vừa thông minh vừa nhiệt tình, cũng rất nỗ lực.",
+            "en": "Classmate: She is smart, enthusiastic, and hardworking."
           }
         },
         {
-          "text": "小丽：那个女孩子是你妹妹吗？",
-          "pronunciation": "Xiǎolì: Nàge nǚ háizi shì nǐ mèimei ma?",
+          "text": "小丽：我看她总是笑着回答老师的问题。",
+          "pronunciation": "Xiǎolì: Wǒ kàn tā zǒngshì xiàozhe huídá lǎoshī de wèntí.",
           "translations": {
-            "vi": "Tiểu Lệ: Cô gái đó là em gái anh à?",
-            "en": "Xiaoli: Is that girl your younger sister?"
+            "vi": "Tiểu Lệ: Tớ thấy cô ấy luôn cười khi trả lời câu hỏi của thầy giáo.",
+            "en": "Xiaoli: I notice she always smiles when answering the teacher's questions."
           }
         },
         {
-          "text": "小刚：是。她又聪明又热情，大家都喜欢她。",
-          "pronunciation": "Xiǎogāng: Shì. Tā yòu cōngming yòu rèqíng, dàjiā dōu xǐhuan tā.",
+          "text": "同学：她对每个人都笑，也常常对我笑。",
+          "pronunciation": "Tóngxué: Tā duì měi gè rén dōu xiào, yě chángcháng duì wǒ xiào.",
           "translations": {
-            "vi": "Tiểu Cương: Đúng thế. Cô ấy vừa thông minh vừa nhiệt tình, mọi người đều yêu quý cô ấy.",
-            "en": "Xiaogang: Yes. She is smart and enthusiastic; everyone likes her."
+            "vi": "Bạn học: Cô ấy cười với tất cả mọi người, cũng thường cười với tớ.",
+            "en": "Classmate: She smiles at everyone, and often smiles at me too."
+          }
+        },
+        {
+          "text": "小丽：你是不是喜欢她啊？",
+          "pronunciation": "Xiǎolì: Nǐ shì bu shì xǐhuan tā a?",
+          "translations": {
+            "vi": "Tiểu Lệ: Có phải cậu thích cô ấy không?",
+            "en": "Xiaoli: Do you like her?"
+          }
+        },
+        {
+          "text": "同学：喜欢她的人太多了，你看那些拿着鲜花站在门口的，都是等她的。",
+          "pronunciation": "Tóngxué: Xǐhuan tā de rén tài duō le, nǐ kàn nàxiē názhe xiānhuā zhàn zài ménkǒu de, dōu shì děng tā de.",
+          "translations": {
+            "vi": "Bạn học: Người thích cô ấy nhiều lắm, cậu nhìn những người cầm hoa tươi đứng ở cửa kia, đều là đợi cô ấy đấy.",
+            "en": "Classmate: Too many people like her. Look at those people holding flowers standing at the door, they are all waiting for her."
           }
         }
       ]
@@ -443,44 +491,52 @@
     {
       "id": 3,
       "name": {
-        "text": "在超市门外",
-        "pronunciation": "Zài chāoshì mén wài",
+        "text": "在超市门口",
+        "pronunciation": "Zài chāoshì ménkǒu",
         "translations": {
-          "vi": "Bên ngoài cửa siêu thị",
-          "en": "Outside the supermarket"
+          "vi": "Ở trước cửa siêu thị",
+          "en": "At the supermarket entrance"
         }
       },
       "sentences": [
         {
-          "text": "小刚：我有点儿饿了。我们要去超市买点儿东西吗？",
-          "pronunciation": "Xiǎogāng: Wǒ yǒudiǎnr è le. Wǒmen yào qù chāoshì mǎi diǎnr dōngxi ma?",
+          "text": "小刚：我有点儿饿了，我们进超市买点儿东西吧。",
+          "pronunciation": "Xiǎogāng: Wǒ yǒudiǎnr è le, wǒmen jìn chāoshì mǎi diǎnr dōngxi ba.",
           "translations": {
-            "vi": "Tiểu Cương: Anh hơi đói rồi. Chúng mình vào siêu thị mua ít đồ nhé?",
-            "en": "Xiaogang: I'm a bit hungry. Shall we go to the supermarket to buy something?"
+            "vi": "Tiểu Cương: Anh hơi đói rồi, chúng ta vào siêu thị mua chút đồ đi.",
+            "en": "Xiaogang: I'm a little hungry, let's go into the supermarket and buy something."
           }
         },
         {
-          "text": "小丽：好。超市就在前面。你看，那儿站着很多人。",
-          "pronunciation": "Xiǎolì: Hǎo. Chāoshì jiù zài qiánmiàn. Nǐ kàn, nàr zhànzhe hěn duō rén.",
+          "text": "小丽：好啊，这家超市的蛋糕又便宜又好吃，一块只要2.99元。",
+          "pronunciation": "Xiǎolì: Hǎo a, zhè jiā chāoshì de dàngāo yòu piányi yòu hǎochī, yí kuài zhǐ yào èr diǎn jiǔ jiǔ yuán.",
           "translations": {
-            "vi": "Tiểu Lệ: Được. Siêu thị ngay phía trước thôi. Anh nhìn kìa, đằng kia có rất nhiều người đang đứng.",
-            "en": "Xiaoli: Okay. The supermarket is right ahead. Look, there are many people standing there."
+            "vi": "Tiểu Lệ: Được thôi, bánh kem của siêu thị này vừa rẻ vừa ngon, một miếng chỉ 2.99 tệ.",
+            "en": "Xiaoli: Okay, the cake at this supermarket is both cheap and delicious, only 2.99 yuan a piece."
           }
         },
         {
-          "text": "小刚：他们在做什么呢？",
-          "pronunciation": "Xiǎogāng: Tāmen zài zuò shénme ne?",
+          "text": "小刚：我们买两块儿，回家吃着蛋糕看电视，怎么样？",
+          "pronunciation": "Xiǎogāng: Wǒmen mǎi liǎng kuàir, huí jiā chīzhe dàngāo kàn diànshì, zěnmeyàng?",
           "translations": {
-            "vi": "Tiểu Cương: Họ đang làm gì vậy?",
-            "en": "Xiaogang: What are they doing?"
+            "vi": "Tiểu Cương: Chúng ta mua hai miếng, về nhà vừa ăn bánh kem vừa xem ti vi, thế nào?",
+            "en": "Xiaogang: Let's buy two pieces, go home and eat cake while watching TV, how about that?"
           }
         },
         {
-          "text": "小丽：他们在买蛋糕呢。那儿的蛋糕又好吃又便宜。",
-          "pronunciation": "Xiǎolì: Tāmen zài mǎi dàngāo ne. Nàr de dàngāo yòu hǎochī yòu piányi.",
+          "text": "小丽：好啊，我再去买一些喝的。",
+          "pronunciation": "Xiǎolì: Hǎo a, wǒ zài qù mǎi yìxiē hē de.",
           "translations": {
-            "vi": "Tiểu Lệ: Họ đang mua bánh kem đấy. Bánh ở đó vừa ngon vừa rẻ.",
-            "en": "Xiaoli: They are buying cakes. The cakes there are both delicious and cheap."
+            "vi": "Tiểu Lệ: Được, em đi mua thêm ít đồ uống.",
+            "en": "Xiaoli: Okay, I'll go buy some drinks too."
+          }
+        },
+        {
+          "text": "小刚：喝着咖啡吃蛋糕，太好了！",
+          "pronunciation": "Xiǎogāng: Hēzhe kāfēi chī dàngāo, tài hǎo le!",
+          "translations": {
+            "vi": "Tiểu Cương: Vừa uống cà phê vừa ăn bánh kem, tuyệt quá!",
+            "en": "Xiaogang: Drinking coffee while eating cake, that's great!"
           }
         }
       ]
@@ -488,44 +544,68 @@
     {
       "id": 4,
       "name": {
-        "text": "在办公室",
-        "pronunciation": "Zài bàngōngshì",
+        "text": "在饭馆儿",
+        "pronunciation": "Zài fànguǎnr",
         "translations": {
-          "vi": "Trong văn phòng",
-          "en": "In the office"
+          "vi": "Ở quán ăn",
+          "en": "At the restaurant"
         }
       },
       "sentences": [
         {
-          "text": "同事：那个漂亮的女孩子是谁？",
-          "pronunciation": "Tóngshì: Nàge piàoliang de nǚ háizi shì shéi?",
+          "text": "经理：您好！您找谁？",
+          "pronunciation": "Jīnglǐ: Nín hǎo! Nín zhǎo shéi?",
           "translations": {
-            "vi": "Đồng nghiệp: Cô gái xinh đẹp kia là ai vậy?",
-            "en": "Colleague: Who is that beautiful girl?"
+            "vi": "Giám đốc: Xin chào! Ông tìm ai?",
+            "en": "Manager: Hello! Who are you looking for?"
           }
         },
         {
-          "text": "经理：那是新来的同事，叫李小美。",
-          "pronunciation": "Jīnglǐ: Nà shì xīn lái de tóngshì, jiào Lǐ Xiǎoměi.",
+          "text": "客人：你们这儿是不是有一个又年轻又漂亮的服务员？",
+          "pronunciation": "Kèrén: Nǐmen zhèr shì bu shì yǒu yí ge yòu niánqīng yòu piàoliang de fúwùyuán?",
           "translations": {
-            "vi": "Giám đốc: Đó là đồng nghiệp mới đến, tên là Lý Tiểu Mỹ.",
-            "en": "Manager: That's a new colleague named Li Xiaomei."
+            "vi": "Khách hàng: Ở chỗ các ông có phải có một nhân viên phục vụ vừa trẻ vừa xinh đẹp không?",
+            "en": "Customer: Is there a young and beautiful waitress here?"
           }
         },
         {
-          "text": "同事：她又年轻又漂亮，工作还很认真。",
-          "pronunciation": "Tóngshì: Tā yòu niánqīng yòu piàoliang, gōngzuò hái hěn rènzhēn.",
+          "text": "经理：我们这儿年轻、漂亮的服务员有很多。",
+          "pronunciation": "Jīnglǐ: Wǒmen zhèr niánqīng, piàoliang de fúwùyuán yǒu hěn duō.",
           "translations": {
-            "vi": "Đồng nghiệp: Cô ấy vừa trẻ vừa đẹp, làm việc lại rất nghiêm túc.",
-            "en": "Colleague: She is young and beautiful, and she works very seriously."
+            "vi": "Giám đốc: Ở chỗ chúng tôi có rất nhiều nhân viên phục vụ trẻ đẹp.",
+            "en": "Manager: We have many young and pretty waitresses here."
           }
         },
         {
-          "text": "经理：是。她总是笑着跟客人说话。",
-          "pronunciation": "Jīnglǐ: Shì. Tā zǒngshì xiàozhe gēn kèrén shuōhuà.",
+          "text": "客人：她工作又认真又热情。",
+          "pronunciation": "Kèrén: Tā gōngzuò yòu rènzhēn yòu rèqíng.",
           "translations": {
-            "vi": "Giám đốc: Đúng vậy. Cô ấy luôn luôn mỉm cười khi nói chuyện với khách hàng.",
-            "en": "Manager: Yes. She always talks to customers with a smile."
+            "vi": "Khách hàng: Cô ấy làm việc vừa chăm chỉ vừa nhiệt tình.",
+            "en": "Customer: She works seriously and enthusiastically."
+          }
+        },
+        {
+          "text": "经理：您能再说说吗？",
+          "pronunciation": "Jīnglǐ: Nín néng zài shuōshuo ma?",
+          "translations": {
+            "vi": "Giám đốc: Ông có thể nói thêm nữa không?",
+            "en": "Manager: Can you say a bit more?"
+          }
+        },
+        {
+          "text": "客人：她总是笑着跟客人说话。",
+          "pronunciation": "Kèrén: Tā zǒngshì xiàozhe gēn kèrén shuōhuà.",
+          "translations": {
+            "vi": "Khách hàng: Cô ấy luôn cười khi nói chuyện với khách hàng.",
+            "en": "Customer: She always smiles when talking to customers."
+          }
+        },
+        {
+          "text": "经理：啊，我知道了，你说的是李小美吧？",
+          "pronunciation": "Jīnglǐ: À, wǒ zhīdào le, nǐ shuō de shì Lǐ Xiǎoměi ba?",
+          "translations": {
+            "vi": "Giám đốc: À, tôi biết rồi, người ông nói là Lý Tiểu Mỹ phải không?",
+            "en": "Manager: Ah, I know, you are talking about Li Xiaomei, right?"
           }
         }
       ]

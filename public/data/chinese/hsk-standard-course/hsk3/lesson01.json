@@ -268,8 +268,8 @@
     {
       "grammar": "结果补语 “好”",
       "descriptions": {
-        "vi": "Bổ ngữ chỉ kết quả **“好”** được dùng sau động từ để diễn tả hành động được hoàn thành và làm cho người ta cảm thấy hài lòng. Cấu trúc: `Động từ + 好`.",
-        "en": "The resultative complement **“好”** is used after a verb to indicate that an action has been completed and the result is satisfactory. Structure: `Verb + 好`."
+        "vi": "Bổ ngữ chỉ kết quả “好” được dùng sau động từ để diễn tả hành động được hoàn thành và làm cho người ta cảm thấy hài lòng. Ví dụ: \"我吃完了\" chỉ biểu thị hành động đã hoàn thành, còn \"我吃好了\" có nghĩa là không những ăn xong mà còn rất hài lòng về bữa ăn.",
+        "en": "The resultative complement “好” is used after a verb to indicate that an action has been completed and the result is satisfactory. Structure: Verb + 好."
       },
       "examples": [
         {
@@ -309,8 +309,8 @@
     {
       "grammar": "“一……也/都 + 不/没……” 表示否定",
       "descriptions": {
-        "vi": "Cấu trúc này được dùng để diễn tả sự phủ định hoàn toàn.\n1. `一 + Lượng từ + Danh từ + 也/都 + 不/没 + Động từ`\n2. Đôi lúc `一 + Lượng từ` có thể thay bằng `一点儿`: `一点儿 + Danh từ + 也/都 + 不/没 + Động từ`\n3. Khi vị ngữ là tính từ: `一点儿 + 也/都 + 不 + Tính từ`",
-        "en": "This structure is used to express complete negation.\n1. `一 + Measure Word + Noun + 也/都 + 不/没 + Verb`\n2. Sometimes `一 + Measure Word` can be replaced by `一点儿`: `一点儿 + Noun + 也/都 + 不/没 + Verb`\n3. When the predicate is an adjective: `一点儿 + 也/都 + 不 + Adjective`"
+        "vi": "Cấu trúc này được dùng để diễn tả sự phủ định hoàn toàn. \n1. Một + Lượng từ + Danh từ + 也/都 + 不/没 + Động từ.\n2. Có thể thay \"一 + Lượng từ\" bằng \"一点儿\".\n3. Khi vị ngữ là tính từ: 一点儿 + 也/都 + 不 + Tính từ.",
+        "en": "This structure is used to express complete negation. \n1. 一 + Measure Word + Noun + 也/都 + 不/没 + Verb. \n2. Sometimes replaced by 一点儿. \n3. With adjectives: 一点儿 + 也/都 + 不 + Adjective."
       },
       "examples": [
         {
@@ -338,11 +338,27 @@
           }
         },
         {
-          "text": "我一点儿东西也不想吃。",
-          "pronunciation": "Wǒ yìdiǎnr dōngxi yě bù xiǎng chī.",
+          "text": "手机、电脑、地图，一个也不能少（带）。",
+          "pronunciation": "Shǒujī, diànnǎo, dìtú, yí ge yě bù néng shǎo (dài).",
           "translations": {
-            "vi": "Tôi một chút đồ ăn cũng không muốn ăn.",
-            "en": "I don't want to eat anything at all."
+            "vi": "Điện thoại, máy tính, bản đồ, một cái cũng không được thiếu (mang theo).",
+            "en": "Phone, computer, map, not a single one can be missing."
+          }
+        },
+        {
+          "text": "这个星期我很忙，一点儿时间也没有。",
+          "pronunciation": "Zhège xīngqī wǒ hěn máng, yìdiǎnr shíjiān yě méiyǒu.",
+          "translations": {
+            "vi": "Tuần này tôi rất bận, một chút thời gian cũng không có.",
+            "en": "I am very busy this week, I don't have even a little bit of time."
+          }
+        },
+        {
+          "text": "今天早上我一点儿咖啡都没喝。",
+          "pronunciation": "Jīntiān zǎoshang wǒ yìdiǎnr kāfēi dōu méi hē.",
+          "translations": {
+            "vi": "Sáng nay tôi một chút cà phê cũng không uống.",
+            "en": "I didn't drink any coffee at all this morning."
           }
         },
         {
@@ -352,30 +368,38 @@
             "vi": "Anh ấy chẳng mệt chút nào.",
             "en": "He isn't tired at all."
           }
+        },
+        {
+          "text": "你怎么一点儿也不着急？",
+          "pronunciation": "Nǐ zěnme yìdiǎnr yě bù zháojí?",
+          "translations": {
+            "vi": "Sao con một chút cũng không lo lắng thế?",
+            "en": "How are you not worried at all?"
+          }
         }
       ]
     },
     {
       "grammar": "连词 “那”",
       "descriptions": {
-        "vi": "**“那”** được dùng ở đầu câu để chỉ kết quả hay nhận xét dựa vào nội dung được đề cập trước đó (nghĩa là: Vậy thì, thế thì...).",
-        "en": "The conjunction **“那”** is used at the beginning of a sentence to indicate a result or judgment based on the previously mentioned content (meaning: In that case, then...)."
+        "vi": "“那” được dùng ở đầu câu để chỉ kết quả hay nhận xét dựa vào nội dung được đề cập trước đó.",
+        "en": "The conjunction “那” is used at the beginning of a sentence to indicate a result or judgment based on previously mentioned content."
       },
       "examples": [
         {
-          "text": "我不想去看电影，那我也不去了。",
-          "pronunciation": "Wǒ bù xiǎng qù kàn diànyǐng, nà wǒ yě bú qù le.",
+          "text": "A: 我不想去看电影。 B: 那我也不去了。",
+          "pronunciation": "A: Wǒ bù xiǎng qù kàn diànyǐng. B: Nà wǒ yě bú qù le.",
           "translations": {
-            "vi": "Tôi không muốn đi xem phim, thế thì tôi cũng không đi nữa.",
-            "en": "I don't want to go to the movies. In that case, I won't go either."
+            "vi": "A: Tôi không muốn đi xem phim. B: Thế thì tôi cũng không đi nữa.",
+            "en": "A: I don't want to go to the movies. B: In that case, I won't go either."
           }
         },
         {
-          "text": "明天的考试早就复习好了，那也不能一直玩儿啊。",
-          "pronunciation": "Míngtiān de kǎoshì zǎo jiù fùxí hǎo le, nà yě bù néng yìzhí wánr a.",
+          "text": "A: (明天的考试) 我早就复习好了。 B: 那也不能一直玩儿啊。",
+          "pronunciation": "A: (Míngtiān de kǎoshì) Wǒ zǎo jiù fùxí hǎo le. B: Nà yě bù néng yìzhí wánr a.",
           "translations": {
-            "vi": "Kỳ thi ngày mai đã ôn tập xong từ sớm, thế thì cũng không thể chơi suốt được.",
-            "en": "The exam tomorrow was reviewed long ago, but even so, you can't just play all the time."
+            "vi": "A: (Kỳ thi ngày mai) con đã ôn tập xong từ sớm rồi. B: Thế thì cũng không thể chơi suốt được chứ.",
+            "en": "A: I finished reviewing long ago. B: Well, you still can't just play all the time."
           }
         }
       ]
@@ -508,7 +532,7 @@
           }
         },
         {
-          "text": "小刚：我还没想好呢。你觉得哪儿最好玩儿？",
+          "text": "小刚：我还没想好呢. 你觉得哪儿最好玩儿？",
           "pronunciation": "Xiǎogāng: Wǒ hái méi xiǎnghǎo ne. Nǐ juéde nǎr zuì hǎowánr?",
           "translations": {
             "vi": "Tiểu Cương: Tôi vẫn chưa nghĩ xong nữa. Bạn cảm thấy ở đâu vui nhất?",
@@ -580,7 +604,7 @@
           "text": "小刚：我们是去旅游，不是搬家，还是少带一些吧。",
           "pronunciation": "Xiǎogāng: Wǒmen shì qù lǚyóu, bú shì bān jiā, háishi shǎo dài yìxiē ba.",
           "translations": {
-            "vi": "Tiểu Cương: Chúng ta là đi du lịch, không phải chuyển nhà; let's bring a bit less.",
+            "vi": "Tiểu Cương: Chúng ta là đi du lịch, không phải chuyển nhà, hay là mang ít đi một chút nhé.",
             "en": "Xiaogang: We are going on a trip, not moving house; let's bring a bit less."
           }
         }
