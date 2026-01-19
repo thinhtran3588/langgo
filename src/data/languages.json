@@ -10,10 +10,10 @@
         }
       },
       "description": {
-        "text": "HSK-aligned lessons for beginners.",
+        "text": "HSK-aligned lessons.",
         "translations": {
-          "en": "HSK-aligned lessons for beginners.",
-          "vi": "Bài học theo chuẩn HSK cho người mới bắt đầu."
+          "en": "HSK-aligned lessons.",
+          "vi": "Bài học theo chuẩn HSK."
         }
       },
       "courses": [

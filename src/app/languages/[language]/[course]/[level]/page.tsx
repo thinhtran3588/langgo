@@ -80,29 +80,6 @@ export default async function LevelPage({ params }: LevelPageProps) {
           ))}
         </div>
       </div>
-      <div className="space-y-3">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          <TranslatedText
-            id="level.levelsInLanguage"
-            fallback={`Levels in ${language.label.text}`}
-            values={{ language: language.label.text }}
-          />
-        </h2>
-        <div className="grid gap-3 sm:grid-cols-2">
-          {course.levels.map((item) => (
-            <Link
-              key={item.id}
-              href={`/languages/${language.id}/${course.id}/${item.id}`}
-              className="glass-card rounded-2xl px-4 py-3 text-sm font-medium text-zinc-700 transition hover:scale-[1.01] dark:text-zinc-100"
-            >
-              <LocalizedText
-                translations={item.label.translations}
-                fallback={item.label.text}
-              />
-            </Link>
-          ))}
-        </div>
-      </div>
     </section>
   );
 }

@@ -1,6 +1,6 @@
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
-import { getLanguage, languages } from '@/lib/languages';
+import { getLanguage } from '@/lib/languages';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -57,28 +57,6 @@ export default async function LanguagePage({ params }: LanguagePageProps) {
               <LocalizedText
                 translations={course.label.translations}
                 fallback={course.label.text}
-              />
-            </Link>
-          ))}
-        </div>
-      </div>
-      <div className="space-y-3">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          <TranslatedText
-            id="language.allLanguagesHeading"
-            fallback="All languages"
-          />
-        </h2>
-        <div className="grid gap-3 sm:grid-cols-2">
-          {languages.map((item) => (
-            <Link
-              key={item.id}
-              href={`/languages/${item.id}`}
-              className="glass-card rounded-2xl px-4 py-3 text-sm font-medium text-zinc-700 transition hover:scale-[1.01] dark:text-zinc-100"
-            >
-              <LocalizedText
-                translations={item.label.translations}
-                fallback={item.label.text}
               />
             </Link>
           ))}

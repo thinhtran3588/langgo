@@ -50,12 +50,12 @@ const normalizeId = (value?: string) =>
     .replace(/[^a-z0-9]/g, '');
 
 export function getLanguage(id: string) {
-  if (!id) return undefined;
+  if (!id) return languages[0];
   const normalizedId = normalizeId(id);
-  return (
+  const match =
     languages.find((language) => normalizeId(language.id) === normalizedId) ??
-    undefined
-  );
+    undefined;
+  return match ?? languages[0];
 }
 
 export function getCourse(languageId: string, courseId: string) {
