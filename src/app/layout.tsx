@@ -1,3 +1,4 @@
+import { I18nProvider } from '@/components/I18nProvider';
 import LayoutShell from '@/components/LayoutShell';
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
@@ -32,7 +33,9 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <LayoutShell>{children}</LayoutShell>
+        <I18nProvider>
+          <LayoutShell>{children}</LayoutShell>
+        </I18nProvider>
       </body>
     </html>
   );

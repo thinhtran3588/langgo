@@ -4,7 +4,7 @@ import { useMemo, useState, type ReactNode } from 'react';
 
 type ContentTab = {
   id: string;
-  label: string;
+  label: ReactNode;
   content: ReactNode;
 };
 

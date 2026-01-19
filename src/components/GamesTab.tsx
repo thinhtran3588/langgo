@@ -1,8 +1,9 @@
 'use client';
 
-import { useState } from 'react';
 import FlashcardGame from '@/components/FlashcardGame';
 import MultipleChoiceGame from '@/components/MultipleChoiceGame';
+import { useI18n } from '@/components/I18nProvider';
+import { useState } from 'react';
 
 type GameOption = 'flashcard' | 'multiple-choice' | undefined;
 
@@ -23,6 +24,7 @@ type GamesTabProps = {
 
 const GamesTab = ({ words, storageKey }: GamesTabProps) => {
   const [activeGame, setActiveGame] = useState<GameOption>(undefined);
+  const { t } = useI18n();
 
   if (activeGame === 'flashcard') {
     return (
@@ -33,7 +35,7 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
           className="inline-flex items-center gap-2 text-sm font-semibold text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-300 dark:hover:text-white"
         >
           <span className="text-lg">←</span>
-          Back to games
+          {t('games.backToGames')}
         </button>
         <div className="sm:mx-0 -mx-6 px-4 sm:px-0">
           <FlashcardGame
@@ -55,7 +57,7 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
           className="inline-flex items-center gap-2 text-sm font-semibold text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-300 dark:hover:text-white"
         >
           <span className="text-lg">←</span>
-          Back to games
+          {t('games.backToGames')}
         </button>
         <div className="sm:mx-0 -mx-6 px-4 sm:px-0">
           <MultipleChoiceGame
@@ -72,10 +74,10 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
     <div className="space-y-4">
       <div className="space-y-1">
         <p className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
-          Games
+          {t('games.title')}
         </p>
         <p className="text-sm text-zinc-600 dark:text-zinc-300">
-          Choose a game to practice this lesson.
+          {t('games.subtitle')}
         </p>
       </div>
       <div className="grid gap-3 md:grid-cols-2">
@@ -85,13 +87,13 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
           className="group rounded-2xl border border-zinc-200 bg-white p-5 text-left shadow-sm transition hover:border-zinc-300 hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900/40"
         >
           <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-            Flashcard
+            {t('games.flashcard')}
           </p>
           <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-300">
-            Flip cards, reveal details, and rate your recall.
+            {t('games.flashcardDesc')}
           </p>
           <span className="mt-4 inline-flex items-center gap-1 text-xs font-semibold uppercase tracking-wide text-zinc-400 transition group-hover:text-zinc-600 dark:group-hover:text-zinc-200">
-            Play now
+            {t('games.playNow')}
             <span aria-hidden="true">→</span>
           </span>
         </button>
@@ -101,13 +103,13 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
           className="group rounded-2xl border border-zinc-200 bg-white p-5 text-left shadow-sm transition hover:border-zinc-300 hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900/40"
         >
           <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-            Multiple choice
+            {t('games.multipleChoice')}
           </p>
           <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-300">
-            Pick the correct word from four options.
+            {t('games.multipleChoiceDesc')}
           </p>
           <span className="mt-4 inline-flex items-center gap-1 text-xs font-semibold uppercase tracking-wide text-zinc-400 transition group-hover:text-zinc-600 dark:group-hover:text-zinc-200">
-            Play now
+            {t('games.playNow')}
             <span aria-hidden="true">→</span>
           </span>
         </button>

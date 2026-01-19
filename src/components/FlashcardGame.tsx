@@ -1,5 +1,6 @@
 'use client';
 
+import { useI18n } from '@/components/I18nProvider';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 
 type FlashcardWord = {
@@ -106,6 +107,7 @@ const FlashcardGame = ({
   className,
   storageKey = STORAGE_KEY,
 }: FlashcardGameProps) => {
+  const { t } = useI18n();
   const wordKeys = useMemo(() => words.map(buildWordKey), [words]);
   const [scores, setScores] = useState<ScoreMap>({});
   const [scoresLoaded, setScoresLoaded] = useState(false);
@@ -218,7 +220,7 @@ const FlashcardGame = ({
   if (!words.length) {
     return (
       <p className="text-sm text-zinc-600 dark:text-zinc-300">
-        Add new words to play flashcards.
+        {t('flashcard.addWords')}
       </p>
     );
   }
@@ -228,10 +230,10 @@ const FlashcardGame = ({
       <div className="space-y-4 rounded-2xl border border-dashed border-zinc-200 bg-white p-6 text-center shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
         <div className="space-y-1">
           <p className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
-            Nice work!
+            {t('flashcard.completeTitle')}
           </p>
           <p className="text-sm text-zinc-600 dark:text-zinc-300">
-            You reviewed every flashcard.
+            {t('flashcard.completeBody')}
           </p>
         </div>
         <div className="flex flex-wrap justify-center gap-3">
@@ -240,21 +242,21 @@ const FlashcardGame = ({
             onClick={handleRetry}
             className="rounded-full bg-zinc-900 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
           >
-            Retry
+            {t('flashcard.retry')}
           </button>
           <button
             type="button"
             onClick={handleClearProgress}
             className="rounded-full border border-zinc-200 px-5 py-2 text-sm font-semibold text-zinc-600 transition hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
           >
-            Clear saved data
+            {t('flashcard.clearSavedData')}
           </button>
           <button
             type="button"
             onClick={() => window.history.back()}
             className="rounded-full border border-zinc-200 px-5 py-2 text-sm font-semibold text-zinc-600 transition hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
           >
-            Go back
+            {t('flashcard.goBack')}
           </button>
         </div>
       </div>
@@ -289,7 +291,7 @@ const FlashcardGame = ({
       >
         <div className="rounded-[calc(1.5rem-2px)] bg-white px-4 py-8 text-center shadow-sm sm:px-6 sm:py-10 dark:bg-zinc-950">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-400">
-            Flashcard
+            {t('flashcard.title')}
           </p>
           <p className="mt-4 text-3xl font-semibold text-zinc-900 sm:text-4xl dark:text-zinc-100">
             {activeWord?.word}
@@ -298,25 +300,25 @@ const FlashcardGame = ({
             <div className="mt-6 space-y-3 text-left text-sm text-zinc-600 dark:text-zinc-300">
               <div className="flex flex-wrap items-center gap-2">
                 <span className="rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
-                  Pronunciation
+                  {t('flashcard.pronunciation')}
                 </span>
                 <span>{activeWord?.pronunciation ?? '—'}</span>
               </div>
               <div className="flex flex-wrap items-center gap-2">
                 <span className="rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
-                  Type
+                  {t('flashcard.type')}
                 </span>
                 <span>{activeWord?.type ?? '—'}</span>
               </div>
               <div className="flex flex-wrap items-center gap-2">
                 <span className="rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
-                  Translation
+                  {t('flashcard.translation')}
                 </span>
                 <span>{activeWord?.translation ?? '—'}</span>
               </div>
               <div className="flex flex-col gap-2">
                 <span className="w-fit rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
-                  Example
+                  {t('flashcard.example')}
                 </span>
                 <div className="space-y-1 text-sm text-zinc-700 dark:text-zinc-200">
                   <p className="text-base font-medium text-zinc-900 dark:text-zinc-100">
@@ -341,7 +343,7 @@ const FlashcardGame = ({
               onClick={handleReveal}
               className="mt-6 w-full rounded-full border border-zinc-200 px-5 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 sm:w-auto dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
             >
-              Reveal answer
+              {t('flashcard.revealAnswer')}
             </button>
           )}
         </div>
@@ -350,7 +352,7 @@ const FlashcardGame = ({
       {isRevealed ? (
         <div className="rounded-2xl border border-zinc-200 bg-white p-4 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
           <p className="text-sm font-semibold text-zinc-900 dark:text-zinc-100">
-            How well did you know this?
+            {t('flashcard.howWell')}
           </p>
           <div className="mt-3 grid grid-cols-5 gap-2 text-sm font-semibold sm:gap-3">
             {[1, 2, 3, 4, 5].map((rating) => (
@@ -374,16 +376,18 @@ const FlashcardGame = ({
 
       <div className="flex flex-wrap items-center justify-between gap-3 text-xs uppercase tracking-wide text-zinc-400">
         <span>
-          {remaining.length + (currentIndex !== undefined ? 1 : 0)} cards
+          {t('flashcard.cards', {
+            count: remaining.length + (currentIndex !== undefined ? 1 : 0),
+          })}
         </span>
         <div className="flex items-center gap-3">
-          <span>{reviewedCount} reviewed</span>
+          <span>{t('flashcard.reviewed', { count: reviewedCount })}</span>
           <button
             type="button"
             onClick={handleClearProgress}
             className="rounded-full border border-transparent px-2 py-1 text-[10px] font-semibold uppercase tracking-wide text-zinc-400 transition hover:border-zinc-200 hover:text-zinc-600 dark:hover:border-zinc-800 dark:hover:text-zinc-200"
           >
-            Clear saved data
+            {t('flashcard.clearSavedData')}
           </button>
         </div>
       </div>

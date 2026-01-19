@@ -1,5 +1,6 @@
 'use client';
 
+import { useI18n } from '@/components/I18nProvider';
 import { languages } from '@/lib/languages';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -11,23 +12,6 @@ type NavItem = {
   href?: string;
   children?: NavItem[];
 };
-
-const navItems: NavItem[] = [
-  { label: 'Home', href: '/' },
-  ...languages.map((language) => ({
-    label: language.label,
-    href: `/languages/${language.id}`,
-    children: language.levels.map((level) => ({
-      label: level.label,
-      href: `/languages/${language.id}/${level.id}`,
-      children: level.lessons.map((lesson) => ({
-        label: lesson.label,
-        href: `/languages/${language.id}/${level.id}/${lesson.id}`,
-      })),
-    })),
-  })),
-  { label: 'About', href: '/about' },
-];
 
 function NavList({
   items,
@@ -42,6 +26,8 @@ function NavList({
   expandedItems: Record<string, boolean>;
   onToggle: (key: string, nextExpanded: boolean) => void;
 }) {
+  const { t } = useI18n();
+
   return (
     <ul className={depth === 0 ? 'space-y-3' : 'space-y-2'}>
       {items.map((item) => {
@@ -86,8 +72,8 @@ function NavList({
                   className="inline-flex h-8 w-8 items-center justify-center rounded-lg text-zinc-500 transition hover:bg-white/60 hover:text-zinc-900 dark:text-zinc-400 dark:hover:bg-zinc-900/70 dark:hover:text-zinc-100"
                   aria-label={
                     isExpanded
-                      ? `Hide ${item.label} items`
-                      : `Show ${item.label} items`
+                      ? t('nav.hideItems', { label: item.label })
+                      : t('nav.showItems', { label: item.label })
                   }
                   aria-expanded={isExpanded}
                 >
@@ -136,6 +122,23 @@ export default function LayoutShell({
     {}
   );
   const pathname = usePathname();
+  const { locale, setLocale, supportedLocales, t } = useI18n();
+  const navItems: NavItem[] = [
+    { label: t('nav.home'), href: '/' },
+    ...languages.map((language) => ({
+      label: language.label,
+      href: `/languages/${language.id}`,
+      children: language.levels.map((level) => ({
+        label: level.label,
+        href: `/languages/${language.id}/${level.id}`,
+        children: level.lessons.map((lesson) => ({
+          label: lesson.label,
+          href: `/languages/${language.id}/${level.id}/${lesson.id}`,
+        })),
+      })),
+    })),
+    { label: t('nav.about'), href: '/about' },
+  ];
   const handleToggle = (key: string, nextExpanded: boolean) => {
     setExpandedItems((prev) => ({
       ...prev,
@@ -165,47 +168,79 @@ export default function LayoutShell({
                 Langgo
               </span>
             </Link>
-            <button
-              type="button"
-              onClick={() => setMenuOpen((open) => !open)}
-              className="inline-flex items-center justify-center rounded-full border border-white/40 bg-white/40 p-2 text-zinc-800 shadow-sm transition hover:bg-white/70 dark:border-zinc-700/70 dark:bg-zinc-900/60 dark:text-zinc-100 dark:hover:bg-zinc-900 md:hidden"
-              aria-expanded={menuOpen}
-              aria-controls="primary-navigation"
-            >
-              <span className="sr-only">
-                {menuOpen ? 'Close menu' : 'Open menu'}
-              </span>
-              {menuOpen ? (
-                <svg
-                  aria-hidden="true"
-                  viewBox="0 0 24 24"
-                  className="h-5 w-5"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="1.8"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                >
-                  <path d="M6 6l12 12" />
-                  <path d="M18 6l-12 12" />
-                </svg>
-              ) : (
-                <svg
-                  aria-hidden="true"
-                  viewBox="0 0 24 24"
-                  className="h-5 w-5"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="1.8"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                >
-                  <path d="M4 7h16" />
-                  <path d="M4 12h16" />
-                  <path d="M4 17h16" />
-                </svg>
-              )}
-            </button>
+            <div className="flex items-center gap-2">
+              <label htmlFor="language-picker" className="sr-only">
+                {t('nav.language')}
+              </label>
+            <div className="relative">
+              <select
+                id="language-picker"
+                value={locale}
+                onChange={(event) =>
+                  setLocale(
+                    event.target.value as (typeof supportedLocales)[number]
+                  )
+                }
+                className="appearance-none rounded-full border border-white/40 bg-white/40 px-3 py-1 pr-9 text-xs font-semibold tracking-wide text-zinc-700 shadow-sm transition hover:bg-white/70 dark:border-zinc-700/70 dark:bg-zinc-900/60 dark:text-zinc-100 dark:hover:bg-zinc-900"
+              >
+                <option value="en">🇬🇧 English</option>
+                <option value="vi">🇻🇳 Tiếng Việt</option>
+              </select>
+              <svg
+                aria-hidden="true"
+                viewBox="0 0 20 20"
+                className="pointer-events-none absolute right-3 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-zinc-600 dark:text-zinc-300"
+                fill="currentColor"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.17l3.71-3.94a.75.75 0 1 1 1.08 1.04l-4.25 4.5a.75.75 0 0 1-1.08 0l-4.25-4.5a.75.75 0 0 1 .02-1.06Z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </div>
+              <button
+                type="button"
+                onClick={() => setMenuOpen((open) => !open)}
+                className="inline-flex items-center justify-center rounded-full border border-white/40 bg-white/40 p-2 text-zinc-800 shadow-sm transition hover:bg-white/70 dark:border-zinc-700/70 dark:bg-zinc-900/60 dark:text-zinc-100 dark:hover:bg-zinc-900 md:hidden"
+                aria-expanded={menuOpen}
+                aria-controls="primary-navigation"
+              >
+                <span className="sr-only">
+                  {menuOpen ? t('nav.closeMenu') : t('nav.openMenu')}
+                </span>
+                {menuOpen ? (
+                  <svg
+                    aria-hidden="true"
+                    viewBox="0 0 24 24"
+                    className="h-5 w-5"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.8"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M6 6l12 12" />
+                    <path d="M18 6l-12 12" />
+                  </svg>
+                ) : (
+                  <svg
+                    aria-hidden="true"
+                    viewBox="0 0 24 24"
+                    className="h-5 w-5"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.8"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M4 7h16" />
+                    <path d="M4 12h16" />
+                    <path d="M4 17h16" />
+                  </svg>
+                )}
+              </button>
+            </div>
           </div>
         </div>
       </header>
@@ -217,7 +252,7 @@ export default function LayoutShell({
             menuOpen ? 'block' : 'hidden'
           }`}
         >
-          <nav aria-label="Main">
+          <nav aria-label={t('nav.main')}>
             <NavList
               items={navItems}
               pathname={pathname}

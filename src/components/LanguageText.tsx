@@ -1,5 +1,6 @@
 'use client';
 
+import { useI18n } from '@/components/I18nProvider';
 import { useState } from 'react';
 
 type LanguageTextProps = {
@@ -21,6 +22,7 @@ export default function LanguageText({
 }: LanguageTextProps) {
   const [isExpanded, setIsExpanded] = useState(false);
   const hasDetails = Boolean(pronunciation || translation);
+  const { t } = useI18n();
 
   return (
     <div className={`space-y-1 ${className ?? ''}`.trim()}>
@@ -38,7 +40,11 @@ export default function LanguageText({
             type="button"
             onClick={() => setIsExpanded((prev) => !prev)}
             aria-expanded={isExpanded}
-            aria-label={isExpanded ? 'Hide details' : 'Show details'}
+            aria-label={
+              isExpanded
+                ? t('languageText.hideDetails')
+                : t('languageText.showDetails')
+            }
             className="mt-0.5 inline-flex h-6 w-6 items-center justify-center rounded-full border border-zinc-200 text-zinc-500 transition hover:border-zinc-300 hover:text-zinc-700 dark:border-zinc-800 dark:text-zinc-400 dark:hover:border-zinc-700 dark:hover:text-zinc-200"
           >
             <svg

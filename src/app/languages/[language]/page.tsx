@@ -1,6 +1,7 @@
+import TranslatedText from '@/components/TranslatedText';
+import { getLanguage, languages } from '@/lib/languages';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getLanguage, languages } from '@/lib/languages';
 
 type LanguagePageProps = {
   params: Promise<{
@@ -23,7 +24,11 @@ export default async function LanguagePage({ params }: LanguagePageProps) {
           {language.label}
         </p>
         <h1 className="text-2xl font-semibold tracking-tight">
-          {language.label} courses
+          <TranslatedText
+            id="language.coursesHeading"
+            fallback={`${language.label} courses`}
+            values={{ language: language.label }}
+          />
         </h1>
         {language.description ? (
           <p className="text-sm text-zinc-600 dark:text-zinc-300">
@@ -33,7 +38,7 @@ export default async function LanguagePage({ params }: LanguagePageProps) {
       </header>
       <div className="space-y-3">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          Levels
+          <TranslatedText id="language.levelsHeading" fallback="Levels" />
         </h2>
         <div className="grid gap-3 sm:grid-cols-2">
           {language.levels.map((level) => (
@@ -49,7 +54,10 @@ export default async function LanguagePage({ params }: LanguagePageProps) {
       </div>
       <div className="space-y-3">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          All languages
+          <TranslatedText
+            id="language.allLanguagesHeading"
+            fallback="All languages"
+          />
         </h2>
         <div className="grid gap-3 sm:grid-cols-2">
           {languages.map((item) => (

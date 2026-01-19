@@ -1,5 +1,6 @@
 'use client';
 
+import { useI18n } from '@/components/I18nProvider';
 import { useCallback, useMemo, useState } from 'react';
 
 type WordEntry = {
@@ -144,6 +145,7 @@ const MultipleChoiceGame = ({
   className,
   questionCount = DEFAULT_QUESTION_COUNT,
 }: MultipleChoiceGameProps) => {
+  const { t } = useI18n();
   const usableWords = useMemo(
     () => words.filter((entry) => entry.word?.trim()),
     [words]
@@ -193,7 +195,7 @@ const MultipleChoiceGame = ({
   if (usableWords.length < 4) {
     return (
       <p className="text-sm text-zinc-600 dark:text-zinc-300">
-        Add at least 4 new words to play multiple choice.
+        {t('mc.addWords')}
       </p>
     );
   }
@@ -201,7 +203,7 @@ const MultipleChoiceGame = ({
   if (!questions.length) {
     return (
       <p className="text-sm text-zinc-600 dark:text-zinc-300">
-        Unable to build questions for this lesson.
+        {t('mc.unable')}
       </p>
     );
   }
@@ -211,10 +213,13 @@ const MultipleChoiceGame = ({
       <div className="space-y-4 rounded-2xl border border-dashed border-zinc-200 bg-white p-6 text-center shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
         <div className="space-y-1">
           <p className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
-            Great run!
+            {t('mc.completeTitle')}
           </p>
           <p className="text-sm text-zinc-600 dark:text-zinc-300">
-            You answered {correctCount} out of {questions.length} questions.
+            {t('mc.completeBody', {
+              correct: correctCount,
+              total: questions.length,
+            })}
           </p>
         </div>
         <button
@@ -222,7 +227,7 @@ const MultipleChoiceGame = ({
           onClick={resetGame}
           className="rounded-full bg-zinc-900 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
         >
-          Play again
+          {t('mc.playAgain')}
         </button>
       </div>
     );
@@ -245,13 +250,13 @@ const MultipleChoiceGame = ({
     >
       <div className="rounded-3xl border border-zinc-200 bg-white p-6 text-center shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-400">
-          Multiple Choice
+          {t('mc.title')}
         </p>
         <p className={`mt-4 ${promptTextClass}`}>
           {activeQuestion.prompt}
         </p>
         <p className="mt-4 text-sm text-zinc-600 dark:text-zinc-300">
-          Choose the matching word.
+          {t('mc.choose')}
         </p>
       </div>
 
@@ -287,14 +292,17 @@ const MultipleChoiceGame = ({
 
       <div className="flex flex-wrap items-center justify-between gap-3 text-xs uppercase tracking-wide text-zinc-400">
         <span>
-          Question {currentIndex + 1} of {questions.length}
+          {t('mc.questionCount', {
+            current: currentIndex + 1,
+            total: questions.length,
+          })}
         </span>
-        <span>{correctCount} correct</span>
+        <span>{t('mc.correctCount', { count: correctCount })}</span>
       </div>
 
       <div className="flex items-center justify-between">
         <div className="text-sm font-semibold text-zinc-600 dark:text-zinc-300">
-          {selectedId ? (isCorrect ? 'Correct!' : 'Not quite.') : ' '}
+          {selectedId ? (isCorrect ? t('mc.correct') : t('mc.incorrect')) : ' '}
         </div>
         <button
           type="button"
@@ -307,7 +315,7 @@ const MultipleChoiceGame = ({
               : 'bg-zinc-900 text-white hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white',
           ].join(' ')}
         >
-          {currentIndex + 1 === questions.length ? 'Finish' : 'Next'}
+          {currentIndex + 1 === questions.length ? t('mc.finish') : t('mc.next')}
         </button>
       </div>
     </div>

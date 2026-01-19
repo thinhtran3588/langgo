@@ -1,16 +1,22 @@
-import Link from 'next/link';
+import TranslatedText from '@/components/TranslatedText';
 import { languages } from '@/lib/languages';
+import Link from 'next/link';
 
 export default function LanguagesPage() {
   return (
     <section className="space-y-4">
       <header className="space-y-2">
         <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          Languages
+          <TranslatedText id="languages.title" fallback="Languages" />
         </p>
-        <h1 className="text-2xl font-semibold tracking-tight">All courses</h1>
+        <h1 className="text-2xl font-semibold tracking-tight">
+          <TranslatedText id="languages.heading" fallback="All courses" />
+        </h1>
         <p className="text-sm text-zinc-600 dark:text-zinc-300">
-          Choose a language to see levels and lessons.
+          <TranslatedText
+            id="languages.desc"
+            fallback="Choose a language to see levels and lessons."
+          />
         </p>
       </header>
       <div className="grid gap-3 sm:grid-cols-2">

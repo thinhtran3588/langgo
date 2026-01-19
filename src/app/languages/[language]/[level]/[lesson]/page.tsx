@@ -4,6 +4,7 @@ import ContentTabs from '@/components/ContentTabs';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import GamesTab from '@/components/GamesTab';
 import LanguageText from '@/components/LanguageText';
+import TranslatedText from '@/components/TranslatedText';
 import { getLanguage, getLesson, getLevel } from '@/lib/languages';
 import { notFound } from 'next/navigation';
 
@@ -102,15 +103,33 @@ export default async function LessonPage({ params }: LessonPageProps) {
         <>
           <div className="flex items-center justify-between">
             <p className="text-sm font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-              {lessonData.newWords.length} items
+              <TranslatedText
+                id="lesson.items"
+                fallback={`${lessonData.newWords.length} items`}
+                values={{ count: lessonData.newWords.length }}
+              />
             </p>
           </div>
           <div className="overflow-hidden rounded-xl border border-zinc-200 dark:border-zinc-800">
             <div className="hidden grid-cols-4 gap-2 border-b border-zinc-200 bg-zinc-50 px-4 py-3 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:bg-zinc-900/40 dark:text-zinc-400 md:grid">
-              <span>Word</span>
-              <span>Pronunciation</span>
-              <span>Type</span>
-              <span>Translation</span>
+              <span>
+                <TranslatedText id="lesson.word" fallback="Word" />
+              </span>
+              <span>
+                <TranslatedText
+                  id="lesson.pronunciation"
+                  fallback="Pronunciation"
+                />
+              </span>
+              <span>
+                <TranslatedText id="lesson.type" fallback="Type" />
+              </span>
+              <span>
+                <TranslatedText
+                  id="lesson.translation"
+                  fallback="Translation"
+                />
+              </span>
             </div>
             <div className="divide-y divide-zinc-200 dark:divide-zinc-800">
               {lessonData.newWords.map((entry, index) => (
@@ -145,7 +164,10 @@ export default async function LessonPage({ params }: LessonPageProps) {
         </>
       ) : (
         <p className="text-sm text-zinc-600 dark:text-zinc-300">
-          No new words available for this lesson yet.
+          <TranslatedText
+            id="lesson.noNewWords"
+            fallback="No new words available for this lesson yet."
+          />
         </p>
       )}
     </div>
@@ -171,7 +193,13 @@ export default async function LessonPage({ params }: LessonPageProps) {
                       <div className="space-y-1">
                         <div className="flex flex-wrap items-center gap-3">
                           <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-                            {dialog.name?.text ?? `Dialog ${index + 1}`}
+                            {dialog.name?.text ?? (
+                              <TranslatedText
+                                id="lesson.dialogFallback"
+                                fallback={`Dialog ${index + 1}`}
+                                values={{ number: index + 1 }}
+                              />
+                            )}
                           </p>
                           <span className="text-sm text-zinc-500 dark:text-zinc-400">
                             {dialog.name?.pronunciation
@@ -232,7 +260,10 @@ export default async function LessonPage({ params }: LessonPageProps) {
         </div>
       ) : (
         <p className="text-sm text-zinc-600 dark:text-zinc-300">
-          No dialogs available for this lesson yet.
+          <TranslatedText
+            id="lesson.noDialogs"
+            fallback="No dialogs available for this lesson yet."
+          />
         </p>
       )}
     </div>
@@ -279,7 +310,10 @@ export default async function LessonPage({ params }: LessonPageProps) {
         </div>
       ) : (
         <p className="text-sm text-zinc-600 dark:text-zinc-300">
-          No grammar notes available for this lesson yet.
+          <TranslatedText
+            id="lesson.noGrammar"
+            fallback="No grammar notes available for this lesson yet."
+          />
         </p>
       )}
     </div>
@@ -301,13 +335,29 @@ export default async function LessonPage({ params }: LessonPageProps) {
   );
 
   const tabs = [
-    { id: 'new-words', label: 'New Words', content: newWordsContent },
-    { id: 'dialogs', label: 'Dialogs', content: dialogsContent },
-    { id: 'grammar', label: 'Grammar', content: grammarContent },
-    { id: 'practice', label: 'Practice', content: practiceContent },
+    {
+      id: 'new-words',
+      label: <TranslatedText id="lesson.tab.newWords" fallback="New Words" />,
+      content: newWordsContent,
+    },
+    {
+      id: 'dialogs',
+      label: <TranslatedText id="lesson.tab.dialogs" fallback="Dialogs" />,
+      content: dialogsContent,
+    },
+    {
+      id: 'grammar',
+      label: <TranslatedText id="lesson.tab.grammar" fallback="Grammar" />,
+      content: grammarContent,
+    },
+    {
+      id: 'practice',
+      label: <TranslatedText id="lesson.tab.practice" fallback="Practice" />,
+      content: practiceContent,
+    },
     {
       id: 'games',
-      label: 'Games',
+      label: <TranslatedText id="lesson.tab.games" fallback="Games" />,
       content: (
         <GamesTab
           words={lessonData.newWords ?? []}
