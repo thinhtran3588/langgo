@@ -1,12 +1,13 @@
 'use client';
 
 import { useI18n } from '@/components/I18nProvider';
+import type { ElementType } from 'react';
 
 type TranslatedTextProps = {
   id: string;
   values?: Record<string, string | number>;
   fallback?: string;
-  as?: keyof JSX.IntrinsicElements;
+  as?: ElementType;
   className?: string;
 };
 
