@@ -114,25 +114,16 @@ export default async function LessonPage({ params }: LessonPageProps) {
                   className="grid grid-cols-1 gap-3 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid-cols-4 md:items-center md:gap-2"
                 >
                   <div className="flex items-center justify-between gap-3 md:justify-start">
-                    <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
-                      Word
-                    </span>
                     <span className="text-xl font-semibold text-zinc-900 sm:text-2xl dark:text-zinc-100">
                       {entry.word}
                     </span>
                   </div>
                   <div className="flex items-center justify-between gap-3 md:justify-start">
-                    <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
-                      Pronunciation
-                    </span>
                     <span className="text-zinc-600 dark:text-zinc-300">
                       {entry.pronunciation ?? '—'}
                     </span>
                   </div>
                   <div className="flex items-center justify-between gap-3 md:justify-start">
-                    <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
-                      Type
-                    </span>
                     <span>
                       {entry.type ? (
                         <span className="inline-flex rounded-full border border-zinc-200 bg-white px-2 py-1 text-xs font-medium text-zinc-600 dark:border-zinc-700 dark:bg-zinc-900 dark:text-zinc-300">
@@ -144,9 +135,6 @@ export default async function LessonPage({ params }: LessonPageProps) {
                     </span>
                   </div>
                   <div className="flex items-center justify-between gap-3 md:justify-start">
-                    <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
-                      Translation
-                    </span>
                     <span className="text-zinc-700 dark:text-zinc-200">
                       {entry.translation ?? '—'}
                     </span>
