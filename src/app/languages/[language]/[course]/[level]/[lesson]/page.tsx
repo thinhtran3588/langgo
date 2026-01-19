@@ -1,6 +1,5 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
-import { notFound } from 'next/navigation';
 import ContentTabs from '@/components/ContentTabs';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import GamesTab from '@/components/GamesTab';
@@ -8,6 +7,7 @@ import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
 import { getCourse, getLanguage, getLesson, getLevel } from '@/lib/languages';
+import { notFound } from 'next/navigation';
 
 type LessonTranslations = {
   en?: string;
@@ -69,6 +69,7 @@ const stripInlineMarkdown = (value: string) =>
 
 const readLessonData = async (
   languageId: string,
+  courseId: string,
   levelId: string,
   lessonId: string
 ): Promise<LessonData | undefined> => {
@@ -77,6 +78,7 @@ const readLessonData = async (
     'public',
     'data',
     languageId,
+    courseId,
     levelId,
     `${lessonId}.json`
   );
@@ -100,7 +102,12 @@ export default async function LessonPage({ params }: LessonPageProps) {
   const course = getCourse(languageId, courseId);
   const level = getLevel(languageId, courseId, levelId);
   const lesson = getLesson(languageId, courseId, levelId, lessonId);
-  const lessonData = await readLessonData(languageId, levelId, lessonId);
+  const lessonData = await readLessonData(
+    languageId,
+    courseId,
+    levelId,
+    lessonId
+  );
 
   if (!language || !course || !level || !lesson || !lessonData) {
     notFound();
@@ -134,7 +141,10 @@ export default async function LessonPage({ params }: LessonPageProps) {
                 <TranslatedText id="lesson.type" fallback="Type" />
               </span>
               <span>
-                <TranslatedText id="lesson.translation" fallback="Translation" />
+                <TranslatedText
+                  id="lesson.translation"
+                  fallback="Translation"
+                />
               </span>
             </div>
             <div className="divide-y divide-zinc-200 dark:divide-zinc-800">
@@ -185,8 +195,8 @@ export default async function LessonPage({ params }: LessonPageProps) {
         <div className="space-y-4">
           {lessonData.dialogs.map((dialog, index) => {
             const dialogNumber = dialog.id ?? index + 1;
-            const dialogAudioSrc = `/data/${languageId}/${levelId}/${lessonId}-dialog${dialogNumber}.mp3`;
-            const dialogAudioId = `${languageId}-${levelId}-${lessonId}`;
+            const dialogAudioSrc = `/data/${languageId}/${courseId}/${levelId}/${lessonId}-dialog${dialogNumber}.mp3`;
+            const dialogAudioId = `${languageId}-${courseId}-${levelId}-${lessonId}`;
 
             return (
               <div
@@ -327,14 +337,14 @@ export default async function LessonPage({ params }: LessonPageProps) {
     </div>
   );
 
-  const practiceAudioSrc = `/data/${languageId}/${levelId}/${lessonId}-practice.mp3`;
+  const practiceAudioSrc = `/data/${languageId}/${courseId}/${levelId}/${lessonId}-practice.mp3`;
   const practiceContent = (
     <div className="space-y-4">
       <div className="rounded-xl border border-zinc-200 bg-white p-4 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
         <div className="rounded-lg border border-zinc-100 bg-white p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950">
           <DialogAudioPlayer
             className="w-full"
-            groupId={`${languageId}-${levelId}-${lessonId}-practice`}
+            groupId={`${languageId}-${courseId}-${levelId}-${lessonId}-practice`}
             src={practiceAudioSrc}
           />
         </div>

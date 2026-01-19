@@ -18,7 +18,7 @@ const ContentTabs = ({ tabs }: ContentTabsProps) => {
   const activeTab = tabs.find((tab) => tab.id === activeTabId) ?? tabs[0];
 
   if (!tabs.length) {
-    return null;
+    return undefined;
   }
 
   return (

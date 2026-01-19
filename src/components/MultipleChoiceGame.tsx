@@ -1,8 +1,12 @@
 'use client';
 
 import { useI18n } from '@/components/I18nProvider';
-import { resolveTranslation, type Locale, type TranslationsMap } from '@/lib/i18n';
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import {
+  resolveTranslation,
+  type Locale,
+  type TranslationsMap,
+} from '@/lib/i18n';
+import { useCallback, useMemo, useState } from 'react';
 
 type WordEntry = {
   word: string;
@@ -171,10 +175,6 @@ const MultipleChoiceGame = ({
     setIsComplete(false);
   }, [locale, questionCount, usableWords]);
 
-  useEffect(() => {
-    resetGame();
-  }, [resetGame]);
-
   const handleAnswer = (optionId: string) => {
     if (selectedId || isComplete || !questions.length) {
       return;
@@ -261,9 +261,7 @@ const MultipleChoiceGame = ({
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-400">
           {t('mc.title')}
         </p>
-        <p className={`mt-4 ${promptTextClass}`}>
-          {activeQuestion.prompt}
-        </p>
+        <p className={`mt-4 ${promptTextClass}`}>{activeQuestion.prompt}</p>
         <p className="mt-4 text-sm text-zinc-600 dark:text-zinc-300">
           {t('mc.choose')}
         </p>
@@ -324,7 +322,9 @@ const MultipleChoiceGame = ({
               : 'bg-zinc-900 text-white hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white',
           ].join(' ')}
         >
-          {currentIndex + 1 === questions.length ? t('mc.finish') : t('mc.next')}
+          {currentIndex + 1 === questions.length
+            ? t('mc.finish')
+            : t('mc.next')}
         </button>
       </div>
     </div>

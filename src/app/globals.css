@@ -41,11 +41,8 @@
 }
 
 body {
-  background: radial-gradient(
-      circle at top,
-      rgba(59, 130, 246, 0.12),
-      transparent 55%
-    ),
+  background:
+    radial-gradient(circle at top, rgba(59, 130, 246, 0.12), transparent 55%),
     radial-gradient(
       circle at bottom,
       rgba(16, 185, 129, 0.16),

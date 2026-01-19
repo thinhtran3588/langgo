@@ -1,8 +1,8 @@
 'use client';
 
 import FlashcardGame from '@/components/FlashcardGame';
-import MultipleChoiceGame from '@/components/MultipleChoiceGame';
 import { useI18n } from '@/components/I18nProvider';
+import MultipleChoiceGame from '@/components/MultipleChoiceGame';
 import { type TranslationsMap } from '@/lib/i18n';
 import { useState } from 'react';
 
@@ -25,7 +25,7 @@ type GamesTabProps = {
 
 const GamesTab = ({ words, storageKey }: GamesTabProps) => {
   const [activeGame, setActiveGame] = useState<GameOption>(undefined);
-  const { t } = useI18n();
+  const { locale, t } = useI18n();
 
   if (activeGame === 'flashcard') {
     return (
@@ -65,6 +65,7 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
             words={words}
             className="mx-auto w-full max-w-xl sm:max-w-2xl"
             questionCount={20}
+            key={`multiple-choice-${locale}`}
           />
         </div>
       </div>

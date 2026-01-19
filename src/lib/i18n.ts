@@ -101,7 +101,8 @@ export const translations: Record<Locale, Record<string, string>> = {
     'nav.showItems': 'Hiện mục {label}',
     'nav.hideItems': 'Ẩn mục {label}',
     'home.welcome': 'Chào mừng',
-    'home.title': 'Khám phá các khóa học ngôn ngữ phù hợp với mục tiêu của bạn.',
+    'home.title':
+      'Khám phá các khóa học ngôn ngữ phù hợp với mục tiêu của bạn.',
     'home.subtitle':
       'Chọn một khóa học từ menu để bắt đầu. Bài học được sắp xếp theo cấp độ để bạn tự tin tiến bộ từng bước.',
     'home.startLearning': 'Bắt đầu học ngay hôm nay.',
@@ -183,7 +184,7 @@ export const formatMessage = (
     return template;
   }
   return template.replace(/\{(\w+)\}/g, (match, key) => {
-    const value = values[key];
+    const value = values[key as keyof typeof values];
     return value === undefined ? match : String(value);
   });
 };
@@ -209,5 +210,5 @@ export const resolveTranslation = (
     Object.values(translations)
       .map((value) => value?.trim())
       .find((value) => value);
-  return fallbackValue || undefined;
+  return fallbackValue ?? undefined;
 };

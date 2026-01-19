@@ -13,7 +13,11 @@ type LevelPageProps = {
 };
 
 export default async function LevelPage({ params }: LevelPageProps) {
-  const { language: languageId, course: courseId, level: levelId } = await params;
+  const {
+    language: languageId,
+    course: courseId,
+    level: levelId,
+  } = await params;
   const language = getLanguage(languageId);
   const course = getCourse(languageId, courseId);
   const level = getLevel(languageId, courseId, levelId);

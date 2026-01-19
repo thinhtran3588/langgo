@@ -31,8 +31,9 @@ export default function LanguageText({
     translations?.[locale] ??
     translations?.en ??
     translations?.vi ??
-    translation;
-  const hasDetails = Boolean(pronunciation || resolvedTranslation);
+    translation ??
+    undefined;
+  const hasDetails = Boolean(pronunciation ?? resolvedTranslation);
 
   return (
     <div className={`space-y-1 ${className ?? ''}`.trim()}>
