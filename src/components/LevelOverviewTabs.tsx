@@ -218,17 +218,20 @@ const LevelOverviewTabs = ({
                   />
                 </Link>
                 {entry.data.title ? (
-                  <Link
-                    href={`/languages/${languageId}/${courseId}/${levelId}/${entry.lesson.id}`}
-                    className="block w-fit"
-                  >
-                    <LanguageText
-                      text={entry.data.title.text}
-                      pronunciation={entry.data.title.pronunciation}
-                      translations={entry.data.title.translations}
-                      textClassName="text-lg font-semibold text-zinc-900 transition hover:text-zinc-700 dark:text-zinc-100 dark:hover:text-zinc-200"
-                    />
-                  </Link>
+                  <LanguageText
+                    text={entry.data.title.text}
+                    textContent={
+                      <Link
+                        href={`/languages/${languageId}/${courseId}/${levelId}/${entry.lesson.id}`}
+                        className="transition hover:text-zinc-700 dark:hover:text-zinc-200"
+                      >
+                        {entry.data.title.text}
+                      </Link>
+                    }
+                    pronunciation={entry.data.title.pronunciation}
+                    translations={entry.data.title.translations}
+                    textClassName="text-lg font-semibold text-zinc-900 dark:text-zinc-100"
+                  />
                 ) : (
                   <p className="text-sm text-zinc-600 dark:text-zinc-300">
                     <TranslatedText
