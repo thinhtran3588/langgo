@@ -31,7 +31,10 @@ export default function Home() {
             <section key={language.id} className="space-y-3">
               <div>
                 <h2 className="text-xl font-semibold">
-                  <LocalizedText translations={language.label.translations} fallback={language.label.text} />
+                  <LocalizedText
+                    translations={language.label.translations}
+                    fallback={language.label.text}
+                  />
                 </h2>
                 <p className="text-sm text-zinc-600 dark:text-zinc-300">
                   {languageDescription ? (
@@ -48,27 +51,27 @@ export default function Home() {
                 </p>
               </div>
               <div className="grid gap-4 sm:grid-cols-2">
-                {language.levels.map((level) => {
-                  const levelDescription =
-                    level.description ?? languageDescription;
+                {language.courses.map((course) => {
+                  const courseDescription =
+                    course.description ?? languageDescription;
 
                   return (
                     <Link
-                      key={level.id}
-                      href={`/languages/${language.id}/${level.id}`}
+                      key={course.id}
+                      href={`/languages/${language.id}/${course.id}`}
                       className="glass-card rounded-2xl p-4 transition hover:scale-[1.01]"
                     >
                       <h3 className="text-lg font-semibold">
                         <LocalizedText
-                          translations={level.label.translations}
-                          fallback={level.label.text}
+                          translations={course.label.translations}
+                          fallback={course.label.text}
                         />
                       </h3>
                       <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-300">
-                        {levelDescription ? (
+                        {courseDescription ? (
                           <LocalizedText
-                            translations={levelDescription.translations}
-                            fallback={levelDescription.text}
+                            translations={courseDescription.translations}
+                            fallback={courseDescription.text}
                           />
                         ) : (
                           <TranslatedText

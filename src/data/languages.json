@@ -16,43 +16,62 @@
           "vi": "Bài học theo chuẩn HSK cho người mới bắt đầu."
         }
       },
-      "levels": [
+      "courses": [
         {
-          "id": "hsk3",
+          "id": "hsk-standard-course",
           "label": {
-            "text": "HSK3",
+            "text": "HSK Standard Course",
             "translations": {
-              "en": "HSK3",
-              "vi": "HSK3"
+              "en": "HSK Standard Course",
+              "vi": "Giáo trình HSK tiêu chuẩn"
             }
           },
           "description": {
-            "text": "HSK3 is the third level of Chinese proficiency.",
+            "text": "The official HSK Standard Course series.",
             "translations": {
-              "en": "HSK3 is the third level of Chinese proficiency.",
-              "vi": "HSK3 là cấp độ thứ ba của năng lực tiếng Trung."
+              "en": "The official HSK Standard Course series.",
+              "vi": "Bộ giáo trình HSK tiêu chuẩn chính thức."
             }
           },
-          "lessons": [
+          "levels": [
             {
-              "id": "lesson01",
+              "id": "hsk3",
               "label": {
-                "text": "Lesson 1",
+                "text": "HSK3",
                 "translations": {
-                  "en": "Lesson 1",
-                  "vi": "Bài 1"
+                  "en": "HSK3",
+                  "vi": "HSK3"
                 }
-              }
-            },
-            {
-              "id": "lesson02",
-              "label": {
-                "text": "Lesson 2",
+              },
+              "description": {
+                "text": "HSK3 is the third level of Chinese proficiency.",
                 "translations": {
-                  "en": "Lesson 2",
-                  "vi": "Bài 2"
+                  "en": "HSK3 is the third level of Chinese proficiency.",
+                  "vi": "HSK3 là cấp độ thứ ba của năng lực tiếng Trung."
                 }
-              }
+              },
+              "lessons": [
+                {
+                  "id": "lesson01",
+                  "label": {
+                    "text": "Lesson 1",
+                    "translations": {
+                      "en": "Lesson 1",
+                      "vi": "Bài 1"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson02",
+                  "label": {
+                    "text": "Lesson 2",
+                    "translations": {
+                      "en": "Lesson 2",
+                      "vi": "Bài 2"
+                    }
+                  }
+                }
+              ]
             }
           ]
         }

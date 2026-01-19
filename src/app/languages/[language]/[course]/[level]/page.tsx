@@ -1,22 +1,24 @@
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
-import { getLanguage, getLevel } from '@/lib/languages';
+import { getCourse, getLanguage, getLevel } from '@/lib/languages';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 type LevelPageProps = {
   params: Promise<{
     language: string;
+    course: string;
     level: string;
   }>;
 };
 
 export default async function LevelPage({ params }: LevelPageProps) {
-  const { language: languageId, level: levelId } = await params;
+  const { language: languageId, course: courseId, level: levelId } = await params;
   const language = getLanguage(languageId);
-  const level = getLevel(languageId, levelId);
+  const course = getCourse(languageId, courseId);
+  const level = getLevel(languageId, courseId, levelId);
 
-  if (!language || !level) {
+  if (!language || !course || !level) {
     notFound();
   }
 
@@ -27,6 +29,11 @@ export default async function LevelPage({ params }: LevelPageProps) {
           <LocalizedText
             translations={language.label.translations}
             fallback={language.label.text}
+          />{' '}
+          ·{' '}
+          <LocalizedText
+            translations={course.label.translations}
+            fallback={course.label.text}
           />{' '}
           ·{' '}
           <LocalizedText
@@ -58,7 +65,7 @@ export default async function LevelPage({ params }: LevelPageProps) {
           {level.lessons.map((lesson) => (
             <Link
               key={lesson.id}
-              href={`/languages/${language.id}/${level.id}/${lesson.id}`}
+              href={`/languages/${language.id}/${course.id}/${level.id}/${lesson.id}`}
               className="glass-card rounded-2xl px-4 py-3 text-sm font-medium text-zinc-700 transition hover:scale-[1.01] dark:text-zinc-100"
             >
               <LocalizedText
@@ -78,10 +85,10 @@ export default async function LevelPage({ params }: LevelPageProps) {
           />
         </h2>
         <div className="grid gap-3 sm:grid-cols-2">
-          {language.levels.map((item) => (
+          {course.levels.map((item) => (
             <Link
               key={item.id}
-              href={`/languages/${language.id}/${item.id}`}
+              href={`/languages/${language.id}/${course.id}/${item.id}`}
               className="glass-card rounded-2xl px-4 py-3 text-sm font-medium text-zinc-700 transition hover:scale-[1.01] dark:text-zinc-100"
             >
               <LocalizedText

@@ -1,13 +1,13 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
+import { notFound } from 'next/navigation';
 import ContentTabs from '@/components/ContentTabs';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import GamesTab from '@/components/GamesTab';
 import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
-import { getLanguage, getLesson, getLevel } from '@/lib/languages';
-import { notFound } from 'next/navigation';
+import { getCourse, getLanguage, getLesson, getLevel } from '@/lib/languages';
 
 type LessonTranslations = {
   en?: string;
@@ -58,6 +58,7 @@ type LessonData = {
 type LessonPageProps = {
   params: Promise<{
     language: string;
+    course: string;
     level: string;
     lesson: string;
   }>;
@@ -91,15 +92,17 @@ const readLessonData = async (
 export default async function LessonPage({ params }: LessonPageProps) {
   const {
     language: languageId,
+    course: courseId,
     level: levelId,
     lesson: lessonId,
   } = await params;
   const language = getLanguage(languageId);
-  const level = getLevel(languageId, levelId);
-  const lesson = getLesson(languageId, levelId, lessonId);
+  const course = getCourse(languageId, courseId);
+  const level = getLevel(languageId, courseId, levelId);
+  const lesson = getLesson(languageId, courseId, levelId, lessonId);
   const lessonData = await readLessonData(languageId, levelId, lessonId);
 
-  if (!language || !level || !lesson || !lessonData) {
+  if (!language || !course || !level || !lesson || !lessonData) {
     notFound();
   }
 
@@ -131,10 +134,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                 <TranslatedText id="lesson.type" fallback="Type" />
               </span>
               <span>
-                <TranslatedText
-                  id="lesson.translation"
-                  fallback="Translation"
-                />
+                <TranslatedText id="lesson.translation" fallback="Translation" />
               </span>
             </div>
             <div className="divide-y divide-zinc-200 dark:divide-zinc-800">
@@ -382,6 +382,11 @@ export default async function LessonPage({ params }: LessonPageProps) {
           <LocalizedText
             translations={language.label.translations}
             fallback={language.label.text}
+          />{' '}
+          ·{' '}
+          <LocalizedText
+            translations={course.label.translations}
+            fallback={course.label.text}
           />{' '}
           ·{' '}
           <LocalizedText
