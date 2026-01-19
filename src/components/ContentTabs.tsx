@@ -23,7 +23,7 @@ const ContentTabs = ({ tabs }: ContentTabsProps) => {
 
   return (
     <div className="space-y-6">
-      <div className="flex flex-wrap gap-2 rounded-full border border-zinc-200 bg-white p-1 text-sm dark:border-zinc-800 dark:bg-zinc-900/40">
+      <div className="flex gap-2 overflow-x-auto rounded-full border border-zinc-200 bg-white p-1 text-sm dark:border-zinc-800 dark:bg-zinc-900/40">
         {tabs.map((tab) => {
           const isActive = tab.id === activeTabId;
 
@@ -33,7 +33,7 @@ const ContentTabs = ({ tabs }: ContentTabsProps) => {
               type="button"
               onClick={() => setActiveTabId(tab.id)}
               className={[
-                'rounded-full px-4 py-2 font-semibold transition',
+                'whitespace-nowrap rounded-full px-4 py-2 font-semibold transition',
                 isActive
                   ? 'bg-zinc-900 text-white shadow-sm dark:bg-zinc-100 dark:text-zinc-900'
                   : 'text-zinc-600 hover:text-zinc-900 dark:text-zinc-300 dark:hover:text-white',
