@@ -378,8 +378,8 @@ export default async function LessonPage({ params }: LessonPageProps) {
       content: grammarContent,
     },
     {
-      id: 'practice',
-      label: <TranslatedText id="lesson.tab.practice" fallback="Practice" />,
+      id: 'exercises',
+      label: <TranslatedText id="lesson.tab.exercises" fallback="Exercises" />,
       content: practiceContent,
     },
     {
