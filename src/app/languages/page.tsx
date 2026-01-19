@@ -1,3 +1,4 @@
+import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
 import { languages } from '@/lib/languages';
 import Link from 'next/link';
@@ -26,7 +27,10 @@ export default function LanguagesPage() {
             href={`/languages/${language.id}`}
             className="glass-card rounded-2xl px-4 py-3 text-sm font-medium text-zinc-700 transition hover:scale-[1.01] dark:text-zinc-100"
           >
-            {language.label}
+            <LocalizedText
+              translations={language.label.translations}
+              fallback={language.label.text}
+            />
           </Link>
         ))}
       </div>

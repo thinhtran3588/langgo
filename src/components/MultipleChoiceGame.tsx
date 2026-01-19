@@ -1,13 +1,14 @@
 'use client';
 
 import { useI18n } from '@/components/I18nProvider';
-import { useCallback, useMemo, useState } from 'react';
+import { resolveTranslation, type Locale, type TranslationsMap } from '@/lib/i18n';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 
 type WordEntry = {
   word: string;
   type?: string;
   pronunciation?: string;
-  translation?: string;
+  translations?: TranslationsMap;
 };
 
 type Question = {
@@ -45,12 +46,15 @@ type QuestionSource = {
   kind: 'word-to-translation' | 'translation-to-word';
 };
 
-const buildQuestionSources = (words: WordEntry[]): QuestionSource[] => {
+const buildQuestionSources = (
+  words: WordEntry[],
+  locale: Locale
+): QuestionSource[] => {
   const sources: QuestionSource[] = [];
 
   words.forEach((entry, index) => {
-    const { word, translation } = entry;
-    const trimmedTranslation = translation?.trim();
+    const { word, translations } = entry;
+    const trimmedTranslation = resolveTranslation(translations, locale)?.trim();
     if (!word?.trim()) {
       return;
     }
@@ -78,13 +82,14 @@ const buildQuestionSources = (words: WordEntry[]): QuestionSource[] => {
 
 const buildQuestions = (
   words: WordEntry[],
-  questionCount: number
+  questionCount: number,
+  locale: Locale
 ): Question[] => {
   if (words.length < 4) {
     return [];
   }
 
-  const sources = buildQuestionSources(words);
+  const sources = buildQuestionSources(words, locale);
   if (sources.length < 4) {
     return [];
   }
@@ -145,13 +150,13 @@ const MultipleChoiceGame = ({
   className,
   questionCount = DEFAULT_QUESTION_COUNT,
 }: MultipleChoiceGameProps) => {
-  const { t } = useI18n();
+  const { locale, t } = useI18n();
   const usableWords = useMemo(
     () => words.filter((entry) => entry.word?.trim()),
     [words]
   );
   const [questions, setQuestions] = useState<Question[]>(() =>
-    buildQuestions(usableWords, questionCount)
+    buildQuestions(usableWords, questionCount, locale)
   );
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedId, setSelectedId] = useState<string | undefined>(undefined);
@@ -159,12 +164,16 @@ const MultipleChoiceGame = ({
   const [isComplete, setIsComplete] = useState(false);
 
   const resetGame = useCallback(() => {
-    setQuestions(buildQuestions(usableWords, questionCount));
+    setQuestions(buildQuestions(usableWords, questionCount, locale));
     setCurrentIndex(0);
     setSelectedId(undefined);
     setCorrectCount(0);
     setIsComplete(false);
-  }, [questionCount, usableWords]);
+  }, [locale, questionCount, usableWords]);
+
+  useEffect(() => {
+    resetGame();
+  }, [resetGame]);
 
   const handleAnswer = (optionId: string) => {
     if (selectedId || isComplete || !questions.length) {

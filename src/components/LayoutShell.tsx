@@ -123,16 +123,19 @@ export default function LayoutShell({
   );
   const pathname = usePathname();
   const { locale, setLocale, supportedLocales, t } = useI18n();
+  const resolveLabel = (value: { text: string; translations?: { en?: string; vi?: string } }) =>
+    value.translations?.[locale] ?? value.translations?.en ?? value.translations?.vi ?? value.text;
+
   const navItems: NavItem[] = [
     { label: t('nav.home'), href: '/' },
     ...languages.map((language) => ({
-      label: language.label,
+      label: resolveLabel(language.label),
       href: `/languages/${language.id}`,
       children: language.levels.map((level) => ({
-        label: level.label,
+        label: resolveLabel(level.label),
         href: `/languages/${language.id}/${level.id}`,
         children: level.lessons.map((lesson) => ({
-          label: lesson.label,
+          label: resolveLabel(lesson.label),
           href: `/languages/${language.id}/${level.id}/${lesson.id}`,
         })),
       })),

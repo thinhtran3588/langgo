@@ -2,21 +2,57 @@
   "languages": [
     {
       "id": "chinese",
-      "label": "Chinese",
-      "description": "HSK-aligned lessons for beginners.",
+      "label": {
+        "text": "Chinese",
+        "translations": {
+          "en": "Chinese",
+          "vi": "Tiếng Trung"
+        }
+      },
+      "description": {
+        "text": "HSK-aligned lessons for beginners.",
+        "translations": {
+          "en": "HSK-aligned lessons for beginners.",
+          "vi": "Bài học theo chuẩn HSK cho người mới bắt đầu."
+        }
+      },
       "levels": [
         {
           "id": "hsk3",
-          "label": "HSK3",
-          "description": "HSK3 is the third level of Chinese proficiency.",
+          "label": {
+            "text": "HSK3",
+            "translations": {
+              "en": "HSK3",
+              "vi": "HSK3"
+            }
+          },
+          "description": {
+            "text": "HSK3 is the third level of Chinese proficiency.",
+            "translations": {
+              "en": "HSK3 is the third level of Chinese proficiency.",
+              "vi": "HSK3 là cấp độ thứ ba của năng lực tiếng Trung."
+            }
+          },
           "lessons": [
             {
               "id": "lesson01",
-              "label": "Bài 1"
+              "label": {
+                "text": "Lesson 1",
+                "translations": {
+                  "en": "Lesson 1",
+                  "vi": "Bài 1"
+                }
+              }
             },
             {
               "id": "lesson02",
-              "label": "Bài 2"
+              "label": {
+                "text": "Lesson 2",
+                "translations": {
+                  "en": "Lesson 2",
+                  "vi": "Bài 2"
+                }
+              }
             }
           ]
         }

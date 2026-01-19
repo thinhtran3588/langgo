@@ -7,11 +7,17 @@ type FlashcardWord = {
   word: string;
   type?: string;
   pronunciation?: string;
-  translation?: string;
+  translations?: {
+    en?: string;
+    vi?: string;
+  };
   example?: {
     text: string;
     pronunciation?: string;
-    translation?: string;
+    translations?: {
+      en?: string;
+      vi?: string;
+    };
   };
 };
 
@@ -73,9 +79,28 @@ const ratingStyles: Record<
 };
 
 const buildWordKey = (entry: FlashcardWord) =>
-  [entry.word, entry.pronunciation, entry.translation, entry.type]
+  [
+    entry.word,
+    entry.pronunciation,
+    entry.type,
+    entry.translations?.en,
+    entry.translations?.vi,
+  ]
     .filter(Boolean)
     .join('|');
+
+const resolveWordTranslation = (
+  locale: 'en' | 'vi',
+  translations?: FlashcardWord['translations']
+) => translations?.[locale] ?? translations?.en ?? translations?.vi;
+
+const resolveExampleTranslation = (
+  locale: 'en' | 'vi',
+  translations?: {
+    en?: string;
+    vi?: string;
+  }
+) => translations?.[locale] ?? translations?.en ?? translations?.vi;
 
 const getWeight = (score: number | undefined) => {
   const safeScore = score && score >= 1 && score <= 5 ? score : 3;
@@ -107,7 +132,7 @@ const FlashcardGame = ({
   className,
   storageKey = STORAGE_KEY,
 }: FlashcardGameProps) => {
-  const { t } = useI18n();
+  const { locale, t } = useI18n();
   const wordKeys = useMemo(() => words.map(buildWordKey), [words]);
   const [scores, setScores] = useState<ScoreMap>({});
   const [scoresLoaded, setScoresLoaded] = useState(false);
@@ -314,7 +339,10 @@ const FlashcardGame = ({
                 <span className="rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
                   {t('flashcard.translation')}
                 </span>
-                <span>{activeWord?.translation ?? '—'}</span>
+                <span>
+                  {resolveWordTranslation(locale, activeWord?.translations) ??
+                    '—'}
+                </span>
               </div>
               <div className="flex flex-col gap-2">
                 <span className="w-fit rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
@@ -329,9 +357,15 @@ const FlashcardGame = ({
                       [{activeWord.example.pronunciation}]
                     </p>
                   ) : undefined}
-                  {activeWord?.example?.translation ? (
+                  {resolveExampleTranslation(
+                    locale,
+                    activeWord?.example?.translations
+                  ) ? (
                     <p className="text-sm text-zinc-600 dark:text-zinc-300">
-                      {activeWord.example.translation}
+                      {resolveExampleTranslation(
+                        locale,
+                        activeWord?.example?.translations
+                      )}
                     </p>
                   ) : undefined}
                 </div>

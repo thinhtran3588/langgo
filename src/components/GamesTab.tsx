@@ -3,6 +3,7 @@
 import FlashcardGame from '@/components/FlashcardGame';
 import MultipleChoiceGame from '@/components/MultipleChoiceGame';
 import { useI18n } from '@/components/I18nProvider';
+import { type TranslationsMap } from '@/lib/i18n';
 import { useState } from 'react';
 
 type GameOption = 'flashcard' | 'multiple-choice' | undefined;
@@ -12,11 +13,11 @@ type GamesTabProps = {
     word: string;
     type?: string;
     pronunciation?: string;
-    translation?: string;
+    translations?: TranslationsMap;
     example?: {
       text: string;
       pronunciation?: string;
-      translation?: string;
+      translations?: TranslationsMap;
     };
   }>;
   storageKey?: string;

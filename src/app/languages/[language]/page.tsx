@@ -1,3 +1,4 @@
+import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
 import { getLanguage, languages } from '@/lib/languages';
 import Link from 'next/link';
@@ -21,18 +22,24 @@ export default async function LanguagePage({ params }: LanguagePageProps) {
     <section className="space-y-6">
       <header className="space-y-2">
         <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          {language.label}
+          <LocalizedText
+            translations={language.label.translations}
+            fallback={language.label.text}
+          />
         </p>
         <h1 className="text-2xl font-semibold tracking-tight">
           <TranslatedText
             id="language.coursesHeading"
-            fallback={`${language.label} courses`}
-            values={{ language: language.label }}
+            fallback={`${language.label.text} courses`}
+            values={{ language: language.label.text }}
           />
         </h1>
         {language.description ? (
           <p className="text-sm text-zinc-600 dark:text-zinc-300">
-            {language.description}
+            <LocalizedText
+              translations={language.description.translations}
+              fallback={language.description.text}
+            />
           </p>
         ) : undefined}
       </header>
@@ -47,7 +54,10 @@ export default async function LanguagePage({ params }: LanguagePageProps) {
               href={`/languages/${language.id}/${level.id}`}
               className="glass-card rounded-2xl px-4 py-3 text-sm font-medium text-zinc-700 transition hover:scale-[1.01] dark:text-zinc-100"
             >
-              {level.label}
+              <LocalizedText
+                translations={level.label.translations}
+                fallback={level.label.text}
+              />
             </Link>
           ))}
         </div>
@@ -66,7 +76,10 @@ export default async function LanguagePage({ params }: LanguagePageProps) {
               href={`/languages/${item.id}`}
               className="glass-card rounded-2xl px-4 py-3 text-sm font-medium text-zinc-700 transition hover:scale-[1.01] dark:text-zinc-100"
             >
-              {item.label}
+              <LocalizedText
+                translations={item.label.translations}
+                fallback={item.label.text}
+              />
             </Link>
           ))}
         </div>

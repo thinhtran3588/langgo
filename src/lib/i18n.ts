@@ -1,4 +1,8 @@
 export type Locale = 'en' | 'vi';
+export type TranslationsMap = {
+  en?: string;
+  vi?: string;
+};
 
 export const supportedLocales: Locale[] = ['en', 'vi'];
 export const defaultLocale: Locale = 'en';
@@ -180,4 +184,28 @@ export const formatMessage = (
     const value = values[key];
     return value === undefined ? match : String(value);
   });
+};
+
+export const resolveTranslation = (
+  translations: TranslationsMap | undefined,
+  locale: Locale
+) => {
+  if (!translations) {
+    return undefined;
+  }
+  const localeValue = translations[locale]?.trim();
+  if (localeValue) {
+    return localeValue;
+  }
+  const defaultValue = translations[defaultLocale]?.trim();
+  if (defaultValue) {
+    return defaultValue;
+  }
+  const fallbackValue =
+    translations.vi?.trim() ??
+    translations.en?.trim() ??
+    Object.values(translations)
+      .map((value) => value?.trim())
+      .find((value) => value);
+  return fallbackValue || undefined;
 };

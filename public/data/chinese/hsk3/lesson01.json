@@ -2,172 +2,265 @@
   "title": {
     "text": "周末你有什么打算？",
     "pronunciation": "Zhōumò nǐ yǒu shénme dǎsuàn?",
-    "translation": "Anh dự định làm gì vào cuối tuần vậy?"
+    "translations": {
+      "vi": "Anh dự định làm gì vào cuối tuần vậy?",
+      "en": "What are your plans for the weekend?"
+    }
   },
   "newWords": [
     {
       "word": "周末",
       "type": "danh từ",
       "pronunciation": "zhōumò",
-      "translation": "cuối tuần",
+      "translations": {
+        "vi": "cuối tuần",
+        "en": "weekend"
+      },
       "example": {
         "text": "周末你有什么打算？",
         "pronunciation": "Zhōumò nǐ yǒu shénme dǎsuàn?",
-        "translation": "Cuối tuần anh có dự định gì không?"
+        "translations": {
+          "vi": "Cuối tuần anh có dự định gì không?",
+          "en": "Do you have any plans for the weekend?"
+        }
       }
     },
     {
       "word": "打算",
       "type": "danh từ/động từ",
       "pronunciation": "dǎsuàn",
-      "translation": "kế hoạch; dự định",
+      "translations": {
+        "vi": "kế hoạch; dự định",
+        "en": "plan; to plan"
+      },
       "example": {
         "text": "周末你有什么打算？",
         "pronunciation": "Zhōumò nǐ yǒu shénme dǎsuàn?",
-        "translation": "Cuối tuần anh có dự định gì không?"
+        "translations": {
+          "vi": "Cuối tuần anh có dự định gì không?",
+          "en": "Do you have any plans for the weekend?"
+        }
       }
     },
     {
       "word": "啊",
       "type": "trợ từ",
       "pronunciation": "a",
-      "translation": "được dùng ở cuối câu để khẳng định hay biện minh cho điều gì",
+      "translations": {
+        "vi": "được dùng ở cuối câu để khẳng định hay biện minh cho điều gì",
+        "en": "used at the end of a sentence to indicate confirmation or defense"
+      },
       "example": {
         "text": "那也不能一直玩儿啊。",
         "pronunciation": "Nà yě bù néng yìzhí wánr a.",
-        "translation": "Thế thì cũng không thể chơi suốt được chứ."
+        "translations": {
+          "vi": "Thế thì cũng không thể chơi suốt được chứ.",
+          "en": "Well, you can't just play all the time."
+        }
       }
     },
     {
       "word": "跟",
       "type": "giới từ",
       "pronunciation": "gēn",
-      "translation": "cùng, với",
+      "translations": {
+        "vi": "cùng, với",
+        "en": "with"
+      },
       "example": {
         "text": "下个月我去旅游，你能跟我一起去吗？",
         "pronunciation": "Xià ge yuè wǒ qù lǚyóu, nǐ néng gēn wǒ yìqǐ qù ma?",
-        "translation": "Tháng sau tôi đi du lịch, bạn có thể đi cùng tôi không?"
+        "translations": {
+          "vi": "Tháng sau tôi đi du lịch, bạn có thể đi cùng tôi không?",
+          "en": "I'm going traveling next month, can you go with me?"
+        }
       }
     },
     {
       "word": "一直",
       "type": "phó từ",
       "pronunciation": "yìzhí",
-      "translation": "suốt, liên tục",
+      "translations": {
+        "vi": "suốt, liên tục",
+        "en": "all along; continuously"
+      },
       "example": {
         "text": "你一直玩儿电脑游戏，作业写完了吗？",
         "pronunciation": "Nǐ yìzhí wánr diànnǎo yóuxì, zuòyè xiěwán le ma?",
-        "translation": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?"
+        "translations": {
+          "vi": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?",
+          "en": "You've been playing computer games this whole time, have you finished your homework?"
+        }
       }
     },
     {
       "word": "游戏",
       "type": "danh từ",
       "pronunciation": "yóuxì",
-      "translation": "trò chơi",
+      "translations": {
+        "vi": "trò chơi",
+        "en": "game"
+      },
       "example": {
         "text": "你一直玩儿电脑游戏，作业写完了吗？",
         "pronunciation": "Nǐ yìzhí wánr diànnǎo yóuxì, zuòyè xiěwán le ma?",
-        "translation": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?"
+        "translations": {
+          "vi": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?",
+          "en": "You've been playing computer games this whole time, have you finished your homework?"
+        }
       }
     },
     {
       "word": "作业",
       "type": "danh từ",
       "pronunciation": "zuòyè",
-      "translation": "bài tập về nhà",
+      "translations": {
+        "vi": "bài tập về nhà",
+        "en": "homework"
+      },
       "example": {
         "text": "你一直玩儿电脑游戏，作业写完了吗？",
         "pronunciation": "Nǐ yìzhí wánr diànnǎo yóuxì, zuòyè xiěwán le ma?",
-        "translation": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?"
+        "translations": {
+          "vi": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?",
+          "en": "You've been playing computer games this whole time, have you finished your homework?"
+        }
       }
     },
     {
       "word": "着急",
       "type": "tính từ",
       "pronunciation": "zháojí",
-      "translation": "lo lắng",
+      "translations": {
+        "vi": "lo lắng",
+        "en": "worried; anxious"
+      },
       "example": {
         "text": "明天不是有考试吗？你怎么一点儿也不着急？",
         "pronunciation": "Míngtiān bú shì yǒu kǎoshì ma? Nǐ zěnme yìdiǎnr yě bù zháojí?",
-        "translation": "Ngày mai không phải có thi sao? Sao con một chút cũng không lo lắng thế?"
+        "translations": {
+          "vi": "Ngày mai không phải có thi sao? Sao con một chút cũng không lo lắng thế?",
+          "en": "Isn't there an exam tomorrow? Why aren't you worried at all?"
+        }
       }
     },
     {
       "word": "复习",
       "type": "động từ",
       "pronunciation": "fùxí",
-      "translation": "ôn tập",
+      "translations": {
+        "vi": "ôn tập",
+        "en": "to review"
+      },
       "example": {
         "text": "我早就复习好了。",
         "pronunciation": "Wǒ zǎo jiù fùxí hǎo le.",
-        "translation": "Con đã ôn tập xong từ sớm rồi ạ."
+        "translations": {
+          "vi": "Con đã ôn tập xong từ sớm rồi ạ.",
+          "en": "I finished reviewing a long time ago."
+        }
       }
     },
     {
       "word": "南(方)",
       "type": "danh từ",
       "pronunciation": "nán (fāng)",
-      "translation": "phía nam, miền nam",
+      "translations": {
+        "vi": "phía nam, miền nam",
+        "en": "south; southern part"
+      },
       "example": {
         "text": "南方啊，我们去年就是这个时候去的。",
         "pronunciation": "Nánfāng a, wǒmen qùnián jiù shì zhège shíhou qù de.",
-        "translation": "Phía Nam á, năm ngoái chúng ta đi chính vào lúc này mà."
+        "translations": {
+          "vi": "Phía Nam á, năm ngoái chúng ta đi chính vào lúc này mà.",
+          "en": "The South, we went at this exact time last year."
+        }
       }
     },
     {
       "word": "北方",
       "type": "danh từ",
       "pronunciation": "běifāng",
-      "translation": "phía bắc, miền bắc",
+      "translations": {
+        "vi": "phía bắc, miền bắc",
+        "en": "north; northern part"
+      },
       "example": {
         "text": "南方太热了，北方好一些，不冷也不热。",
         "pronunciation": "Nánfāng tài rè le, běifāng hǎo yìxiē, bù lěng yě bú rè.",
-        "translation": "Phía Nam nóng quá, phía Bắc tốt hơn một chút, không lạnh cũng không nóng."
+        "translations": {
+          "vi": "Phía Nam nóng quá, phía Bắc tốt hơn một chút, không lạnh cũng không nóng.",
+          "en": "The South is too hot, the North is better, it's neither cold nor hot."
+        }
       }
     },
     {
       "word": "面包",
       "type": "danh từ",
       "pronunciation": "miànbāo",
-      "translation": "bánh mì",
+      "translations": {
+        "vi": "bánh mì",
+        "en": "bread"
+      },
       "example": {
         "text": "水果、面包、茶都准备好了，我们还带什么？",
         "pronunciation": "Shuǐguǒ, miànbāo, chá dōu zhǔnbèi hǎo le, wǒmen hái dài shénme?",
-        "translation": "Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?"
+        "translations": {
+          "vi": "Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?",
+          "en": "The fruit, bread, and tea are all ready, what else are we taking?"
+        }
       }
     },
     {
       "word": "带",
       "type": "động từ",
       "pronunciation": "dài",
-      "translation": "mang theo",
+      "translations": {
+        "vi": "mang theo",
+        "en": "to take; to bring"
+      },
       "example": {
         "text": "水果、面包、茶都准备好了，我们还带什么？",
         "pronunciation": "Shuǐguǒ, miànbāo, chá dōu zhǔnbèi hǎo le, wǒmen hái dài shénme?",
-        "translation": "Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?"
+        "translations": {
+          "vi": "Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?",
+          "en": "The fruit, bread, and tea are all ready, what else are we taking?"
+        }
       }
     },
     {
       "word": "地图",
       "type": "danh từ",
       "pronunciation": "dìtú",
-      "translation": "bản đồ",
+      "translations": {
+        "vi": "bản đồ",
+        "en": "map"
+      },
       "example": {
         "text": "手机、电脑、地图，一个也不能少。",
         "pronunciation": "Shǒujī, diànnǎo, dìtú, yí ge yě bù néng shǎo.",
-        "translation": "Điện thoại, máy tính, bản đồ, một cái cũng không được thiếu."
+        "translations": {
+          "vi": "Điện thoại, máy tính, bản đồ, một cái cũng không được thiếu.",
+          "en": "Phone, computer, map - we can't miss a single one."
+        }
       }
     },
     {
       "word": "搬",
       "type": "động từ",
       "pronunciation": "bān",
-      "translation": "dọn, dời",
+      "translations": {
+        "vi": "dọn, dời",
+        "en": "to move"
+      },
       "example": {
         "text": "我们是去旅游，不是搬家，还是少带一些吧。",
         "pronunciation": "Wǒmen shì qù lǚyóu, bú shì bān jiā, háishi shǎo dài yìxiē ba.",
-        "translation": "Chúng ta là đi du lịch, không phải chuyển nhà, hay là mang ít đi một chút nhé."
+        "translations": {
+          "vi": "Chúng ta là đi du lịch, không phải chuyển nhà, hay là mang ít đi một chút nhé.",
+          "en": "We are going on a trip, not moving house, let's take a few less things."
+        }
       }
     }
   ],
@@ -179,22 +272,34 @@
         {
           "text": "今晚的电影小刚已经买好票了。",
           "pronunciation": "Jīnwǎn de diànyǐng Xiǎogāng yǐjīng mǎihǎo piào le.",
-          "translation": "Tiểu Cương đã mua xong vé phim tối nay rồi."
+          "translations": {
+            "vi": "Tiểu Cương đã mua xong vé phim tối nay rồi.",
+            "en": "Xiaogang has already bought the tickets for tonight's movie."
+          }
         },
         {
           "text": "饭还没做好，请你等一会儿。",
           "pronunciation": "Fàn hái méi zuòhǎo, qǐng nǐ děng yíhuìr.",
-          "translation": "Cơm vẫn chưa làm xong, bạn vui lòng đợi một lát."
+          "translations": {
+            "vi": "Cơm vẫn chưa làm xong, bạn vui lòng đợi một lát.",
+            "en": "The food isn't ready yet, please wait a moment."
+          }
         },
         {
           "text": "去旅游的东西准备好了吗？",
           "pronunciation": "Qù lǚyóu de dōngxi zhǔnbèi hǎo le ma?",
-          "translation": "Đồ đi du lịch đã chuẩn bị xong chưa?"
+          "translations": {
+            "vi": "Đồ đi du lịch đã chuẩn bị xong chưa?",
+            "en": "Are the things for the trip ready?"
+          }
         },
         {
           "text": "我还没想好要不要跟你去呢。",
           "pronunciation": "Wǒ hái méi xiǎnghǎo yào bú yào gēn nǐ qù ne.",
-          "translation": "Tôi vẫn chưa nghĩ xong có nên đi cùng bạn không đây."
+          "translations": {
+            "vi": "Tôi vẫn chưa nghĩ xong có nên đi cùng bạn không đây.",
+            "en": "I haven't decided yet whether I want to go with you."
+          }
         }
       ]
     },
@@ -205,27 +310,42 @@
         {
           "text": "我一个苹果也不想吃。",
           "pronunciation": "Wǒ yí ge píngguǒ yě bù xiǎng chī.",
-          "translation": "Tôi một quả táo cũng không muốn ăn."
+          "translations": {
+            "vi": "Tôi một quả táo cũng không muốn ăn.",
+            "en": "I don't want to eat a single apple."
+          }
         },
         {
           "text": "昨天他一件衣服都没买。",
           "pronunciation": "Zuótiān tā yí jiàn yīfu dōu méi mǎi.",
-          "translation": "Hôm qua anh ấy một bộ quần áo cũng không mua."
+          "translations": {
+            "vi": "Hôm qua anh ấy một bộ quần áo cũng không mua.",
+            "en": "He didn't buy a single piece of clothing yesterday."
+          }
         },
         {
           "text": "小丽一杯茶也没喝。",
           "pronunciation": "Xiǎolì yì bēi chá yě méi hē.",
-          "translation": "Tiểu Lệ một ly trà cũng chưa uống."
+          "translations": {
+            "vi": "Tiểu Lệ một ly trà cũng chưa uống.",
+            "en": "Xiaoli didn't drink a single cup of tea."
+          }
         },
         {
           "text": "我一点儿东西也不想吃。",
           "pronunciation": "Wǒ yìdiǎnr dōngxi yě bù xiǎng chī.",
-          "translation": "Tôi một chút đồ ăn cũng không muốn ăn."
+          "translations": {
+            "vi": "Tôi một chút đồ ăn cũng không muốn ăn.",
+            "en": "I don't want to eat anything at all."
+          }
         },
         {
           "text": "他一点儿也不累。",
           "pronunciation": "Tā yìdiǎnr yě bú lèi.",
-          "translation": "Anh ấy chẳng mệt chút nào."
+          "translations": {
+            "vi": "Anh ấy chẳng mệt chút nào.",
+            "en": "He isn't tired at all."
+          }
         }
       ]
     },
@@ -236,12 +356,18 @@
         {
           "text": "我不想去看电影，那我也不去了。",
           "pronunciation": "Wǒ bù xiǎng qù kàn diànyǐng, nà wǒ yě bú qù le.",
-          "translation": "Tôi không muốn đi xem phim, thế thì tôi cũng không đi nữa."
+          "translations": {
+            "vi": "Tôi không muốn đi xem phim, thế thì tôi cũng không đi nữa.",
+            "en": "I don't want to go see a movie. In that case, I won't go either."
+          }
         },
         {
           "text": "明天的考试早就复习好了，那也不能一直玩儿啊。",
           "pronunciation": "Míngtiān de kǎoshì zǎo jiù fùxí hǎo le, nà yě bù néng yìzhí wánr a.",
-          "translation": "Kỳ thi ngày mai đã ôn tập xong từ sớm, thế thì cũng không thể chơi suốt được."
+          "translations": {
+            "vi": "Kỳ thi ngày mai đã ôn tập xong từ sớm, thế thì cũng không thể chơi suốt được.",
+            "en": "The exam tomorrow was reviewed long ago, but even so, you can't just play all the time."
+          }
         }
       ]
     }
@@ -252,33 +378,51 @@
       "name": {
         "text": "谈周末的打算",
         "pronunciation": "Tán zhōumò de dǎsuàn",
-        "translation": "Nói về kế hoạch cuối tuần"
+        "translations": {
+          "vi": "Nói về kế hoạch cuối tuần",
+          "en": "Talking about weekend plans"
+        }
       },
       "sentences": [
         {
           "text": "小丽: 周末你有什么打算？",
           "pronunciation": "Xiǎolì: Zhōumò nǐ yǒu shénme dǎsuàn?",
-          "translation": "Tiểu Lệ: Cuối tuần anh có dự định gì không?"
+          "translations": {
+            "vi": "Tiểu Lệ: Cuối tuần anh có dự định gì không?",
+            "en": "Xiaoli: What are your plans for the weekend?"
+          }
         },
         {
           "text": "小刚: 我早就想好了，请你吃饭、看电影、喝咖啡。",
           "pronunciation": "Xiǎogāng: Wǒ zǎo jiù xiǎnghǎo le, qǐng nǐ chī fàn, kàn diànyǐng, hē kāfēi.",
-          "translation": "Tiểu Cương: Anh đã nghĩ xong từ sớm rồi, mời em ăn cơm, xem phim, uống cà phê."
+          "translations": {
+            "vi": "Tiểu Cương: Anh đã nghĩ xong từ sớm rồi, mời em ăn cơm, xem phim, uống cà phê.",
+            "en": "Xiaogang: I decided a long time ago: I'll treat you to dinner, a movie, and coffee."
+          }
         },
         {
-          "text": "小丽: 请我？",
+          "text": "小丽: 请 me？",
           "pronunciation": "Xiǎolì: Qǐng wǒ?",
-          "translation": "Tiểu Lệ: Mời em á?"
+          "translations": {
+            "vi": "Tiểu Lệ: Mời em á?",
+            "en": "Xiaoli: Treat me?"
+          }
         },
         {
-          "text": "小刚: 是啊，我已经找好饭馆儿了，电影票也买好了。",
+          "text": "小刚: 是啊，我已经找好饭馆儿了，电影票 cũng mǎihǎo le.",
           "pronunciation": "Xiǎogāng: Shì a, wǒ yǐjīng zhǎohǎo fànguǎnr le, diànyǐngpiào yě mǎihǎo le.",
-          "translation": "Tiểu Cương: Đúng vậy, anh đã tìm xong nhà hàng rồi, vé xem phim cũng mua xong rồi."
+          "translations": {
+            "vi": "Tiểu Cương: Đúng vậy, anh đã tìm xong nhà hàng rồi, vé xem phim cũng mua xong rồi.",
+            "en": "Xiaogang: Yes, I've already found the restaurant and bought the movie tickets."
+          }
         },
         {
           "text": "小丽: 我还没想好要不要跟你去呢。",
           "pronunciation": "Xiǎolì: Wǒ hái méi xiǎnghǎo yào bù yào gēn nǐ qù ne.",
-          "translation": "Tiểu Lệ: Em vẫn chưa nghĩ xong có muốn đi cùng anh không đấy."
+          "translations": {
+            "vi": "Tiểu Lệ: Em vẫn chưa nghĩ xong có muốn đi cùng anh không đấy.",
+            "en": "Xiaoli: I haven't decided yet whether I want to go with you."
+          }
         }
       ]
     },
@@ -287,33 +431,51 @@
       "name": {
         "text": "在家",
         "pronunciation": "Zài jiā",
-        "translation": "Ở nhà"
+        "translations": {
+          "vi": "Ở nhà",
+          "en": "At home"
+        }
       },
       "sentences": [
         {
           "text": "妈妈: 你一直玩儿电脑游戏，作业写完了吗？",
           "pronunciation": "māma: Nǐ yìzhí wánr diànnǎo yóuxì, zuòyè xiěwán le ma?",
-          "translation": "Mẹ: Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?"
+          "translations": {
+            "vi": "Mẹ: Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?",
+            "en": "Mom: You've been playing computer games non-stop, is your homework finished?"
+          }
         },
         {
           "text": "儿子: 都写完了。",
           "pronunciation": "érzi: Dōu xiěwán le.",
-          "translation": "Con trai: Đều viết xong hết rồi ạ."
+          "translations": {
+            "vi": "Con trai: Đều viết xong hết rồi ạ.",
+            "en": "Son: It's all finished."
+          }
         },
         {
           "text": "妈妈: 明天不是有考试吗？你怎么一点儿也不着急？",
-          "pronunciation": "māma: Míngtiān bú shì yǒu kǎoshì ma? Nǐ zěnme yìdiǎnr yě bù zháojí?",
-          "translation": "Mẹ: Ngày mai không phải có thi sao? Sao con một chút cũng không lo lắng thế?"
+          "pronunciation": "māma: Míngtiān bú shì yǒu k kǎoshì ma? Nǐ zěnme yìdiǎnr yě bù zháojí?",
+          "translations": {
+            "vi": "Mẹ: Ngày mai không phải có thi sao? Sao con một chút cũng không lo lắng thế?",
+            "en": "Mom: Isn't there an exam tomorrow? How are you not worried at all?"
+          }
         },
         {
           "text": "儿子: 我早就复习好了。",
           "pronunciation": "érzi: Wǒ zǎo jiù fùxí hǎo le.",
-          "translation": "Con trai: Con đã ôn tập xong từ sớm rồi ạ."
+          "translations": {
+            "vi": "Con trai: Con đã ôn tập xong từ sớm rồi ạ.",
+            "en": "Son: I finished reviewing a long time ago."
+          }
         },
         {
           "text": "妈妈: 那也不能一直玩儿啊。",
           "pronunciation": "māma: Nà yě bù néng yìzhí wánr a.",
-          "translation": "Mẹ: Thế thì cũng không thể chơi suốt được chứ."
+          "translations": {
+            "vi": "Mẹ: Thế thì cũng không thể chơi suốt được chứ.",
+            "en": "Mom: Well, you still can't just play all the time."
+          }
         }
       ]
     },
@@ -322,28 +484,43 @@
       "name": {
         "text": "聊旅游计划",
         "pronunciation": "Liáo lǚyóu jìhuà",
-        "translation": "Nói về kế hoạch đi du lịch"
+        "translations": {
+          "vi": "Nói về kế hoạch đi du lịch",
+          "en": "Talking about travel plans"
+        }
       },
       "sentences": [
         {
           "text": "小丽: 下个月我去旅游，你能跟我一起去吗？",
           "pronunciation": "Xiǎolì: Xià ge yuè wǒ qù lǚyóu, nǐ néng gēn wǒ yìqǐ qù ma?",
-          "translation": "Tiểu Lệ: Tháng sau tôi đi du lịch, bạn có thể đi cùng tôi không?"
+          "translations": {
+            "vi": "Tiểu Lệ: Tháng sau tôi đi du lịch, bạn có thể đi cùng tôi không?",
+            "en": "Xiaoli: I'm going traveling next month, can you go with me?"
+          }
         },
         {
           "text": "小刚: 我还没想好呢。你觉得哪儿最好玩儿？",
           "pronunciation": "Xiǎogāng: Wǒ hái méi xiǎnghǎo ne. Nǐ juéde nǎr zuì hǎowánr?",
-          "translation": "Tiểu Cương: Tôi vẫn chưa nghĩ xong nữa. Bạn cảm thấy ở đâu vui nhất?"
+          "translations": {
+            "vi": "Tiểu Cương: Tôi vẫn chưa nghĩ xong nữa. Bạn cảm thấy ở đâu vui nhất?",
+            "en": "Xiaogang: I haven't decided yet. Where do you think is the most fun?"
+          }
         },
         {
           "text": "小丽: 南方啊，我们去年就是这个时候去的。",
           "pronunciation": "Xiǎolì: Nánfāng a, wǒmen qùnián jiù shì zhège shíhou qù de.",
-          "translation": "Tiểu Lệ: Phía Nam á, năm ngoái chúng ta đi chính vào lúc này mà."
+          "translations": {
+            "vi": "Tiểu Lệ: Phía Nam á, năm ngoái chúng ta đi chính vào lúc này mà.",
+            "en": "Xiaoli: The South! We went at exactly this time last year."
+          }
         },
         {
           "text": "小刚: 南方太热了，北方好一些，不冷也不热。",
           "pronunciation": "Xiǎogāng: Nánfāng tài rè le, běifāng hǎo yìxiē, bù lěng yě bú rè.",
-          "translation": "Tiểu Cương: Phía Nam nóng quá, phía Bắc tốt hơn một chút, không lạnh cũng không nóng."
+          "translations": {
+            "vi": "Tiểu Cương: Phía Nam nóng quá, phía Bắc tốt hơn một chút, không lạnh cũng không nóng.",
+            "en": "Xiaogang: The South is too hot; the North is better, neither cold nor hot."
+          }
         }
       ]
     },
@@ -352,33 +529,51 @@
       "name": {
         "text": "准备去旅游",
         "pronunciation": "Zhǔnbèi qù lǚyóu",
-        "translation": "Chuẩn bị đi du lịch"
+        "translations": {
+          "vi": "Chuẩn bị đi du lịch",
+          "en": "Preparing for a trip"
+        }
       },
       "sentences": [
         {
           "text": "小刚: 水果、面包、茶都准备好了，我们还带什么？",
           "pronunciation": "Xiǎogāng: Shuǐguǒ, miànbāo, chá dōu zhǔnbèi hǎo le, wǒmen hái dài shénme?",
-          "translation": "Tiểu Cương: Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?"
+          "translations": {
+            "vi": "Tiểu Cương: Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?",
+            "en": "Xiaogang: Fruit, bread, and tea are all ready; what else are we bringing?"
+          }
         },
         {
           "text": "小丽: 手机、电脑、地图，一个也不能少。",
           "pronunciation": "Xiǎolì: Shǒujī, diànnǎo, dìtú, yí ge yě bù néng shǎo.",
-          "translation": "Tiểu Lệ: Điện thoại, máy tính, bản đồ, một cái cũng không được thiếu."
+          "translations": {
+            "vi": "Tiểu Lệ: Điện thoại, máy tính, bản đồ, một cái cũng không được thiếu.",
+            "en": "Xiaoli: Phone, computer, map - we can't miss a single one."
+          }
         },
         {
           "text": "小刚: 这些我昨天下午就准备好了。",
           "pronunciation": "Xiǎogāng: Zhèxiē wǒ zuótiān xiàwǔ jiù zhǔnbèi hǎo le.",
-          "translation": "Tiểu Cương: Những cái này chiều hôm qua anh đã chuẩn bị xong rồi."
+          "translations": {
+            "vi": "Tiểu Cương: Những cái này chiều hôm qua anh đã chuẩn bị xong rồi.",
+            "en": "Xiaogang: I prepared all of those yesterday afternoon."
+          }
         },
         {
           "text": "小丽: 再多带几件衣服吧。",
           "pronunciation": "Xiǎolì: Zài duō dài jǐ jiàn yīfu ba.",
-          "translation": "Tiểu Lệ: Mang thêm mấy bộ quần áo nữa đi."
+          "translations": {
+            "vi": "Tiểu Lệ: Mang thêm mấy bộ quần áo nữa đi.",
+            "en": "Xiaoli: Let's bring a few more clothes."
+          }
         },
         {
           "text": "小刚: 我们是去旅游，不是搬家，还是少带一些吧。",
           "pronunciation": "Xiǎogāng: Wǒmen shì qù lǚyóu, bú shì bān jiā, háishi shǎo dài yìxiē ba.",
-          "translation": "Tiểu Cương: Chúng ta là đi du lịch, không phải chuyển nhà, hay là mang ít đi một chút nhé."
+          "translations": {
+            "vi": "Tiểu Cương: Chúng ta là đi du lịch, không phải chuyển nhà, hay là mang ít đi một chút nhé.",
+            "en": "Xiaogang: We are going on a trip, not moving house; let's bring a bit less."
+          }
         }
       ]
     }

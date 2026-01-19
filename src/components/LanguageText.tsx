@@ -7,6 +7,10 @@ type LanguageTextProps = {
   text: string;
   pronunciation?: string;
   translation?: string;
+  translations?: {
+    en?: string;
+    vi?: string;
+  };
   className?: string;
   textClassName?: string;
   metaClassName?: string;
@@ -16,13 +20,19 @@ export default function LanguageText({
   text,
   pronunciation,
   translation,
+  translations,
   className,
   textClassName,
   metaClassName,
 }: LanguageTextProps) {
   const [isExpanded, setIsExpanded] = useState(false);
-  const hasDetails = Boolean(pronunciation || translation);
-  const { t } = useI18n();
+  const { locale, t } = useI18n();
+  const resolvedTranslation =
+    translations?.[locale] ??
+    translations?.en ??
+    translations?.vi ??
+    translation;
+  const hasDetails = Boolean(pronunciation || resolvedTranslation);
 
   return (
     <div className={`space-y-1 ${className ?? ''}`.trim()}>
@@ -71,7 +81,7 @@ export default function LanguageText({
           }`.trim()}
         >
           {pronunciation ? <p>{pronunciation}</p> : undefined}
-          {translation ? <p>{translation}</p> : undefined}
+          {resolvedTranslation ? <p>{resolvedTranslation}</p> : undefined}
         </div>
       ) : undefined}
     </div>

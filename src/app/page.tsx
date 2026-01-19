@@ -1,3 +1,4 @@
+import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
 import { languages } from '@/lib/languages';
 import Link from 'next/link';
@@ -29,9 +30,16 @@ export default function Home() {
           return (
             <section key={language.id} className="space-y-3">
               <div>
-                <h2 className="text-xl font-semibold">{language.label}</h2>
+                <h2 className="text-xl font-semibold">
+                  <LocalizedText translations={language.label.translations} fallback={language.label.text} />
+                </h2>
                 <p className="text-sm text-zinc-600 dark:text-zinc-300">
-                  {languageDescription ?? (
+                  {languageDescription ? (
+                    <LocalizedText
+                      translations={languageDescription.translations}
+                      fallback={languageDescription.text}
+                    />
+                  ) : (
                     <TranslatedText
                       id="home.startLearning"
                       fallback="Start learning today."
@@ -50,9 +58,19 @@ export default function Home() {
                       href={`/languages/${language.id}/${level.id}`}
                       className="glass-card rounded-2xl p-4 transition hover:scale-[1.01]"
                     >
-                      <h3 className="text-lg font-semibold">{level.label}</h3>
+                      <h3 className="text-lg font-semibold">
+                        <LocalizedText
+                          translations={level.label.translations}
+                          fallback={level.label.text}
+                        />
+                      </h3>
                       <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-300">
-                        {levelDescription ?? (
+                        {levelDescription ? (
+                          <LocalizedText
+                            translations={levelDescription.translations}
+                            fallback={levelDescription.text}
+                          />
+                        ) : (
                           <TranslatedText
                             id="home.startLearning"
                             fallback="Start learning today."

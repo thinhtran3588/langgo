@@ -1,22 +1,30 @@
 import languagesData from '@/data/languages.json';
 
+export type LocalizedField = {
+  text: string;
+  translations?: {
+    en?: string;
+    vi?: string;
+  };
+};
+
 export type Lesson = {
   id: string;
-  label: string;
-  description?: string;
+  label: LocalizedField;
+  description?: LocalizedField;
 };
 
 export type Level = {
   id: string;
-  label: string;
-  description?: string;
+  label: LocalizedField;
+  description?: LocalizedField;
   lessons: Lesson[];
 };
 
 export type Language = {
   id: string;
-  label: string;
-  description?: string;
+  label: LocalizedField;
+  description?: LocalizedField;
   levels: Level[];
 };
 

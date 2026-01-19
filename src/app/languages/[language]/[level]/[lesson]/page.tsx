@@ -4,25 +4,31 @@ import ContentTabs from '@/components/ContentTabs';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import GamesTab from '@/components/GamesTab';
 import LanguageText from '@/components/LanguageText';
+import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
 import { getLanguage, getLesson, getLevel } from '@/lib/languages';
 import { notFound } from 'next/navigation';
+
+type LessonTranslations = {
+  en?: string;
+  vi?: string;
+};
 
 type LessonData = {
   title?: {
     text: string;
     pronunciation?: string;
-    translation?: string;
+    translations?: LessonTranslations;
   };
   newWords?: Array<{
     word: string;
     type?: string;
     pronunciation?: string;
-    translation?: string;
+    translations?: LessonTranslations;
     example?: {
       text: string;
       pronunciation?: string;
-      translation?: string;
+      translations?: LessonTranslations;
     };
   }>;
   grammars?: Array<{
@@ -31,7 +37,7 @@ type LessonData = {
     examples?: Array<{
       text: string;
       pronunciation?: string;
-      translation?: string;
+      translations?: LessonTranslations;
     }>;
   }>;
   dialogs?: Array<{
@@ -39,12 +45,12 @@ type LessonData = {
     name?: {
       text: string;
       pronunciation?: string;
-      translation?: string;
+      translations?: LessonTranslations;
     };
     sentences?: Array<{
       text: string;
       pronunciation?: string;
-      translation?: string;
+      translations?: LessonTranslations;
     }>;
   }>;
 };
@@ -64,7 +70,7 @@ const readLessonData = async (
   languageId: string,
   levelId: string,
   lessonId: string
-) => {
+): Promise<LessonData | undefined> => {
   const lessonPath = path.join(
     process.cwd(),
     'public',
@@ -155,7 +161,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                     </span>
                   </div>
                   <div className="text-zinc-700 dark:text-zinc-200 md:contents">
-                    <span>{entry.translation ?? '—'}</span>
+                    <LocalizedText translations={entry.translations} />
                   </div>
                 </div>
               ))}
@@ -207,9 +213,11 @@ export default async function LessonPage({ params }: LessonPageProps) {
                               : '—'}
                           </span>
                         </div>
-                        <p className="text-sm text-zinc-600 dark:text-zinc-300">
-                          {dialog.name?.translation ?? '—'}
-                        </p>
+                        <LocalizedText
+                          as="p"
+                          className="text-sm text-zinc-600 dark:text-zinc-300"
+                          translations={dialog.name?.translations}
+                        />
                       </div>
                       <span className="mt-1 inline-flex h-7 w-7 items-center justify-center rounded-full border border-zinc-200 text-zinc-500 transition dark:border-zinc-800 dark:text-zinc-400">
                         <svg
@@ -237,7 +245,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                           <LanguageText
                             text={sentence.text}
                             pronunciation={sentence.pronunciation}
-                            translation={sentence.translation}
+                            translations={sentence.translations}
                             textClassName="text-lg font-medium text-zinc-900 dark:text-zinc-100"
                           />
                         </li>
@@ -298,7 +306,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                       <LanguageText
                         text={example.text}
                         pronunciation={example.pronunciation}
-                        translation={example.translation}
+                        translations={example.translations}
                         textClassName="text-lg font-medium text-zinc-900 dark:text-zinc-100"
                       />
                     </div>
@@ -371,17 +379,33 @@ export default async function LessonPage({ params }: LessonPageProps) {
     <section className="space-y-8">
       <header className="space-y-3">
         <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          {language.label} · {level.label} · {lesson.label}
+          <LocalizedText
+            translations={language.label.translations}
+            fallback={language.label.text}
+          />{' '}
+          ·{' '}
+          <LocalizedText
+            translations={level.label.translations}
+            fallback={level.label.text}
+          />{' '}
+          ·{' '}
+          <LocalizedText
+            translations={lesson.label.translations}
+            fallback={lesson.label.text}
+          />
         </p>
         <LanguageText
-          text={lessonData.title?.text ?? lesson.label}
+          text={lessonData.title?.text ?? lesson.label.text}
           pronunciation={lessonData.title?.pronunciation}
-          translation={lessonData.title?.translation}
+          translations={lessonData.title?.translations}
           textClassName="text-4xl font-semibold tracking-tight text-zinc-900 sm:text-5xl dark:text-zinc-100"
         />
         {lesson.description ? (
           <p className="text-sm text-zinc-600 dark:text-zinc-300">
-            {lesson.description}
+            <LocalizedText
+              translations={lesson.description.translations}
+              fallback={lesson.description.text}
+            />
           </p>
         ) : undefined}
       </header>
