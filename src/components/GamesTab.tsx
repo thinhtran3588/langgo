@@ -3,10 +3,11 @@
 import FlashcardGame from '@/components/FlashcardGame';
 import { useI18n } from '@/components/I18nProvider';
 import MultipleChoiceGame from '@/components/MultipleChoiceGame';
+import ReadDialogGame from '@/components/ReadDialogGame';
 import { type TranslationsMap } from '@/lib/i18n';
 import { useState } from 'react';
 
-type GameOption = 'flashcard' | 'multiple-choice' | undefined;
+type GameOption = 'flashcard' | 'multiple-choice' | 'read-dialog' | undefined;
 
 type GamesTabProps = {
   words: Array<{
@@ -20,10 +21,41 @@ type GamesTabProps = {
       translations?: TranslationsMap;
     };
   }>;
+  dialogs?: Array<{
+    lesson: {
+      id: string;
+      text: string;
+      translations?: TranslationsMap;
+    };
+    dialogNumber: number;
+    dialog: {
+      id?: number;
+      name?: {
+        text: string;
+        pronunciation?: string;
+        translations?: TranslationsMap;
+      };
+      sentences?: Array<{
+        text: string;
+        pronunciation?: string;
+        translations?: TranslationsMap;
+      }>;
+    };
+  }>;
+  languageId?: string;
+  courseId?: string;
+  levelId?: string;
   storageKey?: string;
 };
 
-const GamesTab = ({ words, storageKey }: GamesTabProps) => {
+const GamesTab = ({
+  words,
+  dialogs = [],
+  languageId,
+  courseId,
+  levelId,
+  storageKey,
+}: GamesTabProps) => {
   const [activeGame, setActiveGame] = useState<GameOption>(undefined);
   const { locale, t } = useI18n();
 
@@ -72,6 +104,28 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
     );
   }
 
+  if (activeGame === 'read-dialog') {
+    return (
+      <div className="space-y-4">
+        <button
+          type="button"
+          onClick={() => setActiveGame(undefined)}
+          className="inline-flex items-center gap-2 text-sm font-semibold text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-300 dark:hover:text-white"
+        >
+          <span className="text-lg">←</span>
+          {t('games.backToGames')}
+        </button>
+        <ReadDialogGame
+          dialogs={dialogs}
+          languageId={languageId}
+          courseId={courseId}
+          levelId={levelId}
+          key={`read-dialog-${dialogs.length}`}
+        />
+      </div>
+    );
+  }
+
   return (
     <div className="space-y-4">
       <div className="space-y-1">
@@ -115,6 +169,24 @@ const GamesTab = ({ words, storageKey }: GamesTabProps) => {
             <span aria-hidden="true">→</span>
           </span>
         </button>
+        {dialogs.length ? (
+          <button
+            type="button"
+            onClick={() => setActiveGame('read-dialog')}
+            className="group rounded-2xl border border-zinc-200 bg-white p-5 text-left shadow-sm transition hover:border-zinc-300 hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900/40"
+          >
+            <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
+              {t('games.readDialog')}
+            </p>
+            <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-300">
+              {t('games.readDialogDesc')}
+            </p>
+            <span className="mt-4 inline-flex items-center gap-1 text-xs font-semibold uppercase tracking-wide text-zinc-400 transition group-hover:text-zinc-600 dark:group-hover:text-zinc-200">
+              {t('games.playNow')}
+              <span aria-hidden="true">→</span>
+            </span>
+          </button>
+        ) : undefined}
       </div>
     </div>
   );

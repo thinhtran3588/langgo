@@ -27,6 +27,22 @@ type LessonTranslations = {
   vi?: string;
 };
 
+type DialogSentence = {
+  text: string;
+  pronunciation?: string;
+  translations?: LessonTranslations;
+};
+
+type DialogEntry = {
+  id?: number;
+  name?: {
+    text: string;
+    pronunciation?: string;
+    translations?: LessonTranslations;
+  };
+  sentences?: DialogSentence[];
+};
+
 type LessonData = {
   title?: {
     text: string;
@@ -53,6 +69,7 @@ type LessonData = {
       translations?: LessonTranslations;
     }>;
   }>;
+  dialogs?: DialogEntry[];
 };
 
 type LessonEntry = {
@@ -196,6 +213,33 @@ const LevelOverviewTabs = ({
           : []
       ),
     [lessonEntries, selectedLessonSet]
+  );
+
+  const dialogsByLessonId = useMemo(
+    () => new Map(lessonEntries.map((entry) => [entry.lesson.id, entry])),
+    [lessonEntries]
+  );
+
+  const allDialogs = useMemo(
+    () =>
+      selectedLessonIds.flatMap((lessonId) => {
+        const entry = dialogsByLessonId.get(lessonId);
+        if (!entry) {
+          return [];
+        }
+        return (entry.data.dialogs ?? [])
+          .filter((dialog) => dialog.sentences?.length)
+          .map((dialog, dialogIndex) => ({
+            lesson: {
+              id: entry.lesson.id,
+              text: entry.lesson.label.text,
+              translations: entry.lesson.label.translations,
+            },
+            dialogNumber: dialog.id ?? dialogIndex + 1,
+            dialog,
+          }));
+      }),
+    [dialogsByLessonId, selectedLessonIds]
   );
 
   const lessonsContent = (
@@ -470,6 +514,10 @@ const LevelOverviewTabs = ({
       </div>
       <GamesTab
         words={selectedWords}
+        dialogs={allDialogs}
+        languageId={languageId}
+        courseId={courseId}
+        levelId={levelId}
         storageKey={`langgo.flashcard.${languageId}.${courseId}.${levelId}`}
       />
     </div>
