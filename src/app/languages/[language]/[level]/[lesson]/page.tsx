@@ -18,6 +18,11 @@ type LessonData = {
     type?: string;
     pronunciation?: string;
     translation?: string;
+    example?: {
+      text: string;
+      pronunciation?: string;
+      translation?: string;
+    };
   }>;
   grammars?: Array<{
     grammar: string;
@@ -111,19 +116,15 @@ export default async function LessonPage({ params }: LessonPageProps) {
               {lessonData.newWords.map((entry, index) => (
                 <div
                   key={`${entry.word}-${index}`}
-                  className="grid grid-cols-1 gap-3 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid-cols-4 md:items-center md:gap-2"
+                  className="flex flex-col gap-2 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid md:grid-cols-4 md:items-center md:gap-2"
                 >
-                  <div className="flex items-center justify-between gap-3 md:justify-start">
+                  <div className="flex flex-wrap items-center gap-3 md:contents">
                     <span className="text-xl font-semibold text-zinc-900 sm:text-2xl dark:text-zinc-100">
                       {entry.word}
                     </span>
-                  </div>
-                  <div className="flex items-center justify-between gap-3 md:justify-start">
                     <span className="text-zinc-600 dark:text-zinc-300">
-                      {entry.pronunciation ?? '—'}
+                      {entry.pronunciation ? `[${entry.pronunciation}]` : '—'}
                     </span>
-                  </div>
-                  <div className="flex items-center justify-between gap-3 md:justify-start">
                     <span>
                       {entry.type ? (
                         <span className="inline-flex rounded-full border border-zinc-200 bg-white px-2 py-1 text-xs font-medium text-zinc-600 dark:border-zinc-700 dark:bg-zinc-900 dark:text-zinc-300">
@@ -134,10 +135,8 @@ export default async function LessonPage({ params }: LessonPageProps) {
                       )}
                     </span>
                   </div>
-                  <div className="flex items-center justify-between gap-3 md:justify-start">
-                    <span className="text-zinc-700 dark:text-zinc-200">
-                      {entry.translation ?? '—'}
-                    </span>
+                  <div className="text-zinc-700 dark:text-zinc-200 md:contents">
+                    <span>{entry.translation ?? '—'}</span>
                   </div>
                 </div>
               ))}
@@ -170,19 +169,19 @@ export default async function LessonPage({ params }: LessonPageProps) {
                   <summary className="cursor-pointer list-none rounded-xl px-4 py-3 outline-none transition hover:bg-zinc-50 dark:hover:bg-zinc-950">
                     <div className="flex items-start justify-between gap-4">
                       <div className="space-y-1">
-                        <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-                          {dialog.name?.text ?? `Dialog ${index + 1}`}
+                        <div className="flex flex-wrap items-center gap-3">
+                          <p className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
+                            {dialog.name?.text ?? `Dialog ${index + 1}`}
+                          </p>
+                          <span className="text-sm text-zinc-500 dark:text-zinc-400">
+                            {dialog.name?.pronunciation
+                              ? `[${dialog.name.pronunciation}]`
+                              : '—'}
+                          </span>
+                        </div>
+                        <p className="text-sm text-zinc-600 dark:text-zinc-300">
+                          {dialog.name?.translation ?? '—'}
                         </p>
-                        {dialog.name?.pronunciation ? (
-                          <p className="text-sm text-zinc-500 dark:text-zinc-400">
-                            {dialog.name.pronunciation}
-                          </p>
-                        ) : undefined}
-                        {dialog.name?.translation ? (
-                          <p className="text-sm text-zinc-600 dark:text-zinc-300">
-                            {dialog.name.translation}
-                          </p>
-                        ) : undefined}
                       </div>
                       <span className="mt-1 inline-flex h-7 w-7 items-center justify-center rounded-full border border-zinc-200 text-zinc-500 transition dark:border-zinc-800 dark:text-zinc-400">
                         <svg

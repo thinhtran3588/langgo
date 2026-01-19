@@ -7,6 +7,11 @@ type FlashcardWord = {
   type?: string;
   pronunciation?: string;
   translation?: string;
+  example?: {
+    text: string;
+    pronunciation?: string;
+    translation?: string;
+  };
 };
 
 type FlashcardGameProps = {
@@ -308,6 +313,26 @@ const FlashcardGame = ({
                   Translation
                 </span>
                 <span>{activeWord?.translation ?? '—'}</span>
+              </div>
+              <div className="flex flex-col gap-2">
+                <span className="w-fit rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
+                  Example
+                </span>
+                <div className="space-y-1 text-sm text-zinc-700 dark:text-zinc-200">
+                  <p className="text-base font-medium text-zinc-900 dark:text-zinc-100">
+                    {activeWord?.example?.text ?? '—'}
+                  </p>
+                  {activeWord?.example?.pronunciation ? (
+                    <p className="text-xs text-zinc-500 dark:text-zinc-400">
+                      [{activeWord.example.pronunciation}]
+                    </p>
+                  ) : undefined}
+                  {activeWord?.example?.translation ? (
+                    <p className="text-sm text-zinc-600 dark:text-zinc-300">
+                      {activeWord.example.translation}
+                    </p>
+                  ) : undefined}
+                </div>
               </div>
             </div>
           ) : (

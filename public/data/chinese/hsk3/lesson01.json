@@ -9,91 +9,166 @@
       "word": "周末",
       "type": "danh từ",
       "pronunciation": "zhōumò",
-      "translation": "cuối tuần"
+      "translation": "cuối tuần",
+      "example": {
+        "text": "周末你有什么打算？",
+        "pronunciation": "Zhōumò nǐ yǒu shénme dǎsuàn?",
+        "translation": "Cuối tuần anh có dự định gì không?"
+      }
     },
     {
       "word": "打算",
       "type": "danh từ/động từ",
       "pronunciation": "dǎsuàn",
-      "translation": "kế hoạch; dự định"
+      "translation": "kế hoạch; dự định",
+      "example": {
+        "text": "周末你有什么打算？",
+        "pronunciation": "Zhōumò nǐ yǒu shénme dǎsuàn?",
+        "translation": "Cuối tuần anh có dự định gì không?"
+      }
     },
     {
       "word": "啊",
       "type": "trợ từ",
       "pronunciation": "a",
-      "translation": "được dùng ở cuối câu để khẳng định hay biện minh cho điều gì"
+      "translation": "được dùng ở cuối câu để khẳng định hay biện minh cho điều gì",
+      "example": {
+        "text": "那也不能一直玩儿啊。",
+        "pronunciation": "Nà yě bù néng yìzhí wánr a.",
+        "translation": "Thế thì cũng không thể chơi suốt được chứ."
+      }
     },
     {
       "word": "跟",
       "type": "giới từ",
       "pronunciation": "gēn",
-      "translation": "cùng, với"
+      "translation": "cùng, với",
+      "example": {
+        "text": "下个月我去旅游，你能跟我一起去吗？",
+        "pronunciation": "Xià ge yuè wǒ qù lǚyóu, nǐ néng gēn wǒ yìqǐ qù ma?",
+        "translation": "Tháng sau tôi đi du lịch, bạn có thể đi cùng tôi không?"
+      }
     },
     {
       "word": "一直",
       "type": "phó từ",
       "pronunciation": "yìzhí",
-      "translation": "suốt, liên tục"
+      "translation": "suốt, liên tục",
+      "example": {
+        "text": "你一直玩儿电脑游戏，作业写完了吗？",
+        "pronunciation": "Nǐ yìzhí wánr diànnǎo yóuxì, zuòyè xiěwán le ma?",
+        "translation": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?"
+      }
     },
     {
       "word": "游戏",
       "type": "danh từ",
       "pronunciation": "yóuxì",
-      "translation": "trò chơi"
+      "translation": "trò chơi",
+      "example": {
+        "text": "你一直玩儿电脑游戏，作业写完了吗？",
+        "pronunciation": "Nǐ yìzhí wánr diànnǎo yóuxì, zuòyè xiěwán le ma?",
+        "translation": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?"
+      }
     },
     {
       "word": "作业",
       "type": "danh từ",
       "pronunciation": "zuòyè",
-      "translation": "bài tập về nhà"
+      "translation": "bài tập về nhà",
+      "example": {
+        "text": "你一直玩儿电脑游戏，作业写完了吗？",
+        "pronunciation": "Nǐ yìzhí wánr diànnǎo yóuxì, zuòyè xiěwán le ma?",
+        "translation": "Con cứ chơi trò chơi máy tính suốt, bài tập làm xong chưa?"
+      }
     },
     {
       "word": "着急",
       "type": "tính từ",
       "pronunciation": "zháojí",
-      "translation": "lo lắng"
+      "translation": "lo lắng",
+      "example": {
+        "text": "明天不是有考试吗？你怎么一点儿也不着急？",
+        "pronunciation": "Míngtiān bú shì yǒu kǎoshì ma? Nǐ zěnme yìdiǎnr yě bù zháojí?",
+        "translation": "Ngày mai không phải có thi sao? Sao con một chút cũng không lo lắng thế?"
+      }
     },
     {
       "word": "复习",
       "type": "động từ",
       "pronunciation": "fùxí",
-      "translation": "ôn tập"
+      "translation": "ôn tập",
+      "example": {
+        "text": "我早就复习好了。",
+        "pronunciation": "Wǒ zǎo jiù fùxí hǎo le.",
+        "translation": "Con đã ôn tập xong từ sớm rồi ạ."
+      }
     },
     {
       "word": "南(方)",
       "type": "danh từ",
       "pronunciation": "nán (fāng)",
-      "translation": "phía nam, miền nam"
+      "translation": "phía nam, miền nam",
+      "example": {
+        "text": "南方啊，我们去年就是这个时候去的。",
+        "pronunciation": "Nánfāng a, wǒmen qùnián jiù shì zhège shíhou qù de.",
+        "translation": "Phía Nam á, năm ngoái chúng ta đi chính vào lúc này mà."
+      }
     },
     {
       "word": "北方",
       "type": "danh từ",
       "pronunciation": "běifāng",
-      "translation": "phía bắc, miền bắc"
+      "translation": "phía bắc, miền bắc",
+      "example": {
+        "text": "南方太热了，北方好一些，不冷也不热。",
+        "pronunciation": "Nánfāng tài rè le, běifāng hǎo yìxiē, bù lěng yě bú rè.",
+        "translation": "Phía Nam nóng quá, phía Bắc tốt hơn một chút, không lạnh cũng không nóng."
+      }
     },
     {
       "word": "面包",
       "type": "danh từ",
       "pronunciation": "miànbāo",
-      "translation": "bánh mì"
+      "translation": "bánh mì",
+      "example": {
+        "text": "水果、面包、茶都准备好了，我们还带什么？",
+        "pronunciation": "Shuǐguǒ, miànbāo, chá dōu zhǔnbèi hǎo le, wǒmen hái dài shénme?",
+        "translation": "Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?"
+      }
     },
     {
       "word": "带",
       "type": "động từ",
       "pronunciation": "dài",
-      "translation": "mang theo"
+      "translation": "mang theo",
+      "example": {
+        "text": "水果、面包、茶都准备好了，我们还带什么？",
+        "pronunciation": "Shuǐguǒ, miànbāo, chá dōu zhǔnbèi hǎo le, wǒmen hái dài shénme?",
+        "translation": "Trái cây, bánh mì, trà đều chuẩn bị xong rồi, chúng ta còn mang theo gì nữa?"
+      }
     },
     {
       "word": "地图",
       "type": "danh từ",
       "pronunciation": "dìtú",
-      "translation": "bản đồ"
+      "translation": "bản đồ",
+      "example": {
+        "text": "手机、电脑、地图，一个也不能少。",
+        "pronunciation": "Shǒujī, diànnǎo, dìtú, yí ge yě bù néng shǎo.",
+        "translation": "Điện thoại, máy tính, bản đồ, một cái cũng không được thiếu."
+      }
     },
     {
       "word": "搬",
       "type": "động từ",
       "pronunciation": "bān",
-      "translation": "dọn, dời"
+      "translation": "dọn, dời",
+      "example": {
+        "text": "我们是去旅游，不是搬家，还是少带一些吧。",
+        "pronunciation": "Wǒmen shì qù lǚyóu, bú shì bān jiā, háishi shǎo dài yìxiē ba.",
+        "translation": "Chúng ta là đi du lịch, không phải chuyển nhà, hay là mang ít đi một chút nhé."
+      }
     }
   ],
   "grammars": [

@@ -12,6 +12,11 @@ type GamesTabProps = {
     type?: string;
     pronunciation?: string;
     translation?: string;
+    example?: {
+      text: string;
+      pronunciation?: string;
+      translation?: string;
+    };
   }>;
   storageKey?: string;
 };

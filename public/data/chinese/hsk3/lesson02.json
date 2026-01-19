@@ -9,37 +9,67 @@
       "word": "腿",
       "type": "danh từ",
       "pronunciation": "tuǐ",
-      "translation": "chân"
+      "translation": "chân",
+      "example": {
+        "text": "我现在腿也疼，脚也疼。",
+        "pronunciation": "Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
+        "translation": "Bây giờ chân em đau, bàn chân cũng đau."
+      }
     },
     {
       "word": "疼",
       "type": "tính từ",
       "pronunciation": "téng",
-      "translation": "đau, nhức"
+      "translation": "đau, nhức",
+      "example": {
+        "text": "我现在腿也疼，脚也疼。",
+        "pronunciation": "Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
+        "translation": "Bây giờ chân em đau, bàn chân cũng đau."
+      }
     },
     {
       "word": "脚",
       "type": "danh từ",
       "pronunciation": "jiǎo",
-      "translation": "bàn chân"
+      "translation": "bàn chân",
+      "example": {
+        "text": "我现在腿也疼，脚也疼。",
+        "pronunciation": "Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
+        "translation": "Bây giờ chân em đau, bàn chân cũng đau."
+      }
     },
     {
       "word": "树",
       "type": "danh từ",
       "pronunciation": "shù",
-      "translation": "cây"
+      "translation": "cây",
+      "example": {
+        "text": "那边树多，我们过去坐一下吧。",
+        "pronunciation": "Nàbian shù duō, wǒmen guòqu zuò yíxià ba.",
+        "translation": "Đằng kia nhiều cây, chúng ta qua đó ngồi một lát đi."
+      }
     },
     {
       "word": "容易",
       "type": "tính từ",
       "pronunciation": "róngyì",
-      "translation": "dễ, dễ dàng"
+      "translation": "dễ, dễ dàng",
+      "example": {
+        "text": "上山容易下山难，你不知道？",
+        "pronunciation": "Shàng shān róngyì xià shān nán, nǐ bù zhīdào?",
+        "translation": "Lên núi dễ xuống núi khó, em không biết sao?"
+      }
     },
     {
       "word": "难",
       "type": "tính từ",
       "pronunciation": "nán",
-      "translation": "khó, khó khăn"
+      "translation": "khó, khó khăn",
+      "example": {
+        "text": "上山容易下山难，你不知道？",
+        "pronunciation": "Shàng shān róngyì xià shān nán, nǐ bù zhīdào?",
+        "translation": "Lên núi dễ xuống núi khó, em không biết sao?"
+      }
     },
     {
       "word": "太太",
@@ -57,67 +87,117 @@
       "word": "经理",
       "type": "danh từ",
       "pronunciation": "jīnglǐ",
-      "translation": "giám đốc"
+      "translation": "giám đốc",
+      "example": {
+        "text": "周经理出去了，不在办公室。",
+        "pronunciation": "Zhōu jīnglǐ chūqu le, bú zài bàngōngshì.",
+        "translation": "Giám đốc Châu ra ngoài rồi, không ở văn phòng."
+      }
     },
     {
       "word": "办公室",
       "type": "danh từ",
       "pronunciation": "bàngōngshì",
-      "translation": "văn phòng"
+      "translation": "văn phòng",
+      "example": {
+        "text": "周经理出去了，不在办公室。",
+        "pronunciation": "Zhōu jīnglǐ chūqu le, bú zài bàngōngshì.",
+        "translation": "Giám đốc Châu ra ngoài rồi, không ở văn phòng."
+      }
     },
     {
       "word": "辆",
       "type": "lượng từ",
       "pronunciation": "liàng",
-      "translation": "(được dùng cho xe cộ) chiếc"
+      "translation": "(được dùng cho xe cộ) chiếc",
+      "example": {
+        "text": "我出去叫辆出租车就行了。",
+        "pronunciation": "Wǒ chūqu jiào liàng chūzūchē jiù xíng le.",
+        "translation": "Em ra ngoài gọi chiếc taxi là được rồi."
+      }
     },
     {
       "word": "楼",
       "type": "danh từ",
       "pronunciation": "lóu",
-      "translation": "tòa nhà, lầu"
+      "translation": "tòa nhà, lầu",
+      "example": {
+        "text": "我上楼去给你拿把伞。",
+        "pronunciation": "Wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "translation": "Anh lên lầu lấy cho em cây dù."
+      }
     },
     {
       "word": "拿",
       "type": "động từ",
       "pronunciation": "ná",
-      "translation": "cầm, lấy"
+      "translation": "cầm, lấy",
+      "example": {
+        "text": "我上楼去给你拿把伞。",
+        "pronunciation": "Wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "translation": "Anh lên lầu lấy cho em cây dù."
+      }
     },
     {
       "word": "把",
       "type": "lượng từ",
       "pronunciation": "bǎ",
-      "translation": "(được dùng cho vật có cán hoặc tay cầm) con, cây"
+      "translation": "(được dùng cho vật có cán hoặc tay cầm) con, cây",
+      "example": {
+        "text": "我上楼去给你拿把伞。",
+        "pronunciation": "Wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "translation": "Anh lên lầu lấy cho em cây dù."
+      }
     },
     {
       "word": "伞",
       "type": "danh từ",
       "pronunciation": "sǎn",
-      "translation": "ô (dù)"
+      "translation": "ô (dù)",
+      "example": {
+        "text": "我上楼去给你拿把伞。",
+        "pronunciation": "Wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "translation": "Anh lên lầu lấy cho em cây dù."
+      }
     },
     {
       "word": "胖",
       "type": "tính từ",
       "pronunciation": "pàng",
-      "translation": "béo"
+      "translation": "béo",
+      "example": {
+        "text": "你看，我这么胖，怎么办呢？",
+        "pronunciation": "Nǐ kàn, wǒ zhème pàng, zěnme bàn ne?",
+        "translation": "Anh xem, em béo thế này, làm thế nào đây?"
+      }
     },
     {
       "word": "其实",
       "type": "phó từ",
       "pronunciation": "qíshí",
-      "translation": "thật ra"
+      "translation": "thật ra",
+      "example": {
+        "text": "其实我每天都运动。",
+        "pronunciation": "Qíshí wǒ měi tiān dōu yùndòng.",
+        "translation": "Thật ra ngày nào em cũng vận động."
+      }
     },
     {
       "word": "瘦",
       "type": "tính từ",
       "pronunciation": "shòu",
-      "translation": "gầy, gầy còm"
+      "translation": "gầy, gầy còm",
+      "example": {
+        "text": "但是你一点儿也没瘦！",
+        "pronunciation": "Dànshì nǐ yìdiǎnr yě méi shòu!",
+        "translation": "Nhưng em chẳng gầy đi chút nào!"
+      }
     }
   ],
   "grammars": [
     {
       "grammar": "简单趋向补语",
-      "description": "**Bổ ngữ chỉ phương hướng đơn giản**\n\nTrong tiếng Trung Quốc, `Động từ + 来/去` được dùng để chỉ phương hướng của hành động.\n\n* **来** chỉ hướng tiến về phía người nói.\n* **去** chỉ hướng rời xa người nói.\n* Các động từ thường dùng nhất là: 上, 下, 进, 出, 回, 过, 起 và một số động từ như 买, 带, 搬.\n\n**Lưu ý:**\n\n1.  Nếu tân ngữ là **danh từ chỉ nơi chốn** thì ta phải đặt tân ngữ trước 来/去.\n2.  Nếu tân ngữ là **danh từ chỉ sự vật** thì ta có thể đặt tân ngữ trước hoặc sau 来/去.",
+      "description": "**Bổ ngữ chỉ phương hướng đơn giản**\n\nTrong tiếng Trung Quốc, `Động từ + 来/去` được dùng để chỉ phương hướng của hành động.\n\n* **来** chỉ hướng tiến về phía người nói.\n* **去** chỉ hướng rời xa người nói.\n* Các động từ thường dùng nhất là: 上, 下, 进, 出, 回, 过, 起 và một số động từ như 买, 带, 搬.\n\n**Lưu ý:**\n\n1.  Nếu tân ngữ là **danh từ chỉ nơi chốn** thì ta phải đặt tân ngữ trước 来/去.\n2.  Nếu tân ngữ là **danh từ chỉ sự vật** thì ta có thể đặt tân ngữ trước hoặc sau 来/去。",
       "examples": [
         {
           "text": "我们在楼上等你呢，你上来吧。",
@@ -158,7 +238,7 @@
     },
     {
       "grammar": "两个动作连续发生",
-      "description": "**Cấu trúc diễn tả hai hành động xảy ra liên tiếp**\n\nCấu trúc `Động từ 1 + 了 + ... + 就 + Động từ 2 + ...` được dùng để diễn tả hai hành động xảy ra liên tiếp, hành động thứ hai nối tiếp ngay sau hành động thứ nhất.\n\n* Nếu câu có hai chủ ngữ thì ta đặt chủ ngữ thứ hai trước 就.",
+      "description": "**Cấu trúc diễn tả hai hành động xảy ra liên tiếp**\n\nCấu trúc `Động từ 1 + 了 + ... + 就 + Động từ 2 + ...` được dùng để diễn tả hai hành động xảy ra liên tiếp, hành động thứ hai nối tiếp ngay sau hành động thứ nhất.\n\n* Nếu câu có hai chủ ngữ thì ta đặt chủ ngữ thứ hai trước 就。",
       "examples": [
         {
           "text": "我下了课就吃饭。",
@@ -184,7 +264,7 @@
     },
     {
       "grammar": "反问的表达：能……吗？",
-      "description": "**Câu hỏi tu từ: 能……吗?**\n\nTiếng Trung có thể dùng `能……吗` để biểu thị câu hỏi tu từ.\n\n* Nếu thành phần đứng giữa `能` và `吗` có hình thức khẳng định thì cách diễn đạt này mang nghĩa phủ định.\n* Ngược lại, nếu mang hình thức phủ định thì mang nghĩa khẳng định.",
+      "description": "**Câu hỏi tu từ: 能……吗?**\n\nTiếng Trung có thể dùng `能……吗` để biểu thị câu hỏi tu từ.\n\n* Nếu thành phần đứng giữa `能` và `吗` có hình thức khẳng định thì cách diễn đạt này mang nghĩa phủ định.\n* Ngược lại, nếu mang hình thức phủ định thì mang nghĩa khẳng định。",
       "examples": [
         {
           "text": "你不做作业，也不练习，能学好吗？",
