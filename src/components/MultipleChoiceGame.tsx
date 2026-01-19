@@ -16,6 +16,8 @@ type Question = {
     label: string;
   }>;
   correctId: string;
+  promptIsWord: boolean;
+  optionsAreWord: boolean;
 };
 
 type MultipleChoiceGameProps = {
@@ -104,6 +106,8 @@ const buildQuestions = (
     const correctIndex = Math.floor(Math.random() * pool.length);
     const correctSource = pool[correctIndex];
     const correctId = `${correctSource.answerKey}-${index}`;
+    const optionsAreWord = correctSource.kind === 'translation-to-word';
+    const promptIsWord = !optionsAreWord;
     const optionIndices = new Set<number>([correctIndex]);
 
     while (optionIndices.size < 4) {
@@ -127,6 +131,8 @@ const buildQuestions = (
       prompt: correctSource.prompt,
       options,
       correctId,
+      promptIsWord,
+      optionsAreWord,
     });
   }
 
@@ -224,6 +230,12 @@ const MultipleChoiceGame = ({
 
   const activeQuestion = questions[currentIndex];
   const isCorrect = selectedId === activeQuestion.correctId;
+  const promptTextClass = activeQuestion.promptIsWord
+    ? 'text-3xl font-semibold text-zinc-900 sm:text-4xl dark:text-zinc-100'
+    : 'text-2xl font-semibold text-zinc-900 sm:text-3xl dark:text-zinc-100';
+  const optionTextClass = activeQuestion.optionsAreWord
+    ? 'text-lg sm:text-xl'
+    : 'text-sm sm:text-base';
 
   return (
     <div
@@ -235,7 +247,7 @@ const MultipleChoiceGame = ({
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-400">
           Multiple Choice
         </p>
-        <p className="mt-4 text-2xl font-semibold text-zinc-900 sm:text-3xl dark:text-zinc-100">
+        <p className={`mt-4 ${promptTextClass}`}>
           {activeQuestion.prompt}
         </p>
         <p className="mt-4 text-sm text-zinc-600 dark:text-zinc-300">
@@ -261,7 +273,8 @@ const MultipleChoiceGame = ({
               onClick={() => handleAnswer(option.id)}
               disabled={selectedId !== undefined}
               className={[
-                'rounded-2xl border px-4 py-3 text-left text-sm font-semibold shadow-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-zinc-400 focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-zinc-600 dark:focus-visible:ring-offset-zinc-900',
+                'rounded-2xl border px-4 py-3 text-left font-semibold shadow-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-zinc-400 focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-zinc-600 dark:focus-visible:ring-offset-zinc-900',
+                optionTextClass,
                 statusStyles,
                 selectedId ? 'cursor-default' : 'cursor-pointer',
               ].join(' ')}

@@ -111,17 +111,17 @@ export default async function LessonPage({ params }: LessonPageProps) {
               {lessonData.newWords.map((entry, index) => (
                 <div
                   key={`${entry.word}-${index}`}
-                  className="grid grid-cols-1 gap-3 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid-cols-4 md:gap-2"
+                  className="grid grid-cols-1 gap-3 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid-cols-4 md:items-center md:gap-2"
                 >
-                  <div className="flex items-center justify-between gap-3 md:block">
+                  <div className="flex items-center justify-between gap-3 md:justify-start">
                     <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
                       Word
                     </span>
-                    <span className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
+                    <span className="text-xl font-semibold text-zinc-900 sm:text-2xl dark:text-zinc-100">
                       {entry.word}
                     </span>
                   </div>
-                  <div className="flex items-center justify-between gap-3 md:block">
+                  <div className="flex items-center justify-between gap-3 md:justify-start">
                     <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
                       Pronunciation
                     </span>
@@ -129,7 +129,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                       {entry.pronunciation ?? '—'}
                     </span>
                   </div>
-                  <div className="flex items-center justify-between gap-3 md:block">
+                  <div className="flex items-center justify-between gap-3 md:justify-start">
                     <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
                       Type
                     </span>
@@ -143,7 +143,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                       )}
                     </span>
                   </div>
-                  <div className="flex items-center justify-between gap-3 md:block">
+                  <div className="flex items-center justify-between gap-3 md:justify-start">
                     <span className="text-xs font-semibold uppercase tracking-wide text-zinc-400 md:hidden">
                       Translation
                     </span>
@@ -223,7 +223,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                             text={sentence.text}
                             pronunciation={sentence.pronunciation}
                             translation={sentence.translation}
-                            textClassName="text-base font-medium text-zinc-900 dark:text-zinc-100"
+                            textClassName="text-lg font-medium text-zinc-900 dark:text-zinc-100"
                           />
                         </li>
                       ))}
@@ -281,7 +281,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
                         text={example.text}
                         pronunciation={example.pronunciation}
                         translation={example.translation}
-                        textClassName="font-medium text-zinc-900 dark:text-zinc-100"
+                        textClassName="text-lg font-medium text-zinc-900 dark:text-zinc-100"
                       />
                     </div>
                   ))}
@@ -340,7 +340,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
           text={lessonData.title?.text ?? lesson.label}
           pronunciation={lessonData.title?.pronunciation}
           translation={lessonData.title?.translation}
-          textClassName="text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100"
+          textClassName="text-4xl font-semibold tracking-tight text-zinc-900 sm:text-5xl dark:text-zinc-100"
         />
         {lesson.description ? (
           <p className="text-sm text-zinc-600 dark:text-zinc-300">

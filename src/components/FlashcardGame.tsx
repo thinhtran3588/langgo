@@ -286,7 +286,7 @@ const FlashcardGame = ({
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-400">
             Flashcard
           </p>
-          <p className="mt-4 text-2xl font-semibold text-zinc-900 sm:text-3xl dark:text-zinc-100">
+          <p className="mt-4 text-3xl font-semibold text-zinc-900 sm:text-4xl dark:text-zinc-100">
             {activeWord?.word}
           </p>
           {isRevealed ? (
