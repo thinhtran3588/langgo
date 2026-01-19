@@ -1,6 +1,7 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
 import ContentTabs from '@/components/ContentTabs';
+import DialogSentenceWithHighlights from '@/components/DialogSentenceWithHighlights';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import GamesTab from '@/components/GamesTab';
 import LanguageText from '@/components/LanguageText';
@@ -259,10 +260,11 @@ export default async function LessonPage({ params }: LessonPageProps) {
                           key={`${sentence.text}-${sentenceIndex}`}
                           className="rounded-lg border border-zinc-100 bg-white p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950"
                         >
-                          <LanguageText
+                          <DialogSentenceWithHighlights
                             text={sentence.text}
                             pronunciation={sentence.pronunciation}
                             translations={sentence.translations}
+                            newWords={lessonData.newWords ?? []}
                             textClassName="text-lg font-medium text-zinc-900 dark:text-zinc-100"
                           />
                         </li>

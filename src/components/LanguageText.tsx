@@ -1,10 +1,12 @@
 'use client';
 
 import { useI18n } from '@/components/I18nProvider';
+import type { ReactNode } from 'react';
 import { useState } from 'react';
 
 type LanguageTextProps = {
   text: string;
+  textContent?: ReactNode;
   pronunciation?: string;
   translation?: string;
   translations?: {
@@ -18,6 +20,7 @@ type LanguageTextProps = {
 
 export default function LanguageText({
   text,
+  textContent,
   pronunciation,
   translation,
   translations,
@@ -44,7 +47,7 @@ export default function LanguageText({
             'text-base font-semibold text-zinc-900 dark:text-zinc-100'
           }
         >
-          {text}
+          {textContent ?? text}
         </span>
         {hasDetails ? (
           <button
