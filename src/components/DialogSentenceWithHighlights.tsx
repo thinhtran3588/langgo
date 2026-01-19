@@ -32,6 +32,31 @@ type DialogSentenceWithHighlightsProps = {
 const escapeRegExp = (value: string) =>
   value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
+const buildWordVariants = (word: string) => {
+  const variants = new Set<string>();
+  const trimmed = word.trim();
+
+  if (!trimmed) {
+    return [];
+  }
+
+  variants.add(trimmed);
+
+  const withoutParens = trimmed.replace(/[()（）]/g, '');
+  if (withoutParens) {
+    variants.add(withoutParens);
+  }
+
+  const removedOptional = trimmed
+    .replace(/\([^)]*\)/g, '')
+    .replace(/（[^）]*）/g, '');
+  if (removedOptional) {
+    variants.add(removedOptional);
+  }
+
+  return Array.from(variants);
+};
+
 const resolveTranslation = (
   locale: 'en' | 'vi',
   translations?: LessonTranslations
@@ -82,7 +107,11 @@ const DialogSentenceWithHighlights = ({
     const map = new Map<string, NewWordEntry>();
     newWords.forEach((entry) => {
       if (entry.word) {
-        map.set(entry.word, entry);
+        buildWordVariants(entry.word).forEach((variant) => {
+          if (!map.has(variant)) {
+            map.set(variant, entry);
+          }
+        });
       }
     });
     return map;

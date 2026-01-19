@@ -17,7 +17,7 @@
         "en": "leg"
       },
       "example": {
-        "text": "我现在腿也疼，脚也疼。",
+        "text": "我现在腿也疼，脚 cũng téng.",
         "pronunciation": "Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
         "translations": {
           "vi": "Bây giờ chân em đau, bàn chân cũng đau.",
@@ -34,7 +34,7 @@
         "en": "pain; ache"
       },
       "example": {
-        "text": "我现在腿也疼，脚也疼。",
+        "text": "我现在腿也疼，脚 cũng téng.",
         "pronunciation": "Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
         "translations": {
           "vi": "Bây giờ chân em đau, bàn chân cũng đau.",
@@ -204,11 +204,11 @@
         "en": "building; floor"
       },
       "example": {
-        "text": "那你想等，我上楼去给你拿把伞。",
-        "pronunciation": "Nà nǐ děngdeng, wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "text": "那你等一等，我上楼去给你拿把伞。",
+        "pronunciation": "Nà nǐ děng yi děng, wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
         "translations": {
           "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
-          "en": "Then wait a moment, I'll go upstairs to get an umbrella for you."
+          "en": "Xiaogang: Then wait a moment, I'll go upstairs to get an umbrella for you."
         }
       }
     },
@@ -218,14 +218,14 @@
       "pronunciation": "ná",
       "translations": {
         "vi": "cầm, lấy",
-        "en": "to take; to bring"
+        "en": "to take; to fetch"
       },
       "example": {
-        "text": "那你想等，我上楼去给你拿把伞。",
-        "pronunciation": "Nà nǐ děngdeng, wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "text": "你在这儿等吧，我拿了伞就下来。",
+        "pronunciation": "Nǐ zài zhèr děng ba, wǒ nále sǎn jiù xiàlai.",
         "translations": {
-          "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
-          "en": "Then wait a moment, I'll go upstairs to get an umbrella for you."
+          "vi": "Em ở đây đợi đi, anh lấy dù rồi xuống ngay.",
+          "en": "Xiaogang: Wait here, I'll come down as soon as I get the umbrella."
         }
       }
     },
@@ -238,11 +238,11 @@
         "en": "measure word for objects with a handle"
       },
       "example": {
-        "text": "那你想等，我上楼去给你拿把伞。",
-        "pronunciation": "Nà nǐ děngdeng, wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "text": "我上楼去给你拿把伞。",
+        "pronunciation": "Wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
         "translations": {
-          "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
-          "en": "Then wait a moment, I'll go upstairs to get an umbrella for you."
+          "vi": "Anh lên lầu lấy cho em cây dù.",
+          "en": "Xiaogang: I'll go upstairs to get an umbrella for you."
         }
       }
     },
@@ -255,11 +255,11 @@
         "en": "umbrella"
       },
       "example": {
-        "text": "那你想等，我上楼去给你拿把伞。",
-        "pronunciation": "Nà nǐ děngdeng, wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+        "text": "我上楼去给你拿把伞。",
+        "pronunciation": "Wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
         "translations": {
-          "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
-          "en": "Then wait a moment, I'll go upstairs to get an umbrella for you."
+          "vi": "Anh lên lầu lấy cho em cây dù.",
+          "en": "Xiaogang: I'll go upstairs to get an umbrella for you."
         }
       }
     },
@@ -276,7 +276,7 @@
         "pronunciation": "Nǐ kàn, wǒ zhème pàng, zěnme bàn ne?",
         "translations": {
           "vi": "Anh xem, em béo thế này, làm thế nào đây?",
-          "en": "Look, I'm so fat, what should I do?"
+          "en": "Mrs. Zhou: Look, I'm so fat, what should I do?"
         }
       }
     },
@@ -293,7 +293,7 @@
         "pronunciation": "Qíshí wǒ měi tiān dōu yùndòng.",
         "translations": {
           "vi": "Thật ra ngày nào em cũng vận động.",
-          "en": "Actually, I exercise every day."
+          "en": "Mrs. Zhou: Actually, I exercise every day."
         }
       }
     },
@@ -310,7 +310,7 @@
         "pronunciation": "Dànshì nǐ yìdiǎnr yě méi shòu!",
         "translations": {
           "vi": "Nhưng em chẳng gầy đi chút nào!",
-          "en": "But you haven't lost any weight at all!"
+          "en": "Zhou Ming: But you haven't lost any weight at all!"
         }
       }
     }
@@ -318,7 +318,7 @@
   "grammars": [
     {
       "grammar": "简单趋向补语",
-      "description": "**Bổ ngữ chỉ phương hướng đơn giản**\n\nTrong tiếng Trung Quốc, `Động từ + 来/去` được dùng để chỉ phương hướng của hành động.\n\n* **来 (lái)**: chỉ hướng tiến về phía người nói.\n* **去 (qù)**: chỉ hướng rời xa người nói.\n* Các động từ thường dùng: 上, 下, 进, 出, 回, 过, 起, 买, 带, 搬.\n\n**Quy tắc tân ngữ:**\n1. Nếu tân ngữ là **nơi chốn**: đặt tân ngữ TRƯỚC 来/去. (Ví dụ: 小狗下楼来了)\n2. Nếu tân ngữ là **sự vật**: đặt tân ngữ TRƯỚC hoặc SAU 来/去. (Ví dụ: 明天要带作业来)",
+      "description": "**Bổ ngữ chỉ phương hướng đơn giản**\n\nTrong tiếng Trung Quốc, `Động từ + 来/去` được dùng để chỉ phương hướng của hành động.\n\n* **来 (lái)**: chỉ hướng tiến về phía người nói.\n* **去 (qù)**: chỉ hướng rời xa người nói.\n* Động từ thường dùng nhất: 上, 下, 进, 出, 回, 过, 起 và một số động từ khác như 买, 带, 搬.\n\n**Quy tắc vị trí tân ngữ:**\n\n1. Nếu tân ngữ là **danh từ chỉ nơi chốn**: phải đặt tân ngữ trước 来/去 (Ví dụ: 小狗下楼来了).\n2. Nếu tân ngữ là **danh từ chỉ sự vật**: có thể đặt tân ngữ trước hoặc sau 来/去 (Ví dụ: 明天要带作业来 hoặc 带来作业).",
       "examples": [
         {
           "text": "我们在楼上等你呢，你上来吧。",
@@ -340,14 +340,14 @@
     },
     {
       "grammar": "两个动作连续发生",
-      "description": "**Cấu trúc diễn tả hai hành động xảy ra liên tiếp**\n\nCấu trúc `Động từ 1 + 了 + ... + 就 + Động từ 2 + ...` dùng để diễn tả hành động thứ hai nối tiếp ngay sau hành động thứ nhất.\n\n* Nếu câu có hai chủ ngữ, đặt chủ ngữ thứ hai TRƯỚC **就 (jiù)**.",
+      "description": "**Cấu trúc diễn tả hai hành động xảy ra liên tiếp**\n\nCấu trúc `Động từ 1 + 了 + ... + 就 + Động từ 2 + ...` dùng để diễn tả hai hành động xảy ra liên tiếp, hành động thứ hai nối tiếp ngay sau hành động thứ nhất.\n\n* Nếu câu có hai chủ ngữ, chủ ngữ thứ hai phải đặt trước **就 (jiù)**.",
       "examples": [
         {
           "text": "我下了课就吃饭。",
           "pronunciation": "Wǒ xiàle kè jiù chī fàn.",
           "translations": {
             "vi": "Tôi tan học xong là ăn cơm ngay.",
-            "en": "I eat as soon as class is over."
+            "en": "I will eat as soon as class is over."
           }
         },
         {
@@ -362,7 +362,7 @@
     },
     {
       "grammar": "反问的表达：能……吗？",
-      "description": "**Câu hỏi tu từ: 能……吗?**\n\nTiếng Trung dùng `能……吗` để biểu thị phản vấn.\n* Nếu nội dung là **khẳng định**, câu mang nghĩa **phủ định**.\n* Nếu nội dung là **phủ định**, câu mang nghĩa **khẳng định**.",
+      "description": "**Câu hỏi tu từ: 能……吗?**\n\nTiếng Trung dùng `能……吗` để biểu thị câu hỏi tu từ (phản vấn).\n\n* Nếu nội dung giữa `能` và `吗` là hình thức **khẳng định**, câu mang nghĩa **phủ định**.\n* Nếu là hình thức **phủ định**, câu mang nghĩa **khẳng định**.",
       "examples": [
         {
           "text": "你不做作业，也不练习，能学好吗？",
@@ -404,11 +404,11 @@
           }
         },
         {
-          "text": "小丽：我现在腿也疼，脚也疼。",
+          "text": "小丽：我现在腿也疼，脚 cũng téng.",
           "pronunciation": "Xiǎolì: Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
           "translations": {
             "vi": "Tiểu Lệ: Bây giờ chân em đau, bàn chân cũng đau.",
-            "en": "Xiaoli: My legs hurt now, and my feet hurt too."
+            "en": "Xiaoli: My legs and feet both hurt now."
           }
         },
         {
@@ -416,7 +416,7 @@
           "pronunciation": "Xiǎogāng: Hǎo, nàbian shù duō, wǒmen guòqu zuò yíxià ba.",
           "translations": {
             "vi": "Tiểu Cương: Được, bên kia nhiều cây, chúng ta qua đó ngồi một lát đi.",
-            "en": "Okay, there are many trees over there, let's go over and sit for a while."
+            "en": "Xiaogang: Okay, there are many trees over there, let's go over and sit for a while."
           }
         },
         {
@@ -424,7 +424,7 @@
           "pronunciation": "Xiǎolì: Shànglai de shíhou wǒ zěnme méi juéde zhème lèi?",
           "translations": {
             "vi": "Tiểu Lệ: Lúc đi lên sao em không cảm thấy mệt thế này nhỉ?",
-            "en": "How come I didn't feel this tired when I was coming up?"
+            "en": "Xiaoli: How come I didn't feel this tired when I was coming up?"
           }
         },
         {
@@ -432,7 +432,7 @@
           "pronunciation": "Xiǎogāng: Shàng shān róngyì xià shān nán, nǐ bù zhīdào?",
           "translations": {
             "vi": "Tiểu Cương: Lên núi dễ xuống núi khó, em không biết sao?",
-            "en": "It's easy to go up the mountain but hard to go down, didn't you know?"
+            "en": "Xiaogang: It's easy to go up the mountain but hard to go down, didn't you know?"
           }
         }
       ]
@@ -463,6 +463,38 @@
             "vi": "Thư ký: Giám đốc Châu ra ngoài rồi, không ở văn phòng.",
             "en": "Secretary: Manager Zhou has gone out; he is not in the office."
           }
+        },
+        {
+          "text": "周太太：他去哪儿了？什么时候回来？",
+          "pronunciation": "Zhōu tàitai: Tā qù nǎr le? Shénme shíhou huílai?",
+          "translations": {
+            "vi": "Bà Châu: Anh ấy đi đâu rồi? Khi nào quay lại?",
+            "en": "Mrs. Zhou: Where did he go? When will he come back?"
+          }
+        },
+        {
+          "text": "秘书：他出去办事了，下午回来。",
+          "pronunciation": "mìshū: Tā chūqu bàn shì le, xiàwǔ huílai.",
+          "translations": {
+            "vi": "Thư ký: Anh ấy ra ngoài có việc rồi, chiều mới về.",
+            "en": "Secretary: He went out on business and will be back this afternoon."
+          }
+        },
+        {
+          "text": "周太太：回来了就让他给我打个电话。",
+          "pronunciation": "Zhōu tàitai: Huílai le jiù ràng tā gěi wǒ dǎ ge diànhuà.",
+          "translations": {
+            "vi": "Bà Châu: Về rồi thì bảo anh ấy gọi điện cho tôi nhé.",
+            "en": "Mrs. Zhou: Tell him to call me as soon as he gets back."
+          }
+        },
+        {
+          "text": "秘书：好的，他到了办公室我就告诉他。",
+          "pronunciation": "mìshū: Hǎo de, tā dàole bàngōngshì wǒ jiù gàosu tā.",
+          "translations": {
+            "vi": "Thư ký: Vâng, anh ấy đến văn phòng tôi sẽ bảo anh ấy.",
+            "en": "Secretary: Okay, I'll let him know as soon as he gets to the office."
+          }
         }
       ]
     },
@@ -482,7 +514,7 @@
           "pronunciation": "Xiǎogāng: Yǔ xià de zhēn dà. Nǐ zěnme huíqu? Wǒ sòng nǐ ba.",
           "translations": {
             "vi": "Tiểu Cương: Mưa to thật. Em về thế nào? Anh đưa em về nhé.",
-            "en": "The rain is really heavy. How will you get back? Let me take you."
+            "en": "Xiaogang: The rain is really heavy. How will you get back? Let me take you."
           }
         },
         {
@@ -490,7 +522,31 @@
           "pronunciation": "Xiǎolì: Méi shì, wǒ chūqu jiào liàng chūzūchē jiù xíng le.",
           "translations": {
             "vi": "Tiểu Lệ: Không sao, em ra ngoài gọi chiếc taxi là được rồi.",
-            "en": "No problem, I'll go out and call a taxi."
+            "en": "Xiaoli: No problem, I'll go out and call a taxi."
+          }
+        },
+        {
+          "text": "小刚：那你等一等，我上楼去给你拿把伞。",
+          "pronunciation": "Xiǎogāng: Nà nǐ děng yi děng, wǒ shàng lóu qù gěi nǐ ná bǎ sǎn.",
+          "translations": {
+            "vi": "Tiểu Cương: Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
+            "en": "Xiaogang: Then wait a moment, I'll go upstairs to get an umbrella for you."
+          }
+        },
+        {
+          "text": "小丽：好的。我跟你一起上去吧。",
+          "pronunciation": "Xiǎolì: Hǎo de. Wǒ gēn nǐ yìqǐ shàngqu ba.",
+          "translations": {
+            "vi": "Tiểu Lệ: Vâng. Em cùng anh đi lên nhé.",
+            "en": "Xiaoli: Okay. I'll go up with you."
+          }
+        },
+        {
+          "text": "小刚：你在这儿等吧，我拿了伞就下来。",
+          "pronunciation": "Xiǎogāng: Nǐ zài zhèr děng ba, wǒ nále sǎn jiù xiàlai.",
+          "translations": {
+            "vi": "Tiểu Cương: Em ở đây đợi đi, anh lấy dù rồi xuống ngay.",
+            "en": "Xiaogang: Wait here, I'll come down as soon as I get the umbrella."
           }
         }
       ]
@@ -515,11 +571,27 @@
           }
         },
         {
-          "text": "周明：其实我每天都运动。",
-          "pronunciation": "Zhōu Míng: Qíshí wǒ měi tiān dōu yùndòng.",
+          "text": "周明：你每天晚上吃了饭就睡觉，也不出去走走，能不胖吗？",
+          "pronunciation": "Zhōu Míng: Nǐ měi tiān wǎnshang chīle fàn jiù shuì jiào, yě bù chūqu zǒuzou, néng bú pàng ma？",
           "translations": {
-            "vi": "Châu Minh: Thật ra ngày nào em cũng vận động.",
-            "en": "Zhou Ming: Actually, I exercise every day."
+            "vi": "Châu Minh: Em mỗi tối ăn cơm xong là đi ngủ, cũng không ra ngoài đi lại, có thể không béo sao?",
+            "en": "Zhou Ming: You sleep right after dinner every night and don't go out for a walk, how could you not get fat?"
+          }
+        },
+        {
+          "text": "周太太：其实 i每天都运动。",
+          "pronunciation": "Zhōu tàitai: Qíshí wǒ měi tiān dōu yùndòng.",
+          "translations": {
+            "vi": "Bà Châu: Thật ra ngày nào em cũng vận động.",
+            "en": "Mrs. Zhou: Actually, I exercise every day."
+          }
+        },
+        {
+          "text": "周明：但是你一点儿也没瘦！你做什么运动了？",
+          "pronunciation": "Zhōu Míng: Dànshì nǐ yìdiǎnr yě méi shòu! Nǐ zuò shénme yùndòng le?",
+          "translations": {
+            "vi": "Châu Minh: Nhưng em chẳng gầy đi chút nào! Em làm vận động gì rồi?",
+            "en": "Zhou Ming: But you haven't lost any weight! What kind of exercise did you do?"
           }
         },
         {

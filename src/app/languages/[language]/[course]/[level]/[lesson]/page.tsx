@@ -8,6 +8,7 @@ import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
 import { getCourse, getLanguage, getLesson, getLevel } from '@/lib/languages';
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 type LessonTranslations = {
@@ -63,6 +64,11 @@ type LessonPageProps = {
     level: string;
     lesson: string;
   }>;
+};
+
+type LessonNavLink = {
+  href: string;
+  label: string;
 };
 
 const stripInlineMarkdown = (value: string) =>
@@ -394,36 +400,103 @@ export default async function LessonPage({ params }: LessonPageProps) {
     },
   ];
 
+  const lessonIndex = level.lessons.findIndex(
+    (entry) => entry.id === lessonId
+  );
+  const prevLesson = level.lessons[lessonIndex - 1];
+  const nextLesson = level.lessons[lessonIndex + 1];
+  const prevLink: LessonNavLink | undefined = prevLesson
+    ? {
+        href: `/languages/${languageId}/${courseId}/${levelId}/${prevLesson.id}`,
+        label: prevLesson.label.text,
+      }
+    : undefined;
+  const nextLink: LessonNavLink | undefined = nextLesson
+    ? {
+        href: `/languages/${languageId}/${courseId}/${levelId}/${nextLesson.id}`,
+        label: nextLesson.label.text,
+      }
+    : undefined;
+
   return (
     <section className="space-y-8">
       <header className="space-y-3">
-        <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-          <LocalizedText
-            translations={language.label.translations}
-            fallback={language.label.text}
-          />{' '}
-          ·{' '}
-          <LocalizedText
-            translations={course.label.translations}
-            fallback={course.label.text}
-          />{' '}
-          ·{' '}
-          <LocalizedText
-            translations={level.label.translations}
-            fallback={level.label.text}
-          />{' '}
-          ·{' '}
-          <LocalizedText
-            translations={lesson.label.translations}
-            fallback={lesson.label.text}
-          />
-        </p>
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+            <LocalizedText
+              translations={language.label.translations}
+              fallback={language.label.text}
+            />{' '}
+            ·{' '}
+            <LocalizedText
+              translations={course.label.translations}
+              fallback={course.label.text}
+            />{' '}
+            ·{' '}
+            <LocalizedText
+              translations={level.label.translations}
+              fallback={level.label.text}
+            />{' '}
+            ·{' '}
+            <LocalizedText
+              translations={lesson.label.translations}
+              fallback={lesson.label.text}
+            />
+          </p>
+          {prevLink || nextLink ? (
+            <div className="hidden flex-wrap items-center gap-3 sm:flex">
+              {prevLink ? (
+                <Link
+                  href={prevLink.href}
+                  className="rounded-full border border-zinc-200 px-4 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
+                >
+                  <TranslatedText
+                    id="learn.prevLesson"
+                    fallback="Previous lesson"
+                  />
+                </Link>
+              ) : undefined}
+              {nextLink ? (
+                <Link
+                  href={nextLink.href}
+                  className="rounded-full bg-zinc-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
+                >
+                  <TranslatedText id="learn.nextLesson" fallback="Next lesson" />
+                </Link>
+              ) : undefined}
+            </div>
+          ) : undefined}
+        </div>
         <LanguageText
           text={lessonData.title?.text ?? lesson.label.text}
           pronunciation={lessonData.title?.pronunciation}
           translations={lessonData.title?.translations}
           textClassName="text-4xl font-semibold tracking-tight text-zinc-900 sm:text-5xl dark:text-zinc-100"
         />
+        <div className="flex flex-wrap gap-3">
+          <Link
+            href={`/learn/${languageId}/${courseId}/${levelId}/${lessonId}`}
+            className="rounded-full bg-zinc-900 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
+          >
+            <TranslatedText id="lesson.learn" fallback="Learn" />
+          </Link>
+          {prevLink ? (
+            <Link
+              href={prevLink.href}
+              className="rounded-full border border-zinc-200 px-4 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white sm:hidden"
+            >
+              <TranslatedText id="learn.prevLesson" fallback="Previous lesson" />
+            </Link>
+          ) : undefined}
+          {nextLink ? (
+            <Link
+              href={nextLink.href}
+              className="rounded-full bg-zinc-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white sm:hidden"
+            >
+              <TranslatedText id="learn.nextLesson" fallback="Next lesson" />
+            </Link>
+          ) : undefined}
+        </div>
         {lesson.description ? (
           <p className="text-sm text-zinc-600 dark:text-zinc-300">
             <LocalizedText

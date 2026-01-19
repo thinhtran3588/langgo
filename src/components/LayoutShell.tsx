@@ -159,6 +159,14 @@ export default function LayoutShell({
     }));
   };
 
+  if (pathname.startsWith('/learn')) {
+    return (
+      <div className="min-h-screen bg-zinc-50 text-zinc-900 dark:bg-zinc-950 dark:text-zinc-50">
+        {children}
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen text-zinc-900 dark:text-zinc-50">
       <header className="sticky top-0 z-20">
