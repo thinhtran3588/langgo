@@ -17,7 +17,7 @@
         "en": "leg"
       },
       "example": {
-        "text": "我现在腿也疼，脚 cũng téng.",
+        "text": "我现在腿也疼，脚也疼。",
         "pronunciation": "Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
         "translations": {
           "vi": "Bây giờ chân em đau, bàn chân cũng đau.",
@@ -51,7 +51,7 @@
         "en": "foot"
       },
       "example": {
-        "text": "我现在腿也疼，脚 cũng téng.",
+        "text": "我现在腿也疼，脚也疼。",
         "pronunciation": "Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
         "translations": {
           "vi": "Bây giờ chân em đau, bàn chân cũng đau.",
@@ -318,7 +318,10 @@
   "grammars": [
     {
       "grammar": "简单趋向补语",
-      "description": "**Bổ ngữ chỉ phương hướng đơn giản**\n\nTrong tiếng Trung Quốc, `Động từ + 来/去` được dùng để chỉ phương hướng của hành động.\n\n* **来 (lái)**: chỉ hướng tiến về phía người nói.\n* **去 (qù)**: chỉ hướng rời xa người nói.\n* Động từ thường dùng nhất: 上, 下, 进, 出, 回, 过, 起 và một số động từ khác như 买, 带, 搬.\n\n**Quy tắc vị trí tân ngữ:**\n\n1. Nếu tân ngữ là **danh từ chỉ nơi chốn**: phải đặt tân ngữ trước 来/去 (Ví dụ: 小狗下楼来了).\n2. Nếu tân ngữ là **danh từ chỉ sự vật**: có thể đặt tân ngữ trước hoặc sau 来/去 (Ví dụ: 明天要带作业来 hoặc 带来作业).",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, `Động từ + 来/去` được dùng để chỉ phương hướng của hành động. **来 (lái)** chỉ hướng tiến về phía người nói, **去 (qù)** chỉ hướng rời xa người nói. Quy tắc tân ngữ: 1. Nếu tân ngữ là nơi chốn, phải đặt trước 来/去; 2. Nếu tân ngữ là sự vật, có thể đặt trước hoặc sau 来/去.",
+        "en": "In Chinese, `Verb + 来/去` is used to indicate the direction of an action. **来 (lái)** indicates movement towards the speaker, while **去 (qù)** indicates movement away from the speaker. Object rules: 1. If the object is a place, it must be placed before 来/去; 2. If the object is a thing, it can be placed before or after 来/去."
+      },
       "examples": [
         {
           "text": "我们在楼上等你呢，你上来吧。",
@@ -340,14 +343,17 @@
     },
     {
       "grammar": "两个动作连续发生",
-      "description": "**Cấu trúc diễn tả hai hành động xảy ra liên tiếp**\n\nCấu trúc `Động từ 1 + 了 + ... + 就 + Động từ 2 + ...` dùng để diễn tả hai hành động xảy ra liên tiếp, hành động thứ hai nối tiếp ngay sau hành động thứ nhất.\n\n* Nếu câu có hai chủ ngữ, chủ ngữ thứ hai phải đặt trước **就 (jiù)**.",
+      "descriptions": {
+        "vi": "Cấu trúc `Động từ 1 + 了 + 就 + Động từ 2` dùng để diễn tả hành động thứ hai nối tiếp ngay sau hành động thứ nhất. Nếu câu có hai chủ ngữ, đặt chủ ngữ thứ hai trước **就 (jiù)**.",
+        "en": "The structure `Verb 1 + 了 + 就 + Verb 2` is used to describe two actions that happen consecutively. If there are two subjects, the second subject is placed before **就 (jiù)**."
+      },
       "examples": [
         {
           "text": "我下了课就吃饭。",
           "pronunciation": "Wǒ xiàle kè jiù chī fàn.",
           "translations": {
             "vi": "Tôi tan học xong là ăn cơm ngay.",
-            "en": "I will eat as soon as class is over."
+            "en": "I eat as soon as class is over."
           }
         },
         {
@@ -362,7 +368,10 @@
     },
     {
       "grammar": "反问的表达：能……吗？",
-      "description": "**Câu hỏi tu từ: 能……吗?**\n\nTiếng Trung dùng `能……吗` để biểu thị câu hỏi tu từ (phản vấn).\n\n* Nếu nội dung giữa `能` và `吗` là hình thức **khẳng định**, câu mang nghĩa **phủ định**.\n* Nếu là hình thức **phủ định**, câu mang nghĩa **khẳng định**.",
+      "descriptions": {
+        "vi": "Tiếng Trung dùng `能……吗` để biểu thị phản vấn (tu từ). Nếu nội dung là khẳng định, câu mang nghĩa phủ định; nếu là phủ định, câu mang nghĩa khẳng định.",
+        "en": "Chinese uses `能……吗` to form rhetorical questions. If the content is positive, the meaning is negative; if the content is negative, the meaning is positive."
+      },
       "examples": [
         {
           "text": "你不做作业，也不练习，能学好吗？",
@@ -404,7 +413,7 @@
           }
         },
         {
-          "text": "小丽：我现在腿也疼，脚 cũng téng.",
+          "text": "小丽：我现在腿也疼，脚也疼。",
           "pronunciation": "Xiǎolì: Wǒ xiànzài tuǐ yě téng, jiǎo yě téng.",
           "translations": {
             "vi": "Tiểu Lệ: Bây giờ chân em đau, bàn chân cũng đau.",
@@ -579,7 +588,7 @@
           }
         },
         {
-          "text": "周太太：其实 i每天都运动。",
+          "text": "周太太：其实我每天都运动。",
           "pronunciation": "Zhōu tàitai: Qíshí wǒ měi tiān dōu yùndòng.",
           "translations": {
             "vi": "Bà Châu: Thật ra ngày nào em cũng vận động.",

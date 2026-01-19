@@ -1,8 +1,7 @@
 'use client';
 
 import { useI18n } from '@/components/I18nProvider';
-import type { ReactNode } from 'react';
-import { useState } from 'react';
+import { useState, type ReactNode } from 'react';
 
 type LanguageTextProps = {
   text: string;

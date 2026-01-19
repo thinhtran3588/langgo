@@ -1,7 +1,5 @@
 'use client';
 
-import Link from 'next/link';
-import { useState } from 'react';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import DialogSentenceWithHighlights from '@/components/DialogSentenceWithHighlights';
 import GamesTab from '@/components/GamesTab';
@@ -9,6 +7,8 @@ import { useI18n } from '@/components/I18nProvider';
 import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
+import Link from 'next/link';
+import { useState } from 'react';
 
 type LessonTranslations = {
   en?: string;
@@ -102,6 +102,12 @@ const buildWordVariants = (word: string) => {
   return Array.from(variants);
 };
 
+const formatLessonAudioId = (lessonKey: string) =>
+  lessonKey.replace(/^lesson(\d+)$/, (_match, value: string) => {
+    const padded = value.padStart(2, '0');
+    return `lesson${padded}`;
+  });
+
 const getDialogWords = (
   dialog: DialogEntry | undefined,
   words: NewWordEntry[] = []
@@ -129,6 +135,7 @@ const LearnLessonExperience = ({
 }: LearnLessonExperienceProps) => {
   const { locale } = useI18n();
   const dialogs = lessonData.dialogs ?? [];
+  const lessonAudioId = formatLessonAudioId(lessonId);
   const dialogGroups: DialogGroup[] = dialogs.length
     ? (() => {
         const seenWords = new Set<string>();
@@ -308,7 +315,7 @@ const LearnLessonExperience = ({
             <DialogAudioPlayer
               className="w-full"
               groupId={`${languageId}-${courseId}-${levelId}-${lessonId}-learn-${dialogIndex}`}
-              src={`/data/${languageId}/${courseId}/${levelId}/${lessonId}-dialog${
+              src={`/data/${languageId}/${courseId}/${levelId}/${lessonAudioId}-dialog${
                 currentGroup.dialog.id ?? dialogIndex + 1
               }.mp3`}
             />
@@ -333,7 +340,6 @@ const LearnLessonExperience = ({
           />
         </div>
       ) : undefined}
-
     </div>
   );
 };

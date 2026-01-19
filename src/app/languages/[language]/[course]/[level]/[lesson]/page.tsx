@@ -1,8 +1,9 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
 import ContentTabs from '@/components/ContentTabs';
-import DialogSentenceWithHighlights from '@/components/DialogSentenceWithHighlights';
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
+import DialogSentenceWithHighlights from '@/components/DialogSentenceWithHighlights';
+import GrammarDescription from '@/components/GrammarDescription';
 import GamesTab from '@/components/GamesTab';
 import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
@@ -35,7 +36,7 @@ type LessonData = {
   }>;
   grammars?: Array<{
     grammar: string;
-    description?: string;
+    descriptions?: LessonTranslations;
     examples?: Array<{
       text: string;
       pronunciation?: string;
@@ -71,8 +72,11 @@ type LessonNavLink = {
   label: string;
 };
 
-const stripInlineMarkdown = (value: string) =>
-  value.replace(/\*\*/g, '').replace(/`/g, '');
+const formatLessonAudioId = (lessonKey: string) =>
+  lessonKey.replace(/^lesson(\d+)$/, (_match, value: string) => {
+    const padded = value.padStart(2, '0');
+    return `lesson${padded}`;
+  });
 
 const readLessonData = async (
   languageId: string,
@@ -115,6 +119,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
     levelId,
     lessonId
   );
+  const lessonAudioId = formatLessonAudioId(lessonId);
 
   if (!language || !course || !level || !lesson || !lessonData) {
     notFound();
@@ -209,8 +214,8 @@ export default async function LessonPage({ params }: LessonPageProps) {
         <div className="space-y-4">
           {lessonData.dialogs.map((dialog, index) => {
             const dialogNumber = dialog.id ?? index + 1;
-            const dialogAudioSrc = `/data/${languageId}/${courseId}/${levelId}/${lessonId}-dialog${dialogNumber}.mp3`;
-            const dialogAudioId = `${languageId}-${courseId}-${levelId}-${lessonId}`;
+            const dialogAudioSrc = `/data/${languageId}/${courseId}/${levelId}/${lessonAudioId}-dialog${dialogNumber}.mp3`;
+            const dialogAudioId = `${languageId}-${courseId}-${levelId}-${lessonAudioId}`;
 
             return (
               <div
@@ -315,10 +320,11 @@ export default async function LessonPage({ params }: LessonPageProps) {
                 <h3 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
                   {grammarItem.grammar}
                 </h3>
-                {grammarItem.description ? (
-                  <p className="mt-2 whitespace-pre-line text-sm text-zinc-600 dark:text-zinc-300">
-                    {stripInlineMarkdown(grammarItem.description)}
-                  </p>
+                {grammarItem.descriptions ? (
+                  <GrammarDescription
+                    descriptions={grammarItem.descriptions}
+                    className="mt-2 whitespace-pre-line text-sm text-zinc-600 dark:text-zinc-300"
+                  />
                 ) : undefined}
               </div>
               {grammarItem.examples?.length ? (
@@ -400,9 +406,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
     },
   ];
 
-  const lessonIndex = level.lessons.findIndex(
-    (entry) => entry.id === lessonId
-  );
+  const lessonIndex = level.lessons.findIndex((entry) => entry.id === lessonId);
   const prevLesson = level.lessons[lessonIndex - 1];
   const nextLesson = level.lessons[lessonIndex + 1];
   const prevLink: LessonNavLink | undefined = prevLesson
@@ -417,7 +421,6 @@ export default async function LessonPage({ params }: LessonPageProps) {
         label: nextLesson.label.text,
       }
     : undefined;
-
   return (
     <section className="space-y-8">
       <header className="space-y-3">
@@ -461,7 +464,10 @@ export default async function LessonPage({ params }: LessonPageProps) {
                   href={nextLink.href}
                   className="rounded-full bg-zinc-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
                 >
-                  <TranslatedText id="learn.nextLesson" fallback="Next lesson" />
+                  <TranslatedText
+                    id="learn.nextLesson"
+                    fallback="Next lesson"
+                  />
                 </Link>
               ) : undefined}
             </div>
@@ -485,7 +491,10 @@ export default async function LessonPage({ params }: LessonPageProps) {
               href={prevLink.href}
               className="rounded-full border border-zinc-200 px-4 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white sm:hidden"
             >
-              <TranslatedText id="learn.prevLesson" fallback="Previous lesson" />
+              <TranslatedText
+                id="learn.prevLesson"
+                fallback="Previous lesson"
+              />
             </Link>
           ) : undefined}
           {nextLink ? (

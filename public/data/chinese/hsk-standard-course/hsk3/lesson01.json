@@ -48,7 +48,7 @@
       "pronunciation": "a",
       "translations": {
         "vi": "được dùng ở cuối câu để khẳng định hay biện minh cho điều gì",
-        "en": "used at the end of a sentence for confirmation or justification"
+        "en": "particle used at the end of a sentence for confirmation or justification"
       },
       "example": {
         "text": "那也不能一直玩儿啊。",
@@ -267,7 +267,10 @@
   "grammars": [
     {
       "grammar": "结果补语 “好”",
-      "description": "**Bổ ngữ chỉ kết quả “好”**\n\nBổ ngữ chỉ kết quả **“好”** được dùng sau động từ để diễn tả hành động được hoàn thành và làm cho người ta cảm thấy hài lòng.\n\n**Cấu trúc:** `Động từ + 好`",
+      "descriptions": {
+        "vi": "Bổ ngữ chỉ kết quả **“好”** được dùng sau động từ để diễn tả hành động được hoàn thành và làm cho người ta cảm thấy hài lòng. Cấu trúc: `Động từ + 好`.",
+        "en": "The resultative complement **“好”** is used after a verb to indicate that an action has been completed and the result is satisfactory. Structure: `Verb + 好`."
+      },
       "examples": [
         {
           "text": "今晚的电影小刚已经买好票了。",
@@ -305,7 +308,10 @@
     },
     {
       "grammar": "“一……也/都 + 不/没……” 表示否定",
-      "description": "**Cấu trúc diễn tả sự phủ định**\n\nCấu trúc này được dùng để diễn tả sự phủ định hoàn toàn.\n\n1. `一 + Lượng từ + Danh từ + 也/都 + 不/没 + Động từ`\n2. Đôi lúc `一 + Lượng từ` có thể thay bằng `一点儿`: `一点儿 + Danh từ + 也/都 + 不/没 + Động từ`\n3. Khi vị ngữ là tính từ: `一点儿 + 也/都 + 不 + Tính từ`",
+      "descriptions": {
+        "vi": "Cấu trúc này được dùng để diễn tả sự phủ định hoàn toàn.\n1. `一 + Lượng từ + Danh từ + 也/都 + 不/没 + Động từ`\n2. Đôi lúc `一 + Lượng từ` có thể thay bằng `一点儿`: `一点儿 + Danh từ + 也/都 + 不/没 + Động từ`\n3. Khi vị ngữ là tính từ: `一点儿 + 也/都 + 不 + Tính từ`",
+        "en": "This structure is used to express complete negation.\n1. `一 + Measure Word + Noun + 也/都 + 不/没 + Verb`\n2. Sometimes `一 + Measure Word` can be replaced by `一点儿`: `一点儿 + Noun + 也/都 + 不/没 + Verb`\n3. When the predicate is an adjective: `一点儿 + 也/都 + 不 + Adjective`"
+      },
       "examples": [
         {
           "text": "我一个苹果也不想吃。",
@@ -351,7 +357,10 @@
     },
     {
       "grammar": "连词 “那”",
-      "description": "**Liên từ “那”**\n\n**“那”** được dùng ở đầu câu để chỉ kết quả hay nhận xét dựa vào nội dung được đề cập trước đó (nghĩa là: Vậy thì, thế thì...).",
+      "descriptions": {
+        "vi": "**“那”** được dùng ở đầu câu để chỉ kết quả hay nhận xét dựa vào nội dung được đề cập trước đó (nghĩa là: Vậy thì, thế thì...).",
+        "en": "The conjunction **“那”** is used at the beginning of a sentence to indicate a result or judgment based on the previously mentioned content (meaning: In that case, then...)."
+      },
       "examples": [
         {
           "text": "我不想去看电影，那我也不去了。",

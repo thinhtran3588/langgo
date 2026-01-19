@@ -1,12 +1,13 @@
 'use client';
 
-import Link from 'next/link';
-import { useEffect, useMemo, useState } from 'react';
 import ContentTabs from '@/components/ContentTabs';
+import GrammarDescription from '@/components/GrammarDescription';
 import GamesTab from '@/components/GamesTab';
 import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
+import Link from 'next/link';
+import { useEffect, useMemo, useState } from 'react';
 
 type LessonLabel = {
   text: string;
@@ -45,7 +46,7 @@ type LessonData = {
   }>;
   grammars?: Array<{
     grammar: string;
-    description?: string;
+    descriptions?: LessonTranslations;
     examples?: Array<{
       text: string;
       pronunciation?: string;
@@ -66,8 +67,11 @@ type LevelOverviewTabsProps = {
   lessons: LessonSummary[];
 };
 
-const storageKeyForLevel = (languageId: string, courseId: string, levelId: string) =>
-  `langgo.level.lessonSelection.${languageId}.${courseId}.${levelId}`;
+const storageKeyForLevel = (
+  languageId: string,
+  courseId: string,
+  levelId: string
+) => `langgo.level.lessonSelection.${languageId}.${courseId}.${levelId}`;
 
 const LevelOverviewTabs = ({
   languageId,
@@ -104,9 +108,7 @@ const LevelOverviewTabs = ({
       } catch (error) {
         if (!cancelled) {
           setLoadError(
-            error instanceof Error
-              ? error.message
-              : 'Unable to load lessons.'
+            error instanceof Error ? error.message : 'Unable to load lessons.'
           );
           setLessonEntries([]);
         }
@@ -190,7 +192,7 @@ const LevelOverviewTabs = ({
     () =>
       lessonEntries.flatMap((entry) =>
         selectedLessonSet.has(entry.lesson.id)
-          ? entry.data.newWords ?? []
+          ? (entry.data.newWords ?? [])
           : []
       ),
     [lessonEntries, selectedLessonSet]
@@ -287,7 +289,10 @@ const LevelOverviewTabs = ({
                     <TranslatedText id="lesson.type" fallback="Type" />
                   </span>
                   <span>
-                    <TranslatedText id="lesson.translation" fallback="Translation" />
+                    <TranslatedText
+                      id="lesson.translation"
+                      fallback="Translation"
+                    />
                   </span>
                 </div>
                 <div className="divide-y divide-zinc-200 dark:divide-zinc-800">
@@ -380,10 +385,11 @@ const LevelOverviewTabs = ({
                       <h3 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
                         {grammarItem.grammar}
                       </h3>
-                      {grammarItem.description ? (
-                        <p className="mt-2 whitespace-pre-line text-sm text-zinc-600 dark:text-zinc-300">
-                          {grammarItem.description}
-                        </p>
+                      {grammarItem.descriptions ? (
+                        <GrammarDescription
+                          descriptions={grammarItem.descriptions}
+                          className="mt-2 whitespace-pre-line text-sm text-zinc-600 dark:text-zinc-300"
+                        />
                       ) : undefined}
                     </div>
                     {grammarItem.examples?.length ? (

@@ -50,7 +50,6 @@ type LearnPageProps = {
   }>;
 };
 
-
 const readLessonData = async (
   languageId: string,
   courseId: string,

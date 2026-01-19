@@ -284,7 +284,10 @@
   "grammars": [
     {
       "grammar": "又……又……",
-      "description": "Cấu trúc **“又……又……”** được dùng để nối hai tính từ hoặc động từ nhằm chỉ hai đặc điểm hoặc hành động cùng tồn tại ở một đối tượng. Thông thường, hai thành phần này phải cùng mang nghĩa tích cực hoặc cùng mang nghĩa tiêu cực.",
+      "descriptions": {
+        "vi": "Cấu trúc **“又……又……”** được dùng để nối hai tính từ hoặc động từ nhằm chỉ hai đặc điểm hoặc hành động cùng tồn tại ở một đối tượng. Thông thường, hai thành phần này phải cùng mang nghĩa tích cực hoặc cùng mang nghĩa tiêu cực.",
+        "en": "Cấu trúc **“又……又……”** được dùng để nối hai tính từ hoặc động từ nhằm chỉ hai đặc điểm hoặc hành động cùng tồn tại ở một đối tượng. Thông thường, hai thành phần này phải cùng mang nghĩa tích cực hoặc cùng mang nghĩa tiêu cực."
+      },
       "examples": [
         {
           "text": "这个西瓜又大又甜。",
@@ -314,7 +317,10 @@
     },
     {
       "grammar": "动词1 + 着 + 动词2",
-      "description": "Cấu trúc này dùng để diễn tả hai hành động xảy ra cùng lúc, trong đó hành động 1 (kèm với **着**) chỉ trạng thái hoặc cách thức thực hiện hành động 2.",
+      "descriptions": {
+        "vi": "Cấu trúc này dùng để diễn tả hai hành động xảy ra cùng lúc, trong đó hành động 1 (kèm với **着**) chỉ trạng thái hoặc cách thức thực hiện hành động 2.",
+        "en": "Cấu trúc này dùng để diễn tả hai hành động xảy ra cùng lúc, trong đó hành động 1 (kèm với **着**) chỉ trạng thái hoặc cách thức thực hiện hành động 2."
+      },
       "examples": [
         {
           "text": "他们站着说话。",

@@ -1,8 +1,8 @@
 'use client';
 
-import { useMemo } from 'react';
-import LanguageText from '@/components/LanguageText';
 import { useI18n } from '@/components/I18nProvider';
+import LanguageText from '@/components/LanguageText';
+import { useMemo } from 'react';
 
 type LessonTranslations = {
   en?: string;
@@ -134,7 +134,10 @@ const DialogSentenceWithHighlights = ({
         return part;
       }
       return (
-        <span key={`${part}-${index}`} className="group/word relative inline-flex">
+        <span
+          key={`${part}-${index}`}
+          className="group/word relative inline-flex"
+        >
           <WordPopover entry={entry} />
         </span>
       );
