@@ -1,6 +1,7 @@
 'use client';
 
 import { languages } from '@/lib/languages';
+import Image from 'next/image';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
@@ -148,8 +149,17 @@ export default function LayoutShell({
         <div className="mx-auto w-full max-w-6xl px-4 pt-6 sm:px-6">
           <div className="glass-panel flex w-full items-center justify-between rounded-full px-4 py-3 shadow-[0_12px_35px_rgba(15,23,42,0.08)] sm:px-6">
             <Link href="/" className="flex items-center gap-3">
-              <span className="flex h-9 w-9 items-center justify-center rounded-full bg-linear-to-br from-white via-white/70 to-blue-100 text-sm font-semibold text-zinc-900 shadow-sm dark:from-zinc-100 dark:via-white dark:to-slate-200">
-                L
+              <span className="flex h-9 w-9 items-center justify-center overflow-hidden rounded-full bg-white/70 shadow-sm dark:bg-zinc-100">
+                <Image
+                  src="/logo.png"
+                  alt="Langgo"
+                  width={32}
+                  height={32}
+                  sizes="32px"
+                  className="h-8 w-8 rounded-full object-contain"
+                  priority
+                  unoptimized
+                />
               </span>
               <span className="text-base font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
                 Langgo
