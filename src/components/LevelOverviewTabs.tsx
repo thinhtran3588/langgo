@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useEffect, useMemo, useState } from 'react';
 import ContentTabs from '@/components/ContentTabs';
 import GamesTab from '@/components/GamesTab';
@@ -204,20 +205,28 @@ const LevelOverviewTabs = ({
               key={entry.lesson.id}
               className="rounded-xl border border-zinc-200 bg-white p-4 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40"
             >
-              <div className="space-y-2">
-                <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+              <div className="space-y-3">
+                <Link
+                  href={`/languages/${languageId}/${courseId}/${levelId}/${entry.lesson.id}`}
+                  className="block w-fit text-xs font-semibold uppercase tracking-wide text-zinc-500 transition hover:text-zinc-700 dark:text-zinc-400 dark:hover:text-zinc-200"
+                >
                   <LocalizedText
                     translations={entry.lesson.label.translations}
                     fallback={entry.lesson.label.text}
                   />
-                </p>
+                </Link>
                 {entry.data.title ? (
-                  <LanguageText
-                    text={entry.data.title.text}
-                    pronunciation={entry.data.title.pronunciation}
-                    translations={entry.data.title.translations}
-                    textClassName="text-lg font-semibold text-zinc-900 dark:text-zinc-100"
-                  />
+                  <Link
+                    href={`/languages/${languageId}/${courseId}/${levelId}/${entry.lesson.id}`}
+                    className="block w-fit"
+                  >
+                    <LanguageText
+                      text={entry.data.title.text}
+                      pronunciation={entry.data.title.pronunciation}
+                      translations={entry.data.title.translations}
+                      textClassName="text-lg font-semibold text-zinc-900 transition hover:text-zinc-700 dark:text-zinc-100 dark:hover:text-zinc-200"
+                    />
+                  </Link>
                 ) : (
                   <p className="text-sm text-zinc-600 dark:text-zinc-300">
                     <TranslatedText
@@ -288,9 +297,16 @@ const LevelOverviewTabs = ({
                       className="flex flex-col gap-2 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid md:grid-cols-4 md:items-center md:gap-2"
                     >
                       <div className="flex flex-wrap items-center gap-3 md:contents">
-                        <span className="text-xl font-semibold text-zinc-900 sm:text-2xl dark:text-zinc-100">
+                        <a
+                          href={`https://hanzii.net/search/word/${encodeURIComponent(
+                            word.word
+                          )}?hl=${languageId}`}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="text-xl font-semibold text-zinc-900 transition hover:text-zinc-700 dark:text-zinc-100 dark:hover:text-zinc-200 sm:text-2xl"
+                        >
                           {word.word}
-                        </span>
+                        </a>
                         <span className="text-zinc-600 dark:text-zinc-300">
                           {word.pronunciation ? `[${word.pronunciation}]` : '—'}
                         </span>

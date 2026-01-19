@@ -154,9 +154,16 @@ export default async function LessonPage({ params }: LessonPageProps) {
                   className="flex flex-col gap-2 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid md:grid-cols-4 md:items-center md:gap-2"
                 >
                   <div className="flex flex-wrap items-center gap-3 md:contents">
-                    <span className="text-xl font-semibold text-zinc-900 sm:text-2xl dark:text-zinc-100">
+                    <a
+                      href={`https://hanzii.net/search/word/${encodeURIComponent(
+                        entry.word
+                      )}?hl=${languageId}`}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-xl font-semibold text-zinc-900 transition hover:text-zinc-700 dark:text-zinc-100 dark:hover:text-zinc-200 sm:text-2xl"
+                    >
                       {entry.word}
-                    </span>
+                    </a>
                     <span className="text-zinc-600 dark:text-zinc-300">
                       {entry.pronunciation ? `[${entry.pronunciation}]` : '—'}
                     </span>
