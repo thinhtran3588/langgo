@@ -70,6 +70,26 @@
                       "vi": "Bài 2"
                     }
                   }
+                },
+                {
+                  "id": "lesson3",
+                  "label": {
+                    "text": "Lesson 3",
+                    "translations": {
+                      "en": "Lesson 3",
+                      "vi": "Bài 3"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson4",
+                  "label": {
+                    "text": "Lesson 4",
+                    "translations": {
+                      "en": "Lesson 4",
+                      "vi": "Bài 4"
+                    }
+                  }
                 }
               ]
             }
