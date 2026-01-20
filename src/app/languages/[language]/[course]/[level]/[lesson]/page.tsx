@@ -328,7 +328,10 @@ export default async function LessonPage({ params }: LessonPageProps) {
                 ) : undefined}
               </div>
               {grammarItem.examples?.length ? (
-                <div className="space-y-2">
+                <div className="space-y-3">
+                  <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+                    <TranslatedText id="lesson.examples" fallback="Examples" />
+                  </p>
                   {grammarItem.examples.map((example, exampleIndex) => (
                     <div
                       key={`${example.text}-${exampleIndex}`}

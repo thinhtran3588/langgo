@@ -90,6 +90,46 @@
                       "vi": "Bài 4"
                     }
                   }
+                },
+                {
+                  "id": "lesson05",
+                  "label": {
+                    "text": "Lesson 5",
+                    "translations": {
+                      "en": "Lesson 5",
+                      "vi": "Bài 5"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson06",
+                  "label": {
+                    "text": "Lesson 6",
+                    "translations": {
+                      "en": "Lesson 6",
+                      "vi": "Bài 6"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson07",
+                  "label": {
+                    "text": "Lesson 7",
+                    "translations": {
+                      "en": "Lesson 7",
+                      "vi": "Bài 7"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson08",
+                  "label": {
+                    "text": "Lesson 8",
+                    "translations": {
+                      "en": "Lesson 8",
+                      "vi": "Bài 8"
+                    }
+                  }
                 }
               ]
             }

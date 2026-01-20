@@ -325,34 +325,38 @@ const LevelOverviewTabs = ({
                   {entry.data.newWords.map((word, index) => (
                     <div
                       key={`${entry.lesson.id}-word-${index}-${word.word}`}
-                      className="flex flex-col gap-2 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid md:grid-cols-4 md:items-center md:gap-2"
+                      className="grid grid-cols-[minmax(0,1fr)_auto] items-start gap-4 px-4 py-4 text-sm text-zinc-700 dark:text-zinc-200 md:grid-cols-4 md:items-center md:gap-2"
                     >
-                      <div className="flex flex-wrap items-center gap-3 md:contents">
-                        <a
-                          href={`https://hanzii.net/search/word/${encodeURIComponent(
-                            word.word
-                          )}?hl=${languageId}`}
-                          target="_blank"
-                          rel="noreferrer"
-                          className="text-xl font-semibold text-zinc-900 transition hover:text-zinc-700 dark:text-zinc-100 dark:hover:text-zinc-200 sm:text-2xl"
-                        >
-                          {word.word}
-                        </a>
-                        <span className="text-zinc-600 dark:text-zinc-300">
-                          {word.pronunciation ? `[${word.pronunciation}]` : '—'}
-                        </span>
-                        <span>
-                          {word.type ? (
-                            <span className="inline-flex rounded-full border border-zinc-200 bg-white px-2 py-1 text-xs font-medium text-zinc-600 dark:border-zinc-700 dark:bg-zinc-900 dark:text-zinc-300">
-                              {word.type}
-                            </span>
-                          ) : (
-                            '—'
-                          )}
-                        </span>
-                      </div>
-                      <div className="text-zinc-700 dark:text-zinc-200 md:contents">
-                        <LocalizedText translations={word.translations} />
+                      <a
+                        href={`https://hanzii.net/search/word/${encodeURIComponent(
+                          word.word
+                        )}?hl=${languageId}`}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="min-w-0 text-6xl font-semibold text-zinc-900 transition hover:text-zinc-700 dark:text-zinc-100 dark:hover:text-zinc-200 sm:text-4xl md:text-xl"
+                      >
+                        {word.word}
+                      </a>
+                      <div className="flex flex-col items-end gap-1 text-right md:contents">
+                        <div className="flex flex-wrap items-center justify-end gap-2 text-xs text-zinc-600 dark:text-zinc-300 md:contents md:text-sm">
+                          <span>
+                            {word.pronunciation
+                              ? `[${word.pronunciation}]`
+                              : '—'}
+                          </span>
+                          <span>
+                            {word.type ? (
+                              <span className="inline-flex rounded-full border border-zinc-200 bg-white px-2 py-1 text-xs font-medium text-zinc-600 dark:border-zinc-700 dark:bg-zinc-900 dark:text-zinc-300">
+                                {word.type}
+                              </span>
+                            ) : (
+                              '—'
+                            )}
+                          </span>
+                        </div>
+                        <div className="text-sm text-zinc-700 dark:text-zinc-200 md:text-left">
+                          <LocalizedText translations={word.translations} />
+                        </div>
                       </div>
                     </div>
                   ))}
@@ -419,7 +423,13 @@ const LevelOverviewTabs = ({
                       ) : undefined}
                     </div>
                     {grammarItem.examples?.length ? (
-                      <div className="space-y-2">
+                      <div className="space-y-3">
+                        <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+                          <TranslatedText
+                            id="lesson.examples"
+                            fallback="Examples"
+                          />
+                        </p>
                         {grammarItem.examples.map((example, exampleIndex) => (
                           <div
                             key={`${entry.lesson.id}-grammar-${index}-example-${exampleIndex}`}

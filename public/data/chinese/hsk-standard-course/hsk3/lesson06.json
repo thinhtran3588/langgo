@@ -1,0 +1,622 @@
+{
+    "title": {
+        "text": "怎么突然找不到了？",
+        "pronunciation": "Zěnme tūrán zhǎo bu dào le?",
+        "translations": {
+            "vi": "Sao bỗng dưng lại không tìm thấy?",
+            "en": "Why can't I find it suddenly?"
+        }
+    },
+    "newWords": [
+        {
+            "word": "眼镜",
+            "type": "danh từ",
+            "pronunciation": "yǎnjìng",
+            "translations": {
+                "vi": "mắt kính",
+                "en": "glasses"
+            },
+            "example": {
+                "text": "我的眼镜呢？",
+                "pronunciation": "Wǒ de yǎnjìng ne?",
+                "translations": {
+                    "vi": "Kính của anh đâu rồi?",
+                    "en": "Where are my glasses?"
+                }
+            }
+        },
+        {
+            "word": "突然",
+            "type": "phó từ",
+            "pronunciation": "tūrán",
+            "translations": {
+                "vi": "bỗng nhiên, bỗng dưng",
+                "en": "suddenly"
+            },
+            "example": {
+                "text": "怎么突然找不到了？",
+                "pronunciation": "Zěnme tūrán zhǎo bu dào le?",
+                "translations": {
+                    "vi": "Sao bỗng dưng lại không tìm thấy?",
+                    "en": "Why can't I find it suddenly?"
+                }
+            }
+        },
+        {
+            "word": "离开",
+            "type": "động từ",
+            "pronunciation": "lí kāi",
+            "translations": {
+                "vi": "rời khỏi, tách khỏi",
+                "en": "to leave; to part with"
+            },
+            "example": {
+                "text": "我离不开眼镜。",
+                "pronunciation": "Wǒ lí bu kāi yǎnjìng.",
+                "translations": {
+                    "vi": "Anh không thể rời khỏi cái mắt kính.",
+                    "en": "I can't be without glasses."
+                }
+            }
+        },
+        {
+            "word": "清楚",
+            "type": "tính từ",
+            "pronunciation": "qīngchu",
+            "translations": {
+                "vi": "rõ ràng",
+                "en": "clear; distinct"
+            },
+            "example": {
+                "text": "没有眼镜，我一个字也看不清楚。",
+                "pronunciation": "Méiyǒu yǎnjìng, wǒ yí ge zì yě kàn bu qīngchu.",
+                "translations": {
+                    "vi": "Không có kính, một chữ anh cũng không nhìn rõ.",
+                    "en": "Without glasses, I can't see a single word clearly."
+                }
+            }
+        },
+        {
+            "word": "刚才",
+            "type": "danh từ",
+            "pronunciation": "gāngcái",
+            "translations": {
+                "vi": "lúc nãy",
+                "en": "just now"
+            },
+            "example": {
+                "text": "是不是刚才放在桌子上了？",
+                "pronunciation": "Shì bu shì gāngcái fàng zài zhuōzi shang le?",
+                "translations": {
+                    "vi": "Có phải lúc nãy để trên bàn rồi không?",
+                    "en": "Did you put it on the table just now?"
+                }
+            }
+        },
+        {
+            "word": "帮忙",
+            "type": "động từ",
+            "pronunciation": "bāng máng",
+            "translations": {
+                "vi": "giúp, giúp đỡ",
+                "en": "to help"
+            },
+            "example": {
+                "text": "你快过来帮忙啊。",
+                "pronunciation": "Nǐ kuài guòlai bāng máng a.",
+                "translations": {
+                    "vi": "Em mau qua đây giúp một tay đi.",
+                    "en": "Come over and help me quickly."
+                }
+            }
+        },
+        {
+            "word": "特别",
+            "type": "phó từ",
+            "pronunciation": "tèbié",
+            "translations": {
+                "vi": "vô cùng, rất",
+                "en": "especially; particularly"
+            },
+            "example": {
+                "text": "今天这些题特别难。",
+                "pronunciation": "Jīntiān zhèxiē tí tèbié nán.",
+                "translations": {
+                    "vi": "Hôm nay những câu hỏi này cực kỳ khó.",
+                    "en": "These questions today are especially difficult."
+                }
+            }
+        },
+        {
+            "word": "讲",
+            "type": "động từ",
+            "pronunciation": "jiǎng",
+            "translations": {
+                "vi": "giải thích, nói",
+                "en": "to explain; to speak"
+            },
+            "example": {
+                "text": "你来我家吧，我给你讲讲。",
+                "pronunciation": "Nǐ lái wǒ jiā ba, wǒ gěi nǐ jiǎngjiang.",
+                "translations": {
+                    "vi": "Bạn đến nhà tớ đi, tớ giảng cho bạn.",
+                    "en": "Come to my house, I'll explain it to you."
+                }
+            }
+        },
+        {
+            "word": "明白",
+            "type": "tính từ",
+            "pronunciation": "míngbai",
+            "translations": {
+                "vi": "rõ ràng, dễ hiểu",
+                "en": "clear; to understand"
+            },
+            "example": {
+                "text": "电话里讲不明白。",
+                "pronunciation": "Diànhuà li jiǎng bu míngbai.",
+                "translations": {
+                    "vi": "Trong điện thoại nói không rõ ràng.",
+                    "en": "I can't explain it clearly over the phone."
+                }
+            }
+        },
+        {
+            "word": "锻炼",
+            "type": "động từ",
+            "pronunciation": "duànliàn",
+            "translations": {
+                "vi": "tập thể dục",
+                "en": "to exercise"
+            },
+            "example": {
+                "text": "好啊，我锻炼完就过去。",
+                "pronunciation": "Hǎo a, wǒ duànliàn wán jiù guòqu.",
+                "translations": {
+                    "vi": "Được, tớ tập thể dục xong sẽ qua ngay.",
+                    "en": "Okay, I'll come over after I finish exercising."
+                }
+            }
+        },
+        {
+            "word": "音乐",
+            "type": "danh từ",
+            "pronunciation": "yīnyuè",
+            "translations": {
+                "vi": "âm nhạc",
+                "en": "music"
+            },
+            "example": {
+                "text": "她喜欢听音乐。",
+                "pronunciation": "Tā xǐhuan tīng yīnyuè.",
+                "translations": {
+                    "vi": "Cô ấy thích nghe nhạc.",
+                    "en": "She likes listening to music."
+                }
+            }
+        },
+        {
+            "word": "公园",
+            "type": "danh từ",
+            "pronunciation": "gōngyuán",
+            "translations": {
+                "vi": "công viên",
+                "en": "park"
+            },
+            "example": {
+                "text": "那去公园走走。",
+                "pronunciation": "Nà qù gōngyuán zǒuzou.",
+                "translations": {
+                    "vi": "Vậy đi công viên đi dạo đi.",
+                    "en": "Then go for a walk in the park."
+                }
+            }
+        },
+        {
+            "word": "聊天(儿)",
+            "type": "động từ",
+            "pronunciation": "liáo tiān(r)",
+            "translations": {
+                "vi": "tán gẫu",
+                "en": "to chat"
+            },
+            "example": {
+                "text": "那去公园走走，聊聊天儿吧。",
+                "pronunciation": "Nà qù gōngyuán zǒuzou, liáoliao tiānr ba.",
+                "translations": {
+                    "vi": "Vậy đi công viên đi dạo, trò chuyện nhé.",
+                    "en": "Then let's go for a walk in the park and chat."
+                }
+            }
+        },
+        {
+            "word": "睡着",
+            "type": "động từ",
+            "pronunciation": "shuì zháo",
+            "translations": {
+                "vi": "ngủ được",
+                "en": "to fall asleep"
+            },
+            "example": {
+                "text": "你不是说晚上睡不着觉吗？",
+                "pronunciation": "Nǐ bú shì shuō wǎnshang shuì bu zháo jiào ma?",
+                "translations": {
+                    "vi": "Không phải anh nói buổi tối không ngủ được sao?",
+                    "en": "Didn't you say you couldn't fall asleep at night?"
+                }
+            }
+        },
+        {
+            "word": "更",
+            "type": "phó từ",
+            "pronunciation": "gèng",
+            "translations": {
+                "vi": "càng, hơn nữa",
+                "en": "more; even more"
+            },
+            "example": {
+                "text": "喝杯牛奶，可以睡得更好些。",
+                "pronunciation": "Hē bēi niúnǎi, kěyǐ shuì de gèng hǎo xiē.",
+                "translations": {
+                    "vi": "Uống ly sữa, có thể ngủ ngon hơn chút.",
+                    "en": "Drink a glass of milk, you can sleep better."
+                }
+            }
+        }
+    ],
+    "grammars": [
+        {
+            "grammar": "可能补语",
+            "descriptions": {
+                "vi": "Cấu trúc “động từ + 得 + bổ ngữ”, “động từ + 不 + bổ ngữ” được dùng để diễn tả rằng một người có thể thu được kết quả hoặc đạt được mục đích nào đó hay không. “Động từ + 得 + bổ ngữ” là hình thức khẳng định còn “động từ + 不 + bổ ngữ” là hình thức phủ định.",
+                "en": "The structure “Verb + 得 + Complement” or “Verb + 不 + Complement” is used to indicate whether a result can be achieved or a goal can be reached. The former is affirmative, the latter is negative."
+            },
+            "examples": [
+                {
+                    "text": "我看清楚那个汉字。",
+                    "pronunciation": "Wǒ kàn qīngchu nàge Hànzì.",
+                    "translations": {
+                        "vi": "Tôi nhìn rõ chữ Hán đó.",
+                        "en": "I can see that Chinese character clearly."
+                    }
+                },
+                {
+                    "text": "楼太高了，我上不去。",
+                    "pronunciation": "Lóu tài gāo le, wǒ shàng bu qù.",
+                    "translations": {
+                        "vi": "Lầu cao quá, tôi không lên được.",
+                        "en": "The building is too tall, I can't go up."
+                    }
+                },
+                {
+                    "text": "老师说的话你听得见听不见？",
+                    "pronunciation": "Lǎoshī shuō de huà nǐ tīng de jiàn tīng bu jiàn?",
+                    "translations": {
+                        "vi": "Lời thầy giáo nói bạn có nghe thấy không?",
+                        "en": "Can you hear what the teacher is saying?"
+                    }
+                },
+                {
+                    "text": "我找不到好饭馆。",
+                    "pronunciation": "Wǒ zhǎo bu dào hǎo fànguǎn.",
+                    "translations": {
+                        "vi": "Tôi không tìm thấy quán ăn ngon.",
+                        "en": "I can't find a good restaurant."
+                    }
+                }
+            ]
+        },
+        {
+            "grammar": "“呢” 询问处所",
+            "descriptions": {
+                "vi": "Trong tiếng Trung, “danh từ + 呢” biểu thị hỏi người hoặc sự vật ở đâu. Ví dụ “妈妈呢？” nghĩa là “妈妈在哪儿？” (Mẹ đâu rồi?), “小狗呢？” nghĩa là “小狗在哪儿？” (Con chó đâu rồi?).",
+                "en": "In Chinese, “Noun + 呢” asks where someone or something is. For example, “妈妈呢？” means “Where is Mom?”."
+            },
+            "examples": [
+                {
+                    "text": "A: 你的书呢？ B: 就在桌子上啊。",
+                    "pronunciation": "A: Nǐ de shū ne? B: Jiù zài zhuōzi shang a.",
+                    "translations": {
+                        "vi": "A: Sách của bạn đâu? B: Ở ngay trên bàn mà.",
+                        "en": "A: Where is your book? B: It's right on the table."
+                    }
+                },
+                {
+                    "text": "A: 我的眼镜呢？你看见了吗？ B: 我没看见啊。",
+                    "pronunciation": "A: Wǒ de yǎnjìng ne? Nǐ kànjiàn le ma? B: Wǒ méi kànjiàn a.",
+                    "translations": {
+                        "vi": "A: Kính của tôi đâu? Bạn có thấy không? B: Tôi không thấy.",
+                        "en": "A: Where are my glasses? Did you see them? B: I didn't see them."
+                    }
+                }
+            ]
+        },
+        {
+            "grammar": "“刚” 和 “刚才”",
+            "descriptions": {
+                "vi": "刚 là phó từ, 刚才 là danh từ, cả hai đều được dùng để chỉ hành động xảy ra cách đây không lâu, nhưng 刚才 thường mang nghĩa là cách đây vài phút còn 刚 chỉ thời gian ngắn theo quan điểm của người nói (có thể là vài phút, vài ngày, thậm chí vài tháng). 刚 chỉ đứng trước động từ còn 刚才 có thể được dùng ở trước động từ hoặc ở đầu câu.",
+                "en": "刚 is an adverb, 刚才 is a noun. Both indicate an action happened not long ago. 刚才 usually implies a few minutes ago, while 刚 depends on the speaker's perspective (minutes, days, months). 刚 only precedes verbs; 刚才 can precede verbs or the sentence."
+            },
+            "examples": [
+                {
+                    "text": "爸爸刚出去。 / 爸爸刚才出去了。",
+                    "pronunciation": "Bàba gāng chūqu. / Bàba gāngcái chūqu le.",
+                    "translations": {
+                        "vi": "Bố vừa đi ra ngoài. / Bố lúc nãy đi ra ngoài rồi.",
+                        "en": "Dad just went out. / Dad went out just now."
+                    }
+                },
+                {
+                    "text": "我刚喝完一杯咖啡。 / 刚才我喝了一杯咖啡。",
+                    "pronunciation": "Wǒ gāng hē wán yì bēi kāfēi. / Gāngcái wǒ hē le yì bēi kāfēi.",
+                    "translations": {
+                        "vi": "Tôi vừa uống xong một ly cà phê. / Lúc nãy tôi uống một ly cà phê.",
+                        "en": "I just finished a cup of coffee. / I drank a cup of coffee just now."
+                    }
+                },
+                {
+                    "text": "我刚放在桌子上，现在就没了。 / 眼镜周明刚才放在桌子上了。",
+                    "pronunciation": "Wǒ gāng fàng zài zhuōzi shang, xiànzài jiù méi le. / Yǎnjìng Zhōu Míng gāngcái fàng zài zhuōzi shang le.",
+                    "translations": {
+                        "vi": "Tôi vừa để trên bàn, giờ đã không còn. / Lúc nãy Chu Minh để mắt kính trên bàn.",
+                        "en": "I just put it on the table, now it's gone. / Zhou Ming put the glasses on the table just now."
+                    }
+                },
+                {
+                    "text": "儿子刚做完作业。 / 刚才儿子在做作业。",
+                    "pronunciation": "Érzi gāng zuòwán zuòyè. / Gāngcái érzi zài zuò zuòyè.",
+                    "translations": {
+                        "vi": "Con trai vừa làm xong bài tập. / Lúc nãy con trai đang làm bài tập.",
+                        "en": "Son just finished homework. / Son was doing homework just now."
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogs": [
+        {
+            "id": 1,
+            "name": {
+                "text": "在客厅",
+                "pronunciation": "Zài kètīng",
+                "translations": {
+                    "vi": "Trong phòng khách",
+                    "en": "In the living room"
+                }
+            },
+            "sentences": [
+                {
+                    "text": "周明：我的眼镜呢？怎么突然找不到了？你看见了吗？",
+                    "pronunciation": "Zhōu Míng: Wǒ de yǎnjìng ne? Zěnme tūrán zhǎo bu dào le? Nǐ kànjiàn le ma?",
+                    "translations": {
+                        "vi": "Chu Minh: Kính của anh đâu rồi? Sao bỗng dưng lại không tìm thấy? Em có thấy không?",
+                        "en": "Zhou Ming: Where are my glasses? Why can't I find them suddenly? Did you see them?"
+                    }
+                },
+                {
+                    "text": "周太太：我没看见啊。",
+                    "pronunciation": "Zhōu tàitai: Wǒ méi kànjiàn a.",
+                    "translations": {
+                        "vi": "Châu phu nhân: Em không thấy.",
+                        "en": "Mrs. Zhou: I didn't see them."
+                    }
+                },
+                {
+                    "text": "周明：我离不开眼镜，没有眼镜，我一个字也看不清楚。",
+                    "pronunciation": "Zhōu Míng: Wǒ lí bu kāi yǎnjìng, méiyǒu yǎnjìng, wǒ yí ge zì yě kàn bu qīngchu.",
+                    "translations": {
+                        "vi": "Chu Minh: Anh không thể thiếu kính được, không có kính, một chữ anh cũng không nhìn rõ.",
+                        "en": "Zhou Ming: I can't live without glasses, without them, I can't see a single word clearly."
+                    }
+                },
+                {
+                    "text": "周太太：你去房间找找，是不是刚才放在桌子上了？",
+                    "pronunciation": "Zhōu tàitai: Nǐ qù fángjiān zhǎozhao, shì bu shì gāngcái fàng zài zhuōzi shang le?",
+                    "translations": {
+                        "vi": "Châu phu nhân: Anh vào phòng tìm xem, có phải lúc nãy để trên bàn rồi không?",
+                        "en": "Mrs. Zhou: Go look in the room, did you put them on the table just now?"
+                    }
+                },
+                {
+                    "text": "周明：我怎么看得到啊？你快过来帮忙啊。",
+                    "pronunciation": "Zhōu Míng: Wǒ zěnme kàn de dào a? Nǐ kuài guòlai bāng máng a.",
+                    "translations": {
+                        "vi": "Chu Minh: Sao anh nhìn thấy được chứ? Em mau qua đây giúp một tay đi.",
+                        "en": "Zhou Ming: How can I see? Come over and help me quickly."
+                    }
+                },
+                {
+                    "text": "周太太：好吧，我帮你去找找。",
+                    "pronunciation": "Zhōu tàitai: Hǎo ba, wǒ bāng nǐ qù zhǎozhao.",
+                    "translations": {
+                        "vi": "Châu phu nhân: Được rồi, em đi tìm giúp anh.",
+                        "en": "Mrs. Zhou: Okay, I'll go help you look."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": {
+                "text": "在打电话",
+                "pronunciation": "Zài dǎ diànhuà",
+                "translations": {
+                    "vi": "Nói chuyện qua điện thoại",
+                    "en": "Talking on the phone"
+                }
+            },
+            "sentences": [
+                {
+                    "text": "同学：今天的作业你做完了吗？",
+                    "pronunciation": "Tóngxué: Jīntiān de zuòyè nǐ zuòwán le ma?",
+                    "translations": {
+                        "vi": "Bạn học: Bài tập hôm nay cậu làm xong chưa?",
+                        "en": "Classmate: Have you finished today's homework?"
+                    }
+                },
+                {
+                    "text": "儿子：刚做完，你呢？",
+                    "pronunciation": "Érzi: Gāng zuòwán, nǐ ne?",
+                    "translations": {
+                        "vi": "Con trai: Vừa làm xong, còn cậu?",
+                        "en": "Son: I just finished. How about you?"
+                    }
+                },
+                {
+                    "text": "同学：今天这些题特别难，我看不懂，不会做，你能帮我吗？",
+                    "pronunciation": "Tóngxué: Jīntiān zhèxiē tí tèbié nán, wǒ kàn bu dǒng, bú huì zuò, nǐ néng bāng wǒ ma?",
+                    "translations": {
+                        "vi": "Bạn học: Những câu hỏi hôm nay cực kỳ khó, tớ xem không hiểu, không biết làm, cậu có thể giúp tớ không?",
+                        "en": "Classmate: These questions today are really hard, I don't understand them and can't do them. Can you help me?"
+                    }
+                },
+                {
+                    "text": "儿子：电话里讲不明白，你来我家吧，我给你讲讲。",
+                    "pronunciation": "Érzi: Diànhuà li jiǎng bu míngbai, nǐ lái wǒ jiā ba, wǒ gěi nǐ jiǎngjiang.",
+                    "translations": {
+                        "vi": "Con trai: Trong điện thoại nói không rõ ràng, cậu đến nhà tớ đi, tớ giảng cho cậu.",
+                        "en": "Son: I can't explain it clearly over the phone. Come to my house, I'll explain it to you."
+                    }
+                },
+                {
+                    "text": "同学：好啊，我锻炼完就过去。",
+                    "pronunciation": "Tóngxué: Hǎo a, wǒ duànliàn wán jiù guòqu.",
+                    "translations": {
+                        "vi": "Bạn học: Được, tớ tập thể dục xong sẽ qua ngay.",
+                        "en": "Classmate: Okay, I'll come over after I finish exercising."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": {
+                "text": "在休息室",
+                "pronunciation": "Zài xiūxishì",
+                "translations": {
+                    "vi": "Trong phòng giải lao",
+                    "en": "In the lounge"
+                }
+            },
+            "sentences": [
+                {
+                    "text": "同事：你怎么有点儿不高兴？",
+                    "pronunciation": "Tóngshì: Nǐ zěnme yǒudiǎnr bù gāoxìng?",
+                    "translations": {
+                        "vi": "Đồng nghiệp: Sao trông cậu có vẻ không vui?",
+                        "en": "Colleague: Why do you look a bit unhappy?"
+                    }
+                },
+                {
+                    "text": "小刚：我想请小丽吃饭，但是找不到好饭馆儿。",
+                    "pronunciation": "Xiǎogāng: Wǒ xiǎng qǐng Xiǎolì chī fàn, dànshì zhǎo bu dào hǎo fànguǎnr.",
+                    "translations": {
+                        "vi": "Tiểu Cương: Tôi muốn mời Tiểu Lệ ăn cơm, nhưng không tìm được quán ngon.",
+                        "en": "Xiaogang: I want to treat Xiaoli to dinner, but I can't find a good restaurant."
+                    }
+                },
+                {
+                    "text": "同事：那你请她听音乐会吧，她喜欢听音乐。",
+                    "pronunciation": "Tóngshì: Nà nǐ qǐng tā tīng yīnyuèhuì ba, tā xǐhuan tīng yīnyuè.",
+                    "translations": {
+                        "vi": "Đồng nghiệp: Vậy cậu mời cô ấy đi nghe hòa nhạc đi, cô ấy thích nghe nhạc.",
+                        "en": "Colleague: Then invite her to a concert, she likes listening to music."
+                    }
+                },
+                {
+                    "text": "小刚：音乐会人太多，买不到票。",
+                    "pronunciation": "Xiǎogāng: Yīnyuèhuì rén tài duō, mǎi bu dào piào.",
+                    "translations": {
+                        "vi": "Tiểu Cương: Buổi hòa nhạc đông người quá, không mua được vé.",
+                        "en": "Xiaogang: There are too many people at the concert, I can't buy tickets."
+                    }
+                },
+                {
+                    "text": "同事：那去公园走走，聊聊天儿吧。",
+                    "pronunciation": "Tóngshì: Nà qù gōngyuán zǒuzou, liáoliao tiānr ba.",
+                    "translations": {
+                        "vi": "Đồng nghiệp: Vậy đi công viên đi dạo, trò chuyện nhé.",
+                        "en": "Colleague: Then go for a walk in the park and chat."
+                    }
+                },
+                {
+                    "text": "小刚：公园太大，多累啊。",
+                    "pronunciation": "Xiǎogāng: Gōngyuán tài dà, duō lèi a.",
+                    "translations": {
+                        "vi": "Tiểu Cương: Công viên rộng quá, mệt lắm.",
+                        "en": "Xiaogang: The park is too big, it's too tiring."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": {
+                "text": "在客厅",
+                "pronunciation": "Zài kètīng",
+                "translations": {
+                    "vi": "Trong phòng khách",
+                    "en": "In the living room"
+                }
+            },
+            "sentences": [
+                {
+                    "text": "周太太：你怎么还喝咖啡？",
+                    "pronunciation": "Zhōu tàitai: Nǐ zěnme hái hē kāfēi?",
+                    "translations": {
+                        "vi": "Châu phu nhân: Sao anh vẫn còn uống cà phê?",
+                        "en": "Mrs. Zhou: Why are you still drinking coffee?"
+                    }
+                },
+                {
+                    "text": "周明：怎么了？",
+                    "pronunciation": "Zhōu Míng: Zěnme le?",
+                    "translations": {
+                        "vi": "Chu Minh: Sao vậy?",
+                        "en": "Zhou Ming: What's wrong?"
+                    }
+                },
+                {
+                    "text": "周太太：你不是说晚上睡不着觉吗？",
+                    "pronunciation": "Zhōu tàitai: Nǐ bú shì shuō wǎnshang shuì bu zháo jiào ma?",
+                    "translations": {
+                        "vi": "Châu phu nhân: Không phải anh nói buổi tối không ngủ được sao?",
+                        "en": "Mrs. Zhou: Didn't you say you couldn't sleep at night?"
+                    }
+                },
+                {
+                    "text": "周明：没事，我只喝一杯。",
+                    "pronunciation": "Zhōu Míng: Méishì, wǒ zhǐ hē yì bēi.",
+                    "translations": {
+                        "vi": "Chu Minh: Không sao, anh chỉ uống một ly thôi.",
+                        "en": "Zhou Ming: It's fine, I'm only drinking one cup."
+                    }
+                },
+                {
+                    "text": "周太太：你还是喝杯牛奶吧，可以睡得更好些。",
+                    "pronunciation": "Zhōu tàitai: Nǐ háishi hē bēi niúnǎi ba, kěyǐ shuì de gèng hǎo xiē.",
+                    "translations": {
+                        "vi": "Châu phu nhân: Anh uống ly sữa đi, có thể ngủ ngon hơn chút.",
+                        "en": "Mrs. Zhou: You should drink a glass of milk instead, you'll sleep better."
+                    }
+                },
+                {
+                    "text": "周明：好吧，牛奶呢？",
+                    "pronunciation": "Zhōu Míng: Hǎo ba, niúnǎi ne?",
+                    "translations": {
+                        "vi": "Chu Minh: Được rồi, sữa đâu?",
+                        "en": "Zhou Ming: Alright, where's the milk?"
+                    }
+                },
+                {
+                    "text": "周太太：还没买呢。",
+                    "pronunciation": "Zhōu tàitai: Hái méi mǎi ne.",
+                    "translations": {
+                        "vi": "Châu phu nhân: Vẫn chưa mua.",
+                        "en": "Mrs. Zhou: I haven't bought it yet."
+                    }
+                }
+            ]
+        }
+    ]
+}
