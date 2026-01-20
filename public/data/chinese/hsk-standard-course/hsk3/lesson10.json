@@ -1,0 +1,605 @@
+{
+  "title": {
+    "text": "数学比历史难多了。",
+    "pronunciation": "Shùxué bǐ lìshǐ nánduō le.",
+    "translations": {
+      "vi": "Môn Toán khó hơn môn Lịch Sử nhiều.",
+      "en": "Math is much harder than History."
+    }
+  },
+  "newWords": [
+    {
+      "word": "个子",
+      "type": "danh từ",
+      "pronunciation": "gèzi",
+      "translations": {
+        "vi": "vóc dáng, thân hình",
+        "en": "height; stature"
+      },
+      "example": {
+        "text": "马可比我高，我比马可矮一点儿。",
+        "pronunciation": "Mǎkě bǐ wǒ gāo, wǒ bǐ Mǎkě ǎi yìdiǎnr.",
+        "translations": {
+          "vi": "Marco cao hơn tôi, tôi thấp hơn Marco một chút.",
+          "en": "Marco is taller than me, I am a little shorter than Marco."
+        }
+      }
+    },
+    {
+      "word": "矮",
+      "type": "tính từ",
+      "pronunciation": "ǎi",
+      "translations": {
+        "vi": "thấp",
+        "en": "short"
+      },
+      "example": {
+        "text": "马可比我高，我比马可矮一点儿。",
+        "pronunciation": "Mǎkě bǐ wǒ gāo, wǒ bǐ Mǎkě ǎi yìdiǎnr.",
+        "translations": {
+          "vi": "Marco cao hơn tôi, tôi thấp hơn Marco một chút.",
+          "en": "Marco is taller than me, I am a little shorter than Marco."
+        }
+      }
+    },
+    {
+      "word": "历史",
+      "type": "danh từ",
+      "pronunciation": "lìshǐ",
+      "translations": {
+        "vi": "môn Lịch Sử",
+        "en": "history"
+      },
+      "example": {
+        "text": "我喜欢历史课、体育课，不喜欢数学课。",
+        "pronunciation": "Wǒ xǐhuan lìshǐ kè, tǐyù kè, bù xǐhuan shuxué kè.",
+        "translations": {
+          "vi": "Tớ thích môn Lịch sử, môn Thể dục, không thích môn Toán.",
+          "en": "I like history class and PE class, I don't like math class."
+        }
+      }
+    },
+    {
+      "word": "体育",
+      "type": "danh từ",
+      "pronunciation": "tǐyù",
+      "translations": {
+        "vi": "môn Thể Dục",
+        "en": "PE; sports"
+      },
+      "example": {
+        "text": "我喜欢历史课、体育课，不喜欢数学课。",
+        "pronunciation": "Wǒ xǐhuan lìshǐ kè, tǐyù kè, bù xǐhuan shuxué kè.",
+        "translations": {
+          "vi": "Tớ thích môn Lịch sử, môn Thể dục, không thích môn Toán.",
+          "en": "I like history class and PE class, I don't like math class."
+        }
+      }
+    },
+    {
+      "word": "数学",
+      "type": "danh từ",
+      "pronunciation": "shùxué",
+      "translations": {
+        "vi": "môn Toán",
+        "en": "mathematics"
+      },
+      "example": {
+        "text": "我觉得数学比历史难多了。",
+        "pronunciation": "Wǒ juéde shùxué bǐ lìshǐ nánduō le.",
+        "translations": {
+          "vi": "Tớ cảm thấy môn Toán khó hơn môn Lịch sử nhiều.",
+          "en": "I think math is much harder than history."
+        }
+      }
+    },
+    {
+      "word": "方便",
+      "type": "tính từ",
+      "pronunciation": "fāngbiàn",
+      "translations": {
+        "vi": "thuận tiện",
+        "en": "convenient"
+      },
+      "example": {
+        "text": "那很方便啊。",
+        "pronunciation": "Nà hěn fāngbiàn a.",
+        "translations": {
+          "vi": "Vậy thuận tiện quá.",
+          "en": "That's very convenient."
+        }
+      }
+    },
+    {
+      "word": "自行车",
+      "type": "danh từ",
+      "pronunciation": "zìxíngchē",
+      "translations": {
+        "vi": "xe đạp",
+        "en": "bicycle"
+      },
+      "example": {
+        "text": "我还打算买辆自行车。",
+        "pronunciation": "Wǒ hái dǎsuàn mǎi liàng zìxíngchē.",
+        "translations": {
+          "vi": "Tớ còn định mua một chiếc xe đạp.",
+          "en": "I also plan to buy a bicycle."
+        }
+      }
+    },
+    {
+      "word": "骑",
+      "type": "động từ",
+      "pronunciation": "qí",
+      "translations": {
+        "vi": "cưỡi, đi (xe đạp/ngựa)",
+        "en": "to ride"
+      },
+      "example": {
+        "text": "骑车七八分钟就能到。",
+        "pronunciation": "Qí chē qī-bā fenzhōng jiù néng dào.",
+        "translations": {
+          "vi": "Đạp xe 7-8 phút là đến nơi.",
+          "en": "Riding a bike takes only seven or eight minutes."
+        }
+      }
+    },
+    {
+      "word": "旧",
+      "type": "tính từ",
+      "pronunciation": "jiù",
+      "translations": {
+        "vi": "cũ",
+        "en": "old; used"
+      },
+      "example": {
+        "text": "那辆太旧了，要换一辆。",
+        "pronunciation": "Nà liàng tài jiù le, yào huàn yí liàng.",
+        "translations": {
+          "vi": "Chiếc đó cũ quá rồi, muốn đổi một chiếc khác.",
+          "en": "That one is too old, I want to replace it."
+        }
+      }
+    },
+    {
+      "word": "换",
+      "type": "động từ",
+      "pronunciation": "huàn",
+      "translations": {
+        "vi": "đổi, thay thế",
+        "en": "to change; to exchange"
+      },
+      "example": {
+        "text": "那辆太旧了，要换一辆。",
+        "pronunciation": "Nà liàng tài jiù le, yào huàn yí liàng.",
+        "translations": {
+          "vi": "Chiếc đó cũ quá rồi, muốn đổi một chiếc khác.",
+          "en": "That one is too old, I want to replace it."
+        }
+      }
+    },
+    {
+      "word": "地方",
+      "type": "danh từ",
+      "pronunciation": "dìfang",
+      "translations": {
+        "vi": "chỗ, nơi",
+        "en": "place"
+      },
+      "example": {
+        "text": "这两个地方的房子一样吗？",
+        "pronunciation": "Zhè liǎng ge dìfang de fangzi yíyàng ma?",
+        "translations": {
+          "vi": "Nhà ở hai nơi này có giống nhau không?",
+          "en": "Are the houses in these two places the same?"
+        }
+      }
+    },
+    {
+      "word": "中介",
+      "type": "danh từ",
+      "pronunciation": "zhōngjiè",
+      "translations": {
+        "vi": "môi giới",
+        "en": "intermediary; agent"
+      },
+      "example": {
+        "text": "这两个地方的房子一样吗？ (中介)",
+        "pronunciation": "Zhè liǎng ge dìfang de fangzi yíyàng ma? (Zhōngjiè)",
+        "translations": {
+          "vi": "Nhà ở hai nơi này có giống nhau không? (Môi giới)",
+          "en": "Are the houses in these two places the same? (Agent)"
+        }
+      }
+    },
+    {
+      "word": "主要",
+      "type": "tính từ",
+      "pronunciation": "zhǔyào",
+      "translations": {
+        "vi": "chủ yếu",
+        "en": "main; major"
+      },
+      "example": {
+        "text": "大小没关系，主要是环境。",
+        "pronunciation": "Dàxiǎo méi guānxi, zhǔyào shì huánjìng.",
+        "translations": {
+          "vi": "Lớn nhỏ không quan trọng, chủ yếu là môi trường.",
+          "en": "Size doesn't matter, the main thing is the environment."
+        }
+      }
+    },
+    {
+      "word": "环境",
+      "type": "danh từ",
+      "pronunciation": "huánjìng",
+      "translations": {
+        "vi": "môi trường",
+        "en": "environment"
+      },
+      "example": {
+        "text": "大小没关系，主要是环境。",
+        "pronunciation": "Dàxiǎo méi guānxi, zhǔyào shì huánjìng.",
+        "translations": {
+          "vi": "Lớn nhỏ không quan trọng, chủ yếu là môi trường.",
+          "en": "Size doesn't matter, the main thing is the environment."
+        }
+      }
+    },
+    {
+      "word": "附近",
+      "type": "danh từ",
+      "pronunciation": "fùjìn",
+      "translations": {
+        "vi": "vùng lân cận, gần đây",
+        "en": "vicinity; nearby"
+      },
+      "example": {
+        "text": "附近有三四个车站。",
+        "pronunciation": "Fùjìn yǒu sān-sì ge chēzhàn.",
+        "translations": {
+          "vi": "Gần đó có ba bốn bến xe.",
+          "en": "There are three or four bus stops nearby."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "比较句2：A比B + 形容词 + 一点儿/一些/得多/多了",
+      "descriptions": {
+        "vi": "Cấu trúc so sánh (2): \"A 比 B + tính từ + 一点儿/一些/得多/多了\". Các từ như 一点儿, 一些, 得多 hoặc 多了... có thể được dùng sau tính từ trong câu có từ 比 để chỉ mức độ chênh lệch giữa các sự vật. 一点儿 và 一些 chỉ mức độ chênh lệch không lớn, còn 得多 và 多了 chỉ mức độ chênh lệch rất lớn. Dạng phủ định là \"A 没有 B (+ 这么/那么) + tính từ\".",
+        "en": "Comparison structure (2): \"A 比 B + Adjective + 一点儿/一些/得多/多了\". Words like 一点儿, 一些, 得多, or 多了 can be used after the adjective in a 比 sentence to indicate the degree of difference. 一点儿 and 一些 indicate a slight difference, while 得多 and 多了 indicate a significant difference. The negative form is \"A 没有 B (+ 这么/那么) + Adjective\"."
+      },
+      "examples": [
+        {
+          "text": "大山比大卫矮一点儿。",
+          "pronunciation": "Dàshān bǐ Dàwèi ǎi yìdiǎnr.",
+          "translations": {
+            "vi": "Đại Sơn thấp hơn David một chút.",
+            "en": "Dashan is a little shorter than David."
+          }
+        },
+        {
+          "text": "我今天起得比昨天晚一些。",
+          "pronunciation": "Wǒ jīntiān qǐ de bǐ zuótiān wǎn yìxiē.",
+          "translations": {
+            "vi": "Hôm nay tôi dậy muộn hơn hôm qua một chút.",
+            "en": "I got up a little later today than yesterday."
+          }
+        },
+        {
+          "text": "今天的作业比昨天多得多。",
+          "pronunciation": "Jīntiān de zuòyè bǐ zuótiān duō de duō.",
+          "translations": {
+            "vi": "Bài tập hôm nay nhiều hơn hôm qua rất nhiều.",
+            "en": "Today's homework is much more than yesterday's."
+          }
+        },
+        {
+          "text": "数学比历史难多了。",
+          "pronunciation": "Shùxué bǐ lìshǐ nánduō le.",
+          "translations": {
+            "vi": "Môn Toán khó hơn môn Lịch Sử nhiều.",
+            "en": "Math is much harder than History."
+          }
+        },
+        {
+          "text": "咖啡没有茶好喝。",
+          "pronunciation": "Kāfēi méiyǒu chá hǎohē.",
+          "translations": {
+            "vi": "Cà phê không ngon bằng trà.",
+            "en": "Coffee is not as tasty as tea."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "概数的表达1",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, hai từ chỉ số đếm liên tiếp có thể được đặt cạnh nhau để diễn tả số ước lượng, chẳng hạn 一二 (một hai), 两三 (hai ba), 三四 (ba bốn), 五六 (năm sáu), 七八 (bảy tám), 八九 (tám chín).",
+        "en": "In Chinese, two consecutive numerals can be placed together to indicate an approximate number, such as 一二 (one or two), 两三 (two or three), 三四 (three or four), etc."
+      },
+      "examples": [
+        {
+          "text": "我每天学习一两个小时汉语。",
+          "pronunciation": "Wǒ měi tiān xuéxí yī-liǎng ge xiǎoshí Hànyǔ.",
+          "translations": {
+            "vi": "Mỗi ngày tôi học tiếng Trung một hai tiếng đồng hồ.",
+            "en": "I study Chinese for one or two hours every day."
+          }
+        },
+        {
+          "text": "你都喝了三四杯咖啡了，别再喝了！",
+          "pronunciation": "Nǐ dōu hē le sān-sì bēi kāfēi le, bié zài hē le!",
+          "translations": {
+            "vi": "Bạn đã uống ba bốn ly cà phê rồi, đừng uống nữa!",
+            "en": "You've already had three or four cups of coffee, don't drink anymore!"
+          }
+        },
+        {
+          "text": "从小丽家到公司骑车七八分钟就能到。",
+          "pronunciation": "Cóng Xiǎolì jiā dào gōngsī qí chē qī-bā fēnzhōng jiù néng dào.",
+          "translations": {
+            "vi": "Từ nhà Tiểu Lệ đến công ty đạp xe bảy tám phút là tới.",
+            "en": "It takes about seven or eight minutes to ride a bike from Xiaoli's home to the company."
+          }
+        },
+        {
+          "text": "学校里边比学校外边方便，附近有三四个车站。",
+          "pronunciation": "Xuéxiào lǐbian bǐ xuéxiào wàibian fāngbiàn, fùjìn yǒu sān-sì ge chēzhàn.",
+          "translations": {
+            "vi": "Bên trong trường học thuận tiện hơn bên ngoài, gần đó có ba bốn bến xe.",
+            "en": "Inside the school is more convenient than outside; there are three or four bus stops nearby."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在教室",
+        "pronunciation": "Zài jiàoshì",
+        "translations": {
+          "vi": "Trong lớp học",
+          "en": "In the classroom"
+        }
+      },
+      "sentences": [
+        {
+          "text": "朋友：大山，你和马可谁个子高？",
+          "pronunciation": "Péngyou: Dàshān, nǐ hé Mǎkě shéi gèzi gāo?",
+          "translations": {
+            "vi": "Bạn: Đại Sơn, cậu và Marco ai cao hơn?",
+            "en": "Friend: Dashan, who is taller, you or Marco?"
+          }
+        },
+        {
+          "text": "大山：马可比我高，我比马可矮一点儿。",
+          "pronunciation": "Dàshān: Mǎkě bǐ wǒ gāo, wǒ bǐ Mǎkě ǎi yìdiǎnr.",
+          "translations": {
+            "vi": "Đại Sơn: Marco cao hơn tớ, tớ thấp hơn Marco một chút.",
+            "en": "Dashan: Marco is taller than me, I am a little shorter than Marco."
+          }
+        },
+        {
+          "text": "朋友：那你们谁大？",
+          "pronunciation": "Péngyou: Nà nimen shéi dà?",
+          "translations": {
+            "vi": "Bạn: Vậy ai lớn hơn?",
+            "en": "Friend: Then who is older?"
+          }
+        },
+        {
+          "text": "大山：我比马可大两岁。",
+          "pronunciation": "Dàshān: Wǒ bǐ Mǎkě dà liǎng suì.",
+          "translations": {
+            "vi": "Đại Sơn: Tớ lớn hơn Marco hai tuổi.",
+            "en": "Dashan: I am two years older than Marco."
+          }
+        },
+        {
+          "text": "朋友：你们谁的汉语说得更好？",
+          "pronunciation": "Péngyou: Nǐmen shéi de Hànyǔ shuō de gèng hǎo?",
+          "translations": {
+            "vi": "Bạn: Tiếng Trung của ai nói tốt hơn?",
+            "en": "Friend: Whose Chinese is better?"
+          }
+        },
+        {
+          "text": "大山：马可比我说得好一些，我的汉语没有他好。",
+          "pronunciation": "Dàshān: Mǎkě bǐ wǒ shuō de hǎo yìxiē, wǒ de Hànyǔ méiyǒu tā hǎo.",
+          "translations": {
+            "vi": "Đại Sơn: Marco nói tốt hơn tớ một chút, tiếng Trung của tớ không tốt bằng cậu ấy.",
+            "en": "Dashan: Marco speaks a little better than me, my Chinese is not as good as his."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在教室",
+        "pronunciation": "Zài jiàoshì",
+        "translations": {
+          "vi": "Trong lớp học",
+          "en": "In the classroom"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小明：我喜欢历史课、体育课，不喜欢数学课。",
+          "pronunciation": "Xiǎomíng: Wǒ xǐhuan lìshǐ kè, tǐyù kè, bù xǐhuan shùxué kè.",
+          "translations": {
+            "vi": "Tiểu Minh: Tớ thích môn Lịch sử, môn Thể dục, không thích môn Toán.",
+            "en": "Xiaoming: I like history class and PE class, I don't like math class."
+          }
+        },
+        {
+          "text": "同学：为什么？数学也很有意思啊。",
+          "pronunciation": "Tóngxué: Wèishénme? Shùxué yě hěn yǒu yìsi a.",
+          "translations": {
+            "vi": "Bạn học: Tại sao? Môn Toán cũng rất thú vị mà.",
+            "en": "Classmate: Why? Math is also very interesting."
+          }
+        },
+        {
+          "text": "小明：我觉得数学比历史难多了，我听不懂。",
+          "pronunciation": "Xiǎomíng: Wǒ juéde shùxué bǐ lìshǐ nánduō le, wǒ tīng bu dǒng.",
+          "translations": {
+            "vi": "Tiểu Minh: Tớ cảm thấy môn Toán khó hơn môn Lịch sử nhiều, tớ nghe không hiểu.",
+            "en": "Xiaoming: I think math is much harder than history, I don't understand it."
+          }
+        },
+        {
+          "text": "同学：别担心，我可以帮你。",
+          "pronunciation": "Tóngxué: Bié dānxīn, wǒ kěyǐ bāng ni.",
+          "translations": {
+            "vi": "Bạn học: Đừng lo, tớ có thể giúp cậu.",
+            "en": "Classmate: Don't worry, I can help you."
+          }
+        },
+        {
+          "text": "小明：好啊，我们每天学多长时间？",
+          "pronunciation": "Xiǎomíng: Hǎo a, wǒmen měi tiān xué duō cháng shíjiān?",
+          "translations": {
+            "vi": "Tiểu Minh: Được, mỗi ngày chúng ta học bao lâu?",
+            "en": "Xiaoming: Okay, how long do we study every day?"
+          }
+        },
+        {
+          "text": "同学：一两个小时吧。",
+          "pronunciation": "Tóngxué: Yī-liǎng ge xiǎoshí ba.",
+          "translations": {
+            "vi": "Bạn học: Một hai tiếng nhé.",
+            "en": "Classmate: One or two hours."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在休息室",
+        "pronunciation": "Zài xiūxishì",
+        "translations": {
+          "vi": "Trong phòng giải lao",
+          "en": "In the lounge"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：你最近比以前来得早多了，搬家了？",
+          "pronunciation": "Tóngshì: Nǐ zuìjìn bǐ yǐqián lái de zǎo duō le, bān jiā le?",
+          "translations": {
+            "vi": "Đồng nghiệp: Dạo này cậu đến sớm hơn trước đây nhiều, chuyển nhà rồi à?",
+            "en": "Colleague: You come much earlier recently than before, did you move?"
+          }
+        },
+        {
+          "text": "小丽：是啊，你不知道？我上个月就搬家了，走路二十分钟就到。",
+          "pronunciation": "Xiǎolì: Shì a, nǐ bù zhidao? Wǒ shàng ge yue jiu ban jia le, zou lu ershi fenzhong jiu dao.",
+          "translations": {
+            "vi": "Tiểu Lệ: Đúng vậy, cậu không biết sao? Tháng trước tớ chuyển nhà rồi, đi bộ 20 phút là đến.",
+            "en": "Xiaoli: Yes, you didn't know? I moved last month, it takes just 20 minutes to walk here."
+          }
+        },
+        {
+          "text": "同事：那很方便啊。",
+          "pronunciation": "Tóngshì: Nà hěn fāngbiàn a.",
+          "translations": {
+            "vi": "Đồng nghiệp: Vậy thuận tiện quá.",
+            "en": "Colleague: That's very convenient."
+          }
+        },
+        {
+          "text": "小丽：我还打算买辆自行车，骑车七八分钟就能到。",
+          "pronunciation": "Xiǎolì: Wǒ hái dǎsuàn mǎi liàng zìxíngchē, qí chē qī-bā fēnzhōng jiù néng dào.",
+          "translations": {
+            "vi": "Tiểu Lệ: Tớ còn định mua một chiếc xe đạp, đạp xe 7-8 phút là đến nơi.",
+            "en": "Xiaoli: I also plan to buy a bicycle, riding takes only seven or eight minutes."
+          }
+        },
+        {
+          "text": "同事：你不是有一辆吗？",
+          "pronunciation": "Tóngshì: Nǐ bú shì yǒu yí liàng ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Không phải cậu có một chiếc sao?",
+            "en": "Colleague: Don't you have one?"
+          }
+        },
+        {
+          "text": "小丽：那辆太旧了，要换一辆，很便宜，两三百块钱。",
+          "pronunciation": "Xiǎolì: Nà liàng tài jiù le, yào huàn yí liàng, hěn piányi, liǎng-sān bǎi kuài qián.",
+          "translations": {
+            "vi": "Tiểu Lệ: Chiếc đó cũ quá rồi, muốn đổi một chiếc khác, rẻ lắm, hai ba trăm tệ thôi.",
+            "en": "Xiaoli: That one is too old, I want to replace it, it's very cheap, two or three hundred yuan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "在看房子",
+        "pronunciation": "Zài kàn fángzi",
+        "translations": {
+          "vi": "Đang xem nhà",
+          "en": "Looking at houses"
+        }
+      },
+      "sentences": [
+        {
+          "text": "大山：这两个地方的房子一样吗？",
+          "pronunciation": "Dàshān: Zhè liǎng ge dìfang de fángzi yíyàng ma?",
+          "translations": {
+            "vi": "Đại Sơn: Nhà ở hai nơi này có giống nhau không?",
+            "en": "Dashan: Are the houses in these two places the same?"
+          }
+        },
+        {
+          "text": "中介：不一样。您看，学校外边的房子比学校里边的大一些。",
+          "pronunciation": "Zhōngjiè: Bù yíyàng. Nín kàn, xuéxiào wàibian de fángzi bǐ xuéxiào lǐbian de dà yìxiē.",
+          "translations": {
+            "vi": "Môi giới: Không giống nhau. Ông xem, nhà ở bên ngoài trường học lớn hơn bên trong một chút.",
+            "en": "Agent: Not the same. Look, the house outside the school is a little bigger than the one inside."
+          }
+        },
+        {
+          "text": "大山：大小没关系，主要是环境，哪个更安静？",
+          "pronunciation": "Dàshān: Dàxiǎo méi guānxi, zhǔyào shì huánjìng, nǎge gèng ānjìng?",
+          "translations": {
+            "vi": "Đại Sơn: Lớn nhỏ không quan trọng, chủ yếu là môi trường, cái nào yên tĩnh hơn?",
+            "en": "Dashan: Size doesn't matter, mainly the environment, which one is quieter?"
+          }
+        },
+        {
+          "text": "中介：学校里边的没有学校外边的那么安静。",
+          "pronunciation": "Zhōngjiè: Xuéxiào lǐbian de méiyǒu xuéxiào wàibian de nàme ānjìng.",
+          "translations": {
+            "vi": "Môi giới: Bên trong trường học không yên tĩnh bằng bên ngoài trường học.",
+            "en": "Agent: The one inside the school is not as quiet as the one outside."
+          }
+        },
+        {
+          "text": "大山：哪个方便一些呢？",
+          "pronunciation": "Dàshān: Nǎge fāngbiàn yìxiē ne?",
+          "translations": {
+            "vi": "Đại Sơn: Cái nào thuận tiện hơn một chút?",
+            "en": "Dashan: Which one is more convenient?"
+          }
+        },
+        {
+          "text": "中介：学校里边比学校外边方便，附近有三四个车站。",
+          "pronunciation": "Zhōngjiè: Xuéxiào lǐbian bǐ xuéxiào wàibian fāngbiàn, fùjìn yǒu sān-sì ge chēzhàn.",
+          "translations": {
+            "vi": "Môi giới: Bên trong trường học thuận tiện hơn bên ngoài, gần đó có ba bốn bến xe.",
+            "en": "Agent: Inside the school is more convenient than outside, there are three or four bus stops nearby."
+          }
+        }
+      ]
+    }
+  ]
+}

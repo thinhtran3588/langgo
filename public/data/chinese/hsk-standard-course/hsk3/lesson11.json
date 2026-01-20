@@ -1,0 +1,649 @@
+{
+  "title": {
+    "text": "别忘了把空调关了。",
+    "pronunciation": "Bié wàngle bǎ kōngtiáo guān le.",
+    "translations": {
+      "vi": "Đừng quên tắt máy điều hòa không khí nhé.",
+      "en": "Don't forget to turn off the air conditioner."
+    }
+  },
+  "newWords": [
+    {
+      "word": "图书馆",
+      "type": "danh từ",
+      "pronunciation": "túshūguǎn",
+      "translations": {
+        "vi": "thư viện",
+        "en": "library"
+      },
+      "example": {
+        "text": "我去图书馆借本书。",
+        "pronunciation": "Wǒ qù túshūguǎn jiè běn shū.",
+        "translations": {
+          "vi": "Tớ đi thư viện mượn quyển sách.",
+          "en": "I'm going to the library to borrow a book."
+        }
+      }
+    },
+    {
+      "word": "借",
+      "type": "động từ",
+      "pronunciation": "jiè",
+      "translations": {
+        "vi": "mượn, vay",
+        "en": "to borrow; to lend"
+      },
+      "example": {
+        "text": "我去图书馆借本书。",
+        "pronunciation": "Wǒ qù túshūguǎn jiè běn shū.",
+        "translations": {
+          "vi": "Tớ đi thư viện mượn quyển sách.",
+          "en": "I'm going to the library to borrow a book."
+        }
+      }
+    },
+    {
+      "word": "词典",
+      "type": "danh từ",
+      "pronunciation": "cídiǎn",
+      "translations": {
+        "vi": "từ điển",
+        "en": "dictionary"
+      },
+      "example": {
+        "text": "帮我把这本词典还了吧。",
+        "pronunciation": "Bāng wǒ bǎ zhè běn cídiǎn huán le ba.",
+        "translations": {
+          "vi": "Giúp tớ trả quyển từ điển này nhé.",
+          "en": "Help me return this dictionary."
+        }
+      }
+    },
+    {
+      "word": "还",
+      "type": "động từ",
+      "pronunciation": "huán",
+      "translations": {
+        "vi": "trả",
+        "en": "to return"
+      },
+      "example": {
+        "text": "帮我把这本词典还了吧。",
+        "pronunciation": "Bāng wǒ bǎ zhè běn cídiǎn huán le ba.",
+        "translations": {
+          "vi": "Giúp tớ trả quyển từ điển này nhé.",
+          "en": "Help me return this dictionary."
+        }
+      }
+    },
+    {
+      "word": "灯",
+      "type": "danh từ",
+      "pronunciation": "dēng",
+      "translations": {
+        "vi": "đèn",
+        "en": "lamp; light"
+      },
+      "example": {
+        "text": "记得把灯关了。",
+        "pronunciation": "Jìde bǎ dēng guān le.",
+        "translations": {
+          "vi": "Nhớ tắt đèn nhé.",
+          "en": "Remember to turn off the light."
+        }
+      }
+    },
+    {
+      "word": "会议",
+      "type": "danh từ",
+      "pronunciation": "huìyì",
+      "translations": {
+        "vi": "hội nghị, cuộc họp",
+        "en": "meeting; conference"
+      },
+      "example": {
+        "text": "会议结束后，别忘记把空调关了。",
+        "pronunciation": "Huìyì jiéshù hòu, bié wàngjì bǎ kōngtiáo guān le.",
+        "translations": {
+          "vi": "Sau khi cuộc họp kết thúc, đừng quên tắt điều hòa.",
+          "en": "After the meeting ends, don't forget to turn off the air conditioner."
+        }
+      }
+    },
+    {
+      "word": "结束",
+      "type": "động từ",
+      "pronunciation": "jiéshù",
+      "translations": {
+        "vi": "kết thúc, chấm dứt",
+        "en": "to end; to finish"
+      },
+      "example": {
+        "text": "会议结束后，别忘记把空调关了。",
+        "pronunciation": "Huìyì jiéshù hòu, bié wàngjì bǎ kōngtiáo guān le.",
+        "translations": {
+          "vi": "Sau khi cuộc họp kết thúc, đừng quên tắt điều hòa.",
+          "en": "After the meeting ends, don't forget to turn off the air conditioner."
+        }
+      }
+    },
+    {
+      "word": "忘记",
+      "type": "động từ",
+      "pronunciation": "wàngjì",
+      "translations": {
+        "vi": "quên",
+        "en": "to forget"
+      },
+      "example": {
+        "text": "会议结束后，别忘记把空调关了。",
+        "pronunciation": "Huìyì jiéshù hòu, bié wàngjì bǎ kōngtiáo guān le.",
+        "translations": {
+          "vi": "Sau khi cuộc họp kết thúc, đừng quên tắt điều hòa.",
+          "en": "After the meeting ends, don't forget to turn off the air conditioner."
+        }
+      }
+    },
+    {
+      "word": "空调",
+      "type": "danh từ",
+      "pronunciation": "kōngtiáo",
+      "translations": {
+        "vi": "máy điều hòa không khí",
+        "en": "air conditioner"
+      },
+      "example": {
+        "text": "别忘记把空调关了。",
+        "pronunciation": "Bié wàngjì bǎ kōngtiáo guān le.",
+        "translations": {
+          "vi": "Đừng quên tắt điều hòa nhé.",
+          "en": "Don't forget to turn off the air conditioner."
+        }
+      }
+    },
+    {
+      "word": "关",
+      "type": "động từ",
+      "pronunciation": "guān",
+      "translations": {
+        "vi": "tắt, đóng",
+        "en": "to turn off; to close"
+      },
+      "example": {
+        "text": "别忘记把空调关了。",
+        "pronunciation": "Bié wàngjì bǎ kōngtiáo guān le.",
+        "translations": {
+          "vi": "Đừng quên tắt điều hòa nhé.",
+          "en": "Don't forget to turn off the air conditioner."
+        }
+      }
+    },
+    {
+      "word": "地铁",
+      "type": "danh từ",
+      "pronunciation": "dìtiě",
+      "translations": {
+        "vi": "tàu điện ngầm",
+        "en": "subway"
+      },
+      "example": {
+        "text": "他正坐地铁来我们公司呢。",
+        "pronunciation": "Tā zhèng zuò dìtiě lái wǒmen gōngsī ne.",
+        "translations": {
+          "vi": "Ông ấy đang đi tàu điện ngầm đến công ty chúng ta đấy.",
+          "en": "He is taking the subway to our company right now."
+        }
+      }
+    },
+    {
+      "word": "双",
+      "type": "lượng từ",
+      "pronunciation": "shuāng",
+      "translations": {
+        "vi": "đôi",
+        "en": "pair"
+      },
+      "example": {
+        "text": "还差一双筷子，你去拿一下。",
+        "pronunciation": "Hái chà yì shuāng kuàizi, nǐ qù ná yíxià.",
+        "translations": {
+          "vi": "Vẫn còn thiếu một đôi đũa, con đi lấy đi.",
+          "en": "We are still missing a pair of chopsticks, go get them."
+        }
+      }
+    },
+    {
+      "word": "筷子",
+      "type": "danh từ",
+      "pronunciation": "kuàizi",
+      "translations": {
+        "vi": "đũa",
+        "en": "chopsticks"
+      },
+      "example": {
+        "text": "还差一双筷子，你去拿一下。",
+        "pronunciation": "Hái chà yì shuāng kuàizi, nǐ qù ná yíxià.",
+        "translations": {
+          "vi": "Vẫn còn thiếu một đôi đũa, con đi lấy đi.",
+          "en": "We are still missing a pair of chopsticks, go get them."
+        }
+      }
+    },
+    {
+      "word": "啤酒",
+      "type": "danh từ",
+      "pronunciation": "píjiǔ",
+      "translations": {
+        "vi": "bia, rượu bia",
+        "en": "beer"
+      },
+      "example": {
+        "text": "那我们今天喝点儿啤酒吧。",
+        "pronunciation": "Nà wǒmen jīntiān hē diǎnr píjiǔ ba.",
+        "translations": {
+          "vi": "Vậy hôm nay chúng ta uống chút bia đi.",
+          "en": "Then let's drink some beer today."
+        }
+      }
+    },
+    {
+      "word": "口",
+      "type": "lượng từ",
+      "pronunciation": "kǒu",
+      "translations": {
+        "vi": "miếng, ngụm, hớp",
+        "en": "mouthful"
+      },
+      "example": {
+        "text": "医生说你爸爸一口酒都不能喝。",
+        "pronunciation": "Yīshēng shuō nǐ bàba yì kǒu jiǔ dōu bù néng hē.",
+        "translations": {
+          "vi": "Bác sĩ nói bố con một ngụm rượu cũng không được uống.",
+          "en": "The doctor said your dad can't drink even a mouthful of alcohol."
+        }
+      }
+    },
+    {
+      "word": "瓶子",
+      "type": "danh từ",
+      "pronunciation": "píngzi",
+      "translations": {
+        "vi": "lọ, bình",
+        "en": "bottle"
+      },
+      "example": {
+        "text": "别让他看见酒瓶子。",
+        "pronunciation": "Bié ràng tā kànjiàn jiǔ píngzi.",
+        "translations": {
+          "vi": "Đừng để ông ấy nhìn thấy chai rượu.",
+          "en": "Don't let him see the wine bottle."
+        }
+      }
+    },
+    {
+      "word": "笔记本 (电脑)",
+      "type": "danh từ",
+      "pronunciation": "bǐjìběn (diànnǎo)",
+      "translations": {
+        "vi": "máy tính xách tay",
+        "en": "notebook (computer); laptop"
+      },
+      "example": {
+        "text": "这个笔记本电脑我去年买的时候要五千块左右。",
+        "pronunciation": "Zhège bǐjìběn diànnǎo wǒ qùnián mǎi de shíhou yào wǔqiān kuài zuǒyòu.",
+        "translations": {
+          "vi": "Cái máy tính xách tay này lúc tôi mua năm ngoái khoảng 5000 tệ.",
+          "en": "This laptop cost about 5000 yuan when I bought it last year."
+        }
+      }
+    },
+    {
+      "word": "电子邮件",
+      "type": "danh từ",
+      "pronunciation": "diànzǐ yóujiàn",
+      "translations": {
+        "vi": "email",
+        "en": "email"
+      },
+      "example": {
+        "text": "现在我每天起床后的第一件事就是打开电脑，看电子邮件。",
+        "pronunciation": "Xiànzài wǒ měi tiān qǐ chuáng hòu de dì-yī jiàn shì jiùshì dǎkāi diànnǎo, kàn diànzǐ yóujiàn.",
+        "translations": {
+          "vi": "Bây giờ việc đầu tiên mỗi ngày sau khi ngủ dậy của tôi là mở máy tính, xem email.",
+          "en": "Now the first thing I do every day after getting up is turn on the computer and check email."
+        }
+      }
+    },
+    {
+      "word": "习惯",
+      "type": "động từ/danh từ",
+      "pronunciation": "xíguàn",
+      "translations": {
+        "vi": "quen; thói quen",
+        "en": "to be used to; habit"
+      },
+      "example": {
+        "text": "已经习惯用电脑来学习和工作了。",
+        "pronunciation": "Yǐjīng xíguàn yòng diànnǎo lái xuéxí hé gōngzuò le.",
+        "translations": {
+          "vi": "Đã quen dùng máy tính để học tập và làm việc rồi.",
+          "en": "I'm already used to using a computer to study and work."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "“把” 字句1: A 把 B + 动词 + ……",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, để chỉ một hành động được thực hiện và có tác động đến người/sự vật xác định, thường được dùng để đưa ra đề nghị hay mệnh lệnh, ta có thể dùng câu chữ \"把\". Cấu trúc: A 把 B + động từ + ....... Lưu ý: A là chủ thể của hành động, B là đối tượng chịu tác động của hành động. Cả A và B phải là người/sự vật cụ thể hoặc những đối tượng mà người nói và người nghe đều biết.",
+        "en": "In Chinese, the \"把\" sentence is used to indicate an action performed on a specific person or object, often used to make requests or give commands. Structure: A 把 B + Verb + ....... Note: A is the doer, B is the receiver. Both A and B must be specific or known to both the speaker and listener."
+      },
+      "examples": [
+        {
+          "text": "请你把衣服洗了。",
+          "pronunciation": "Qǐng nǐ bǎ yīfu xǐ le.",
+          "translations": {
+            "vi": "Bạn giặt quần áo đi nhé.",
+            "en": "Please wash the clothes."
+          }
+        },
+        {
+          "text": "帮我把这本词典还了。",
+          "pronunciation": "Bāng wǒ bǎ zhè běn cídiǎn huán le.",
+          "translations": {
+            "vi": "Giúp tôi trả quyển từ điển này.",
+            "en": "Help me return this dictionary."
+          }
+        },
+        {
+          "text": "你把灯关了吧。",
+          "pronunciation": "Nǐ bǎ dēng guān le ba.",
+          "translations": {
+            "vi": "Bạn tắt đèn đi.",
+            "en": "Turn off the light."
+          }
+        },
+        {
+          "text": "我把爸爸的生日忘了。",
+          "pronunciation": "Wǒ bǎ bàba de shēngrì wàng le.",
+          "translations": {
+            "vi": "Tôi quên mất sinh nhật của bố rồi.",
+            "en": "I forgot Dad's birthday."
+          }
+        },
+        {
+          "text": "你没把书给我。",
+          "pronunciation": "Nǐ méi bǎ shū gěi wǒ.",
+          "translations": {
+            "vi": "Bạn chưa đưa sách cho tôi.",
+            "en": "You didn't give me the book."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "概数的表达2: 左右",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, \"左右\" được dùng sau chữ số để diễn tả số ước lượng, chẳng hạn 三点左右 (khoảng ba giờ), 五个左右 (khoảng năm cái), 十年左右 (khoảng mười năm).",
+        "en": "In Chinese, \"左右\" is used after a number to indicate an approximate number, such as 三点左右 (around 3 o'clock), 五个左右 (around five items), 十年左右 (around ten years)."
+      },
+      "examples": [
+        {
+          "text": "周末我一般十点左右起床。",
+          "pronunciation": "Zhōumò wǒ yìbān shí diǎn zuǒyòu qǐchuáng.",
+          "translations": {
+            "vi": "Cuối tuần tôi thường dậy lúc khoảng 10 giờ.",
+            "en": "I usually get up around 10 o'clock on weekends."
+          }
+        },
+        {
+          "text": "我们公司有五百人左右。",
+          "pronunciation": "Wǒmen gōngsī yǒu wǔbǎi rén zuǒyòu.",
+          "translations": {
+            "vi": "Công ty chúng tôi có khoảng 500 người.",
+            "en": "Our company has about 500 people."
+          }
+        },
+        {
+          "text": "王经理两点左右来了个电话。",
+          "pronunciation": "Wáng jīnglǐ liǎng diǎn zuǒyòu lái le ge diànhuà.",
+          "translations": {
+            "vi": "Giám đốc Vương gọi điện đến lúc khoảng 2 giờ.",
+            "en": "Manager Wang called around 2 o'clock."
+          }
+        },
+        {
+          "text": "这个笔记本电脑我去年买的时候要五千块左右。",
+          "pronunciation": "Zhège bǐjìběn diànnǎo wǒ qùnián mǎi de shíhou yào wǔqiān kuài zuǒyòu.",
+          "translations": {
+            "vi": "Chiếc máy tính xách tay này năm ngoái tôi mua giá khoảng 5000 tệ.",
+            "en": "This laptop cost around 5000 yuan when I bought it last year."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在教室",
+        "pronunciation": "Zài jiàoshì",
+        "translations": {
+          "vi": "Trong lớp học",
+          "en": "In the classroom"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小明：我先走了。",
+          "pronunciation": "Xiǎomíng: Wǒ xiān zǒu le.",
+          "translations": {
+            "vi": "Tiểu Minh: Tớ đi trước đây.",
+            "en": "Xiaoming: I'm leaving first."
+          }
+        },
+        {
+          "text": "同学：你去哪儿？",
+          "pronunciation": "Tóngxué: Nǐ qù nǎr?",
+          "translations": {
+            "vi": "Bạn học: Cậu đi đâu?",
+            "en": "Classmate: Where are you going?"
+          }
+        },
+        {
+          "text": "小明：我去图书馆借本书。",
+          "pronunciation": "Xiǎomíng: Wǒ qù túshūguǎn jiè běn shū.",
+          "translations": {
+            "vi": "Tiểu Minh: Tớ đi thư viện mượn quyển sách.",
+            "en": "Xiaoming: I'm going to the library to borrow a book."
+          }
+        },
+        {
+          "text": "同学：帮我把这本词典还了吧。",
+          "pronunciation": "Tóngxué: Bāng wǒ bǎ zhè běn cídiǎn huán le ba.",
+          "translations": {
+            "vi": "Bạn học: Giúp tớ trả quyển từ điển này nhé.",
+            "en": "Classmate: Help me return this dictionary."
+          }
+        },
+        {
+          "text": "小明：好，等一会儿你离开教室的时候，记得把灯关了。",
+          "pronunciation": "Xiǎomíng: Hǎo, děng yíhuìr nǐ líkāi jiàoshì de shíhou, jìde bǎ dēng guān le.",
+          "translations": {
+            "vi": "Tiểu Minh: Được, lát nữa khi cậu rời khỏi lớp học, nhớ tắt đèn nhé.",
+            "en": "Xiaoming: Okay, remember to turn off the light when you leave the classroom later."
+          }
+        },
+        {
+          "text": "同学：好的，放心吧。",
+          "pronunciation": "Tóngxué: Hǎo de, fàng xīn ba.",
+          "translations": {
+            "vi": "Bạn học: Ok, yên tâm đi.",
+            "en": "Classmate: Okay, don't worry."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在会议室",
+        "pronunciation": "Zài huìyìshì",
+        "translations": {
+          "vi": "Trong phòng họp",
+          "en": "In the meeting room"
+        }
+      },
+      "sentences": [
+        {
+          "text": "周明：会议结束后，别忘记把空调关了。",
+          "pronunciation": "Zhōu Míng: Huìyì jiéshù hòu, bié wàngjì bǎ kōngtiáo guān le.",
+          "translations": {
+            "vi": "Chu Minh: Sau khi cuộc họp kết thúc, đừng quên tắt điều hòa.",
+            "en": "Zhou Ming: After the meeting ends, don't forget to turn off the air conditioner."
+          }
+        },
+        {
+          "text": "小丽：好的。王经理两点左右来了个电话。",
+          "pronunciation": "Xiǎolì: Hǎo de. Wáng jīnglǐ liǎng diǎn zuǒyòu lái le ge diànhuà.",
+          "translations": {
+            "vi": "Tiểu Lệ: Vâng. Giám đốc Vương gọi điện đến lúc khoảng 2 giờ.",
+            "en": "Xiaoli: Okay. Manager Wang called around 2 o'clock."
+          }
+        },
+        {
+          "text": "周明：他已经到北京了？",
+          "pronunciation": "Zhōu Míng: Tā yǐjīng dào Běijīng le?",
+          "translations": {
+            "vi": "Chu Minh: Ông ấy đã đến Bắc Kinh rồi à?",
+            "en": "Zhou Ming: Has he already arrived in Beijing?"
+          }
+        },
+        {
+          "text": "小丽：是的，他正坐地铁来我们公司呢。",
+          "pronunciation": "Xiǎolì: Shì de, tā zhèng zuò dìtiě lái wǒmen gōngsī ne.",
+          "translations": {
+            "vi": "Tiểu Lệ: Vâng, ông ấy đang đi tàu điện ngầm đến công ty chúng ta đấy.",
+            "en": "Xiaoli: Yes, he is taking the subway to our company right now."
+          }
+        },
+        {
+          "text": "周明：等他到了就告诉我。",
+          "pronunciation": "Zhōu Míng: Děng tā dào le jiù gàosu wǒ.",
+          "translations": {
+            "vi": "Chu Minh: Đợi ông ấy đến thì báo cho tôi.",
+            "en": "Zhou Ming: Tell me when he arrives."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在客厅",
+        "pronunciation": "Zài kètīng",
+        "translations": {
+          "vi": "Trong phòng khách",
+          "en": "In the living room"
+        }
+      },
+      "sentences": [
+        {
+          "text": "妈妈：还差一双筷子，你去拿一下。",
+          "pronunciation": "Māma: Hái chà yì shuāng kuàizi, nǐ qù ná yíxià.",
+          "translations": {
+            "vi": "Mẹ: Vẫn còn thiếu một đôi đũa, con đi lấy đi.",
+            "en": "Mom: We are still missing a pair of chopsticks, go get them."
+          }
+        },
+        {
+          "text": "儿子：今天怎么做了这么多菜？",
+          "pronunciation": "Érzi: Jīntiān zěnme zuò le zhème duō cài?",
+          "translations": {
+            "vi": "Con trai: Hôm nay sao mẹ làm nhiều món thế?",
+            "en": "Son: Why did you make so many dishes today?"
+          }
+        },
+        {
+          "text": "妈妈：今天是你爸爸的生日。",
+          "pronunciation": "Māma: Jīntiān shì nǐ bàba de shēngrì.",
+          "translations": {
+            "vi": "Mẹ: Hôm nay là sinh nhật của bố con.",
+            "en": "Mom: Today is your dad's birthday."
+          }
+        },
+        {
+          "text": "儿子：真的啊？我把爸爸的生日忘了。那我们今天喝点儿啤酒吧。",
+          "pronunciation": "Érzi: Zhēn de a? Wǒ bǎ bàba de shēngrì wàng le. Nà wǒmen jīntiān hē diǎnr píjiǔ ba.",
+          "translations": {
+            "vi": "Con trai: Thật ạ? Con quên mất sinh nhật của bố rồi. Vậy hôm nay chúng ta uống chút bia đi.",
+            "en": "Son: Really? I forgot Dad's birthday. Then let's drink some beer today."
+          }
+        },
+        {
+          "text": "妈妈：医生说你爸爸一口酒都不能喝，别让他看见酒瓶子。",
+          "pronunciation": "Māma: Yīshēng shuō nǐ bàba yì kǒu jiǔ dōu bù néng hē, bié ràng tā kànjiàn jiǔ píngzi.",
+          "translations": {
+            "vi": "Mẹ: Bác sĩ nói bố con một ngụm rượu cũng không được uống, đừng để ông ấy nhìn thấy chai rượu.",
+            "en": "Mom: The doctor said your dad can't drink even a mouthful of alcohol, don't let him see the bottle."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "我的习惯",
+        "pronunciation": "Wǒ de xíguàn",
+        "translations": {
+          "vi": "Thói quen của tôi",
+          "en": "My habits"
+        }
+      },
+      "sentences": [
+        {
+          "text": "这个笔记本电脑我去年买的时候要五千块左右，现在便宜多了。",
+          "pronunciation": "Zhège bǐjìběn diànnǎo wǒ qùnián mǎi de shíhou yào wǔqiān kuài zuǒyòu, xiànzài piányi duō le.",
+          "translations": {
+            "vi": "Cái máy tính xách tay này lúc tôi mua năm ngoái khoảng 5000 tệ, bây giờ rẻ hơn nhiều rồi.",
+            "en": "This laptop cost about 5000 yuan when I bought it last year, now it's much cheaper."
+          }
+        },
+        {
+          "text": "我想把这个电脑卖了，再买一个更好的。",
+          "pronunciation": "Wǒ xiǎng bǎ zhège diànnǎo mài le, zài mǎi yí ge gèng hǎo de.",
+          "translations": {
+            "vi": "Tôi muốn bán cái máy tính này đi, mua cái khác tốt hơn.",
+            "en": "I want to sell this computer and buy a better one."
+          }
+        },
+        {
+          "text": "现在我每天起床后的第一件事就是打开电脑，看电子邮件。",
+          "pronunciation": "Xiànzài wǒ měi tiān qǐ chuáng hòu de dì-yī jiàn shì jiùshì dǎkāi diànnǎo, kàn diànzǐ yóujiàn.",
+          "translations": {
+            "vi": "Bây giờ việc đầu tiên mỗi ngày sau khi ngủ dậy của tôi là mở máy tính, xem email.",
+            "en": "Now the first thing I do every day after getting up is turn on the computer and check email."
+          }
+        },
+        {
+          "text": "我已经很少写信，也很少用笔写字，已经习惯用电脑来学习和工作了。",
+          "pronunciation": "Wǒ yǐjīng hěn shǎo xiě xìn, yě hěn shǎo yòng bǐ xiě zì, yǐjīng xíguàn yòng diànnǎo lái xuéxí hé gōngzuò le.",
+          "translations": {
+            "vi": "Tôi đã rất ít viết thư, cũng rất ít dùng bút viết chữ, đã quen dùng máy tính để học tập và làm việc rồi.",
+            "en": "I rarely write letters anymore, and rarely use a pen to write; I'm used to using a computer to study and work."
+          }
+        },
+        {
+          "text": "哪一天突然没有了电脑，我们怎么办呢？",
+          "pronunciation": "Nǎ yì tiān tūrán méiyǒu le diànnǎo, wǒmen zěnme bàn ne?",
+          "translations": {
+            "vi": "Một ngày nào đó bỗng nhiên không có máy tính nữa, chúng ta phải làm sao đây?",
+            "en": "If one day there were suddenly no computers, what would we do?"
+          }
+        }
+      ]
+    }
+  ]
+}

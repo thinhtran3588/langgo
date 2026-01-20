@@ -1,627 +1,627 @@
 {
-    "title": {
-        "text": "我跟她都认识五年了。",
-        "pronunciation": "Wǒ gēn tā dōu rènshi wǔ nián le.",
+  "title": {
+    "text": "我跟她都认识五年了。",
+    "pronunciation": "Wǒ gēn tā dōu rènshi wǔ nián le.",
+    "translations": {
+      "vi": "Tôi và cô ấy quen nhau được năm năm rồi.",
+      "en": "I've known her for five years."
+    }
+  },
+  "newWords": [
+    {
+      "word": "同事",
+      "type": "danh từ",
+      "pronunciation": "tóngshì",
+      "translations": {
+        "vi": "đồng nghiệp",
+        "en": "colleague"
+      },
+      "example": {
+        "text": "那个漂亮的新同事是谁？",
+        "pronunciation": "Nàge piàoliang de xīn tóngshì shì shéi?",
         "translations": {
-            "vi": "Tôi và cô ấy quen nhau được năm năm rồi.",
-            "en": "I've known her for five years."
+          "vi": "Người đồng nghiệp mới xinh đẹp kia là ai vậy?",
+          "en": "Who is that beautiful new colleague?"
         }
+      }
     },
-    "newWords": [
-        {
-            "word": "同事",
-            "type": "danh từ",
-            "pronunciation": "tóngshì",
-            "translations": {
-                "vi": "đồng nghiệp",
-                "en": "colleague"
-            },
-            "example": {
-                "text": "那个漂亮的新同事是谁？",
-                "pronunciation": "Nàge piàoliang de xīn tóngshì shì shéi?",
-                "translations": {
-                    "vi": "Người đồng nghiệp mới xinh đẹp kia là ai vậy?",
-                    "en": "Who is that beautiful new colleague?"
-                }
-            }
-        },
-        {
-            "word": "以前",
-            "type": "danh từ",
-            "pronunciation": "yǐqián",
-            "translations": {
-                "vi": "trước đây, trước kia",
-                "en": "before; formerly"
-            },
-            "example": {
-                "text": "以前她在哪儿工作？",
-                "pronunciation": "Yǐqián tā zài nǎr gōngzuò?",
-                "translations": {
-                    "vi": "Trước đây cô ấy làm việc ở đâu?",
-                    "en": "Where did she work before?"
-                }
-            }
-        },
-        {
-            "word": "银行",
-            "type": "danh từ",
-            "pronunciation": "yínháng",
-            "translations": {
-                "vi": "ngân hàng",
-                "en": "bank"
-            },
-            "example": {
-                "text": "她在银行工作了两年以后来的我们公司。",
-                "pronunciation": "Tā zài yínháng gōngzuò le liǎng nián yǐhòu lái de wǒmen gōngsī.",
-                "translations": {
-                    "vi": "Cô ấy làm việc ở ngân hàng hai năm sau đó mới đến công ty chúng tôi.",
-                    "en": "She worked at a bank for two years before coming to our company."
-                }
-            }
-        },
-        {
-            "word": "久",
-            "type": "tính từ",
-            "pronunciation": "jiǔ",
-            "translations": {
-                "vi": "lâu, lâu dài",
-                "en": "long (time)"
-            },
-            "example": {
-                "text": "你们唱了多久？",
-                "pronunciation": "Nǐmen chàng le duō jiǔ?",
-                "translations": {
-                    "vi": "Các bạn hát bao lâu?",
-                    "en": "How long did you sing?"
-                }
-            }
-        },
-        {
-            "word": "感兴趣",
-            "type": "động từ",
-            "pronunciation": "gǎn xìngqù",
-            "translations": {
-                "vi": "có hứng thú, thích",
-                "en": "to be interested in"
-            },
-            "example": {
-                "text": "你们都对音乐感兴趣吗？",
-                "pronunciation": "Nǐmen dōu duì yīnyuè gǎn xìngqù ma?",
-                "translations": {
-                    "vi": "Các bạn đều có hứng thú với âm nhạc à?",
-                    "en": "Are you all interested in music?"
-                }
-            }
-        },
-        {
-            "word": "结婚",
-            "type": "động từ",
-            "pronunciation": "jié hūn",
-            "translations": {
-                "vi": "kết hôn, cưới",
-                "en": "to marry; to get married"
-            },
-            "example": {
-                "text": "我跟小丽下个月结婚。",
-                "pronunciation": "Wǒ gēn Xiǎolì xià ge yuè jié hūn.",
-                "translations": {
-                    "vi": "Tôi và Tiểu Lệ tháng sau kết hôn.",
-                    "en": "Xiaoli and I are getting married next month."
-                }
-            }
-        },
-        {
-            "word": "欢迎",
-            "type": "động từ",
-            "pronunciation": "huānyíng",
-            "translations": {
-                "vi": "hoan nghênh, chào mừng",
-                "en": "to welcome"
-            },
-            "example": {
-                "text": "到时候欢迎你来。",
-                "pronunciation": "Dào shíhou huānyíng nǐ lái.",
-                "translations": {
-                    "vi": "Đến lúc đó hoan nghênh cậu đến.",
-                    "en": "You are welcome to come then."
-                }
-            }
-        },
-        {
-            "word": "迟到",
-            "type": "động từ",
-            "pronunciation": "chídào",
-            "translations": {
-                "vi": "đến muộn",
-                "en": "to be late"
-            },
-            "example": {
-                "text": "你看看手表，怎么迟到了？",
-                "pronunciation": "Nǐ kànkan shǒubiǎo, zěnme chídào le?",
-                "translations": {
-                    "vi": "Anh xem đồng hồ đi, sao lại đến muộn vậy?",
-                    "en": "Look at your watch, why are you late?"
-                }
-            }
-        },
-        {
-            "word": "半",
-            "type": "số từ",
-            "pronunciation": "bàn",
-            "translations": {
-                "vi": "một nửa, rưỡi",
-                "en": "half"
-            },
-            "example": {
-                "text": "现在不是七点半吗？",
-                "pronunciation": "Xiànzài bú shì qī diǎn bàn ma?",
-                "translations": {
-                    "vi": "Bây giờ không phải là 7 giờ rưỡi sao?",
-                    "en": "Isn't it 7:30 now?"
-                }
-            }
-        },
-        {
-            "word": "接",
-            "type": "động từ",
-            "pronunciation": "jiē",
-            "translations": {
-                "vi": "đón",
-                "en": "to pick up (someone)"
-            },
-            "example": {
-                "text": "你不是说七点半来接我吗？",
-                "pronunciation": "Nǐ bú shì shuō qī diǎn bàn lái jiē wǒ ma?",
-                "translations": {
-                    "vi": "Không phải anh nói 7 giờ rưỡi đến đón em sao?",
-                    "en": "Didn't you say you'd come pick me up at 7:30?"
-                }
-            }
-        },
-        {
-            "word": "刻",
-            "type": "lượng từ",
-            "pronunciation": "kè",
-            "translations": {
-                "vi": "mười lăm phút, khắc",
-                "en": "quarter (of an hour)"
-            },
-            "example": {
-                "text": "你迟到了一刻钟。",
-                "pronunciation": "Nǐ chídào le yí kè zhōng.",
-                "translations": {
-                    "vi": "Anh đến muộn 15 phút rồi.",
-                    "en": "You are a quarter of an hour late."
-                }
-            }
-        },
-        {
-            "word": "差",
-            "type": "động từ",
-            "pronunciation": "chà",
-            "translations": {
-                "vi": "kém, thiếu",
-                "en": "to lack; short of"
-            },
-            "example": {
-                "text": "已经差一刻八点了！",
-                "pronunciation": "Yǐjīng chà yí kè bā diǎn le!",
-                "translations": {
-                    "vi": "Đã 8 giờ kém 15 rồi!",
-                    "en": "It's already a quarter to eight!"
-                }
-            }
+    {
+      "word": "以前",
+      "type": "danh từ",
+      "pronunciation": "yǐqián",
+      "translations": {
+        "vi": "trước đây, trước kia",
+        "en": "before; formerly"
+      },
+      "example": {
+        "text": "以前她在哪儿工作？",
+        "pronunciation": "Yǐqián tā zài nǎr gōngzuò?",
+        "translations": {
+          "vi": "Trước đây cô ấy làm việc ở đâu?",
+          "en": "Where did she work before?"
         }
-    ],
-    "grammars": [
-        {
-            "grammar": "时段的表达",
-            "descriptions": {
-                "vi": "Để diễn tả hành động/trạng thái xảy ra hoặc kéo dài trong khoảng thời gian bao lâu, người ta thường dùng bổ ngữ chỉ thời lượng như 一刻钟 (mười lăm phút), 半个小时 (nửa giờ), 两天 (hai ngày), 三个月 (ba tháng)...\n1. Cấu trúc “chủ ngữ + động từ + 了 + khoảng thời gian + tân ngữ” diễn tả khoảng thời gian mà hành động xảy ra.\n2. Cấu trúc “chủ ngữ + động từ + 了 + khoảng thời gian + tân ngữ + 了” diễn tả khoảng thời gian mà hành động đã xảy ra và hành động đó vẫn đang tiếp diễn.",
-                "en": "To express how long an action or state lasts, duration complements are used. \n1. Structure \"Subject + Verb + 了 + Duration + Object\" expresses the duration of a completed action.\n2. Structure \"Subject + Verb + 了 + Duration + Object + 了\" expresses the duration of an action that started in the past and is still continuing."
-            },
-            "examples": [
-                {
-                    "text": "她工作了三年。",
-                    "pronunciation": "Tā gōngzuò le sān nián.",
-                    "translations": {
-                        "vi": "Cô ấy đã làm việc ba năm.",
-                        "en": "She worked for three years."
-                    }
-                },
-                {
-                    "text": "我们坐了一个小时公共汽车。",
-                    "pronunciation": "Wǒmen zuò le yí ge xiǎoshí gōnggòngqìchē.",
-                    "translations": {
-                        "vi": "Chúng tôi đã ngồi xe buýt một tiếng đồng hồ.",
-                        "en": "We took the bus for an hour."
-                    }
-                },
-                {
-                    "text": "你怎么晚到了一刻钟？",
-                    "pronunciation": "Nǐ zěnme wǎndào le yí kè zhōng?",
-                    "translations": {
-                        "vi": "Sao bạn đến muộn 15 phút vậy?",
-                        "en": "Why were you a quarter of an hour late?"
-                    }
-                },
-                {
-                    "text": "我们唱了两个小时歌。",
-                    "pronunciation": "Wǒmen chàng le liǎng ge xiǎoshí gē.",
-                    "translations": {
-                        "vi": "Chúng tôi đã hát hai tiếng đồng hồ.",
-                        "en": "We sang for two hours."
-                    }
-                },
-                {
-                    "text": "我学习了一年汉语了。",
-                    "pronunciation": "Wǒ xuéxí le yì nián Hànyǔ le.",
-                    "translations": {
-                        "vi": "Tôi đã học tiếng Trung được một năm rồi (và vẫn đang học).",
-                        "en": "I have been studying Chinese for a year."
-                    }
-                },
-                {
-                    "text": "她看了半个小时电视了。",
-                    "pronunciation": "Tā kàn le bàn ge xiǎoshí diànshì le.",
-                    "translations": {
-                        "vi": "Cô ấy đã xem TV được nửa tiếng rồi.",
-                        "en": "She has been watching TV for half an hour."
-                    }
-                },
-                {
-                    "text": "他们游了二十分钟泳了。",
-                    "pronunciation": "Tāmen yóu le èrshí fēnzhōng yǒng le.",
-                    "translations": {
-                        "vi": "Họ đã bơi được 20 phút rồi.",
-                        "en": "They have been swimming for 20 minutes."
-                    }
-                },
-                {
-                    "text": "我都在这儿坐了半个小时了。",
-                    "pronunciation": "Wǒ dōu zài zhèr zuò le bàn ge xiǎoshí le.",
-                    "translations": {
-                        "vi": "Tôi đã ngồi ở đây được nửa tiếng rồi.",
-                        "en": "I have been sitting here for half an hour."
-                    }
-                }
-            ]
-        },
-        {
-            "grammar": "表达兴趣",
-            "descriptions": {
-                "vi": "Cấu trúc 对……感兴趣 và 对……有兴趣 thường được dùng để diễn tả sự hứng thú với điều gì đó. Dạng phủ định của chúng là 对……不感兴趣 và 对……没（有）兴趣. Nếu dùng phó từ chỉ mức độ, ta phải đặt nó trước 感兴趣 và 有兴趣, chẳng hạn 很感兴趣, 非常有兴趣.",
-                "en": "The structures 对……感兴趣 and 对……有兴趣 are used to express interest in something. Their negative forms are 对……不感兴趣 and 对……没（有）兴趣. Degree adverbs (like 很, 非常) should be placed before 感兴趣 or 有兴趣."
-            },
-            "examples": [
-                {
-                    "text": "他们对电影感兴趣。",
-                    "pronunciation": "Tāmen duì diànyǐng gǎn xìngqù.",
-                    "translations": {
-                        "vi": "Họ có hứng thú với điện ảnh.",
-                        "en": "They are interested in movies."
-                    }
-                },
-                {
-                    "text": "我儿子对打篮球不感兴趣。",
-                    "pronunciation": "Wǒ érzi duì dǎ lánqiú bù gǎn xìngqù.",
-                    "translations": {
-                        "vi": "Con trai tôi không có hứng thú với việc chơi bóng rổ.",
-                        "en": "My son is not interested in playing basketball."
-                    }
-                },
-                {
-                    "text": "同学们对汉语有兴趣。",
-                    "pronunciation": "Tóngxuémen duì Hànyǔ yǒu xìngqù.",
-                    "translations": {
-                        "vi": "Các bạn học sinh có hứng thú với tiếng Trung.",
-                        "en": "The students are interested in Chinese."
-                    }
-                },
-                {
-                    "text": "你们都对音乐感兴趣吗？",
-                    "pronunciation": "Nǐmen dōu duì yīnyuè gǎn xìngqù ma?",
-                    "translations": {
-                        "vi": "Các bạn đều có hứng thú với âm nhạc à?",
-                        "en": "Are you all interested in music?"
-                    }
-                },
-                {
-                    "text": "我对她更感兴趣。",
-                    "pronunciation": "Wǒ duì tā gèng gǎn xìngqù.",
-                    "translations": {
-                        "vi": "Tôi có hứng thú với cô ấy hơn.",
-                        "en": "I am more interested in her."
-                    }
-                }
-            ]
-        },
-        {
-            "grammar": "用“半”“刻”“差”表示时间 (Cách diễn tả thời gian với 半, 刻 hoặc 差)",
-            "descriptions": {
-                "vi": "Cách nói giờ sử dụng 半 (rưỡi), 刻 (15 phút/khắc) hoặc 差 (kém). Lưu ý: 一刻钟 chỉ khoảng thời gian, có nghĩa là mười lăm phút. Ví dụ: 我等了你一刻钟 có nghĩa là Em đã đợi anh mười lăm phút rồi.",
-                "en": "Telling time using 半 (half), 刻 (quarter), or 差 (to/lacking). Note: 一刻钟 refers to a duration of 15 minutes."
-            },
-            "examples": [
-                {
-                    "text": "一点半",
-                    "pronunciation": "Yìdiǎn bàn",
-                    "translations": {
-                        "vi": "1 giờ 30 phút (1 giờ rưỡi)",
-                        "en": "1:30"
-                    }
-                },
-                {
-                    "text": "十二点一刻",
-                    "pronunciation": "Shí'èr diǎn yí kè",
-                    "translations": {
-                        "vi": "12 giờ 15 phút",
-                        "en": "12:15"
-                    }
-                },
-                {
-                    "text": "十二点三刻 / 差一刻一点",
-                    "pronunciation": "Shí'èr diǎn sān kè / Chà yí kè yìdiǎn",
-                    "translations": {
-                        "vi": "12 giờ 45 phút / 1 giờ kém 15",
-                        "en": "12:45 / Quarter to one"
-                    }
-                },
-                {
-                    "text": "差五分十二点",
-                    "pronunciation": "Chà wǔ fēn shí'èr diǎn",
-                    "translations": {
-                        "vi": "12 giờ kém 5 phút",
-                        "en": "5 minutes to 12"
-                    }
-                }
-            ]
+      }
+    },
+    {
+      "word": "银行",
+      "type": "danh từ",
+      "pronunciation": "yínháng",
+      "translations": {
+        "vi": "ngân hàng",
+        "en": "bank"
+      },
+      "example": {
+        "text": "她在银行工作了两年以后来的我们公司。",
+        "pronunciation": "Tā zài yínháng gōngzuò le liǎng nián yǐhòu lái de wǒmen gōngsī.",
+        "translations": {
+          "vi": "Cô ấy làm việc ở ngân hàng hai năm sau đó mới đến công ty chúng tôi.",
+          "en": "She worked at a bank for two years before coming to our company."
         }
-    ],
-    "dialogs": [
-        {
-            "id": 1,
-            "name": {
-                "text": "在办公室",
-                "pronunciation": "Zài bàngōngshì",
-                "translations": {
-                    "vi": "Trong văn phòng",
-                    "en": "In the office"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "同事：那个漂亮的新同事是谁？",
-                    "pronunciation": "Tóngshì: Nàge piàoliang de xīn tóngshì shì shéi?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Người đồng nghiệp mới xinh đẹp kia là ai vậy?",
-                        "en": "Colleague: Who is that beautiful new colleague?"
-                    }
-                },
-                {
-                    "text": "小刚：那是小丽。",
-                    "pronunciation": "Xiǎogāng: Nà shì Xiǎolì.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Đó là Tiểu Lệ.",
-                        "en": "Xiaogang: That is Xiaoli."
-                    }
-                },
-                {
-                    "text": "同事：她刚来北京吗？",
-                    "pronunciation": "Tóngshì: Tā gāng lái Běijīng ma?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Cô ấy vừa đến Bắc Kinh à?",
-                        "en": "Colleague: Did she just arrive in Beijing?"
-                    }
-                },
-                {
-                    "text": "小刚：不，她在北京工作三年了。",
-                    "pronunciation": "Xiǎogāng: Bù, tā zài Běijīng gōngzuò sān nián le.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Không, cô ấy làm việc ở Bắc Kinh 3 năm rồi.",
-                        "en": "Xiaogang: No, she has been working in Beijing for three years."
-                    }
-                },
-                {
-                    "text": "同事：以前她在哪儿工作？",
-                    "pronunciation": "Tóngshì: Yǐqián tā zài nǎr gōngzuò?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Trước đây cô ấy làm việc ở đâu?",
-                        "en": "Colleague: Where did she work before?"
-                    }
-                },
-                {
-                    "text": "小刚：她在银行工作了两年以后来的我们公司。",
-                    "pronunciation": "Xiǎogāng: Tā zài yínháng gōngzuò le liǎng nián yǐhòu lái de wǒmen gōngsī.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Cô ấy làm việc ở ngân hàng hai năm sau đó mới đến công ty chúng tôi.",
-                        "en": "Xiaogang: She worked at a bank for two years before coming to our company."
-                    }
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "name": {
-                "text": "在休息室",
-                "pronunciation": "Zài xiūxishì",
-                "translations": {
-                    "vi": "Trong phòng giải lao",
-                    "en": "In the lounge"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "同事：周末你跟小丽去哪儿玩儿了？",
-                    "pronunciation": "Tóngshì: Zhōumò nǐ gēn Xiǎolì qù nǎr wánr le?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Cuối tuần cậu với Tiểu Lệ đi đâu chơi vậy?",
-                        "en": "Colleague: Where did you and Xiaoli go for fun this weekend?"
-                    }
-                },
-                {
-                    "text": "小刚：我们去唱歌了。",
-                    "pronunciation": "Xiǎogāng: Wǒmen qù chàng gē le.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Chúng tôi đi hát.",
-                        "en": "Xiaogang: We went singing."
-                    }
-                },
-                {
-                    "text": "同事：你们唱了多久？",
-                    "pronunciation": "Tóngshì: Nǐmen chàng le duō jiǔ?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Các cậu hát bao lâu?",
-                        "en": "Colleague: How long did you sing?"
-                    }
-                },
-                {
-                    "text": "小刚：我们唱了两个小时歌，晚上还去听音乐会了。",
-                    "pronunciation": "Xiǎogāng: Wǒmen chàng le liǎng ge xiǎoshí gē, wǎnshang hái qù tīng yīnyuèhuì le.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Chúng tôi hát hai tiếng đồng hồ, buổi tối còn đi nghe hòa nhạc nữa.",
-                        "en": "Xiaogang: We sang for two hours, and in the evening we went to a concert."
-                    }
-                },
-                {
-                    "text": "同事：你们都对音乐感兴趣吗？",
-                    "pronunciation": "Tóngshì: Nǐmen dōu duì yīnyuè gǎn xìngqù ma?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Các cậu đều có hứng thú với âm nhạc à?",
-                        "en": "Colleague: Are you both interested in music?"
-                    }
-                },
-                {
-                    "text": "小刚：她对音乐感兴趣，我对她更感兴趣。",
-                    "pronunciation": "Xiǎogāng: Tā duì yīnyuè gǎn xìngqù, wǒ duì tā gèng gǎn xìngqù.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Cô ấy có hứng thú với âm nhạc, còn tôi có hứng thú với cô ấy hơn.",
-                        "en": "Xiaogang: She is interested in music, I am more interested in her."
-                    }
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "name": {
-                "text": "在休息室",
-                "pronunciation": "Zài xiūxishì",
-                "translations": {
-                    "vi": "Trong phòng giải lao",
-                    "en": "In the lounge"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "小刚：我跟小丽下个月结婚，到时候欢迎你来。",
-                    "pronunciation": "Xiǎogāng: Wǒ gēn Xiǎolì xià ge yuè jié hūn, dào shíhou huānyíng nǐ lái.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Tôi và Tiểu Lệ tháng sau kết hôn, đến lúc đó hoan nghênh cậu đến.",
-                        "en": "Xiaogang: Xiaoli and I are getting married next month, you are welcome to come."
-                    }
-                },
-                {
-                    "text": "同事：什么？结婚？",
-                    "pronunciation": "Tóngshì: Shénme? Jié hūn?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Cái gì? Kết hôn?",
-                        "en": "Colleague: What? Getting married?"
-                    }
-                },
-                {
-                    "text": "小刚：对啊，突然吗？",
-                    "pronunciation": "Xiǎogāng: Duì a, tūrán ma?",
-                    "translations": {
-                        "vi": "Tiểu Cương: Đúng vậy, bất ngờ không?",
-                        "en": "Xiaogang: Yes, is it sudden?"
-                    }
-                },
-                {
-                    "text": "同事：你们不是刚认识吗？",
-                    "pronunciation": "Tóngshì: Nǐmen bú shì gāng rènshi ma?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Không phải hai người vừa mới quen sao?",
-                        "en": "Colleague: Didn't you just meet?"
-                    }
-                },
-                {
-                    "text": "小刚：我跟她都认识五年了。",
-                    "pronunciation": "Xiǎogāng: Wǒ gēn tā dōu rènshi wǔ nián le.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Tôi và cô ấy quen nhau được năm năm rồi.",
-                        "en": "Xiaogang: I've known her for five years."
-                    }
-                },
-                {
-                    "text": "同事：你跟她结婚，那我怎么办啊？",
-                    "pronunciation": "Tóngshì: Nǐ gēn tā jié hūn, nà wǒ zěnme bàn a?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Cậu kết hôn với cô ấy, vậy tôi phải làm sao đây?",
-                        "en": "Colleague: You marry her, then what about me?"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "name": {
-                "text": "在公司门口",
-                "pronunciation": "Zài gōngsī ménkǒu",
-                "translations": {
-                    "vi": "Ở trước cửa công ty",
-                    "en": "At the company entrance"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "小丽：你看看手表，怎么迟到了？",
-                    "pronunciation": "Xiǎolì: Nǐ kànkan shǒubiǎo, zěnme chídào le?",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Anh xem đồng hồ đi, sao lại đến muộn vậy?",
-                        "en": "Xiaoli: Look at your watch, why are you late?"
-                    }
-                },
-                {
-                    "text": "小刚：没迟到啊。",
-                    "pronunciation": "Xiǎogāng: Méi chídào a.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Có muộn đâu.",
-                        "en": "Xiaogang: I'm not late."
-                    }
-                },
-                {
-                    "text": "小丽：你不是说七点半来接我吗？你迟到了一刻钟。",
-                    "pronunciation": "Xiǎolì: Nǐ bú shì shuō qī diǎn bàn lái jiē wǒ ma? Nǐ chídào le yí kè zhōng.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Không phải anh nói 7 giờ rưỡi đến đón em sao? Anh đến muộn 15 phút rồi.",
-                        "en": "Xiaoli: Didn't you say you'd pick me up at 7:30? You are a quarter of an hour late."
-                    }
-                },
-                {
-                    "text": "小刚：现在不是七点半吗？",
-                    "pronunciation": "Xiǎogāng: Xiànzài bú shì qī diǎn bàn ma?",
-                    "translations": {
-                        "vi": "Tiểu Cương: Bây giờ không phải là 7 giờ rưỡi sao?",
-                        "en": "Xiaogang: Isn't it 7:30 now?"
-                    }
-                },
-                {
-                    "text": "小丽：已经差一刻八点了！我都在这儿坐了半个小时了。",
-                    "pronunciation": "Xiǎolì: Yǐjīng chà yí kè bā diǎn le! Wǒ dōu zài zhèr zuò le bàn ge xiǎoshí le.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Đã 8 giờ kém 15 rồi! Em đã ngồi ở đây được nửa tiếng rồi.",
-                        "en": "Xiaoli: It's already a quarter to eight! I've been sitting here for half an hour."
-                    }
-                },
-                {
-                    "text": "小刚：不是我迟到了，是你的表快了一刻钟。",
-                    "pronunciation": "Xiǎogāng: Bú shì wǒ chídào le, shì nǐ de biǎo kuài le yí kè zhōng.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Không phải anh đến muộn, là đồng hồ của em chạy nhanh 15 phút.",
-                        "en": "Xiaogang: It's not that I'm late, it's that your watch is a quarter of an hour fast."
-                    }
-                }
-            ]
+      }
+    },
+    {
+      "word": "久",
+      "type": "tính từ",
+      "pronunciation": "jiǔ",
+      "translations": {
+        "vi": "lâu, lâu dài",
+        "en": "long (time)"
+      },
+      "example": {
+        "text": "你们唱了多久？",
+        "pronunciation": "Nǐmen chàng le duō jiǔ?",
+        "translations": {
+          "vi": "Các bạn hát bao lâu?",
+          "en": "How long did you sing?"
         }
-    ]
+      }
+    },
+    {
+      "word": "感兴趣",
+      "type": "động từ",
+      "pronunciation": "gǎn xìngqù",
+      "translations": {
+        "vi": "có hứng thú, thích",
+        "en": "to be interested in"
+      },
+      "example": {
+        "text": "你们都对音乐感兴趣吗？",
+        "pronunciation": "Nǐmen dōu duì yīnyuè gǎn xìngqù ma?",
+        "translations": {
+          "vi": "Các bạn đều có hứng thú với âm nhạc à?",
+          "en": "Are you all interested in music?"
+        }
+      }
+    },
+    {
+      "word": "结婚",
+      "type": "động từ",
+      "pronunciation": "jié hūn",
+      "translations": {
+        "vi": "kết hôn, cưới",
+        "en": "to marry; to get married"
+      },
+      "example": {
+        "text": "我跟小丽下个月结婚。",
+        "pronunciation": "Wǒ gēn Xiǎolì xià ge yuè jié hūn.",
+        "translations": {
+          "vi": "Tôi và Tiểu Lệ tháng sau kết hôn.",
+          "en": "Xiaoli and I are getting married next month."
+        }
+      }
+    },
+    {
+      "word": "欢迎",
+      "type": "động từ",
+      "pronunciation": "huānyíng",
+      "translations": {
+        "vi": "hoan nghênh, chào mừng",
+        "en": "to welcome"
+      },
+      "example": {
+        "text": "到时候欢迎你来。",
+        "pronunciation": "Dào shíhou huānyíng nǐ lái.",
+        "translations": {
+          "vi": "Đến lúc đó hoan nghênh cậu đến.",
+          "en": "You are welcome to come then."
+        }
+      }
+    },
+    {
+      "word": "迟到",
+      "type": "động từ",
+      "pronunciation": "chídào",
+      "translations": {
+        "vi": "đến muộn",
+        "en": "to be late"
+      },
+      "example": {
+        "text": "你看看手表，怎么迟到了？",
+        "pronunciation": "Nǐ kànkan shǒubiǎo, zěnme chídào le?",
+        "translations": {
+          "vi": "Anh xem đồng hồ đi, sao lại đến muộn vậy?",
+          "en": "Look at your watch, why are you late?"
+        }
+      }
+    },
+    {
+      "word": "半",
+      "type": "số từ",
+      "pronunciation": "bàn",
+      "translations": {
+        "vi": "một nửa, rưỡi",
+        "en": "half"
+      },
+      "example": {
+        "text": "现在不是七点半吗？",
+        "pronunciation": "Xiànzài bú shì qī diǎn bàn ma?",
+        "translations": {
+          "vi": "Bây giờ không phải là 7 giờ rưỡi sao?",
+          "en": "Isn't it 7:30 now?"
+        }
+      }
+    },
+    {
+      "word": "接",
+      "type": "động từ",
+      "pronunciation": "jiē",
+      "translations": {
+        "vi": "đón",
+        "en": "to pick up (someone)"
+      },
+      "example": {
+        "text": "你不是说七点半来接我吗？",
+        "pronunciation": "Nǐ bú shì shuō qī diǎn bàn lái jiē wǒ ma?",
+        "translations": {
+          "vi": "Không phải anh nói 7 giờ rưỡi đến đón em sao?",
+          "en": "Didn't you say you'd come pick me up at 7:30?"
+        }
+      }
+    },
+    {
+      "word": "刻",
+      "type": "lượng từ",
+      "pronunciation": "kè",
+      "translations": {
+        "vi": "mười lăm phút, khắc",
+        "en": "quarter (of an hour)"
+      },
+      "example": {
+        "text": "你迟到了一刻钟。",
+        "pronunciation": "Nǐ chídào le yí kè zhōng.",
+        "translations": {
+          "vi": "Anh đến muộn 15 phút rồi.",
+          "en": "You are a quarter of an hour late."
+        }
+      }
+    },
+    {
+      "word": "差",
+      "type": "động từ",
+      "pronunciation": "chà",
+      "translations": {
+        "vi": "kém, thiếu",
+        "en": "to lack; short of"
+      },
+      "example": {
+        "text": "已经差一刻八点了！",
+        "pronunciation": "Yǐjīng chà yí kè bā diǎn le!",
+        "translations": {
+          "vi": "Đã 8 giờ kém 15 rồi!",
+          "en": "It's already a quarter to eight!"
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "时段的表达",
+      "descriptions": {
+        "vi": "Để diễn tả hành động/trạng thái xảy ra hoặc kéo dài trong khoảng thời gian bao lâu, người ta thường dùng bổ ngữ chỉ thời lượng như 一刻钟 (mười lăm phút), 半个小时 (nửa giờ), 两天 (hai ngày), 三个月 (ba tháng)...\n1. Cấu trúc “chủ ngữ + động từ + 了 + khoảng thời gian + tân ngữ” diễn tả khoảng thời gian mà hành động xảy ra.\n2. Cấu trúc “chủ ngữ + động từ + 了 + khoảng thời gian + tân ngữ + 了” diễn tả khoảng thời gian mà hành động đã xảy ra và hành động đó vẫn đang tiếp diễn.",
+        "en": "To express how long an action or state lasts, duration complements are used. \n1. Structure \"Subject + Verb + 了 + Duration + Object\" expresses the duration of a completed action.\n2. Structure \"Subject + Verb + 了 + Duration + Object + 了\" expresses the duration of an action that started in the past and is still continuing."
+      },
+      "examples": [
+        {
+          "text": "她工作了三年。",
+          "pronunciation": "Tā gōngzuò le sān nián.",
+          "translations": {
+            "vi": "Cô ấy đã làm việc ba năm.",
+            "en": "She worked for three years."
+          }
+        },
+        {
+          "text": "我们坐了一个小时公共汽车。",
+          "pronunciation": "Wǒmen zuò le yí ge xiǎoshí gōnggòngqìchē.",
+          "translations": {
+            "vi": "Chúng tôi đã ngồi xe buýt một tiếng đồng hồ.",
+            "en": "We took the bus for an hour."
+          }
+        },
+        {
+          "text": "你怎么晚到了一刻钟？",
+          "pronunciation": "Nǐ zěnme wǎndào le yí kè zhōng?",
+          "translations": {
+            "vi": "Sao bạn đến muộn 15 phút vậy?",
+            "en": "Why were you a quarter of an hour late?"
+          }
+        },
+        {
+          "text": "我们唱了两个小时歌。",
+          "pronunciation": "Wǒmen chàng le liǎng ge xiǎoshí gē.",
+          "translations": {
+            "vi": "Chúng tôi đã hát hai tiếng đồng hồ.",
+            "en": "We sang for two hours."
+          }
+        },
+        {
+          "text": "我学习了一年汉语了。",
+          "pronunciation": "Wǒ xuéxí le yì nián Hànyǔ le.",
+          "translations": {
+            "vi": "Tôi đã học tiếng Trung được một năm rồi (và vẫn đang học).",
+            "en": "I have been studying Chinese for a year."
+          }
+        },
+        {
+          "text": "她看了半个小时电视了。",
+          "pronunciation": "Tā kàn le bàn ge xiǎoshí diànshì le.",
+          "translations": {
+            "vi": "Cô ấy đã xem TV được nửa tiếng rồi.",
+            "en": "She has been watching TV for half an hour."
+          }
+        },
+        {
+          "text": "他们游了二十分钟泳了。",
+          "pronunciation": "Tāmen yóu le èrshí fēnzhōng yǒng le.",
+          "translations": {
+            "vi": "Họ đã bơi được 20 phút rồi.",
+            "en": "They have been swimming for 20 minutes."
+          }
+        },
+        {
+          "text": "我都在这儿坐了半个小时了。",
+          "pronunciation": "Wǒ dōu zài zhèr zuò le bàn ge xiǎoshí le.",
+          "translations": {
+            "vi": "Tôi đã ngồi ở đây được nửa tiếng rồi.",
+            "en": "I have been sitting here for half an hour."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "表达兴趣",
+      "descriptions": {
+        "vi": "Cấu trúc 对……感兴趣 và 对……有兴趣 thường được dùng để diễn tả sự hứng thú với điều gì đó. Dạng phủ định của chúng là 对……不感兴趣 và 对……没（有）兴趣. Nếu dùng phó từ chỉ mức độ, ta phải đặt nó trước 感兴趣 và 有兴趣, chẳng hạn 很感兴趣, 非常有兴趣.",
+        "en": "The structures 对……感兴趣 and 对……有兴趣 are used to express interest in something. Their negative forms are 对……不感兴趣 and 对……没（有）兴趣. Degree adverbs (like 很, 非常) should be placed before 感兴趣 or 有兴趣."
+      },
+      "examples": [
+        {
+          "text": "他们对电影感兴趣。",
+          "pronunciation": "Tāmen duì diànyǐng gǎn xìngqù.",
+          "translations": {
+            "vi": "Họ có hứng thú với điện ảnh.",
+            "en": "They are interested in movies."
+          }
+        },
+        {
+          "text": "我儿子对打篮球不感兴趣。",
+          "pronunciation": "Wǒ érzi duì dǎ lánqiú bù gǎn xìngqù.",
+          "translations": {
+            "vi": "Con trai tôi không có hứng thú với việc chơi bóng rổ.",
+            "en": "My son is not interested in playing basketball."
+          }
+        },
+        {
+          "text": "同学们对汉语有兴趣。",
+          "pronunciation": "Tóngxuémen duì Hànyǔ yǒu xìngqù.",
+          "translations": {
+            "vi": "Các bạn học sinh có hứng thú với tiếng Trung.",
+            "en": "The students are interested in Chinese."
+          }
+        },
+        {
+          "text": "你们都对音乐感兴趣吗？",
+          "pronunciation": "Nǐmen dōu duì yīnyuè gǎn xìngqù ma?",
+          "translations": {
+            "vi": "Các bạn đều có hứng thú với âm nhạc à?",
+            "en": "Are you all interested in music?"
+          }
+        },
+        {
+          "text": "我对她更感兴趣。",
+          "pronunciation": "Wǒ duì tā gèng gǎn xìngqù.",
+          "translations": {
+            "vi": "Tôi có hứng thú với cô ấy hơn.",
+            "en": "I am more interested in her."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "用“半”“刻”“差”表示时间 (Cách diễn tả thời gian với 半, 刻 hoặc 差)",
+      "descriptions": {
+        "vi": "Cách nói giờ sử dụng 半 (rưỡi), 刻 (15 phút/khắc) hoặc 差 (kém). Lưu ý: 一刻钟 chỉ khoảng thời gian, có nghĩa là mười lăm phút. Ví dụ: 我等了你一刻钟 có nghĩa là Em đã đợi anh mười lăm phút rồi.",
+        "en": "Telling time using 半 (half), 刻 (quarter), or 差 (to/lacking). Note: 一刻钟 refers to a duration of 15 minutes."
+      },
+      "examples": [
+        {
+          "text": "一点半",
+          "pronunciation": "Yìdiǎn bàn",
+          "translations": {
+            "vi": "1 giờ 30 phút (1 giờ rưỡi)",
+            "en": "1:30"
+          }
+        },
+        {
+          "text": "十二点一刻",
+          "pronunciation": "Shí'èr diǎn yí kè",
+          "translations": {
+            "vi": "12 giờ 15 phút",
+            "en": "12:15"
+          }
+        },
+        {
+          "text": "十二点三刻 / 差一刻一点",
+          "pronunciation": "Shí'èr diǎn sān kè / Chà yí kè yìdiǎn",
+          "translations": {
+            "vi": "12 giờ 45 phút / 1 giờ kém 15",
+            "en": "12:45 / Quarter to one"
+          }
+        },
+        {
+          "text": "差五分十二点",
+          "pronunciation": "Chà wǔ fēn shí'èr diǎn",
+          "translations": {
+            "vi": "12 giờ kém 5 phút",
+            "en": "5 minutes to 12"
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在办公室",
+        "pronunciation": "Zài bàngōngshì",
+        "translations": {
+          "vi": "Trong văn phòng",
+          "en": "In the office"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：那个漂亮的新同事是谁？",
+          "pronunciation": "Tóngshì: Nàge piàoliang de xīn tóngshì shì shéi?",
+          "translations": {
+            "vi": "Đồng nghiệp: Người đồng nghiệp mới xinh đẹp kia là ai vậy?",
+            "en": "Colleague: Who is that beautiful new colleague?"
+          }
+        },
+        {
+          "text": "小刚：那是小丽。",
+          "pronunciation": "Xiǎogāng: Nà shì Xiǎolì.",
+          "translations": {
+            "vi": "Tiểu Cương: Đó là Tiểu Lệ.",
+            "en": "Xiaogang: That is Xiaoli."
+          }
+        },
+        {
+          "text": "同事：她刚来北京吗？",
+          "pronunciation": "Tóngshì: Tā gāng lái Běijīng ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Cô ấy vừa đến Bắc Kinh à?",
+            "en": "Colleague: Did she just arrive in Beijing?"
+          }
+        },
+        {
+          "text": "小刚：不，她在北京工作三年了。",
+          "pronunciation": "Xiǎogāng: Bù, tā zài Běijīng gōngzuò sān nián le.",
+          "translations": {
+            "vi": "Tiểu Cương: Không, cô ấy làm việc ở Bắc Kinh 3 năm rồi.",
+            "en": "Xiaogang: No, she has been working in Beijing for three years."
+          }
+        },
+        {
+          "text": "同事：以前她在哪儿工作？",
+          "pronunciation": "Tóngshì: Yǐqián tā zài nǎr gōngzuò?",
+          "translations": {
+            "vi": "Đồng nghiệp: Trước đây cô ấy làm việc ở đâu?",
+            "en": "Colleague: Where did she work before?"
+          }
+        },
+        {
+          "text": "小刚：她在银行工作了两年以后来的我们公司。",
+          "pronunciation": "Xiǎogāng: Tā zài yínháng gōngzuò le liǎng nián yǐhòu lái de wǒmen gōngsī.",
+          "translations": {
+            "vi": "Tiểu Cương: Cô ấy làm việc ở ngân hàng hai năm sau đó mới đến công ty chúng tôi.",
+            "en": "Xiaogang: She worked at a bank for two years before coming to our company."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在休息室",
+        "pronunciation": "Zài xiūxishì",
+        "translations": {
+          "vi": "Trong phòng giải lao",
+          "en": "In the lounge"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：周末你跟小丽去哪儿玩儿了？",
+          "pronunciation": "Tóngshì: Zhōumò nǐ gēn Xiǎolì qù nǎr wánr le?",
+          "translations": {
+            "vi": "Đồng nghiệp: Cuối tuần cậu với Tiểu Lệ đi đâu chơi vậy?",
+            "en": "Colleague: Where did you and Xiaoli go for fun this weekend?"
+          }
+        },
+        {
+          "text": "小刚：我们去唱歌了。",
+          "pronunciation": "Xiǎogāng: Wǒmen qù chàng gē le.",
+          "translations": {
+            "vi": "Tiểu Cương: Chúng tôi đi hát.",
+            "en": "Xiaogang: We went singing."
+          }
+        },
+        {
+          "text": "同事：你们唱了多久？",
+          "pronunciation": "Tóngshì: Nǐmen chàng le duō jiǔ?",
+          "translations": {
+            "vi": "Đồng nghiệp: Các cậu hát bao lâu?",
+            "en": "Colleague: How long did you sing?"
+          }
+        },
+        {
+          "text": "小刚：我们唱了两个小时歌，晚上还去听音乐会了。",
+          "pronunciation": "Xiǎogāng: Wǒmen chàng le liǎng ge xiǎoshí gē, wǎnshang hái qù tīng yīnyuèhuì le.",
+          "translations": {
+            "vi": "Tiểu Cương: Chúng tôi hát hai tiếng đồng hồ, buổi tối còn đi nghe hòa nhạc nữa.",
+            "en": "Xiaogang: We sang for two hours, and in the evening we went to a concert."
+          }
+        },
+        {
+          "text": "同事：你们都对音乐感兴趣吗？",
+          "pronunciation": "Tóngshì: Nǐmen dōu duì yīnyuè gǎn xìngqù ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Các cậu đều có hứng thú với âm nhạc à?",
+            "en": "Colleague: Are you both interested in music?"
+          }
+        },
+        {
+          "text": "小刚：她对音乐感兴趣，我对她更感兴趣。",
+          "pronunciation": "Xiǎogāng: Tā duì yīnyuè gǎn xìngqù, wǒ duì tā gèng gǎn xìngqù.",
+          "translations": {
+            "vi": "Tiểu Cương: Cô ấy có hứng thú với âm nhạc, còn tôi có hứng thú với cô ấy hơn.",
+            "en": "Xiaogang: She is interested in music, I am more interested in her."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在休息室",
+        "pronunciation": "Zài xiūxishì",
+        "translations": {
+          "vi": "Trong phòng giải lao",
+          "en": "In the lounge"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小刚：我跟小丽下个月结婚，到时候欢迎你来。",
+          "pronunciation": "Xiǎogāng: Wǒ gēn Xiǎolì xià ge yuè jié hūn, dào shíhou huānyíng nǐ lái.",
+          "translations": {
+            "vi": "Tiểu Cương: Tôi và Tiểu Lệ tháng sau kết hôn, đến lúc đó hoan nghênh cậu đến.",
+            "en": "Xiaogang: Xiaoli and I are getting married next month, you are welcome to come."
+          }
+        },
+        {
+          "text": "同事：什么？结婚？",
+          "pronunciation": "Tóngshì: Shénme? Jié hūn?",
+          "translations": {
+            "vi": "Đồng nghiệp: Cái gì? Kết hôn?",
+            "en": "Colleague: What? Getting married?"
+          }
+        },
+        {
+          "text": "小刚：对啊，突然吗？",
+          "pronunciation": "Xiǎogāng: Duì a, tūrán ma?",
+          "translations": {
+            "vi": "Tiểu Cương: Đúng vậy, bất ngờ không?",
+            "en": "Xiaogang: Yes, is it sudden?"
+          }
+        },
+        {
+          "text": "同事：你们不是刚认识吗？",
+          "pronunciation": "Tóngshì: Nǐmen bú shì gāng rènshi ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Không phải hai người vừa mới quen sao?",
+            "en": "Colleague: Didn't you just meet?"
+          }
+        },
+        {
+          "text": "小刚：我跟她都认识五年了。",
+          "pronunciation": "Xiǎogāng: Wǒ gēn tā dōu rènshi wǔ nián le.",
+          "translations": {
+            "vi": "Tiểu Cương: Tôi và cô ấy quen nhau được năm năm rồi.",
+            "en": "Xiaogang: I've known her for five years."
+          }
+        },
+        {
+          "text": "同事：你跟她结婚，那我怎么办啊？",
+          "pronunciation": "Tóngshì: Nǐ gēn tā jié hūn, nà wǒ zěnme bàn a?",
+          "translations": {
+            "vi": "Đồng nghiệp: Cậu kết hôn với cô ấy, vậy tôi phải làm sao đây?",
+            "en": "Colleague: You marry her, then what about me?"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "在公司门口",
+        "pronunciation": "Zài gōngsī ménkǒu",
+        "translations": {
+          "vi": "Ở trước cửa công ty",
+          "en": "At the company entrance"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：你看看手表，怎么迟到了？",
+          "pronunciation": "Xiǎolì: Nǐ kànkan shǒubiǎo, zěnme chídào le?",
+          "translations": {
+            "vi": "Tiểu Lệ: Anh xem đồng hồ đi, sao lại đến muộn vậy?",
+            "en": "Xiaoli: Look at your watch, why are you late?"
+          }
+        },
+        {
+          "text": "小刚：没迟到啊。",
+          "pronunciation": "Xiǎogāng: Méi chídào a.",
+          "translations": {
+            "vi": "Tiểu Cương: Có muộn đâu.",
+            "en": "Xiaogang: I'm not late."
+          }
+        },
+        {
+          "text": "小丽：你不是说七点半来接我吗？你迟到了一刻钟。",
+          "pronunciation": "Xiǎolì: Nǐ bú shì shuō qī diǎn bàn lái jiē wǒ ma? Nǐ chídào le yí kè zhōng.",
+          "translations": {
+            "vi": "Tiểu Lệ: Không phải anh nói 7 giờ rưỡi đến đón em sao? Anh đến muộn 15 phút rồi.",
+            "en": "Xiaoli: Didn't you say you'd pick me up at 7:30? You are a quarter of an hour late."
+          }
+        },
+        {
+          "text": "小刚：现在不是七点半吗？",
+          "pronunciation": "Xiǎogāng: Xiànzài bú shì qī diǎn bàn ma?",
+          "translations": {
+            "vi": "Tiểu Cương: Bây giờ không phải là 7 giờ rưỡi sao?",
+            "en": "Xiaogang: Isn't it 7:30 now?"
+          }
+        },
+        {
+          "text": "小丽：已经差一刻八点了！我都在这儿坐了半个小时了。",
+          "pronunciation": "Xiǎolì: Yǐjīng chà yí kè bā diǎn le! Wǒ dōu zài zhèr zuò le bàn ge xiǎoshí le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Đã 8 giờ kém 15 rồi! Em đã ngồi ở đây được nửa tiếng rồi.",
+            "en": "Xiaoli: It's already a quarter to eight! I've been sitting here for half an hour."
+          }
+        },
+        {
+          "text": "小刚：不是我迟到了，是你的表快了一刻钟。",
+          "pronunciation": "Xiǎogāng: Bú shì wǒ chídào le, shì nǐ de biǎo kuài le yí kè zhōng.",
+          "translations": {
+            "vi": "Tiểu Cương: Không phải anh đến muộn, là đồng hồ của em chạy nhanh 15 phút.",
+            "en": "Xiaogang: It's not that I'm late, it's that your watch is a quarter of an hour fast."
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,556 @@
+{
+  "title": {
+    "text": "我被他影响了。",
+    "pronunciation": "Wǒ bèi tā yǐngxiǎng le.",
+    "translations": {
+      "vi": "Mình chịu ảnh hưởng từ anh ấy.",
+      "en": "I was influenced by him."
+    }
+  },
+  "newWords": [
+    {
+      "word": "照相机",
+      "type": "danh từ",
+      "pronunciation": "zhàoxiàngjī",
+      "translations": {
+        "vi": "máy chụp ảnh",
+        "en": "camera"
+      },
+      "example": {
+        "text": "我的照相机被谁拿走了？",
+        "pronunciation": "Wǒ de zhàoxiàngjī bèi shéi názǒu le?",
+        "translations": {
+          "vi": "Máy ảnh của tôi bị ai lấy đi rồi?",
+          "en": "Who took my camera?"
+        }
+      }
+    },
+    {
+      "word": "被",
+      "type": "giới từ",
+      "pronunciation": "bèi",
+      "translations": {
+        "vi": "bị, được (dùng trong câu bị động)",
+        "en": "by (indicates passive voice)"
+      },
+      "example": {
+        "text": "我的男朋友喜欢看足球比赛，我被他影响的。",
+        "pronunciation": "Wǒ de nánpéngyou xǐhuan kàn zúqiú bǐsài, wǒ bèi tā yǐngxiǎng de.",
+        "translations": {
+          "vi": "Bạn trai tôi thích xem bóng đá, tôi bị ảnh hưởng bởi anh ấy.",
+          "en": "My boyfriend likes watching soccer games, I was influenced by him."
+        }
+      }
+    },
+    {
+      "word": "难过",
+      "type": "tính từ",
+      "pronunciation": "nánguò",
+      "translations": {
+        "vi": "buồn, khó chịu",
+        "en": "sad; unwell"
+      },
+      "example": {
+        "text": "别难过，再买一个吧。",
+        "pronunciation": "Bié nánguò, zài mǎi yí ge ba.",
+        "translations": {
+          "vi": "Đừng buồn, mua cái khác đi.",
+          "en": "Don't be sad, buy another one."
+        }
+      }
+    },
+    {
+      "word": "东",
+      "type": "danh từ",
+      "pronunciation": "dōng",
+      "translations": {
+        "vi": "phía đông",
+        "en": "east"
+      },
+      "example": {
+        "text": "公司东门外不就有一个大商场吗？",
+        "pronunciation": "Gōngsī dōngmén wài bú jiù yǒu yí ge dà shāngchǎng ma?",
+        "translations": {
+          "vi": "Chẳng phải ngoài cổng phía đông công ty có một trung tâm thương mại lớn sao?",
+          "en": "Isn't there a big shopping mall outside the east gate of the company?"
+        }
+      }
+    },
+    {
+      "word": "信用卡",
+      "type": "danh từ",
+      "pronunciation": "xìnyòngkǎ",
+      "translations": {
+        "vi": "thẻ tín dụng",
+        "en": "credit card"
+      },
+      "example": {
+        "text": "但是我这个月信用卡里的钱已经花得差不多了。",
+        "pronunciation": "Dànshì wǒ zhège yuè xìnyòngkǎ li de qián yǐjīng huā de chàbuduō le.",
+        "translations": {
+          "vi": "Nhưng tiền trong thẻ tín dụng tháng này tôi tiêu gần hết rồi.",
+          "en": "But I've spent almost all the money on my credit card this month."
+        }
+      }
+    },
+    {
+      "word": "关心",
+      "type": "động từ",
+      "pronunciation": "guānxīn",
+      "translations": {
+        "vi": "quan tâm, chú ý",
+        "en": "to care for; to be interested in"
+      },
+      "example": {
+        "text": "你怎么突然关心起体育来了？",
+        "pronunciation": "Nǐ zěnme tūrán guānxīn qǐ tǐyù lái le?",
+        "translations": {
+          "vi": "Sao tự nhiên bạn lại quan tâm đến thể thao thế?",
+          "en": "Why are you suddenly interested in sports?"
+        }
+      }
+    },
+    {
+      "word": "只有……才……",
+      "type": "liên từ",
+      "pronunciation": "zhǐyǒu... cái...",
+      "translations": {
+        "vi": "chỉ có... (mới)...",
+        "en": "only... then..."
+      },
+      "example": {
+        "text": "看来只有爱，才能让人有变化。",
+        "pronunciation": "Kànlái zhǐyǒu ài, cái néng ràng rén yǒu biànhuà.",
+        "translations": {
+          "vi": "Xem ra chỉ có tình yêu mới làm người ta thay đổi.",
+          "en": "It seems only love can make people change."
+        }
+      }
+    },
+    {
+      "word": "成绩",
+      "type": "danh từ",
+      "pronunciation": "chéngjì",
+      "translations": {
+        "vi": "thành tích, kết quả (học tập, công tác)",
+        "en": "grade; score; achievement"
+      },
+      "example": {
+        "text": "我最近天天上网玩儿游戏，我的成绩差极了。",
+        "pronunciation": "Wǒ zuìjìn tiāntiān shàng wǎng wánr yóuxì, wǒ de chéngjì chà jí le.",
+        "translations": {
+          "vi": "Dạo này ngày nào tôi cũng lên mạng chơi game, thành tích của tôi kém cực kỳ.",
+          "en": "I've been playing games online every day recently, my grades are terrible."
+        }
+      }
+    },
+    {
+      "word": "碗",
+      "type": "danh từ",
+      "pronunciation": "wǎn",
+      "translations": {
+        "vi": "bát, chén",
+        "en": "bowl"
+      },
+      "example": {
+        "text": "那个拿着碗吃饭的人是你哥哥吗？",
+        "pronunciation": "Nàge názhe wǎn chī fàn de rén shì nǐ gēge ma?",
+        "translations": {
+          "vi": "Người đang cầm bát ăn cơm kia là anh trai bạn à?",
+          "en": "Is that person holding a bowl and eating your older brother?"
+        }
+      }
+    },
+    {
+      "word": "分",
+      "type": "động từ",
+      "pronunciation": "fēn",
+      "translations": {
+        "vi": "phân biệt, tách ra",
+        "en": "to distinguish; to separate"
+      },
+      "example": {
+        "text": "只有你们的爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。",
+        "pronunciation": "Zhǐyǒu nǐmen de bàba māma cái néng fēn chūlai nǎge shì gēge, nǎge shì dìdi ba.",
+        "translations": {
+          "vi": "Chắc chỉ có bố mẹ các bạn mới phân biệt được ai là anh, ai là em nhỉ.",
+          "en": "Only your parents can distinguish who is the older brother and who is the younger brother."
+        }
+      }
+    },
+    {
+      "word": "解决",
+      "type": "động từ",
+      "pronunciation": "jiějué",
+      "translations": {
+        "vi": "giải quyết",
+        "en": "to solve"
+      },
+      "example": {
+        "text": "其实，不同的问题有不同的解决办法。",
+        "pronunciation": "Qíshí, bùtóng de wèntí yǒu bùtóng de jiějué bànfǎ.",
+        "translations": {
+          "vi": "Thực ra, vấn đề khác nhau thì có cách giải quyết khác nhau.",
+          "en": "Actually, different problems have different solutions."
+        }
+      }
+    },
+    {
+      "word": "试",
+      "type": "động từ",
+      "pronunciation": "shì",
+      "translations": {
+        "vi": "thử",
+        "en": "to try"
+      },
+      "example": {
+        "text": "所以得试着做做。",
+        "pronunciation": "Suǒyǐ děi shìzhe zuòzuo.",
+        "translations": {
+          "vi": "Cho nên phải thử làm xem sao.",
+          "en": "So you have to try doing it."
+        }
+      }
+    },
+    {
+      "word": "真正",
+      "type": "phó từ",
+      "pronunciation": "zhēnzhèng",
+      "translations": {
+        "vi": "thật sự, chân chính",
+        "en": "truly; really"
+      },
+      "example": {
+        "text": "所以只有真正做事情的时候，才能了解有多难。",
+        "pronunciation": "Suǒyǐ zhǐyǒu zhēnzhèng zuò shìqing de shíhou, cái néng liǎojiě yǒu duō nán.",
+        "translations": {
+          "vi": "Cho nên chỉ khi thực sự làm việc, mới có thể hiểu được khó khăn đến mức nào.",
+          "en": "So only when you are truly doing something can you understand how difficult it is."
+        }
+      }
+    },
+    {
+      "word": "多么",
+      "type": "phó từ",
+      "pronunciation": "duōme",
+      "translations": {
+        "vi": "(mức độ tương đối cao) bao nhiêu, biết bao",
+        "en": "how (wonderful etc); what (a great idea)"
+      },
+      "example": {
+        "text": "我们一定要相信：多么难的问题，都会被解决的。",
+        "pronunciation": "Wǒmen yídìng yào xiāngxìn: duōme nán de wèntí, dōu huì bèi jiějué de.",
+        "translations": {
+          "vi": "Chúng ta nhất định phải tin rằng: vấn đề dù khó đến mấy, cũng đều sẽ được giải quyết.",
+          "en": "We must believe: no matter how difficult the problem is, it will be solved."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "“被” 字句 (Câu chữ 被)",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, câu có từ “被” (hoặc “叫”, “让”) được dùng để biểu thị ý nghĩa bị động. Cấu trúc: Chủ ngữ + 被/叫/让 + Tân ngữ + Động từ + Thành phần khác. Chủ ngữ là đối tượng chịu tác động của hành động, tân ngữ là đối tượng thực hiện hành động. Tân ngữ sau “被” có thể được lược bỏ, nhưng sau “叫” và “让” thì bắt buộc phải có.",
+        "en": "In Chinese, sentences with “被” (or “叫”, “让”) indicate passive voice. Structure: Subject + 被/叫/让 + Object + Verb + Other elements. The subject receives the action, and the object performs it. The object after “被” can be omitted, but it is mandatory after “叫” and “让”."
+      },
+      "examples": [
+        {
+          "text": "我的照相机被谁拿走了？",
+          "pronunciation": "Wǒ de zhàoxiàngjī bèi shéi názǒu le?",
+          "translations": {
+            "vi": "Máy ảnh của tôi bị ai lấy đi rồi?",
+            "en": "Who took my camera?"
+          }
+        },
+        {
+          "text": "帽子被刮跑了。",
+          "pronunciation": "Màozi bèi guā pǎo le.",
+          "translations": {
+            "vi": "Mũ bị gió thổi bay rồi.",
+            "en": "The hat was blown away."
+          }
+        },
+        {
+          "text": "蛋糕让弟弟吃完了。",
+          "pronunciation": "Dàngāo ràng dìdi chīwán le.",
+          "translations": {
+            "vi": "Bánh kem bị em trai ăn hết rồi.",
+            "en": "The cake was eaten by my younger brother."
+          }
+        },
+        {
+          "text": "我的照相机被拿走了。",
+          "pronunciation": "Wǒ de zhàoxiàngjī bèi názǒu le.",
+          "translations": {
+            "vi": "Máy ảnh của tôi bị lấy đi rồi.",
+            "en": "My camera was taken away."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "只有……，才…… (Cấu trúc: 只有……，才……)",
+      "descriptions": {
+        "vi": "Cấu trúc “只有……，才……” được dùng để nối các mệnh đề trong câu điều kiện phức, trong đó “只有” đứng trước điều kiện duy nhất, còn “才” đứng trước kết quả sẽ đạt được nếu thỏa mãn điều kiện đó (Chỉ có... mới...).",
+        "en": "The structure “只有……，才……” connects clauses in a conditional sentence. “只有” introduces the only condition, and “才” introduces the result that occurs only if that condition is met (Only if... then...)."
+      },
+      "examples": [
+        {
+          "text": "只有写完作业，才能看电视。",
+          "pronunciation": "Zhǐyǒu xiěwán zuòyè, cái néng kàn diànshì.",
+          "translations": {
+            "vi": "Chỉ có làm xong bài tập mới được xem tivi.",
+            "en": "Only after finishing homework can you watch TV."
+          }
+        },
+        {
+          "text": "只有妈妈做的饭，她才爱吃。",
+          "pronunciation": "Zhǐyǒu māma zuò de fàn, tā cái ài chī.",
+          "translations": {
+            "vi": "Chỉ có cơm mẹ nấu cô ấy mới thích ăn.",
+            "en": "She only likes to eat the food Mom cooks."
+          }
+        },
+        {
+          "text": "只有爸爸、妈妈才能分出来。",
+          "pronunciation": "Zhǐyǒu bàba, māma cái néng fēn chūlai.",
+          "translations": {
+            "vi": "Chỉ có bố mẹ mới phân biệt được.",
+            "en": "Only Mom and Dad can distinguish them."
+          }
+        },
+        {
+          "text": "看来只有爱，才能让人有变化。",
+          "pronunciation": "Kànlái zhǐyǒu ài, cái néng ràng rén yǒu biànhuà.",
+          "translations": {
+            "vi": "Xem ra chỉ có tình yêu mới có thể khiến con người thay đổi.",
+            "en": "It seems only love can make people change."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在休息室",
+        "pronunciation": "Zài xiūxishì",
+        "translations": {
+          "vi": "Trong phòng giải lao",
+          "en": "In the lounge"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：我的照相机被谁拿走了？怎么找不到了？",
+          "pronunciation": "Xiǎolì: Wǒ de zhàoxiàngjī bèi shéi názǒu le? Zěnme zhǎo bu dào le?",
+          "translations": {
+            "vi": "Tiểu Lệ: Máy ảnh của tôi bị ai lấy đi rồi? Sao không tìm thấy nữa?",
+            "en": "Xiaoli: Who took my camera? Why can't I find it?"
+          }
+        },
+        {
+          "text": "同事：你再找找。是不是没带来？",
+          "pronunciation": "Tóngshì: Nǐ zài zhǎozhao. Shì bu shì méi dàilai?",
+          "translations": {
+            "vi": "Đồng nghiệp: Bạn tìm kỹ lại xem. Có phải không mang đến không?",
+            "en": "Colleague: Look for it again. Did you forget to bring it?"
+          }
+        },
+        {
+          "text": "小丽：我找了，没找到啊。",
+          "pronunciation": "Xiǎolì: Wǒ zhǎo le, méi zhǎodào a.",
+          "translations": {
+            "vi": "Tiểu Lệ: Tôi tìm rồi, không thấy đâu cả.",
+            "en": "Xiaoli: I looked, but I didn't find it."
+          }
+        },
+        {
+          "text": "同事：别难过，再买一个吧，公司东门外不就有一个大商场吗？",
+          "pronunciation": "Tóngshì: Bié nánguò, zài mǎi yí ge ba, gōngsī dōngmén wài bú jiù yǒu yí ge dà shāngchǎng ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Đừng buồn, mua cái khác đi, ngoài cửa đông công ty chẳng phải có một trung tâm thương mại lớn sao?",
+            "en": "Colleague: Don't be sad, just buy another one. Isn't there a big shopping mall outside the company's east gate?"
+          }
+        },
+        {
+          "text": "小丽：但是我这个月信用卡里的钱已经花得差不多了。",
+          "pronunciation": "Xiǎolì: Dànshì wǒ zhège yuè xìnyòngkǎ li de qián yǐjīng huā de chàbuduō le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Nhưng tiền trong thẻ tín dụng tháng này tôi tiêu gần hết rồi.",
+            "en": "Xiaoli: But I've already spent almost all the money on my credit card this month."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在教室",
+        "pronunciation": "Zài jiàoshì",
+        "translations": {
+          "vi": "Trong lớp học",
+          "en": "In the classroom"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小明：你怎么突然关心起体育来了？",
+          "pronunciation": "Xiǎomíng: Nǐ zěnme tūrán guānxīn qǐ tǐyù lái le?",
+          "translations": {
+            "vi": "Tiểu Minh: Sao tự nhiên cậu lại quan tâm đến thể thao thế?",
+            "en": "Xiaoming: Why have you suddenly started caring about sports?"
+          }
+        },
+        {
+          "text": "朋友：我的男朋友喜欢看足球比赛，我被他影响的。",
+          "pronunciation": "Péngyou: Wǒ de nánpéngyou xǐhuan kàn zúqiú bǐsài, wǒ bèi tā yǐngxiǎng de.",
+          "translations": {
+            "vi": "Bạn: Bạn trai tớ thích xem bóng đá, tớ bị anh ấy ảnh hưởng đấy.",
+            "en": "Friend: My boyfriend likes watching soccer games, I was influenced by him."
+          }
+        },
+        {
+          "text": "小明：看来只有爱，才能让人有变化。",
+          "pronunciation": "Xiǎomíng: Kànlái zhǐyǒu ài, cái néng ràng rén yǒu biànhuà.",
+          "translations": {
+            "vi": "Tiểu Minh: Xem ra chỉ có tình yêu mới làm người ta thay đổi.",
+            "en": "Xiaoming: It seems only love can make people change."
+          }
+        },
+        {
+          "text": "朋友：是啊，为了和他的爱好一样，我天天看球赛。",
+          "pronunciation": "Péngyou: Shì a, wèile hé tā de àihào yíyàng, wǒ tiāntiān kàn qiúsài.",
+          "translations": {
+            "vi": "Bạn: Đúng vậy, để có sở thích giống anh ấy, ngày nào tớ cũng xem bóng đá.",
+            "en": "Friend: Yes, in order to share his hobby, I watch ball games every day."
+          }
+        },
+        {
+          "text": "小明：除了足球，他还影响你什么了？",
+          "pronunciation": "Xiǎomíng: Chúle zúqiú, tā hái yǐngxiǎng nǐ shénme le?",
+          "translations": {
+            "vi": "Tiểu Minh: Ngoài bóng đá, anh ấy còn ảnh hưởng gì đến cậu nữa?",
+            "en": "Xiaoming: Besides soccer, what else has he influenced you with?"
+          }
+        },
+        {
+          "text": "朋友：我最近天天上网玩儿游戏，我的成绩差极了。",
+          "pronunciation": "Péngyou: Wǒ zuìjìn tiāntiān shàng wǎng wánr yóuxì, wǒ de chéngjì chà jí le.",
+          "translations": {
+            "vi": "Bạn: Dạo này ngày nào tớ cũng lên mạng chơi game, thành tích của tớ kém cực kỳ.",
+            "en": "Friend: I've been playing online games every day recently, and my grades are terrible."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在饭馆儿",
+        "pronunciation": "Zài fànguǎnr",
+        "translations": {
+          "vi": "Ở quán ăn",
+          "en": "At the restaurant"
+        }
+      },
+      "sentences": [
+        {
+          "text": "朋友：那个拿着碗吃饭的人是你哥哥吗？他和你长得真像。",
+          "pronunciation": "Péngyou: Nàge názhe wǎn chī fàn de rén shì nǐ gēge ma? Tā hé nǐ zhǎng de zhēn xiàng.",
+          "translations": {
+            "vi": "Bạn: Người đang cầm bát ăn cơm kia là anh trai cậu hả? Anh ấy và cậu giống nhau thật.",
+            "en": "Friend: Is that person holding a bowl and eating your older brother? He looks really like you."
+          }
+        },
+        {
+          "text": "大卫：我们经常被别人认错。",
+          "pronunciation": "Dàwèi: Wǒmen jīngcháng bèi biérén rèncuò.",
+          "translations": {
+            "vi": "Đại Vệ: Chúng tớ thường xuyên bị người khác nhận nhầm.",
+            "en": "Dawei: We are often mistaken for each other by others."
+          }
+        },
+        {
+          "text": "朋友：只有你们的爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。",
+          "pronunciation": "Péngyou: Zhǐyǒu nǐmen de bàba māma cái néng fēn chūlai nǎge shì gēge, nǎge shì dìdi ba.",
+          "translations": {
+            "vi": "Bạn: Chắc chỉ có bố mẹ các cậu mới phân biệt được ai là anh, ai là em nhỉ.",
+            "en": "Friend: Only your parents can tell who is the older brother and who is the younger brother."
+          }
+        },
+        {
+          "text": "大卫：除了父母以外，还有我们自己也能啊。",
+          "pronunciation": "Dàwèi: Chúle fùmǔ yǐwài, háiyǒu wǒmen zìjǐ yě néng a.",
+          "translations": {
+            "vi": "Đại Vệ: Ngoài bố mẹ ra, còn có bản thân chúng tớ cũng phân biệt được mà.",
+            "en": "Dawei: Besides our parents, we can also tell ourselves."
+          }
+        },
+        {
+          "text": "朋友：你们两个除了长得像，还有什么相同的地方？",
+          "pronunciation": "Péngyou: Nǐmen liǎng ge chúle zhǎng de xiàng, hái yǒu shénme xiāngtóng de dìfang?",
+          "translations": {
+            "vi": "Bạn: Hai cậu ngoài giống nhau ra, còn có điểm gì tương đồng nữa?",
+            "en": "Friend: Besides looking alike, what other similarities do you two have?"
+          }
+        },
+        {
+          "text": "大卫：我们住在同一个楼，同一个房间……",
+          "pronunciation": "Dàwèi: Wǒmen zhù zài tóng yí ge lóu, tóng yí ge fángjiān......",
+          "translations": {
+            "vi": "Đại Vệ: Chúng tớ sống cùng một tòa nhà, cùng một phòng...",
+            "en": "Dawei: We live in the same building, the same room..."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "解决问题",
+        "pronunciation": "Jiějué wèntí",
+        "translations": {
+          "vi": "Giải quyết vấn đề",
+          "en": "Solving problems"
+        }
+      },
+      "sentences": [
+        {
+          "text": "年轻人遇到难题，常常很着急，不知道怎么办。其实，不同的问题有不同的解决办法。",
+          "pronunciation": "Niánqīng rén yùdào nántí, chángcháng hěn zháojí, bù zhīdào zěnme bàn. Qíshí, bùtóng de wèntí yǒu bùtóng de jiějué bànfǎ.",
+          "translations": {
+            "vi": "Người trẻ khi gặp vấn đề khó khăn thường rất lo lắng, không biết làm thế nào. Thực ra, vấn đề khác nhau thì có cách giải quyết khác nhau.",
+            "en": "Young people often get anxious when they encounter difficult problems and don't know what to do. Actually, different problems have different solutions."
+          }
+        },
+        {
+          "text": "有些问题看上去很难，但是做起来非常简单，所以得试着做做。",
+          "pronunciation": "Yǒuxiē wèntí kànshangqu hěn nán, dànshì zuò qǐlai fēicháng jiǎndān, suǒyǐ děi shìzhe zuòzuo.",
+          "translations": {
+            "vi": "Có một số vấn đề trông có vẻ rất khó, nhưng khi bắt tay vào làm thì lại vô cùng đơn giản, cho nên cần phải thử làm xem sao.",
+            "en": "Some problems look very difficult, but are actually very simple to do, so you have to try doing them."
+          }
+        },
+        {
+          "text": "有些问题看上去虽然简单，但是解决起来难极了。所以只有真正做事情的时候，才能了解有多难。",
+          "pronunciation": "Yǒuxiē wèntí kànshangqu suīrán jiǎndān, dànshì jiějué qǐlai nán jí le. Suǒyǐ zhǐyǒu zhēnzhèng zuò shìqing de shíhou, cái néng liǎojiě yǒu duō nán.",
+          "translations": {
+            "vi": "Có một số vấn đề trông có vẻ đơn giản, nhưng giải quyết thì lại cực kỳ khó. Cho nên chỉ khi thực sự làm việc, mới có thể hiểu được khó khăn đến mức nào.",
+            "en": "Some problems look simple, but are extremely difficult to solve. So only when you are truly doing something can you understand how difficult it is."
+          }
+        },
+        {
+          "text": "不过，我们一定要相信：多么难的问题，都会被解决的。",
+          "pronunciation": "Búguò, wǒmen yídìng yào xiāngxìn: duōme nán de wèntí, dōu huì bèi jiějué de.",
+          "translations": {
+            "vi": "Tuy nhiên, chúng ta nhất định phải tin rằng: vấn đề dù khó đến mấy, cũng đều sẽ được giải quyết.",
+            "en": "However, we must believe: no matter how difficult the problem is, it will be solved."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "title": {
+    "text": "其他都没什么问题。",
+    "pronunciation": "Qítā dōu méi shénme wèntí.",
+    "translations": {
+      "vi": "Những câu khác đều không có vấn đề gì.",
+      "en": "There are no other problems."
+    }
+  },
+  "newWords": [
+    {
+      "word": "留学",
+      "type": "động từ",
+      "pronunciation": "liú xué",
+      "translations": {
+        "vi": "du học",
+        "en": "to study abroad"
+      },
+      "example": {
+        "text": "我来中国留学两年了。",
+        "pronunciation": "Wǒ lái Zhōngguó liú xué liǎng nián le.",
+        "translations": {
+          "vi": "Em đến Trung Quốc du học 2 năm rồi.",
+          "en": "I have been studying abroad in China for two years."
+        }
+      }
+    },
+    {
+      "word": "水平",
+      "type": "danh từ",
+      "pronunciation": "shuǐpíng",
+      "translations": {
+        "vi": "trình độ",
+        "en": "level; standard"
+      },
+      "example": {
+        "text": "但是我的汉语水平提高得一点儿也不快啊。",
+        "pronunciation": "Dànshì wǒ de Hànyǔ shuǐpíng tígāo de yìdiǎnr yě bú kuài a.",
+        "translations": {
+          "vi": "Nhưng trình độ tiếng Trung của em tiến bộ chẳng nhanh chút nào.",
+          "en": "But my Chinese level hasn't improved fast at all."
+        }
+      }
+    },
+    {
+      "word": "提高",
+      "type": "động từ",
+      "pronunciation": "tígāo",
+      "translations": {
+        "vi": "nâng cao, tiến bộ",
+        "en": "to improve; to raise"
+      },
+      "example": {
+        "text": "但是我的汉语水平提高得一点儿也不快啊。",
+        "pronunciation": "Dànshì wǒ de Hànyǔ shuǐpíng tígāo de yìdiǎnr yě bú kuài a.",
+        "translations": {
+          "vi": "Nhưng trình độ tiếng Trung của em tiến bộ chẳng nhanh chút nào.",
+          "en": "But my Chinese level hasn't improved fast at all."
+        }
+      }
+    },
+    {
+      "word": "练习",
+      "type": "danh từ",
+      "pronunciation": "liànxí",
+      "translations": {
+        "vi": "bài tập",
+        "en": "exercise"
+      },
+      "example": {
+        "text": "你每天认真学习，做练习、完成作业。",
+        "pronunciation": "Nǐ měi tiān rènzhēn xuéxí, zuò liànxí, wán chéng zuòyè.",
+        "translations": {
+          "vi": "Em mỗi ngày đều chăm chỉ học tập, làm bài tập, hoàn thành bài về nhà.",
+          "en": "You study seriously every day, do exercises, and finish homework."
+        }
+      }
+    },
+    {
+      "word": "完成",
+      "type": "động từ",
+      "pronunciation": "wán chéng",
+      "translations": {
+        "vi": "hoàn thành",
+        "en": "to complete; to finish"
+      },
+      "example": {
+        "text": "你每天认真学习，做练习、完成作业。",
+        "pronunciation": "Nǐ měi tiān rènzhēn xuéxí, zuò liànxí, wán chéng zuòyè.",
+        "translations": {
+          "vi": "Em mỗi ngày đều chăm chỉ học tập, làm bài tập, hoàn thành bài về nhà.",
+          "en": "You study seriously every day, do exercises, and finish homework."
+        }
+      }
+    },
+    {
+      "word": "句子",
+      "type": "danh từ",
+      "pronunciation": "jùzi",
+      "translations": {
+        "vi": "câu",
+        "en": "sentence"
+      },
+      "example": {
+        "text": "除了这个句子意思有些不清楚外，其他都没什么问题。",
+        "pronunciation": "Chúle zhège jùzi yìsi yǒuxiē bù qīngchu wài, qítā dōu méi shénme wèntí.",
+        "translations": {
+          "vi": "Ngoài câu này ý nghĩa hơi không rõ ràng ra, những câu khác đều không có vấn đề gì.",
+          "en": "Except for this sentence which is a bit unclear, there are no other problems."
+        }
+      }
+    },
+    {
+      "word": "其他",
+      "type": "đại từ",
+      "pronunciation": "qítā",
+      "translations": {
+        "vi": "cái khác",
+        "en": "other; else"
+      },
+      "example": {
+        "text": "除了这个句子意思有些不清楚外，其他都没什么问题。",
+        "pronunciation": "Chúle zhège jùzi yìsi yǒuxiē bù qīngchu wài, qítā dōu méi shénme wèntí.",
+        "translations": {
+          "vi": "Ngoài câu này ý nghĩa hơi không rõ ràng ra, những câu khác đều không có vấn đề gì.",
+          "en": "Except for this sentence which is a bit unclear, there are no other problems."
+        }
+      }
+    },
+    {
+      "word": "发",
+      "type": "động từ",
+      "pronunciation": "fā",
+      "translations": {
+        "vi": "gửi, gửi đi",
+        "en": "to send"
+      },
+      "example": {
+        "text": "可以给我打电话或者发电子邮件。",
+        "pronunciation": "Kěyǐ gěi wǒ dǎ diànhuà huòzhě fā diànzǐ yóujiàn.",
+        "translations": {
+          "vi": "Có thể gọi điện thoại hoặc gửi email cho cô.",
+          "en": "You can call me or send an email."
+        }
+      }
+    },
+    {
+      "word": "要求",
+      "type": "danh từ",
+      "pronunciation": "yāoqiú",
+      "translations": {
+        "vi": "yêu cầu",
+        "en": "requirement"
+      },
+      "example": {
+        "text": "我先给大家讲讲这次比赛的要求。",
+        "pronunciation": "Wǒ xiān gěi dàjiā jiǎngjiang zhè cì bǐsài de yāoqiú.",
+        "translations": {
+          "vi": "Trước tiên tôi nói cho mọi người nghe về yêu cầu của cuộc thi lần này.",
+          "en": "I will first explain the requirements of this competition to everyone."
+        }
+      }
+    },
+    {
+      "word": "注意",
+      "type": "động từ",
+      "pronunciation": "zhùyì",
+      "translations": {
+        "vi": "chú ý",
+        "en": "to pay attention to"
+      },
+      "example": {
+        "text": "和一些需要注意的地方。",
+        "pronunciation": "Hé yìxiē xūyào zhùyì de dìfang.",
+        "translations": {
+          "vi": "Và một vài điểm cần chú ý.",
+          "en": "And some points that need attention."
+        }
+      }
+    },
+    {
+      "word": "上网",
+      "type": "động từ",
+      "pronunciation": "shàng wǎng",
+      "translations": {
+        "vi": "lên mạng",
+        "en": "to surf the internet"
+      },
+      "example": {
+        "text": "现在用电脑上网真方便啊！",
+        "pronunciation": "Xiànzài yòng diànnǎo shàng wǎng zhēn fāngbiàn a!",
+        "translations": {
+          "vi": "Bây giờ dùng máy tính lên mạng thật tiện lợi!",
+          "en": "Using a computer to go online is so convenient now!"
+        }
+      }
+    },
+    {
+      "word": "除了",
+      "type": "giới từ",
+      "pronunciation": "chúle",
+      "translations": {
+        "vi": "ngoài... ra",
+        "en": "besides; except"
+      },
+      "example": {
+        "text": "除了看新闻，人们还可以网上听歌。",
+        "pronunciation": "Chúle kàn xīnwén, rénmen hái kěyǐ wǎngshang tīng gē.",
+        "translations": {
+          "vi": "Ngoài xem tin tức, mọi người còn có thể nghe nhạc trên mạng.",
+          "en": "Besides reading news, people can also listen to music online."
+        }
+      }
+    },
+    {
+      "word": "新闻",
+      "type": "danh từ",
+      "pronunciation": "xīnwén",
+      "translations": {
+        "vi": "tin tức",
+        "en": "news"
+      },
+      "example": {
+        "text": "除了看新闻，人们还可以网上听歌。",
+        "pronunciation": "Chúle kàn xīnwén, rénmen hái kěyǐ wǎngshang tīng gē.",
+        "translations": {
+          "vi": "Ngoài xem tin tức, mọi người còn có thể nghe nhạc trên mạng.",
+          "en": "Besides reading news, people can also listen to music online."
+        }
+      }
+    },
+    {
+      "word": "花",
+      "type": "động từ",
+      "pronunciation": "huā",
+      "translations": {
+        "vi": "tốn, tiêu tốn",
+        "en": "to spend"
+      },
+      "example": {
+        "text": "不用花钱，还有新衣服穿。",
+        "pronunciation": "Bú yòng huā qián, hái yǒu xīn yīfu chuān.",
+        "translations": {
+          "vi": "Không cần tốn tiền mà vẫn có quần áo mới mặc.",
+          "en": "No need to spend money, and he still has new clothes to wear."
+        }
+      }
+    },
+    {
+      "word": "极",
+      "type": "phó từ",
+      "pronunciation": "jí (le)",
+      "translations": {
+        "vi": "hết sức, cực kỳ",
+        "en": "extremely"
+      },
+      "example": {
+        "text": "他满意极了。",
+        "pronunciation": "Tā mǎnyì jí le.",
+        "translations": {
+          "vi": "Nó hài lòng cực kỳ.",
+          "en": "He is extremely satisfied."
+        }
+      }
+    },
+    {
+      "word": "节日",
+      "type": "danh từ",
+      "pronunciation": "jiérì",
+      "translations": {
+        "vi": "ngày lễ",
+        "en": "festival; holiday"
+      },
+      "example": {
+        "text": "啤酒节也是这里很重要的一个节日。",
+        "pronunciation": "Píjiǔ jié yě shì zhèlǐ hěn zhòngyào de yí ge jiérì.",
+        "translations": {
+          "vi": "Lễ hội bia cũng là một ngày lễ rất quan trọng ở đây.",
+          "en": "The Beer Festival is also a very important festival here."
+        }
+      }
+    },
+    {
+      "word": "举行",
+      "type": "động từ",
+      "pronunciation": "jǔxíng",
+      "translations": {
+        "vi": "tổ chức (hội họp, thi đấu...)",
+        "en": "to hold (a meeting, event)"
+      },
+      "example": {
+        "text": "这个地方每年夏天都要举行一次啤酒节。",
+        "pronunciation": "Zhège dìfang měi nián xiàtiān dōu yào jǔxíng yí cì píjiǔ jié.",
+        "translations": {
+          "vi": "Nơi này mỗi mùa hè đều tổ chức lễ hội bia một lần.",
+          "en": "This place holds a Beer Festival every summer."
+        }
+      }
+    },
+    {
+      "word": "世界",
+      "type": "danh từ",
+      "pronunciation": "shìjiè",
+      "translations": {
+        "vi": "thế giới",
+        "en": "world"
+      },
+      "example": {
+        "text": "你可以喝到世界上不同地方的啤酒。",
+        "pronunciation": "Nǐ kěyǐ hē dào shìjiè shang bùtóng dìfang de píjiǔ.",
+        "translations": {
+          "vi": "Bạn có thể uống được bia từ nhiều nơi khác nhau trên thế giới.",
+          "en": "You can drink beer from different places in the world."
+        }
+      }
+    },
+    {
+      "word": "街道",
+      "type": "danh từ",
+      "pronunciation": "jiēdào",
+      "translations": {
+        "vi": "đường, đường phố",
+        "en": "street"
+      },
+      "example": {
+        "text": "你还可以街道两边看到世界上不同地方的歌舞。",
+        "pronunciation": "Nǐ hái kěyǐ jiēdào liǎngbiān kàndào shìjiè shang bùtóng dìfang de gēwǔ.",
+        "translations": {
+          "vi": "Bạn còn có thể nhìn thấy ca múa từ nhiều nơi trên thế giới ở hai bên đường phố.",
+          "en": "You can also see songs and dances from different parts of the world on both sides of the street."
+        }
+      }
+    },
+    {
+      "word": "各",
+      "type": "đại từ",
+      "pronunciation": "gè",
+      "translations": {
+        "vi": "mỗi",
+        "en": "each; every"
+      },
+      "example": {
+        "text": "你想不想了解世界各个地方的啤酒文化？",
+        "pronunciation": "Nǐ xiǎng bu xiǎng liǎojiě shìjiè gè gè dìfang de píjiǔ wénhuà?",
+        "translations": {
+          "vi": "Bạn có muốn tìm hiểu văn hóa bia của mỗi nơi trên thế giới không?",
+          "en": "Do you want to know about the beer culture of various places in the world?"
+        }
+      }
+    },
+    {
+      "word": "文化",
+      "type": "danh từ",
+      "pronunciation": "wénhuà",
+      "translations": {
+        "vi": "văn hóa",
+        "en": "culture"
+      },
+      "example": {
+        "text": "你想不想了解世界各个地方的啤酒文化？",
+        "pronunciation": "Nǐ xiǎng bu xiǎng liǎojiě shìjiè gè gè dìfang de píjiǔ wénhuà?",
+        "translations": {
+          "vi": "Bạn có muốn tìm hiểu văn hóa bia của mỗi nơi trên thế giới không?",
+          "en": "Do you want to know about the beer culture of various places in the world?"
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "除了……以外，都/还/也……",
+      "descriptions": {
+        "vi": "Cấu trúc “除了……以外，都……” dùng để chỉ việc loại trừ một phần nào đó, các phần còn lại đều có đặc điểm giống nhau (ngoại trừ... đều...). Cấu trúc “除了……以外，还/也……” dùng để chỉ việc bổ sung thêm thành phần khác ngoài thành phần đã được đề cập (ngoài... còn/cũng...).",
+        "en": "The structure “除了……以外，都……” indicates that except for a specific part, the rest share the same characteristic (except... all...). The structure “除了……以外，还/也……” indicates adding something else to what has been mentioned (besides... also...)."
+      },
+      "examples": [
+        {
+          "text": "除了这个汉字以外，别的汉字我都认识。",
+          "pronunciation": "Chúle zhège hànzì yǐwài, biéde hànzì wǒ dōu rènshi.",
+          "translations": {
+            "vi": "Ngoài chữ Hán này ra, các chữ khác tôi đều biết.",
+            "en": "Except for this Chinese character, I know all the others."
+          }
+        },
+        {
+          "text": "除了唱歌以外，他还喜欢跳舞。",
+          "pronunciation": "Chúle chànggē yǐwài, tā hái xǐhuan tiàowǔ.",
+          "translations": {
+            "vi": "Ngoài ca hát ra, anh ấy còn thích khiêu vũ.",
+            "en": "Besides singing, he also likes dancing."
+          }
+        },
+        {
+          "text": "除了小云，其他人都来了。",
+          "pronunciation": "Chúle Xiǎoyún, qítā rén dōu lái le.",
+          "translations": {
+            "vi": "Ngoại trừ Tiểu Vân, những người khác đều đến rồi.",
+            "en": "Except for Xiaoyun, everyone else has arrived."
+          }
+        },
+        {
+          "text": "除了看新闻，人们还可以在网上听歌。",
+          "pronunciation": "Chúle kàn xīnwén, rénmen hái kěyǐ zài wǎngshang tīng gē.",
+          "translations": {
+            "vi": "Ngoài xem tin tức, mọi người còn có thể nghe nhạc trên mạng.",
+            "en": "Besides reading news, people can also listen to music online."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "疑问代词活用2",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, “什么” có thể được dùng làm đại từ chỉ thị, dùng để thay thế cho người hay sự vật không xác định, thể hiện sắc thái lịch sự, lễ phép hơn. Nghĩa của câu không thay đổi khi bỏ “什么”.",
+        "en": "In Chinese, “什么” can be used as a demonstrative pronoun to refer to indefinite people or things, making the tone more polite. The meaning of the sentence remains the same if “什么” is removed."
+      },
+      "examples": [
+        {
+          "text": "你写得很好，没什么问题。",
+          "pronunciation": "Nǐ xiě de hěn hǎo, méi shénme wèntí.",
+          "translations": {
+            "vi": "Em viết rất tốt, không có vấn đề gì.",
+            "en": "You wrote very well, there are no problems."
+          }
+        },
+        {
+          "text": "以后有什么不明白的地方，可以给我打电话。",
+          "pronunciation": "Yǐhòu yǒu shénme bù míngbai de dìfang, kěyǐ gěi wǒ dǎ diànhuà.",
+          "translations": {
+            "vi": "Sau này có chỗ nào không hiểu, có thể gọi điện cho tôi.",
+            "en": "If there is anything you don't understand later, you can call me."
+          }
+        },
+        {
+          "text": "除了这个句子意思有些不清楚外，其他都没什么问题。",
+          "pronunciation": "Chúle zhège jùzi yìsi yǒuxiē bù qīngchu wài, qítā dōu méi shénme wèntí.",
+          "translations": {
+            "vi": "Ngoài câu này ý nghĩa hơi không rõ ràng ra, những câu khác đều không có vấn đề gì.",
+            "en": "Except for this sentence which is a bit unclear, there are no other problems."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "程度的表达：极了",
+      "descriptions": {
+        "vi": "Cấu trúc “tính từ/động từ chỉ trạng thái tâm lý + 极了” có thể được dùng để diễn tả mức độ cao nhất.",
+        "en": "The structure “Adjective/Psychological Verb + 极了” is used to express the highest degree."
+      },
+      "examples": [
+        {
+          "text": "我的小狗可爱极了。",
+          "pronunciation": "Wǒ de xiǎogǒu kě'ài jí le.",
+          "translations": {
+            "vi": "Con chó nhỏ của tôi đáng yêu cực kỳ.",
+            "en": "My puppy is extremely cute."
+          }
+        },
+        {
+          "text": "今天天气冷极了。",
+          "pronunciation": "Jīntiān tiānqì lěng jí le.",
+          "translations": {
+            "vi": "Hôm nay thời tiết lạnh cực kỳ.",
+            "en": "It is extremely cold today."
+          }
+        },
+        {
+          "text": "不用花钱，还有新衣服穿，他满意极了。",
+          "pronunciation": "Bú yòng huā qián, hái yǒu xīn yīfu chuān, tā mǎnyì jí le.",
+          "translations": {
+            "vi": "Không cần tốn tiền mà vẫn có quần áo mới mặc, nó hài lòng cực kỳ.",
+            "en": "No need to spend money, and still has new clothes to wear, he is extremely satisfied."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在办公室",
+        "pronunciation": "Zài bàngōngshì",
+        "translations": {
+          "vi": "Trong văn phòng",
+          "en": "In the office"
+        }
+      },
+      "sentences": [
+        {
+          "text": "大山：老师，我来中国留学两年了，但是我的汉语水平提高得一点儿也不快啊。",
+          "pronunciation": "Dàshān: Lǎoshī, wǒ lái Zhōngguó liú xué liǎng nián le, dànshì wǒ de Hànyǔ shuǐpíng tígāo de yìdiǎnr yě bú kuài a.",
+          "translations": {
+            "vi": "Đại Sơn: Thưa cô, em đến Trung Quốc du học 2 năm rồi, nhưng trình độ tiếng Trung của em tiến bộ chẳng nhanh chút nào.",
+            "en": "Dashan: Teacher, I've been studying in China for two years, but my Chinese level hasn't improved fast at all."
+          }
+        },
+        {
+          "text": "老师：你每天认真学习，做练习、完成作业，一直不错啊。",
+          "pronunciation": "Lǎoshī: Nǐ měi tiān rènzhēn xuéxí, zuò liànxí, wán chéng zuòyè, yìzhí búcuò a.",
+          "translations": {
+            "vi": "Giáo viên: Em mỗi ngày đều chăm chỉ học tập, làm bài tập, hoàn thành bài về nhà, luôn rất tốt mà.",
+            "en": "Teacher: You study seriously every day, do exercises, and finish homework. You've always been good."
+          }
+        },
+        {
+          "text": "大山：这是我昨天的作业，您帮我看看对不对。",
+          "pronunciation": "Dàshān: Zhè shì wǒ zuótiān de zuòyè, nín bāng wǒ kànkan duì bu duì.",
+          "translations": {
+            "vi": "Đại Sơn: Đây là bài tập hôm qua của em, cô xem giúp em có đúng không ạ.",
+            "en": "Dashan: This is my homework from yesterday, could you help me check if it's correct?"
+          }
+        },
+        {
+          "text": "老师：写得不错，除了这个句子意思有些不清楚外，其他都没什么问题。",
+          "pronunciation": "Lǎoshī: Xiě de búcuò, chúle zhège jùzi yìsi yǒuxiē bù qīngchu wài, qítā dōu méi shénme wèntí.",
+          "translations": {
+            "vi": "Giáo viên: Viết khá tốt, ngoài câu này ý nghĩa hơi không rõ ràng ra, những câu khác đều không có vấn đề gì.",
+            "en": "Teacher: Written well. Except for this sentence which is a bit unclear, there are no other problems."
+          }
+        },
+        {
+          "text": "大山：谢谢老师！",
+          "pronunciation": "Dàshān: Xièxie lǎoshī!",
+          "translations": {
+            "vi": "Đại Sơn: Cảm ơn cô!",
+            "en": "Dashan: Thank you, teacher!"
+          }
+        },
+        {
+          "text": "老师：以后有什么不明白的地方，可以给我打电话或者发电子邮件。",
+          "pronunciation": "Lǎoshī: Yǐhòu yǒu shénme bù míngbai de dìfang, kěyǐ gěi wǒ dǎ diànhuà huòzhě fā diànzǐ yóujiàn.",
+          "translations": {
+            "vi": "Giáo viên: Sau này có chỗ nào không hiểu, có thể gọi điện thoại hoặc gửi email cho cô.",
+            "en": "Teacher: If there is anything you don't understand later, you can call me or send an email."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在教室",
+        "pronunciation": "Zài jiàoshì",
+        "translations": {
+          "vi": "Trong lớp học",
+          "en": "In the classroom"
+        }
+      },
+      "sentences": [
+        {
+          "text": "学生：老师，除了小云，其他人都来了。",
+          "pronunciation": "Xuésheng: Lǎoshī, chúle Xiǎoyún, qítā rén dōu lái le.",
+          "translations": {
+            "vi": "Học sinh: Thưa cô, ngoại trừ Tiểu Vân, những người khác đều đến rồi ạ.",
+            "en": "Student: Teacher, except for Xiaoyun, everyone else is here."
+          }
+        },
+        {
+          "text": "老师：比赛马上就要开始了，小云怎么还没来？",
+          "pronunciation": "Lǎoshī: Bǐsài mǎshàng jiùyào kāishǐ le, Xiǎoyún zěnme hái méi lái?",
+          "translations": {
+            "vi": "Giáo viên: Cuộc thi sắp bắt đầu rồi, sao Tiểu Vân vẫn chưa đến?",
+            "en": "Teacher: The competition is about to start, why hasn't Xiaoyun arrived yet?"
+          }
+        },
+        {
+          "text": "学生：刚才给她打电话了，她在路上呢。",
+          "pronunciation": "Xuésheng: Gāngcái gěi tā dǎ diànhuà le, tā zài lùshang ne.",
+          "translations": {
+            "vi": "Học sinh: Vừa nãy gọi điện cho bạn ấy rồi, bạn ấy đang trên đường đến.",
+            "en": "Student: I just called her, she is on her way."
+          }
+        },
+        {
+          "text": "老师：不等她了，我先给大家讲讲这次比赛的要求和一些需要注意的地方。",
+          "pronunciation": "Lǎoshī: Bù děng tā le, wǒ xiān gěi dàjiā jiǎngjiang zhè cì bǐsài de yāoqiú hé yìxiē xūyào zhùyì de dìfang.",
+          "translations": {
+            "vi": "Giáo viên: Không đợi bạn ấy nữa, trước tiên cô nói cho mọi người nghe về yêu cầu của cuộc thi lần này và một vài điểm cần chú ý.",
+            "en": "Teacher: We won't wait for her. I'll first explain the requirements of this competition and some points to pay attention to."
+          }
+        },
+        {
+          "text": "学生：老师，您放心，今天的比赛我们一定能拿第一。",
+          "pronunciation": "Xuésheng: Lǎoshī, nín fàng xīn, jīntiān de bǐsài wǒmen yídìng néng ná dì-yī.",
+          "translations": {
+            "vi": "Học sinh: Thưa cô, cô yên tâm, cuộc thi hôm nay chúng em nhất định sẽ giành hạng nhất.",
+            "en": "Student: Teacher, don't worry, we will definitely take first place in today's competition."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在休息室",
+        "pronunciation": "Zài xiūxishì",
+        "translations": {
+          "vi": "Trong phòng giải lao",
+          "en": "In the lounge"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：现在用电脑上网真方便啊！",
+          "pronunciation": "Tóngshì: Xiànzài yòng diànnǎo shàng wǎng zhēn fāngbiàn a!",
+          "translations": {
+            "vi": "Đồng nghiệp: Bây giờ dùng máy tính lên mạng thật tiện lợi!",
+            "en": "Colleague: Using a computer to go online is so convenient now!"
+          }
+        },
+        {
+          "text": "小刚：是啊，除了看新闻，人们还可以在网上听歌，看电影，买东西。",
+          "pronunciation": "Xiǎogāng: Shì a, chúle kàn xīnwén, rénmen hái kěyǐ zài wǎngshang tīng gē, kàn diànyǐng, mǎi dōngxi.",
+          "translations": {
+            "vi": "Tiểu Cương: Đúng vậy, ngoài xem tin tức, mọi người còn có thể nghe nhạc, xem phim, mua đồ trên mạng.",
+            "en": "Xiaogang: Yes, besides reading news, people can also listen to music, watch movies, and buy things online."
+          }
+        },
+        {
+          "text": "同事：对了，你从网上买的那件衣服呢？怎么没见你穿？",
+          "pronunciation": "Tóngshì: Duìle, nǐ cóng wǎngshang mǎi de nà jiàn yīfu ne? Zěnme méi jiàn nǐ chuān?",
+          "translations": {
+            "vi": "Đồng nghiệp: À này, chiếc áo cậu mua trên mạng đâu rồi? Sao không thấy cậu mặc?",
+            "en": "Colleague: By the way, what about that piece of clothing you bought online? Why haven't I seen you wear it?"
+          }
+        },
+        {
+          "text": "小刚：那件衣服我穿着有点儿小，给我弟弟了。",
+          "pronunciation": "Xiǎogāng: Nà jiàn yīfu wǒ chuānzhe yǒudiǎnr xiǎo, gěi wǒ dìdi le.",
+          "translations": {
+            "vi": "Tiểu Cương: Chiếc áo đó tôi mặc hơi nhỏ, cho em trai tôi rồi.",
+            "en": "Xiaogang: That piece of clothing was a bit small for me, so I gave it to my younger brother."
+          }
+        },
+        {
+          "text": "同事：他满意吗？",
+          "pronunciation": "Tóngshì: Tā mǎnyì ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Cậu ấy có hài lòng không?",
+            "en": "Colleague: Is he satisfied?"
+          }
+        },
+        {
+          "text": "小刚：不用花钱，还有新衣服穿，他满意极了。",
+          "pronunciation": "Xiǎogāng: Bú yòng huā qián, hái yǒu xīn yīfu chuān, tā mǎnyì jí le.",
+          "translations": {
+            "vi": "Tiểu Cương: Không cần tốn tiền mà vẫn có quần áo mới mặc, nó hài lòng cực kỳ.",
+            "en": "Xiaogang: No need to spend money, and he has new clothes to wear, he is extremely satisfied."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "啤酒节",
+        "pronunciation": "Píjiǔ jié",
+        "translations": {
+          "vi": "Lễ hội bia",
+          "en": "Beer Festival"
+        }
+      },
+      "sentences": [
+        {
+          "text": "除了春节、中秋节以外，啤酒节也是这里很重要的一个节日。",
+          "pronunciation": "Chúle Chūnjié, Zhōngqiū jié yǐwài, píjiǔ jié yě shì zhèlǐ hěn zhòngyào de yí ge jiérì.",
+          "translations": {
+            "vi": "Ngoài Tết Nguyên Đán, Tết Trung Thu ra, lễ hội bia cũng là một ngày lễ rất quan trọng ở đây.",
+            "en": "Besides Spring Festival and Mid-Autumn Festival, the Beer Festival is also a very important festival here."
+          }
+        },
+        {
+          "text": "这个地方每年夏天都要举行一次啤酒节。",
+          "pronunciation": "Zhège dìfang měi nián xiàtiān dōu yào jǔxíng yí cì píjiǔ jié.",
+          "translations": {
+            "vi": "Nơi này mỗi mùa hè đều tổ chức lễ hội bia một lần.",
+            "en": "This place holds a Beer Festival every summer."
+          }
+        },
+        {
+          "text": "在啤酒节上，你可以喝到世界上不同地方的啤酒。",
+          "pronunciation": "Zài píjiǔ jié shang, nǐ kěyǐ hē dào shìjiè shang bùtóng dìfang de píjiǔ.",
+          "translations": {
+            "vi": "Trong lễ hội bia, bạn có thể uống được bia từ nhiều nơi khác nhau trên thế giới.",
+            "en": "At the Beer Festival, you can drink beer from different places in the world."
+          }
+        },
+        {
+          "text": "除了喝啤酒，你还可以在街道两边看到世界上不同地方的歌舞。",
+          "pronunciation": "Chúle hē píjiǔ, nǐ hái kěyǐ zài jiēdào liǎngbiān kàndào shìjiè shang bùtóng dìfang de gēwǔ.",
+          "translations": {
+            "vi": "Ngoài uống bia, bạn còn có thể nhìn thấy ca múa từ nhiều nơi trên thế giới ở hai bên đường phố.",
+            "en": "Besides drinking beer, you can also see songs and dances from different parts of the world on both sides of the street."
+          }
+        },
+        {
+          "text": "你想不想了解世界各个地方的啤酒文化？来这里的啤酒节看看吧。",
+          "pronunciation": "Nǐ xiǎng bu xiǎng liǎojiě shìjiè gè gè dìfang de píjiǔ wénhuà? Lái zhèlǐ de píjiǔ jié kànkan ba.",
+          "translations": {
+            "vi": "Bạn có muốn tìm hiểu văn hóa bia của mỗi nơi trên thế giới không? Hãy đến lễ hội bia ở đây xem thử nhé.",
+            "en": "Do you want to know about the beer culture of various places in the world? Come to the Beer Festival here and have a look."
+          }
+        }
+      ]
+    }
+  ]
+}

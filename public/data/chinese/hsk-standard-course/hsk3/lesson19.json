@@ -1,0 +1,556 @@
+{
+  "title": {
+    "text": "你没看出来吗？",
+    "pronunciation": "Nǐ méi kàn chūlai ma?",
+    "translations": {
+      "vi": "Anh không nhìn ra được à?",
+      "en": "Can't you tell?"
+    }
+  },
+  "newWords": [
+    {
+      "word": "耳朵",
+      "type": "danh từ",
+      "pronunciation": "ěrduo",
+      "translations": {
+        "vi": "tai",
+        "en": "ear"
+      },
+      "example": {
+        "text": "女儿最近喜欢把头发放在耳朵后面。",
+        "pronunciation": "Nǚ'ér zuìjìn xǐhuan bǎ tóufa fàng zài ěrduo hòumian.",
+        "translations": {
+          "vi": "Con gái dạo này thích vén tóc ra sau tai.",
+          "en": "Daughter likes to put her hair behind her ears recently."
+        }
+      }
+    },
+    {
+      "word": "脸",
+      "type": "danh từ",
+      "pronunciation": "liǎn",
+      "translations": {
+        "vi": "mặt, khuôn mặt",
+        "en": "face"
+      },
+      "example": {
+        "text": "这样可以使她的脸看上去漂亮一些。",
+        "pronunciation": "Zhèyàng kěyǐ shǐ tā de liǎn kànshangqu piàoliang yìxiē.",
+        "translations": {
+          "vi": "Như vậy có thể khiến khuôn mặt con bé trông xinh hơn một chút.",
+          "en": "This can make her face look a bit prettier."
+        }
+      }
+    },
+    {
+      "word": "短",
+      "type": "tính từ",
+      "pronunciation": "duǎn",
+      "translations": {
+        "vi": "ngắn",
+        "en": "short"
+      },
+      "example": {
+        "text": "她小时候喜欢短头发。",
+        "pronunciation": "Tā xiǎoshíhou xǐhuan duǎn tóufa.",
+        "translations": {
+          "vi": "Hồi nhỏ con bé thích tóc ngắn.",
+          "en": "She liked short hair when she was little."
+        }
+      }
+    },
+    {
+      "word": "马",
+      "type": "danh từ",
+      "pronunciation": "mǎ",
+      "translations": {
+        "vi": "ngựa",
+        "en": "horse"
+      },
+      "example": {
+        "text": "上次我们参加骑马比赛的照片。",
+        "pronunciation": "Shàng cì wǒmen cānjiā qí mǎ bǐsài de zhàopiàn.",
+        "translations": {
+          "vi": "Ảnh lần trước chúng ta tham gia cuộc thi cưỡi ngựa.",
+          "en": "Photos from the horse riding competition we participated in last time."
+        }
+      }
+    },
+    {
+      "word": "张",
+      "type": "lượng từ",
+      "pronunciation": "zhāng",
+      "translations": {
+        "vi": "(được dùng cho các vật phẳng như giấy, bức ảnh...) tờ, tấm",
+        "en": "(measure word for flat objects)"
+      },
+      "example": {
+        "text": "我选了几张洗出来了。",
+        "pronunciation": "Wǒ xuǎnle jǐ zhāng xǐ chūlai le.",
+        "translations": {
+          "vi": "Tôi đã chọn vài tấm rửa ra rồi.",
+          "en": "I selected a few to develop."
+        }
+      }
+    },
+    {
+      "word": "位",
+      "type": "lượng từ",
+      "pronunciation": "wèi",
+      "translations": {
+        "vi": "(được dùng cho người, hàm ý kính trọng) vị",
+        "en": "(polite measure word for people)"
+      },
+      "example": {
+        "text": "骑得最快的这位是谁？",
+        "pronunciation": "Qí de zuì kuài de zhè wèi shì shéi?",
+        "translations": {
+          "vi": "Vị cưỡi nhanh nhất này là ai?",
+          "en": "Who is this person riding the fastest?"
+        }
+      }
+    },
+    {
+      "word": "蓝",
+      "type": "tính từ",
+      "pronunciation": "lán",
+      "translations": {
+        "vi": "có màu xanh da trời",
+        "en": "blue"
+      },
+      "example": {
+        "text": "他今天穿蓝西服。",
+        "pronunciation": "Tā jīntiān chuān lán xīfú.",
+        "translations": {
+          "vi": "Hôm nay anh ấy mặc âu phục màu xanh lam.",
+          "en": "He is wearing a blue suit today."
+        }
+      }
+    },
+    {
+      "word": "秋(天)",
+      "type": "danh từ",
+      "pronunciation": "qiū (tiān)",
+      "translations": {
+        "vi": "(mùa) thu",
+        "en": "autumn; fall"
+      },
+      "example": {
+        "text": "她去年秋天出生的。",
+        "pronunciation": "Tā qùnián qiūtiān chūshēng de.",
+        "translations": {
+          "vi": "Con bé sinh vào mùa thu năm ngoái.",
+          "en": "She was born last autumn."
+        }
+      }
+    },
+    {
+      "word": "过",
+      "type": "động từ",
+      "pronunciation": "guò",
+      "translations": {
+        "vi": "ăn (mừng), trải qua",
+        "en": "to spend (time); to celebrate"
+      },
+      "example": {
+        "text": "刚过完一岁生日。",
+        "pronunciation": "Gāng guòwán yí suì shēngrì.",
+        "translations": {
+          "vi": "Vừa ăn mừng sinh nhật một tuổi xong.",
+          "en": "Just finished celebrating her first birthday."
+        }
+      }
+    },
+    {
+      "word": "鸟",
+      "type": "danh từ",
+      "pronunciation": "niǎo",
+      "translations": {
+        "vi": "chim",
+        "en": "bird"
+      },
+      "example": {
+        "text": "她就喜欢听她爸爸学鸟叫。",
+        "pronunciation": "Tā jiù xǐhuan tīng tā bàba xué niǎo jiào.",
+        "translations": {
+          "vi": "Con bé chỉ thích nghe bố nó bắt chước tiếng chim kêu.",
+          "en": "She just likes listening to her dad imitate bird calls."
+        }
+      }
+    },
+    {
+      "word": "哭",
+      "type": "động từ",
+      "pronunciation": "kū",
+      "translations": {
+        "vi": "khóc",
+        "en": "to cry"
+      },
+      "example": {
+        "text": "哭的时候，只要他爸爸学小鸟叫，她马上就安静下来了。",
+        "pronunciation": "Kū de shíhou, zhǐyào tā bàba xué xiǎoniǎo jiào, tā mǎshàng jiù ānjìng xiàlai le.",
+        "translations": {
+          "vi": "Lúc khóc, chỉ cần bố nó bắt chước tiếng chim kêu, nó liền im lặng ngay.",
+          "en": "When she cries, as long as her dad imitates a bird, she quiets down immediately."
+        }
+      }
+    },
+    {
+      "word": "黄河",
+      "type": "danh từ",
+      "pronunciation": "Huáng Hé",
+      "translations": {
+        "vi": "Hoàng Hà (con sông lớn thứ hai ở Trung Quốc)",
+        "en": "Yellow River"
+      },
+      "example": {
+        "text": "我先去看了黄河。",
+        "pronunciation": "Wǒ xiān qù kànle Huáng Hé.",
+        "translations": {
+          "vi": "Tôi đi xem sông Hoàng Hà trước.",
+          "en": "I went to see the Yellow River first."
+        }
+      }
+    },
+    {
+      "word": "船",
+      "type": "danh từ",
+      "pronunciation": "chuán",
+      "translations": {
+        "vi": "thuyền, tàu",
+        "en": "boat; ship"
+      },
+      "example": {
+        "text": "我坐在船上，一边看一边照相。",
+        "pronunciation": "Wǒ zuò zài chuán shang, yìbiān kàn yìbiān zhàoxiàng.",
+        "translations": {
+          "vi": "Tôi ngồi trên thuyền, vừa ngắm vừa chụp ảnh.",
+          "en": "I sat on the boat, looking and taking photos at the same time."
+        }
+      }
+    },
+    {
+      "word": "经过",
+      "type": "động từ",
+      "pronunciation": "jīngguò",
+      "translations": {
+        "vi": "đi ngang qua",
+        "en": "to pass by; to go through"
+      },
+      "example": {
+        "text": "一路上经过了很多地方。",
+        "pronunciation": "Yílù shang jīngguò le hěn duō dìfang.",
+        "translations": {
+          "vi": "Trên đường đi đã đi ngang qua rất nhiều nơi.",
+          "en": "Passed by many places along the way."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "趋向补语的引申义",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, bổ ngữ chỉ phương hướng có thể được dùng sau động từ hoặc tính từ và mang nghĩa khác.\n1. Động từ + “出来” biểu thị từ không đến có, nảy sinh sự vật mới. \n2. Động từ + “出来” cũng biểu thị sự phân biệt, nhận biết, từ ẩn đến hiện. \n3. Một số tính từ hoặc động từ + “下来” biểu thị sự thay đổi trạng thái từ động sang tĩnh, từ mạnh sang yếu, từ nhanh sang chậm.\n4. Động từ + “起来” biểu thị hồi ức đã có kết quả (nhớ lại được điều gì đó).",
+        "en": "In Chinese, directional complements usually follow verbs or adjectives to indicate extended meanings.\n1. Verb + “出来”: indicates emergence of something new from nothing. E.g., Can you write this character?\n2. Verb + “出来”: indicates recognition or identification. E.g., Didn't you recognize him? He is Xiaogang.\n3. Adjective/Verb + “下来”: indicates a change from moving to static, strong to weak, or fast to slow. E.g., She quiets down immediately.\n4. Verb + “起来”: indicates successful recollection. E.g., Do you remember who I am?"
+      },
+      "examples": [
+        {
+          "text": "朋友想出来一个学汉语的好办法。",
+          "pronunciation": "Péngyou xiǎng chūlai yí ge xué Hànyǔ de hǎo bànfǎ.",
+          "translations": {
+            "vi": "Bạn tôi nghĩ ra một cách hay để học tiếng Trung.",
+            "en": "My friend came up with a good way to learn Chinese."
+          }
+        },
+        {
+          "text": "我看出来了，这是二年级的那个女孩子。",
+          "pronunciation": "Wǒ kàn chūlai le, zhè shì èrniánjí de nàge nǚháizi.",
+          "translations": {
+            "vi": "Tôi nhận ra rồi, đây là cô bé học lớp hai đó.",
+            "en": "I recognized her, this is that girl from the second grade."
+          }
+        },
+        {
+          "text": "天黑下来了，孩子们要回家了。",
+          "pronunciation": "Tiān hēi xiàlai le, háizimen yào huí jiā le.",
+          "translations": {
+            "vi": "Trời tối dần rồi, bọn trẻ phải về nhà thôi.",
+            "en": "It's getting dark, the children need to go home."
+          }
+        },
+        {
+          "text": "对不起，我想不起来你的名字了。",
+          "pronunciation": "Duìbuqǐ, wǒ xiǎng bu qǐlai nǐ de míngzi le.",
+          "translations": {
+            "vi": "Xin lỗi, tôi không nhớ ra tên của bạn nữa.",
+            "en": "Sorry, I can't remember your name."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "“使”“叫”“让”",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, 使, 叫 và 让 được dùng kết hợp với thành phần kiêm ngữ đứng sau (chỉ đối tượng nào đó) để diễn tả ý *khiến cho*. Về cơ bản, ba từ này có nghĩa giống nhau nhưng 使 thường được dùng trong văn viết còn 叫 thường được dùng trong văn nói.",
+        "en": "In Chinese, 使, 叫, and 让 are used in pivotal sentences to indicate \"make\" or \"let\". Generally, they have similar meanings, but 使 is often used in written language, while 叫 is used in spoken language."
+      },
+      "examples": [
+        {
+          "text": "读书使我快乐。",
+          "pronunciation": "Dú shū shǐ wǒ kuàilè.",
+          "translations": {
+            "vi": "Đọc sách khiến tôi vui vẻ.",
+            "en": "Reading makes me happy."
+          }
+        },
+        {
+          "text": "考试让我很紧张。",
+          "pronunciation": "Kǎoshì ràng wǒ hěn jǐnzhāng.",
+          "translations": {
+            "vi": "Thi cử làm tôi rất căng thẳng.",
+            "en": "Exams make me very nervous."
+          }
+        },
+        {
+          "text": "穿运动服让他更年轻。",
+          "pronunciation": "Chuān yùndòngfú ràng tā gèng niánqīng.",
+          "translations": {
+            "vi": "Mặc đồ thể thao khiến anh ấy trẻ hơn.",
+            "en": "Wearing sportswear makes him look younger."
+          }
+        },
+        {
+          "text": "我想快点儿把照片发给大家，叫朋友们也高兴高兴。",
+          "pronunciation": "Wǒ xiǎng kuài diǎnr bǎ zhàopiàn fā gěi dàjiā, jiào péngyoumen yě gāoxìng gāoxìng.",
+          "translations": {
+            "vi": "Tôi muốn gửi ảnh cho mọi người nhanh một chút, để bạn bè cũng vui lây.",
+            "en": "I want to send the photos to everyone quickly to make my friends happy too."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在家",
+        "pronunciation": "Zài jiā",
+        "translations": {
+          "vi": "Ở nhà",
+          "en": "At home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "爸爸：女儿最近喜欢把头发放在耳朵后面，你知道为什么吗？",
+          "pronunciation": "Bàba: Nǚ'ér zuìjìn xǐhuan bǎ tóufa fàng zài ěrduo hòumian, nǐ zhīdào wèishénme ma?",
+          "translations": {
+            "vi": "Bố: Con gái dạo này thích vén tóc ra sau tai, em biết tại sao không?",
+            "en": "Dad: Daughter likes to put her hair behind her ears recently, do you know why?"
+          }
+        },
+        {
+          "text": "妈妈：这样可以使她的脸看上去漂亮一些。",
+          "pronunciation": "Māma: Zhèyàng kěyǐ shǐ tā de liǎn kànshangqu piàoliang yìxiē.",
+          "translations": {
+            "vi": "Mẹ: Như vậy có thể khiến khuôn mặt con bé trông xinh hơn một chút.",
+            "en": "Mom: This can make her face look a bit prettier."
+          }
+        },
+        {
+          "text": "爸爸：我最近觉得她和以前不太一样了。",
+          "pronunciation": "Bàba: Wǒ zuìjìn juéde tā hé yǐqián bú tài yíyàng le.",
+          "translations": {
+            "vi": "Bố: Dạo này anh thấy con bé không giống trước đây lắm.",
+            "en": "Dad: I feel she is not quite the same as before recently."
+          }
+        },
+        {
+          "text": "妈妈：女儿变化不小，她小时候喜欢短头发，像男孩子一样。",
+          "pronunciation": "Māma: Nǚ'ér biànhuà bù xiǎo, tā xiǎoshíhou xǐhuan duǎn tóufa, xiàng nánháizi yíyàng.",
+          "translations": {
+            "vi": "Mẹ: Con gái thay đổi không nhỏ đâu, hồi nhỏ nó thích tóc ngắn, giống như con trai vậy.",
+            "en": "Mom: Daughter has changed a lot. She liked short hair when she was little, just like a boy."
+          }
+        },
+        {
+          "text": "爸爸：我也想起来了。她现在慢慢地开始像个女孩子了。",
+          "pronunciation": "Bàba: Wǒ yě xiǎngqilai le. Tā xiànzài mànman de kāishǐ xiàng ge nǚháizi le.",
+          "translations": {
+            "vi": "Bố: Anh cũng nhớ ra rồi. Bây giờ nó bắt đầu từ từ giống con gái rồi.",
+            "en": "Dad: I remember now too. She is slowly starting to look like a girl now."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在看照片",
+        "pronunciation": "Zài kàn zhàopiàn",
+        "translations": {
+          "vi": "Đang xem ảnh",
+          "en": "Looking at photos"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：上次我们参加骑马比赛的照片，我选了几张洗出来了。",
+          "pronunciation": "Xiǎolì: Shàng cì wǒmen cānjiā qí mǎ bǐsài de zhàopiàn, wǒ xuǎnle jǐ zhāng xǐ chūlai le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Ảnh lần trước chúng ta tham gia cuộc thi cưỡi ngựa, tôi đã chọn vài tấm rửa ra rồi.",
+            "en": "Xiaoli: I selected and developed a few photos from the horse riding competition we participated in last time."
+          }
+        },
+        {
+          "text": "同事：快给我看看。骑得最快的这位是谁？",
+          "pronunciation": "Tóngshì: Kuài gěi wǒ kànkan. Qí de zuì kuài de zhè wèi shì shéi?",
+          "translations": {
+            "vi": "Đồng nghiệp: Mau cho tôi xem nào. Vị cưỡi nhanh nhất này là ai?",
+            "en": "Colleague: Let me see quickly. Who is this person riding the fastest?"
+          }
+        },
+        {
+          "text": "小丽：你没看出来吗？他是小刚啊。",
+          "pronunciation": "Xiǎolì: Nǐ méi kàn chūlai ma? Tā shì Xiǎogāng a.",
+          "translations": {
+            "vi": "Tiểu Lệ: Anh không nhìn ra sao? Cậu ấy là Tiểu Cương đấy.",
+            "en": "Xiaoli: Can't you tell? It's Xiaogang."
+          }
+        },
+        {
+          "text": "同事：怎么看上去跟现在不太一样？",
+          "pronunciation": "Tóngshì: Zěnme kànshangqu gēn xiànzài bú tài yíyàng?",
+          "translations": {
+            "vi": "Đồng nghiệp: Sao trông không giống bây giờ lắm nhỉ?",
+            "en": "Colleague: Why does he look different from now?"
+          }
+        },
+        {
+          "text": "小丽：他上班穿西服、衬衫，比赛的时候穿的是运动服。",
+          "pronunciation": "Xiǎolì: Tā shàngbān chuān xīfú, chènshān, bǐsài de shíhou chuān de shì yùndòngfú.",
+          "translations": {
+            "vi": "Tiểu Lệ: Cậu ấy đi làm mặc âu phục, áo sơ mi, lúc thi đấu thì mặc đồ thể thao.",
+            "en": "Xiaoli: He wears a suit and shirt to work, but wears sportswear during competitions."
+          }
+        },
+        {
+          "text": "同事：他今天穿蓝西服，看上去像40多岁，还是穿运动服让他更年轻。",
+          "pronunciation": "Tóngshì: Tā jīntiān chuān lán xīfú, kànshangqu xiàng sìshí duō suì, háishi chuān yùndòngfú ràng tā gèng niánqīng.",
+          "translations": {
+            "vi": "Đồng nghiệp: Hôm nay cậu ấy mặc âu phục xanh, trông như hơn 40 tuổi, hay là mặc đồ thể thao khiến cậu ấy trẻ hơn.",
+            "en": "Colleague: He is wearing a blue suit today and looks like he's over 40. Wearing sportswear makes him look younger."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在小丽家",
+        "pronunciation": "Zài Xiǎolì jiā",
+        "translations": {
+          "vi": "Tại nhà chị Lệ",
+          "en": "At Xiaoli's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "朋友：我们一年没见面了吧？",
+          "pronunciation": "Péngyou: Wǒmen yì nián méi jiàn miàn le ba?",
+          "translations": {
+            "vi": "Bạn: Chúng ta một năm rồi không gặp nhỉ?",
+            "en": "Friend: We haven't seen each other for a year, right?"
+          }
+        },
+        {
+          "text": "小丽：听说你都有女儿了？她多大了？",
+          "pronunciation": "Xiǎolì: Tīngshuō nǐ dōu yǒu nǚ'ér le? Tā duō dà le?",
+          "translations": {
+            "vi": "Tiểu Lệ: Nghe nói cậu có con gái rồi? Nó bao lớn rồi?",
+            "en": "Xiaoli: I heard you have a daughter now? How old is she?"
+          }
+        },
+        {
+          "text": "朋友：她去年秋天出生的，刚过完一岁生日。",
+          "pronunciation": "Péngyou: Tā qùnián qiūtiān chūshēng de, gāng guòwán yí suì shēngrì.",
+          "translations": {
+            "vi": "Bạn: Nó sinh vào mùa thu năm ngoái, vừa ăn mừng sinh nhật một tuổi xong.",
+            "en": "Friend: She was born last autumn, just finished celebrating her first birthday."
+          }
+        },
+        {
+          "text": "小丽：她喜欢什么？我送给她。",
+          "pronunciation": "Xiǎolì: Tā xǐhuan shénme? Wǒ sòng gěi tā.",
+          "translations": {
+            "vi": "Tiểu Lệ: Nó thích cái gì? Tớ tặng nó.",
+            "en": "Xiaoli: What does she like? I'll give it to her."
+          }
+        },
+        {
+          "text": "朋友：她就喜欢听她爸爸学鸟叫。哭的时候，只要他爸爸学小鸟叫，她马上就安静下来了。",
+          "pronunciation": "Péngyou: Tā jiù xǐhuan tīng tā bàba xué niǎo jiào. Kū de shíhou, zhǐyào tā bàba xué xiǎoniǎo jiào, tā mǎshàng jiù ānjìng xiàlai le.",
+          "translations": {
+            "vi": "Bạn: Nó chỉ thích nghe bố nó bắt chước tiếng chim kêu. Lúc khóc, chỉ cần bố nó bắt chước tiếng chim kêu, nó liền im lặng ngay.",
+            "en": "Friend: She just likes listening to her dad imitate bird calls. When she cries, as long as her dad imitates a bird, she quiets down immediately."
+          }
+        },
+        {
+          "text": "小丽：啊？这个礼物我没办法送。",
+          "pronunciation": "Xiǎolì: À? Zhège lǐwù wǒ méi bànfǎ sòng.",
+          "translations": {
+            "vi": "Tiểu Lệ: Hả? Món quà này tớ không có cách nào tặng được.",
+            "en": "Xiaoli: Huh? I can't give this gift."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "难忘的旅游",
+        "pronunciation": "Nánwàng de lǚyóu",
+        "translations": {
+          "vi": "Chuyến du lịch khó quên",
+          "en": "Unforgettable trip"
+        }
+      },
+      "sentences": [
+        {
+          "text": "这次旅游，我去了不少地方，每个地方都让我非常难忘。",
+          "pronunciation": "Zhè cì lǚyóu, wǒ qù le bù shǎo dìfang, měi ge dìfang dōu ràng wǒ fēicháng nánwàng.",
+          "translations": {
+            "vi": "Chuyến du lịch lần này, tôi đã đi không ít nơi, nơi nào cũng khiến tôi vô cùng khó quên.",
+            "en": "On this trip, I went to quite a few places, and every place made me very unforgettable."
+          }
+        },
+        {
+          "text": "我先去看了黄河，黄河是中国有名的大河，我坐在船上，一边看一边照相。",
+          "pronunciation": "Wǒ xiān qù kànle Huáng Hé, Huáng Hé shì Zhōngguó yǒumíng de dà hé, wǒ zuò zài chuán shang, yìbiān kàn yìbiān zhàoxiàng.",
+          "translations": {
+            "vi": "Tôi đi xem sông Hoàng Hà trước, Hoàng Hà là con sông lớn nổi tiếng của Trung Quốc, tôi ngồi trên thuyền, vừa ngắm vừa chụp ảnh.",
+            "en": "I went to see the Yellow River first. The Yellow River is a famous big river in China. I sat on the boat, looking and taking photos."
+          }
+        },
+        {
+          "text": "一路上经过了很多地方，每个地方都不一样。",
+          "pronunciation": "Yílù shang jīngguò le hěn duō dìfang, měi ge dìfang dōu bù yíyàng.",
+          "translations": {
+            "vi": "Trên đường đi đã đi ngang qua rất nhiều nơi, mỗi nơi đều không giống nhau.",
+            "en": "I passed by many places along the way, and every place was different."
+          }
+        },
+        {
+          "text": "我想快点儿把照片发给大家，叫朋友们也高兴高兴。",
+          "pronunciation": "Wǒ xiǎng kuài diǎnr bǎ zhàopiàn fā gěi dàjiā, jiào péngyoumen yě gāoxìng gāoxìng.",
+          "translations": {
+            "vi": "Tôi muốn gửi ảnh cho mọi người nhanh một chút, để bạn bè cũng vui lây.",
+            "en": "I want to send the photos to everyone quickly to make my friends happy too."
+          }
+        }
+      ]
+    }
+  ]
+}

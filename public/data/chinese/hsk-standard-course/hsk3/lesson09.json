@@ -1,0 +1,563 @@
+{
+  "title": {
+    "text": "她的汉语说得跟中国人一样好。",
+    "pronunciation": "Tā de Hànyǔ shuō de gēn Zhōngguórén yíyàng hǎo.",
+    "translations": {
+      "vi": "Cô ấy nói tiếng Trung Quốc hay như người Trung Quốc vậy.",
+      "en": "She speaks Chinese as well as a Chinese person."
+    }
+  },
+  "newWords": [
+    {
+      "word": "中文",
+      "type": "danh từ",
+      "pronunciation": "Zhōngwén",
+      "translations": {
+        "vi": "tiếng Trung Quốc",
+        "en": "Chinese language"
+      },
+      "example": {
+        "text": "马可，你的中文越说越好了！",
+        "pronunciation": "Mǎkě, nǐ de Zhōngwén yuè shuō yuè hǎo le!",
+        "translations": {
+          "vi": "Marco, tiếng Trung của cậu càng nói càng tốt rồi!",
+          "en": "Marco, your Chinese is getting better and better!"
+        }
+      }
+    },
+    {
+      "word": "班",
+      "type": "danh từ",
+      "pronunciation": "bān",
+      "translations": {
+        "vi": "lớp",
+        "en": "class"
+      },
+      "example": {
+        "text": "我们班李静说得更好。",
+        "pronunciation": "Wǒmen bān Lǐ Jìng shuō de gèng hǎo.",
+        "translations": {
+          "vi": "Lý Tịnh lớp chúng tớ nói còn tốt hơn.",
+          "en": "Li Jing in our class speaks even better."
+        }
+      }
+    },
+    {
+      "word": "一样",
+      "type": "tính từ",
+      "pronunciation": "yíyàng",
+      "translations": {
+        "vi": "giống nhau, như nhau",
+        "en": "same; alike"
+      },
+      "example": {
+        "text": "她的汉语说得跟中国人一样好。",
+        "pronunciation": "Tā de Hànyǔ shuō de gēn Zhōngguórén yíyàng hǎo.",
+        "translations": {
+          "vi": "Cô ấy nói tiếng Trung hay như người Trung Quốc vậy.",
+          "en": "She speaks Chinese as well as a Chinese person."
+        }
+      }
+    },
+    {
+      "word": "最后",
+      "type": "danh từ",
+      "pronunciation": "zuìhòu",
+      "translations": {
+        "vi": "(cái) cuối cùng",
+        "en": "the last; final"
+      },
+      "example": {
+        "text": "这是最后一块。",
+        "pronunciation": "Zhè shì zuìhòu yí kuài.",
+        "translations": {
+          "vi": "Đây là miếng cuối cùng rồi.",
+          "en": "This is the last piece."
+        }
+      }
+    },
+    {
+      "word": "放心",
+      "type": "động từ",
+      "pronunciation": "fàng xīn",
+      "translations": {
+        "vi": "yên tâm",
+        "en": "to be at ease; to rest assured"
+      },
+      "example": {
+        "text": "你放心，我一定不会变胖。",
+        "pronunciation": "Nǐ fàng xīn, wǒ yídìng bú huì biàn pàng.",
+        "translations": {
+          "vi": "Em yên tâm, anh nhất định sẽ không béo lên đâu.",
+          "en": "Don't worry, I definitely won't get fat."
+        }
+      }
+    },
+    {
+      "word": "一定",
+      "type": "phó từ",
+      "pronunciation": "yídìng",
+      "translations": {
+        "vi": "nhất định, chắc chắn",
+        "en": "definitely; certainly"
+      },
+      "example": {
+        "text": "你放心，我一定不会变胖。",
+        "pronunciation": "Nǐ fàng xīn, wǒ yídìng bú huì biàn pàng.",
+        "translations": {
+          "vi": "Em yên tâm, anh nhất định sẽ không béo lên đâu.",
+          "en": "Don't worry, I definitely won't get fat."
+        }
+      }
+    },
+    {
+      "word": "担心",
+      "type": "động từ",
+      "pronunciation": "dān xīn",
+      "translations": {
+        "vi": "lo lắng",
+        "en": "to worry"
+      },
+      "example": {
+        "text": "不用担心，有我呢。",
+        "pronunciation": "Bú yòng dān xīn, yǒu wǒ ne.",
+        "translations": {
+          "vi": "Không cần lo lắng, có anh đây rồi.",
+          "en": "Don't worry, I'm here."
+        }
+      }
+    },
+    {
+      "word": "比较",
+      "type": "phó từ",
+      "pronunciation": "bǐjiào",
+      "translations": {
+        "vi": "tương đối, khá",
+        "en": "fairly; rather; quite"
+      },
+      "example": {
+        "text": "我对这儿比较了解。",
+        "pronunciation": "Wǒ duì zhèr bǐjiào liǎojiě.",
+        "translations": {
+          "vi": "Anh khá hiểu rõ về nơi này.",
+          "en": "I know this place quite well."
+        }
+      }
+    },
+    {
+      "word": "了解",
+      "type": "động từ",
+      "pronunciation": "liǎojiě",
+      "translations": {
+        "vi": "hiểu rõ",
+        "en": "to understand; to know"
+      },
+      "example": {
+        "text": "我对这儿比较了解。",
+        "pronunciation": "Wǒ duì zhèr bǐjiào liǎojiě.",
+        "translations": {
+          "vi": "Anh khá hiểu rõ về nơi này.",
+          "en": "I know this place quite well."
+        }
+      }
+    },
+    {
+      "word": "先",
+      "type": "phó từ",
+      "pronunciation": "xiān",
+      "translations": {
+        "vi": "trước, trước hết",
+        "en": "first"
+      },
+      "example": {
+        "text": "那我们先休息一下，一会儿再爬。",
+        "pronunciation": "Nà wǒmen xiān xiūxi yíxià, yíhuìr zài pá.",
+        "translations": {
+          "vi": "Vậy chúng ta nghỉ một lát trước đã, lát nữa leo tiếp.",
+          "en": "Then let's rest a bit first, and climb again in a while."
+        }
+      }
+    },
+    {
+      "word": "中间",
+      "type": "danh từ",
+      "pronunciation": "zhōngjiān",
+      "translations": {
+        "vi": "giữa, chính giữa",
+        "en": "middle"
+      },
+      "example": {
+        "text": "一会儿我们可以从中间这条路上去。",
+        "pronunciation": "Yíhuìr wǒmen kěyǐ cóng zhōngjiān zhè tiáo lù shàngqu.",
+        "translations": {
+          "vi": "Lát nữa chúng ta có thể đi lên từ con đường ở giữa này.",
+          "en": "In a while we can go up from this middle path."
+        }
+      }
+    },
+    {
+      "word": "参加",
+      "type": "động từ",
+      "pronunciation": "cānjiā",
+      "translations": {
+        "vi": "tham gia",
+        "en": "to participate; to join"
+      },
+      "example": {
+        "text": "下个月的篮球比赛，你能参加吗？",
+        "pronunciation": "Xià ge yuè de lánqiú bǐsài, nǐ néng cānjiā ma?",
+        "translations": {
+          "vi": "Trận đấu bóng rổ tháng sau, cậu có thể tham gia không?",
+          "en": "Can you participate in next month's basketball game?"
+        }
+      }
+    },
+    {
+      "word": "影响",
+      "type": "danh từ",
+      "pronunciation": "yǐngxiǎng",
+      "translations": {
+        "vi": "ảnh hưởng",
+        "en": "influence; effect"
+      },
+      "example": {
+        "text": "一定能参加，一点儿影响也没有。",
+        "pronunciation": "Yídìng néng cānjiā, yìdiǎnr yǐngxiǎng yě méiyǒu.",
+        "translations": {
+          "vi": "Nhất định có thể tham gia, một chút ảnh hưởng cũng không có.",
+          "en": "I can definitely participate, it won't affect me at all."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "越A越B",
+      "descriptions": {
+        "vi": "Cấu trúc “越A越B” diễn tả ý B thay đổi theo sự biến đổi của A.",
+        "en": "The structure “越A越B” indicates that B changes as A changes."
+      },
+      "examples": [
+        {
+          "text": "雨越下越大。",
+          "pronunciation": "Yǔ yuè xià yuè dà.",
+          "translations": {
+            "vi": "Mưa càng rơi càng to.",
+            "en": "The rain is getting heavier and heavier."
+          }
+        },
+        {
+          "text": "你的中文越说越好。",
+          "pronunciation": "Nǐ de Zhōngwén yuè shuō yuè hǎo.",
+          "translations": {
+            "vi": "Tiếng Trung của bạn càng nói càng tốt.",
+            "en": "Your Chinese is getting better and better."
+          }
+        },
+        {
+          "text": "越往南，天气越热。",
+          "pronunciation": "Yuè wǎng nán, tiānqì yuè rè.",
+          "translations": {
+            "vi": "Càng đi về phía nam, thời tiết càng nóng.",
+            "en": "The further south you go, the hotter the weather gets."
+          }
+        },
+        {
+          "text": "山越高，路越难走。",
+          "pronunciation": "Shān yuè gāo, lù yuè nán zǒu.",
+          "translations": {
+            "vi": "Núi càng cao, đường càng khó đi.",
+            "en": "The higher the mountain, the harder the road."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "比较句1：A跟B一样（+形容词)",
+      "descriptions": {
+        "vi": "Cấu trúc “A 跟 B 一样” diễn tả ý A và B giống nhau. Nếu muốn chỉ rõ khía cạnh được so sánh, ta thêm tính từ vào sau cấu trúc này, chẳng hạn 一样大 có nghĩa là kích cỡ như nhau. Để có dạng phủ định, ta thêm 不 vào trước 一样.",
+        "en": "The structure “A 跟 B 一样” indicates that A and B are the same. An adjective can be added after it to specify the aspect of comparison, e.g., 一样大 means the same size. For negation, add 不 before 一样."
+      },
+      "examples": [
+        {
+          "text": "这本书跟那本书一样。",
+          "pronunciation": "Zhè běn shū gēn nà běn shū yíyàng.",
+          "translations": {
+            "vi": "Quyển sách này giống quyển sách kia.",
+            "en": "This book is the same as that one."
+          }
+        },
+        {
+          "text": "儿子跟爸爸一样高。",
+          "pronunciation": "Érzi gēn bàba yíyàng gāo.",
+          "translations": {
+            "vi": "Con trai cao bằng bố.",
+            "en": "The son is as tall as the father."
+          }
+        },
+        {
+          "text": "这辆车的颜色跟那辆车不一样。",
+          "pronunciation": "Zhè liàng chē de yánsè gēn nà liàng chē bù yíyàng.",
+          "translations": {
+            "vi": "Màu của chiếc xe này không giống chiếc xe kia.",
+            "en": "The color of this car is different from that one."
+          }
+        },
+        {
+          "text": "她的汉语说得跟中国人一样好。",
+          "pronunciation": "Tā de Hànyǔ shuō de gēn Zhōngguórén yíyàng hǎo.",
+          "translations": {
+            "vi": "Cô ấy nói tiếng Trung hay như người Trung Quốc vậy.",
+            "en": "She speaks Chinese as well as a Chinese person."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在教室",
+        "pronunciation": "Zài jiàoshì",
+        "translations": {
+          "vi": "Trong lớp học",
+          "en": "In the classroom"
+        }
+      },
+      "sentences": [
+        {
+          "text": "大山：马可，你的中文越说越好了！",
+          "pronunciation": "Dàshān: Mǎkě, nǐ de Zhōngwén yuè shuō yuè hǎo le!",
+          "translations": {
+            "vi": "Đại Sơn: Marco, tiếng Trung của cậu càng nói càng tốt rồi!",
+            "en": "Dashan: Marco, your Chinese is getting better and better!"
+          }
+        },
+        {
+          "text": "马可：哪里哪里，我们班李静说得更好。",
+          "pronunciation": "Mǎkě: Nǎli nǎli, wǒmen bān Lǐ Jìng shuō de gèng hǎo.",
+          "translations": {
+            "vi": "Marco: Đâu có đâu có, Lý Tịnh lớp tớ nói còn tốt hơn.",
+            "en": "Marco: You flatter me. Li Jing in our class speaks even better."
+          }
+        },
+        {
+          "text": "大山：怎么好？",
+          "pronunciation": "Dàshān: Zěnme hǎo?",
+          "translations": {
+            "vi": "Đại Sơn: Tốt thế nào?",
+            "en": "Dashan: How good?"
+          }
+        },
+        {
+          "text": "马可：她的汉语说得跟中国人一样好。",
+          "pronunciation": "Mǎkě: Tā de Hànyǔ shuō de gēn Zhōngguórén yíyàng hǎo.",
+          "translations": {
+            "vi": "Marco: Cô ấy nói tiếng Trung hay như người Trung Quốc vậy.",
+            "en": "Marco: She speaks Chinese as well as a Chinese person."
+          }
+        },
+        {
+          "text": "大山：李静？我怎么没听说过这个名字？",
+          "pronunciation": "Dàshān: Lǐ Jìng? Wǒ zěnme méi tīngshuō guo zhège míngzi?",
+          "translations": {
+            "vi": "Đại Sơn: Lý Tịnh? Sao tớ chưa nghe qua cái tên này nhỉ?",
+            "en": "Dashan: Li Jing? Why haven't I heard of this name?"
+          }
+        },
+        {
+          "text": "马可：她是我们的汉语老师。",
+          "pronunciation": "Mǎkě: Tā shì wǒmen de Hànyǔ lǎoshī.",
+          "translations": {
+            "vi": "Marco: Cô ấy là giáo viên tiếng Trung của chúng tớ.",
+            "en": "Marco: She is our Chinese teacher."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在蛋糕店",
+        "pronunciation": "Zài dàngāo diàn",
+        "translations": {
+          "vi": "Ở cửa hàng bánh kem",
+          "en": "At the cake shop"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：别吃了，你已经吃了三块蛋糕了。",
+          "pronunciation": "Xiǎolì: Bié chī le, nǐ yǐjīng chīle sān kuài dàngāo le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Đừng ăn nữa, anh đã ăn 3 miếng bánh kem rồi.",
+            "en": "Xiaoli: Don't eat anymore, you've already eaten three pieces of cake."
+          }
+        },
+        {
+          "text": "小刚：这是最后一块。",
+          "pronunciation": "Xiǎogāng: Zhè shì zuìhòu yí kuài.",
+          "translations": {
+            "vi": "Tiểu Cương: Đây là miếng cuối cùng.",
+            "en": "Xiaogang: This is the last piece."
+          }
+        },
+        {
+          "text": "小丽：你总是吃甜的东西，会越吃越胖。",
+          "pronunciation": "Xiǎolì: Nǐ zǒngshì chī tián de dōngxi, huì yuè chī yuè pàng.",
+          "translations": {
+            "vi": "Tiểu Lệ: Anh lúc nào cũng ăn đồ ngọt, sẽ càng ăn càng béo đấy.",
+            "en": "Xiaoli: You always eat sweet things, you'll get fatter and fatter."
+          }
+        },
+        {
+          "text": "小刚：你放心，我一定不会变胖。",
+          "pronunciation": "Xiǎogāng: Nǐ fàng xīn, wǒ yídìng bú huì biàn pàng.",
+          "translations": {
+            "vi": "Tiểu Cương: Em yên tâm, anh nhất định sẽ không béo lên đâu.",
+            "en": "Xiaogang: Don't worry, I definitely won't get fat."
+          }
+        },
+        {
+          "text": "小丽：为什么？",
+          "pronunciation": "Xiǎolì: Wèishénme?",
+          "translations": {
+            "vi": "Tiểu Lệ: Tại sao?",
+            "en": "Xiaoli: Why?"
+          }
+        },
+        {
+          "text": "小刚：我们家的人都很瘦，吃不胖。",
+          "pronunciation": "Xiǎogāng: Wǒmen jiā de rén dōu hěn shòu, chī bú pàng.",
+          "translations": {
+            "vi": "Tiểu Cương: Người nhà anh đều rất gầy, ăn không béo được.",
+            "en": "Xiaogang: Everyone in my family is very thin, we don't get fat from eating."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在山上",
+        "pronunciation": "Zài shān shang",
+        "translations": {
+          "vi": "Ở trên núi",
+          "en": "On the mountain"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：我有点儿害怕。",
+          "pronunciation": "Xiǎolì: Wǒ yǒudiǎnr hàipà.",
+          "translations": {
+            "vi": "Tiểu Lệ: Em hơi sợ.",
+            "en": "Xiaoli: I'm a little scared."
+          }
+        },
+        {
+          "text": "小刚：怎么了？",
+          "pronunciation": "Xiǎogāng: Zěnme le?",
+          "translations": {
+            "vi": "Tiểu Cương: Sao vậy?",
+            "en": "Xiaogang: What's wrong?"
+          }
+        },
+        {
+          "text": "小丽：山越高，路越难走。我也越爬越冷。",
+          "pronunciation": "Xiǎolì: Shān yuè gāo, lù yuè nán zǒu. Wǒ yě yuè pá yuè lěng.",
+          "translations": {
+            "vi": "Tiểu Lệ: Núi càng cao, đường càng khó đi. Em cũng càng leo càng lạnh.",
+            "en": "Xiaoli: The higher the mountain, the harder the road. I'm also getting colder as I climb."
+          }
+        },
+        {
+          "text": "小刚：不用担心，有我呢，我对这儿比较了解。",
+          "pronunciation": "Xiǎogāng: Bú yòng dān xīn, yǒu wǒ ne, wǒ duì zhèr bǐjiào liǎojiě.",
+          "translations": {
+            "vi": "Tiểu Cương: Không cần lo lắng, có anh đây rồi, anh khá hiểu rõ về nơi này.",
+            "en": "Xiaogang: Don't worry, I'm here. I know this place quite well."
+          }
+        },
+        {
+          "text": "小丽：那我们先休息一下，一会儿再爬。",
+          "pronunciation": "Xiǎolì: Nà wǒmen xiān xiūxi yíxià, yíhuìr zài pá.",
+          "translations": {
+            "vi": "Tiểu Lệ: Vậy chúng ta nghỉ một lát trước đã, lát nữa leo tiếp.",
+            "en": "Xiaoli: Then let's rest a bit first, and climb again in a while."
+          }
+        },
+        {
+          "text": "小刚：好，一会儿我们可以从中间这条路上去。",
+          "pronunciation": "Xiǎogāng: Hǎo, yíhuìr wǒmen kěyǐ cóng zhōngjiān zhè tiáo lù shàngqu.",
+          "translations": {
+            "vi": "Tiểu Cương: Được, lát nữa chúng ta có thể đi lên từ con đường ở giữa này.",
+            "en": "Xiaogang: Okay, in a while we can go up from this middle path."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "在小明家",
+        "pronunciation": "Zài Xiǎomíng jiā",
+        "translations": {
+          "vi": "Tại nhà bạn Minh",
+          "en": "At Xiaoming's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同学：小明，你的眼睛怎么跟大熊猫一样了？",
+          "pronunciation": "Tóngxué: Xiǎomíng, nǐ de yǎnjing zěnme gēn dà xióngmāo yíyàng le?",
+          "translations": {
+            "vi": "Bạn học: Tiểu Minh, mắt cậu sao lại giống gấu trúc thế kia?",
+            "en": "Classmate: Xiaoming, why do your eyes look like a panda's?"
+          }
+        },
+        {
+          "text": "小明：我这几天脚疼，没休息好。",
+          "pronunciation": "Xiǎomíng: Wǒ zhè jǐ tiān jiǎo téng, méi xiūxi hǎo.",
+          "translations": {
+            "vi": "Tiểu Minh: Mấy hôm nay chân tớ đau, không nghỉ ngơi tốt.",
+            "en": "Xiaoming: My feet have been hurting these past few days, I didn't rest well."
+          }
+        },
+        {
+          "text": "同学：去医院了吗？医生说什么？",
+          "pronunciation": "Tóngxué: Qù yīyuàn le ma? Yīshēng shuō shénme?",
+          "translations": {
+            "vi": "Bạn học: Đi bệnh viện chưa? Bác sĩ nói sao?",
+            "en": "Classmate: Did you go to the hospital? What did the doctor say?"
+          }
+        },
+        {
+          "text": "小明：他让我多休息。休息得越多，好得越快。",
+          "pronunciation": "Xiǎomíng: Tā ràng wǒ duō xiūxi. Xiūxi de yuè duō, hǎo de yuè kuài.",
+          "translations": {
+            "vi": "Tiểu Minh: Ông ấy bảo tớ nghỉ ngơi nhiều. Nghỉ ngơi càng nhiều, khỏi càng nhanh.",
+            "en": "Xiaoming: He told me to rest more. The more I rest, the faster I'll get better."
+          }
+        },
+        {
+          "text": "同学：下个月的篮球比赛，你能参加吗？",
+          "pronunciation": "Tóngxué: Xià ge yuè de lánqiú bǐsài, nǐ néng cānjiā ma?",
+          "translations": {
+            "vi": "Bạn học: Trận đấu bóng rổ tháng sau, cậu có thể tham gia không?",
+            "en": "Classmate: Can you participate in next month's basketball game?"
+          }
+        },
+        {
+          "text": "小明：一定能参加，一点儿影响也没有。",
+          "pronunciation": "Xiǎomíng: Yídìng néng cānjiā, yìdiǎnr yǐngxiǎng yě méiyǒu.",
+          "translations": {
+            "vi": "Tiểu Minh: Nhất định có thể tham gia, một chút ảnh hưởng cũng không có.",
+            "en": "Xiaoming: I can definitely participate, it won't affect me at all."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "title": {
+    "text": "谁都有办法看好你的“病”。",
+    "pronunciation": "Shéi dōu yǒu bànfǎ kànhǎo nǐ de “bìng”.",
+    "translations": {
+      "vi": "Ai cũng có cách chữa khỏi \"bệnh\" của em.",
+      "en": "Everyone has a way to cure your \"illness\"."
+    }
+  },
+  "newWords": [
+    {
+      "word": "请假",
+      "type": "động từ",
+      "pronunciation": "qǐng jià",
+      "translations": {
+        "vi": "xin nghỉ phép",
+        "en": "to ask for leave"
+      },
+      "example": {
+        "text": "周经理，下个星期我可以请几天假吗？",
+        "pronunciation": "Zhōu jīnglǐ, xià ge xīngqī wǒ kěyǐ qǐng jǐ tiān jià ma?",
+        "translations": {
+          "vi": "Giám đốc Chu, tuần sau tôi có thể xin nghỉ vài ngày không?",
+          "en": "Manager Zhou, can I ask for a few days off next week?"
+        }
+      }
+    },
+    {
+      "word": "一共",
+      "type": "phó từ",
+      "pronunciation": "yígòng",
+      "translations": {
+        "vi": "tổng cộng",
+        "en": "in total"
+      },
+      "example": {
+        "text": "你一共想请几天假？",
+        "pronunciation": "Nǐ yígòng xiǎng qǐng jǐ tiān jià?",
+        "translations": {
+          "vi": "Cô muốn xin nghỉ tổng cộng mấy ngày?",
+          "en": "How many days do you want to take off in total?"
+        }
+      }
+    },
+    {
+      "word": "邻居",
+      "type": "danh từ",
+      "pronunciation": "línjū",
+      "translations": {
+        "vi": "láng giềng, hàng xóm",
+        "en": "neighbor"
+      },
+      "example": {
+        "text": "我们过去是邻居，后来是大学同学。",
+        "pronunciation": "Wǒmen guòqù shì línjū, hòulái shì dàxué tóngxué.",
+        "translations": {
+          "vi": "Chúng tôi trước đây là hàng xóm, sau đó là bạn đại học.",
+          "en": "We used to be neighbors, and later were college classmates."
+        }
+      }
+    },
+    {
+      "word": "后来",
+      "type": "danh từ",
+      "pronunciation": "hòulái",
+      "translations": {
+        "vi": "sau này, sau đó",
+        "en": "later; afterwards"
+      },
+      "example": {
+        "text": "我们过去是邻居，后来是大学同学。",
+        "pronunciation": "Wǒmen guòqù shì línjū, hòulái shì dàxué tóngxué.",
+        "translations": {
+          "vi": "Chúng tôi trước đây là hàng xóm, sau đó là bạn đại học.",
+          "en": "We used to be neighbors, and later were college classmates."
+        }
+      }
+    },
+    {
+      "word": "爱好",
+      "type": "danh từ",
+      "pronunciation": "àihào",
+      "translations": {
+        "vi": "sở thích",
+        "en": "hobby; interest"
+      },
+      "example": {
+        "text": "他有很多爱好，唱歌、画画儿、踢足球，什么都会。",
+        "pronunciation": "Tā yǒu hěn duō àihào, chàng gē, huà huàr, tī zúqiú, shénme dōu huì.",
+        "translations": {
+          "vi": "Anh ấy có rất nhiều sở thích, hát, vẽ, đá bóng, cái gì cũng biết.",
+          "en": "He has many hobbies: singing, painting, playing soccer; he can do everything."
+        }
+      }
+    },
+    {
+      "word": "办法",
+      "type": "danh từ",
+      "pronunciation": "bànfǎ",
+      "translations": {
+        "vi": "cách, biện pháp",
+        "en": "way; approach"
+      },
+      "example": {
+        "text": "不用去医院，谁都有办法看好你的“病”。",
+        "pronunciation": "Bú yòng qù yīyuàn, shéi dōu yǒu bànfǎ kànhǎo nǐ de “bìng”.",
+        "translations": {
+          "vi": "Không cần đi bệnh viện, ai cũng có cách chữa khỏi \"bệnh\" của em.",
+          "en": "No need to go to the hospital, everyone has a way to cure your \"illness\"."
+        }
+      }
+    },
+    {
+      "word": "饱",
+      "type": "tính từ",
+      "pronunciation": "bǎo",
+      "translations": {
+        "vi": "no",
+        "en": "full (from eating)"
+      },
+      "example": {
+        "text": "但是你吃饱了就睡。",
+        "pronunciation": "Dànshì nǐ chī bǎo le jiù shuì.",
+        "translations": {
+          "vi": "Nhưng em ăn no xong là ngủ.",
+          "en": "But you sleep right after you get full."
+        }
+      }
+    },
+    {
+      "word": "为了",
+      "type": "giới từ",
+      "pronunciation": "wèile",
+      "translations": {
+        "vi": "để, vì",
+        "en": "for the sake of"
+      },
+      "example": {
+        "text": "为了健康，我真应该多锻炼锻炼了。",
+        "pronunciation": "Wèile jiànkāng, wǒ zhēn yīnggāi duō duànliàn duànliàn le.",
+        "translations": {
+          "vi": "Vì sức khỏe, tôi thật sự nên tập thể dục nhiều hơn.",
+          "en": "For the sake of health, I really should exercise more."
+        }
+      }
+    },
+    {
+      "word": "决定",
+      "type": "động từ",
+      "pronunciation": "juédìng",
+      "translations": {
+        "vi": "quyết định",
+        "en": "to decide"
+      },
+      "example": {
+        "text": "从明天起，我决定每天去长跑。",
+        "pronunciation": "Cóng míngtiān qǐ, wǒ juédìng měi tiān qù chángpǎo.",
+        "translations": {
+          "vi": "Từ ngày mai, tôi quyết định mỗi ngày sẽ đi chạy đường dài.",
+          "en": "Starting tomorrow, I decide to go for a long run every day."
+        }
+      }
+    },
+    {
+      "word": "选择",
+      "type": "động từ",
+      "pronunciation": "xuǎnzé",
+      "translations": {
+        "vi": "lựa chọn",
+        "en": "to choose; to select"
+      },
+      "example": {
+        "text": "第一，要选择“对”的时间。",
+        "pronunciation": "Dì-yī, yào xuǎnzé “duì” de shíjiān.",
+        "translations": {
+          "vi": "Thứ nhất, cần chọn thời gian \"đúng\".",
+          "en": "First, you need to choose the \"right\" time."
+        }
+      }
+    },
+    {
+      "word": "冬(天)",
+      "type": "danh từ",
+      "pronunciation": "dōng (tiān)",
+      "translations": {
+        "vi": "(mùa) đông",
+        "en": "winter"
+      },
+      "example": {
+        "text": "一般来说，早上9点是最好的时间，冬天要再晚一些。",
+        "pronunciation": "Yìbān láishuō, zǎoshang jiǔ diǎn shì zuì hǎo de shíjiān, dōngtiān yào zài wǎn yìxiē.",
+        "translations": {
+          "vi": "Nói chung, 9 giờ sáng là thời gian tốt nhất, mùa đông cần muộn hơn một chút.",
+          "en": "Generally speaking, 9 am is the best time, and it should be a bit later in winter."
+        }
+      }
+    },
+    {
+      "word": "必须",
+      "type": "phó từ",
+      "pronunciation": "bìxū",
+      "translations": {
+        "vi": "cần phải, bắt buộc",
+        "en": "must"
+      },
+      "example": {
+        "text": "第三，必须要根据自己的健康情况运动。",
+        "pronunciation": "Dì-sān, bìxū yào gēnjù zìjǐ de jiànkāng qíngkuàng yùndòng.",
+        "translations": {
+          "vi": "Thứ ba, cần phải vận động dựa theo tình trạng sức khỏe của bản thân.",
+          "en": "Third, you must exercise according to your own health condition."
+        }
+      }
+    },
+    {
+      "word": "根据",
+      "type": "giới từ",
+      "pronunciation": "gēnjù",
+      "translations": {
+        "vi": "căn cứ vào, dựa vào",
+        "en": "according to"
+      },
+      "example": {
+        "text": "第三，必须要根据自己的健康情况运动。",
+        "pronunciation": "Dì-sān, bìxū yào gēnjù zìjǐ de jiànkāng qíngkuàng yùndòng.",
+        "translations": {
+          "vi": "Thứ ba, cần phải vận động dựa theo tình trạng sức khỏe của bản thân.",
+          "en": "Third, you must exercise according to your own health condition."
+        }
+      }
+    },
+    {
+      "word": "情况",
+      "type": "danh từ",
+      "pronunciation": "qíngkuàng",
+      "translations": {
+        "vi": "tình hình, tình trạng",
+        "en": "condition; situation"
+      },
+      "example": {
+        "text": "第三，必须要根据自己的健康情况运动。",
+        "pronunciation": "Dì-sān, bìxū yào gēnjù zìjǐ de jiànkāng qíngkuàng yùndòng.",
+        "translations": {
+          "vi": "Thứ ba, cần phải vận động dựa theo tình trạng sức khỏe của bản thân.",
+          "en": "Third, you must exercise according to your own health condition."
+        }
+      }
+    },
+    {
+      "word": "口",
+      "type": "danh từ",
+      "pronunciation": "kǒu",
+      "translations": {
+        "vi": "miệng",
+        "en": "mouth"
+      },
+      "example": {
+        "text": "还要记得刚运动完口渴的时候，不要马上喝水。",
+        "pronunciation": "Hái yào jìde gāng yùndòng wán kǒu kě de shíhou, búyào mǎshàng hē shuǐ.",
+        "translations": {
+          "vi": "Còn phải nhớ khi vừa vận động xong khát nước, đừng uống nước ngay.",
+          "en": "Also remember not to drink water immediately when you are thirsty right after exercising."
+        }
+      }
+    },
+    {
+      "word": "渴",
+      "type": "tính từ",
+      "pronunciation": "kě",
+      "translations": {
+        "vi": "khát",
+        "en": "thirsty"
+      },
+      "example": {
+        "text": "还要记得刚运动完口渴的时候，不要马上喝水。",
+        "pronunciation": "Hái yào jìde gāng yùndòng wán kǒu kě de shíhou, búyào mǎshàng hē shuǐ.",
+        "translations": {
+          "vi": "Còn phải nhớ khi vừa vận động xong khát nước, đừng uống nước ngay.",
+          "en": "Also remember not to drink water immediately when you are thirsty right after exercising."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "双音节动词重叠",
+      "descriptions": {
+        "vi": "Người ta lặp lại động từ có hai âm tiết với hình thức là ABAB (chẳng hạn 休息休息) khi muốn diễn tả hành động xảy ra trong thời gian ngắn hoặc cho biết ai đó thử làm việc gì. Ví dụ: 介绍介绍 (giới thiệu một chút), 帮助帮助 (giúp đỡ một chút).",
+        "en": "Disyllabic verbs are reduplicated in the form ABAB (e.g., 休息休息) to indicate that an action lasts for a short time or to indicate an attempt. Examples: 介绍介绍 (introduce briefly), 帮助帮助 (help a little)."
+      },
+      "examples": [
+        {
+          "text": "他是谁？你介绍我们认识认识吧。",
+          "pronunciation": "Tā shì shéi? Nǐ jièshào wǒmen rènshi rènshi ba.",
+          "translations": {
+            "vi": "Anh ấy là ai? Bạn giới thiệu cho chúng tôi làm quen chút đi.",
+            "en": "Who is he? Introduce us so we can get to know each other."
+          }
+        },
+        {
+          "text": "他是新来的，有时间你帮助帮助他吧。",
+          "pronunciation": "Tā shì xīn lái de, yǒu shíjiān nǐ bāngzhù bāngzhù tā ba.",
+          "translations": {
+            "vi": "Cậu ấy là người mới, có thời gian bạn giúp đỡ cậu ấy một chút nhé.",
+            "en": "He is new here, please help him out when you have time."
+          }
+        },
+        {
+          "text": "这是本新书，你学习学习吧。",
+          "pronunciation": "Zhè shì běn xīn shū, nǐ xuéxí xuéxí ba.",
+          "translations": {
+            "vi": "Đây là sách mới, bạn học thử đi.",
+            "en": "This is a new book, you should study it."
+          }
+        },
+        {
+          "text": "我真应该多锻炼锻炼了。",
+          "pronunciation": "Wǒ zhēn yīnggāi duō duànliàn duànliàn le.",
+          "translations": {
+            "vi": "Tôi thật sự nên tập thể dục nhiều hơn rồi.",
+            "en": "I really should exercise more."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "疑问代词活用3",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, các đại từ nghi vấn như 谁, 什么, 怎么 và 哪儿 có thể được dùng để thay thế mọi đối tượng trong một phạm vi nào đó, cho biết tất cả các đối tượng này đều có đặc điểm giống nhau, không có trường hợp ngoại lệ. Thường dùng với \"都\" hoặc \"也\".",
+        "en": "In Chinese, interrogative pronouns such as 谁, 什么, 怎么, and 哪儿 can be used to refer to every object within a certain scope, indicating that all these objects share the same characteristic without exception. Often used with \"都\" or \"也\"."
+      },
+      "examples": [
+        {
+          "text": "谁都喜欢小丽。",
+          "pronunciation": "Shéi dōu xǐhuan Xiǎolì.",
+          "translations": {
+            "vi": "Ai cũng thích Tiểu Lệ.",
+            "en": "Everyone likes Xiaoli."
+          }
+        },
+        {
+          "text": "小刚什么都喜欢吃。",
+          "pronunciation": "Xiǎogāng shénme dōu xǐhuan chī.",
+          "translations": {
+            "vi": "Tiểu Cương cái gì cũng thích ăn.",
+            "en": "Xiaogang likes to eat everything."
+          }
+        },
+        {
+          "text": "我们怎么去公园都可以。",
+          "pronunciation": "Wǒmen zěnme qù gōngyuán dōu kěyǐ.",
+          "translations": {
+            "vi": "Chúng ta đi công viên bằng cách nào cũng được.",
+            "en": "We can go to the park any way we like."
+          }
+        },
+        {
+          "text": "最近我觉得哪儿都不舒服。",
+          "pronunciation": "Zuìjìn wǒ juéde nǎr dōu bù shūfu.",
+          "translations": {
+            "vi": "Dạo này tôi cảm thấy chỗ nào cũng không khỏe.",
+            "en": "Recently I feel uncomfortable everywhere."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在公司",
+        "pronunciation": "Zài gōngsī",
+        "translations": {
+          "vi": "Trong công ty",
+          "en": "In the company"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：周经理，下个星期我可以请几天假吗？",
+          "pronunciation": "Xiǎolì: Zhōu jīnglǐ, xià ge xīngqī wǒ kěyǐ qǐng jǐ tiān jià ma?",
+          "translations": {
+            "vi": "Tiểu Lệ: Giám đốc Chu, tuần sau tôi có thể xin nghỉ vài ngày được không?",
+            "en": "Xiaoli: Manager Zhou, can I take a few days off next week?"
+          }
+        },
+        {
+          "text": "周明：你有什么事？",
+          "pronunciation": "Zhōu Míng: Nǐ yǒu shénme shì?",
+          "translations": {
+            "vi": "Chu Minh: Cô có việc gì?",
+            "en": "Zhou Ming: What do you need to do?"
+          }
+        },
+        {
+          "text": "小丽：我的一个老朋友结婚，我跟他两年没见了。",
+          "pronunciation": "Xiǎolì: Wǒ de yí ge lǎo péngyou jié hūn, wǒ gēn tā liǎng nián méi jiàn le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Một người bạn cũ của tôi kết hôn, tôi và cậu ấy hai năm rồi không gặp.",
+            "en": "Xiaoli: An old friend of mine is getting married. I haven't seen him for two years."
+          }
+        },
+        {
+          "text": "周明：你一共想请几天假？",
+          "pronunciation": "Zhōu Míng: Nǐ yígòng xiǎng qǐng jǐ tiān jià?",
+          "translations": {
+            "vi": "Chu Minh: Cô muốn xin nghỉ tổng cộng mấy ngày?",
+            "en": "Zhou Ming: How many days do you want to take off in total?"
+          }
+        },
+        {
+          "text": "小丽：三天。",
+          "pronunciation": "Xiǎolì: Sān tiān.",
+          "translations": {
+            "vi": "Tiểu Lệ: Ba ngày.",
+            "en": "Xiaoli: Three days."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在公司",
+        "pronunciation": "Zài gōngsī",
+        "translations": {
+          "vi": "Trong công ty",
+          "en": "In the company"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：小丽，那个高高的男人是你们公司的吗？你对他了解吗？",
+          "pronunciation": "Tóngshì: Xiǎolì, nàge gāogāo de nánrén shì nǐmen gōngsī de ma? Nǐ duì tā liǎojiě ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Tiểu Lệ, người đàn ông cao cao kia là người công ty các cô à? Cô có hiểu rõ anh ta không?",
+            "en": "Colleague: Xiaoli, is that tall man from your company? Do you know him well?"
+          }
+        },
+        {
+          "text": "小丽：我们过去是邻居，后来是大学同学，关系一直很不错。",
+          "pronunciation": "Xiǎolì: Wǒmen guòqù shì línjū, hòulái shì dàxué tóngxué, guānxì yìzhí hěn búcuò.",
+          "translations": {
+            "vi": "Tiểu Lệ: Chúng tôi trước đây là hàng xóm, sau đó là bạn đại học, quan hệ luôn rất tốt.",
+            "en": "Xiaoli: We used to be neighbors, then college classmates. Our relationship has always been quite good."
+          }
+        },
+        {
+          "text": "同事：他一般喜欢做什么？",
+          "pronunciation": "Tóngshì: Tā yìbān xǐhuan zuò shénme?",
+          "translations": {
+            "vi": "Đồng nghiệp: Anh ấy thường thích làm gì?",
+            "en": "Colleague: What does he usually like to do?"
+          }
+        },
+        {
+          "text": "小丽：他有很多爱好，唱歌、画画儿、踢足球，什么都会。",
+          "pronunciation": "Xiǎolì: Tā yǒu hěn duō àihào, chàng gē, huà huàr, tī zúqiú, shénme dōu huì.",
+          "translations": {
+            "vi": "Tiểu Lệ: Anh ấy có rất nhiều sở thích, hát, vẽ, đá bóng, cái gì cũng biết.",
+            "en": "Xiaoli: He has many hobbies: singing, painting, playing soccer; he can do everything."
+          }
+        },
+        {
+          "text": "同事：真的？那你介绍我们认识认识吧。",
+          "pronunciation": "Tóngshì: Zhēn de? Nà nǐ jièshào wǒmen rènshi rènshi ba.",
+          "translations": {
+            "vi": "Đồng nghiệp: Thật không? Vậy cô giới thiệu chúng tôi làm quen chút đi.",
+            "en": "Colleague: Really? Then please introduce us so we can get to know each other."
+          }
+        },
+        {
+          "text": "小丽：不行，现在他是我的丈夫。",
+          "pronunciation": "Xiǎolì: Bùxíng, xiànzài tā shì wǒ de zhàngfu.",
+          "translations": {
+            "vi": "Tiểu Lệ: Không được, bây giờ anh ấy là chồng tôi.",
+            "en": "Xiaoli: No way, he is my husband now."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在家",
+        "pronunciation": "Zài jiā",
+        "translations": {
+          "vi": "Ở nhà",
+          "en": "At home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "周太太：最近我觉得哪儿都不舒服，你带我去医院检查检查吧。",
+          "pronunciation": "Zhōu tàitai: Zuìjìn wǒ juéde nǎr dōu bù shūfu, nǐ dài wǒ qù yīyuàn jiǎnchá jiǎnchá ba.",
+          "translations": {
+            "vi": "Châu phu nhân: Dạo này em cảm thấy chỗ nào cũng không khỏe, anh đưa em đi bệnh viện kiểm tra chút đi.",
+            "en": "Mrs. Zhou: Recently I feel uncomfortable everywhere. Take me to the hospital for a check-up."
+          }
+        },
+        {
+          "text": "周明：不用去医院，谁都有办法看好你的“病”。我问你，你多久没运动了？",
+          "pronunciation": "Zhōu Míng: Bú yòng qù yīyuàn, shéi dōu yǒu bànfǎ kànhǎo nǐ de “bìng”. Wǒ wèn nǐ, nǐ duō jiǔ méi yùndòng le?",
+          "translations": {
+            "vi": "Chu Minh: Không cần đi bệnh viện, ai cũng có cách chữa khỏi \"bệnh\" của em. Anh hỏi em, bao lâu rồi em không vận động?",
+            "en": "Zhou Ming: No need to go to the hospital, anyone can cure your \"illness\". Let me ask you, how long has it been since you exercised?"
+          }
+        },
+        {
+          "text": "周太太：我三年没运动了。",
+          "pronunciation": "Zhōu tàitai: Wǒ sān nián méi yùndòng le.",
+          "translations": {
+            "vi": "Châu phu nhân: Em 3 năm không vận động rồi.",
+            "en": "Mrs. Zhou: I haven't exercised for three years."
+          }
+        },
+        {
+          "text": "周明：谁都知道运动对身体好，但是你吃饱了就睡。",
+          "pronunciation": "Zhōu Míng: Shéi dōu zhīdào yùndòng duì shēntǐ hǎo. Dànshì nǐ chī bǎo le jiù shuì.",
+          "translations": {
+            "vi": "Chu Minh: Ai cũng biết vận động tốt cho sức khỏe. Nhưng em ăn no xong là ngủ.",
+            "en": "Zhou Ming: Everyone knows exercise is good for the body. But you sleep right after you get full."
+          }
+        },
+        {
+          "text": "周太太：为了健康，我真应该多锻炼锻炼了。从明天起，我决定每天去长跑。",
+          "pronunciation": "Zhōu tàitai: Wèile jiànkāng, wǒ zhēn yīnggāi duō duànliàn duànliàn le. Cóng míngtiān qǐ, wǒ juédìng měi tiān qù chángpǎo.",
+          "translations": {
+            "vi": "Châu phu nhân: Vì sức khỏe, em thật sự nên tập thể dục nhiều hơn rồi. Từ ngày mai, em quyết định mỗi ngày sẽ đi chạy đường dài.",
+            "en": "Mrs. Zhou: For the sake of health, I really should exercise more. Starting tomorrow, I decided to go for a long run every day."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "运动很重要",
+        "pronunciation": "Yùndòng hěn zhòngyào",
+        "translations": {
+          "vi": "Vận động rất quan trọng",
+          "en": "Exercise is important"
+        }
+      },
+      "sentences": [
+        {
+          "text": "“运动很重要”这句话谁都懂。但是你知道怎么运动吗？",
+          "pronunciation": "“Yùndòng hěn zhòngyào” zhè jù huà shéi dōu dǒng. Dànshì nǐ zhīdào zěnme yùndòng ma?",
+          "translations": {
+            "vi": "Câu nói \"Vận động rất quan trọng\" ai cũng hiểu. Nhưng bạn có biết vận động như thế nào không?",
+            "en": "Everyone understands the saying \"Exercise is important\". But do you know how to exercise?"
+          }
+        },
+        {
+          "text": "第一，要选择“对”的时间。一般来说，早上9点是最好的时间，冬天要再晚一些。",
+          "pronunciation": "Dì-yī, yào xuǎnzé “duì” de shíjiān. Yìbān láishuō, zǎoshang jiǔ diǎn shì zuì hǎo de shíjiān, dōngtiān yào zài wǎn yìxiē.",
+          "translations": {
+            "vi": "Thứ nhất, cần chọn thời gian \"đúng\". Nói chung, 9 giờ sáng là thời gian tốt nhất, mùa đông cần muộn hơn một chút.",
+            "en": "First, choose the \"right\" time. Generally speaking, 9 am is the best time, and it should be a bit later in winter."
+          }
+        },
+        {
+          "text": "第二，要选择“对”的地点，公园、山上、游泳馆，这些地方都可以运动。",
+          "pronunciation": "Dì-èr, yào xuǎnzé “duì” de dìdiǎn, gōngyuán, shānshang, yóuyǒngguǎn, zhèxiē dìfang dōu kěyǐ yùndòng.",
+          "translations": {
+            "vi": "Thứ hai, cần chọn địa điểm \"đúng\", công viên, trên núi, bể bơi, những nơi này đều có thể vận động.",
+            "en": "Second, choose the \"right\" place. Parks, mountains, swimming pools, you can exercise in these places."
+          }
+        },
+        {
+          "text": "第三，必须要根据自己的健康情况运动。如果你很久没爬山或者游泳了，运动一会就一定要休息休息。",
+          "pronunciation": "Dì-sān, bìxū yào gēnjù zìjǐ de jiànkāng qíngkuàng yùndòng. Rúguǒ nǐ hěn jiǔ méi pá shān huòzhě yóuyǒng le, yùndòng yíhuì jiù yídìng yào xiūxi xiūxi.",
+          "translations": {
+            "vi": "Thứ ba, cần phải vận động dựa theo tình trạng sức khỏe của bản thân. Nếu bạn đã lâu không leo núi hoặc bơi lội, vận động một lát nhất định phải nghỉ ngơi.",
+            "en": "Third, you must exercise according to your health condition. If you haven't climbed a mountain or swum for a long time, you must rest after exercising for a while."
+          }
+        },
+        {
+          "text": "还要记得刚运动完口渴的时候，不要马上喝水。",
+          "pronunciation": "Hái yào jìde gāng yùndòng wán kǒu kě de shíhou, búyào mǎshàng hē shuǐ.",
+          "translations": {
+            "vi": "Còn phải nhớ khi vừa vận động xong khát nước, đừng uống nước ngay.",
+            "en": "Also remember not to drink water immediately when you are thirsty right after exercising."
+          }
+        }
+      ]
+    }
+  ]
+}

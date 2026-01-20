@@ -1,639 +1,639 @@
 {
-    "title": {
-        "text": "你去哪儿我就去哪儿。",
-        "pronunciation": "Nǐ qù nǎr wǒ jiù qù nǎr.",
+  "title": {
+    "text": "你去哪儿我就去哪儿。",
+    "pronunciation": "Nǐ qù nǎr wǒ jiù qù nǎr.",
+    "translations": {
+      "vi": "Em đi đâu thì anh đi đến đó.",
+      "en": "Wherever you go, I will go."
+    }
+  },
+  "newWords": [
+    {
+      "word": "又",
+      "type": "phó từ",
+      "pronunciation": "yòu",
+      "translations": {
+        "vi": "lại (đã xảy ra)",
+        "en": "again (indicating repetition of an action that has happened)"
+      },
+      "example": {
+        "text": "昨天去看了看，今天又去看了看。",
+        "pronunciation": "Zuótiān qù kànle kàn, jīntiān yòu qù kànle kàn.",
         "translations": {
-            "vi": "Em đi đâu thì anh đi đến đó.",
-            "en": "Wherever you go, I will go."
+          "vi": "Hôm qua đi xem thử, hôm nay lại đi xem thử.",
+          "en": "I went to see it yesterday, and I went to see it again today."
         }
+      }
     },
-    "newWords": [
-        {
-            "word": "又",
-            "type": "phó từ",
-            "pronunciation": "yòu",
-            "translations": {
-                "vi": "lại (đã xảy ra)",
-                "en": "again (indicating repetition of an action that has happened)"
-            },
-            "example": {
-                "text": "昨天去看了看，今天又去看了看。",
-                "pronunciation": "Zuótiān qù kànle kàn, jīntiān yòu qù kànle kàn.",
-                "translations": {
-                    "vi": "Hôm qua đi xem thử, hôm nay lại đi xem thử.",
-                    "en": "I went to see it yesterday, and I went to see it again today."
-                }
-            }
-        },
-        {
-            "word": "满意",
-            "type": "động từ",
-            "pronunciation": "mǎnyì",
-            "translations": {
-                "vi": "hài lòng, vừa ý",
-                "en": "to be satisfied"
-            },
-            "example": {
-                "text": "都不满意吗？",
-                "pronunciation": "Dōu bù mǎnyì ma?",
-                "translations": {
-                    "vi": "Đều không hài lòng sao?",
-                    "en": "Are you not satisfied with any of them?"
-                }
-            }
-        },
-        {
-            "word": "电梯",
-            "type": "danh từ",
-            "pronunciation": "diàntī",
-            "translations": {
-                "vi": "thang máy",
-                "en": "elevator"
-            },
-            "example": {
-                "text": "一个没有电梯，不方便。",
-                "pronunciation": "Yí ge méiyǒu diàntī, bù fāngbiàn.",
-                "translations": {
-                    "vi": "Một cái không có thang máy, không thuận tiện.",
-                    "en": "One doesn't have an elevator, it's inconvenient."
-                }
-            }
-        },
-        {
-            "word": "层",
-            "type": "lượng từ",
-            "pronunciation": "céng",
-            "translations": {
-                "vi": "tầng",
-                "en": "floor; layer"
-            },
-            "example": {
-                "text": "一个有电梯，但是在二十层。",
-                "pronunciation": "Yí ge yǒu diàntī, dànshì zài èrshí céng.",
-                "translations": {
-                    "vi": "Một cái có thang máy, nhưng ở tầng 20.",
-                    "en": "One has an elevator, but it's on the 20th floor."
-                }
-            }
-        },
-        {
-            "word": "害怕",
-            "type": "động từ",
-            "pronunciation": "hàipà",
-            "translations": {
-                "vi": "sợ",
-                "en": "to be afraid; to be scared"
-            },
-            "example": {
-                "text": "太高了，往下看多害怕啊！",
-                "pronunciation": "Tài gāo le, wǎng xià kàn duō hàipà a!",
-                "translations": {
-                    "vi": "Cao quá, nhìn xuống sợ lắm!",
-                    "en": "It's too high, looking down is so scary!"
-                }
-            }
-        },
-        {
-            "word": "熊猫",
-            "type": "danh từ",
-            "pronunciation": "xióngmāo",
-            "translations": {
-                "vi": "gấu trúc",
-                "en": "panda"
-            },
-            "example": {
-                "text": "这个小熊猫送给你。",
-                "pronunciation": "Zhège xiǎo xióngmāo sòng gěi nǐ.",
-                "translations": {
-                    "vi": "Con gấu trúc nhỏ này tặng cho cậu.",
-                    "en": "This little panda is for you."
-                }
-            }
-        },
-        {
-            "word": "见面",
-            "type": "động từ",
-            "pronunciation": "jiàn miàn",
-            "translations": {
-                "vi": "gặp, gặp nhau",
-                "en": "to meet"
-            },
-            "example": {
-                "text": "希望以后能再见面。",
-                "pronunciation": "Xīwàng yǐhòu néng zài jiàn miàn.",
-                "translations": {
-                    "vi": "Hy vọng sau này có thể gặp lại.",
-                    "en": "I hope we can meet again in the future."
-                }
-            }
-        },
-        {
-            "word": "安静",
-            "type": "tính từ",
-            "pronunciation": "ānjìng",
-            "translations": {
-                "vi": "yên tĩnh",
-                "en": "quiet"
-            },
-            "example": {
-                "text": "坐这儿吧，这儿安静。",
-                "pronunciation": "Zuò zhèr ba, zhèr ānjìng.",
-                "translations": {
-                    "vi": "Ngồi đây đi, ở đây yên tĩnh.",
-                    "en": "Let's sit here, it's quiet here."
-                }
-            }
-        },
-        {
-            "word": "可乐",
-            "type": "danh từ",
-            "pronunciation": "kělè",
-            "translations": {
-                "vi": "coca-cola",
-                "en": "cola"
-            },
-            "example": {
-                "text": "喝可乐吧。",
-                "pronunciation": "Hē kělè ba.",
-                "translations": {
-                    "vi": "Uống coca nhé.",
-                    "en": "Let's drink cola."
-                }
-            }
-        },
-        {
-            "word": "一会儿",
-            "type": "danh từ",
-            "pronunciation": "yíhuìr",
-            "translations": {
-                "vi": "chốc lát, một lát",
-                "en": "a moment; a little while"
-            },
-            "example": {
-                "text": "你等我一会儿。",
-                "pronunciation": "Nǐ děng wǒ yíhuìr.",
-                "translations": {
-                    "vi": "Anh đợi em một lát.",
-                    "en": "Wait for me a moment."
-                }
-            }
-        },
-        {
-            "word": "马上",
-            "type": "phó từ",
-            "pronunciation": "mǎshàng",
-            "translations": {
-                "vi": "liền, ngay lập tức",
-                "en": "immediately; right away"
-            },
-            "example": {
-                "text": "我马上回来。",
-                "pronunciation": "Wǒ mǎshàng huílai.",
-                "translations": {
-                    "vi": "Em quay lại ngay.",
-                    "en": "I'll be back right away."
-                }
-            }
-        },
-        {
-            "word": "洗手间",
-            "type": "danh từ",
-            "pronunciation": "xǐshǒujiān",
-            "translations": {
-                "vi": "nhà vệ sinh",
-                "en": "bathroom; restroom"
-            },
-            "example": {
-                "text": "我去洗手间。",
-                "pronunciation": "Wǒ qù xǐshǒujiān.",
-                "translations": {
-                    "vi": "Em đi nhà vệ sinh.",
-                    "en": "I'm going to the restroom."
-                }
-            }
-        },
-        {
-            "word": "老",
-            "type": "tính từ",
-            "pronunciation": "lǎo",
-            "translations": {
-                "vi": "già, cũ",
-                "en": "old"
-            },
-            "example": {
-                "text": "老同学，快五年了，你几乎没变化。",
-                "pronunciation": "Lǎo tóngxué, kuài wǔ nián le, nǐ jīhū méi biànhuà.",
-                "translations": {
-                    "vi": "Bạn cũ, sắp 5 năm rồi, cậu hầu như không thay đổi.",
-                    "en": "Old classmate, it's been almost five years, you haven't changed at all."
-                }
-            }
-        },
-        {
-            "word": "几乎",
-            "type": "phó từ",
-            "pronunciation": "jīhū",
-            "translations": {
-                "vi": "hầu như, gần như",
-                "en": "almost; nearly"
-            },
-            "example": {
-                "text": "快五年了，你几乎没变化。",
-                "pronunciation": "Kuài wǔ nián le, nǐ jīhū méi biànhuà.",
-                "translations": {
-                    "vi": "Sắp 5 năm rồi, cậu hầu như không thay đổi.",
-                    "en": "It's been almost five years, you have almost no change."
-                }
-            }
-        },
-        {
-            "word": "变化",
-            "type": "động từ",
-            "pronunciation": "biànhuà",
-            "translations": {
-                "vi": "thay đổi",
-                "en": "change; to change"
-            },
-            "example": {
-                "text": "快五年了，你几乎没变化。",
-                "pronunciation": "Kuài wǔ nián le, nǐ jīhū méi biànhuà.",
-                "translations": {
-                    "vi": "Sắp 5 năm rồi, cậu hầu như không thay đổi.",
-                    "en": "It's been almost five years, you haven't changed."
-                }
-            }
-        },
-        {
-            "word": "健康",
-            "type": "tính từ",
-            "pronunciation": "jiànkāng",
-            "translations": {
-                "vi": "khỏe mạnh",
-                "en": "healthy; health"
-            },
-            "example": {
-                "text": "健康最重要。",
-                "pronunciation": "Jiànkāng zuì zhòngyào.",
-                "translations": {
-                    "vi": "Sức khỏe là quan trọng nhất.",
-                    "en": "Health is the most important."
-                }
-            }
-        },
-        {
-            "word": "重要",
-            "type": "tính từ",
-            "pronunciation": "zhòngyào",
-            "translations": {
-                "vi": "quan trọng",
-                "en": "important"
-            },
-            "example": {
-                "text": "健康最重要。",
-                "pronunciation": "Jiànkāng zuì zhòngyào.",
-                "translations": {
-                    "vi": "Sức khỏe là quan trọng nhất.",
-                    "en": "Health is the most important."
-                }
-            }
+    {
+      "word": "满意",
+      "type": "động từ",
+      "pronunciation": "mǎnyì",
+      "translations": {
+        "vi": "hài lòng, vừa ý",
+        "en": "to be satisfied"
+      },
+      "example": {
+        "text": "都不满意吗？",
+        "pronunciation": "Dōu bù mǎnyì ma?",
+        "translations": {
+          "vi": "Đều không hài lòng sao?",
+          "en": "Are you not satisfied with any of them?"
         }
-    ],
-    "grammars": [
-        {
-            "grammar": "“又” 和 “再”",
-            "descriptions": {
-                "vi": "Cả hai phó từ 又 và 再 đều có thể được dùng trước động từ để chỉ một hành động/tình huống được lặp lại. “又 + động từ” thường cho biết hành động/tình huống đó đã xảy ra còn “再 + động từ” cho biết hành động/tình huống đó vẫn chưa xảy ra.",
-                "en": "Both adverbs 又 and 再 can be used before verbs to indicate the repetition of an action or situation. \"又 + verb\" usually indicates that the action/situation has already happened, while \"再 + verb\" indicates that the action/situation has not happened yet."
-            },
-            "examples": [
-                {
-                    "text": "上个星期我买了一条裤子，昨天又买了一条。",
-                    "pronunciation": "Shàng ge xīngqī wǒ mǎi le yì tiáo kùzi, zuótiān yòu mǎi le yì tiáo.",
-                    "translations": {
-                        "vi": "Tuần trước tôi mua một chiếc quần, hôm qua lại mua thêm một chiếc nữa.",
-                        "en": "I bought a pair of pants last week, and I bought another pair yesterday."
-                    }
-                },
-                {
-                    "text": "你上午已经喝了一杯咖啡，下午怎么又喝了一杯？",
-                    "pronunciation": "Nǐ shàngwǔ yǐjīng hē le yì bēi kāfēi, xiàwǔ zěnme yòu hē le yì bēi?",
-                    "translations": {
-                        "vi": "Buổi sáng bạn đã uống một ly cà phê rồi, sao buổi chiều lại uống thêm một ly nữa?",
-                        "en": "You already drank a cup of coffee this morning, why did you drink another one this afternoon?"
-                    }
-                },
-                {
-                    "text": "家里只有一个面包了，我们再买一些吧。",
-                    "pronunciation": "Jiāli zhǐ yǒu yí ge miànbāo le, wǒmen zài mǎi yìxiē ba.",
-                    "translations": {
-                        "vi": "Trong nhà chỉ còn một cái bánh mì thôi, chúng ta mua thêm ít nữa đi.",
-                        "en": "There is only one bread left at home, let's buy some more."
-                    }
-                },
-                {
-                    "text": "那个饭馆我昨天去了一次，明天还想再去一次。",
-                    "pronunciation": "Nàge fànguǎn wǒ zuótiān qù le yí cì, míngtiān hái xiǎng zài qù yí cì.",
-                    "translations": {
-                        "vi": "Quán ăn đó hôm qua tôi đến một lần, ngày mai muốn đến lần nữa.",
-                        "en": "I went to that restaurant once yesterday, and I want to go again tomorrow."
-                    }
-                }
-            ]
-        },
-        {
-            "grammar": "疑问代词活用1",
-            "descriptions": {
-                "vi": "就 có thể được dùng ở giữa hai đại từ nghi vấn giống nhau. Trong trường hợp này, hai đại từ nghi vấn không diễn tả sự nghi vấn mà chỉ đối tượng giống nhau (người, sự vật hay cách thức không xác định). Khi hai mệnh đề có cùng chủ ngữ thì ta có thể lược bỏ chủ ngữ trong mệnh đề sau, khi hai mệnh đề có chủ ngữ khác nhau thì ta phải đặt chủ ngữ thứ hai trước 就.",
-                "en": "The adverb 就 can be used between two identical interrogative pronouns. In this case, the interrogative pronouns do not indicate a question but refer to the same indefinite person, thing, or manner. If the two clauses share the same subject, the subject in the second clause can be omitted. If the subjects are different, the second subject must be placed before 就."
-            },
-            "examples": [
-                {
-                    "text": "什么东西便宜我就买什么。",
-                    "pronunciation": "Shénme dōngxi piányi wǒ jiù mǎi shénme.",
-                    "translations": {
-                        "vi": "Cái gì rẻ thì tôi mua cái đó.",
-                        "en": "I'll buy whatever is cheap."
-                    }
-                },
-                {
-                    "text": "你哪天有时间就哪天来我家吧。",
-                    "pronunciation": "Nǐ nǎ tiān yǒu shíjiān jiù nǎ tiān lái wǒ jiā ba.",
-                    "translations": {
-                        "vi": "Hôm nào bạn có thời gian thì hôm đó đến nhà tôi nhé.",
-                        "en": "Come to my house on whichever day you have time."
-                    }
-                },
-                {
-                    "text": "谁喜欢他他就喜欢谁。",
-                    "pronunciation": "Shéi xǐhuan tā tā jiù xǐhuan shéi.",
-                    "translations": {
-                        "vi": "Ai thích anh ấy thì anh ấy thích người đó.",
-                        "en": "He likes whoever likes him."
-                    }
-                },
-                {
-                    "text": "你坐哪儿我就坐哪儿。",
-                    "pronunciation": "Nǐ zuò nǎr wǒ jiù zuò nǎr.",
-                    "translations": {
-                        "vi": "Em ngồi đâu thì anh ngồi đó.",
-                        "en": "I'll sit wherever you sit."
-                    }
-                }
-            ]
+      }
+    },
+    {
+      "word": "电梯",
+      "type": "danh từ",
+      "pronunciation": "diàntī",
+      "translations": {
+        "vi": "thang máy",
+        "en": "elevator"
+      },
+      "example": {
+        "text": "一个没有电梯，不方便。",
+        "pronunciation": "Yí ge méiyǒu diàntī, bù fāngbiàn.",
+        "translations": {
+          "vi": "Một cái không có thang máy, không thuận tiện.",
+          "en": "One doesn't have an elevator, it's inconvenient."
         }
-    ],
-    "dialogs": [
-        {
-            "id": 1,
-            "name": {
-                "text": "在休息室",
-                "pronunciation": "Zài xiūxishì",
-                "translations": {
-                    "vi": "Trong phòng giải lao",
-                    "en": "In the lounge"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "同事：听说你最近打算买房子？",
-                    "pronunciation": "Tóngshì: Tīngshuō nǐ zuìjìn dǎsuàn mǎi fángzi?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Nghe nói dạo này cô định mua nhà à?",
-                        "en": "Colleague: I heard you are planning to buy a house recently?"
-                    }
-                },
-                {
-                    "text": "小丽：是，昨天去看了看，今天又去看了看，明天还要再去看看。",
-                    "pronunciation": "Xiǎolì: Shì, zuótiān qù kànle kàn, jīntiān yòu qù kànle kàn, míngtiān hái yào zài qù kànkan.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Đúng vậy, hôm qua đã đi xem, hôm nay lại đi xem, ngày mai vẫn muốn đi xem nữa.",
-                        "en": "Xiaoli: Yes, I went to see some yesterday, went again today, and plan to go again tomorrow."
-                    }
-                },
-                {
-                    "text": "同事：都不满意吗？",
-                    "pronunciation": "Tóngshì: Dōu bù mǎnyì ma?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Đều không hài lòng sao?",
-                        "en": "Colleague: Are you not satisfied with any of them?"
-                    }
-                },
-                {
-                    "text": "小丽：一个没有电梯，不方便。一个有电梯，但是在二十层。",
-                    "pronunciation": "Xiǎolì: Yí ge méiyǒu diàntī, bù fāngbiàn. Yí ge yǒu diàntī, dànshì zài èrshí céng.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Một cái không có thang máy, bất tiện. Một cái có thang máy nhưng ở tầng 20.",
-                        "en": "Xiaoli: One doesn't have an elevator, which is inconvenient. One has an elevator, but it's on the 20th floor."
-                    }
-                },
-                {
-                    "text": "同事：二十层怎么了？",
-                    "pronunciation": "Tóngshì: Èrshí céng zěnme le?",
-                    "translations": {
-                        "vi": "Đồng nghiệp: Tầng 20 thì sao?",
-                        "en": "Colleague: What's wrong with the 20th floor?"
-                    }
-                },
-                {
-                    "text": "小丽：太高了，往下看多害怕啊！",
-                    "pronunciation": "Xiǎolì: Tài gāo le, wǎng xià kàn duō hàipà a!",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Cao quá, nhìn xuống sợ lắm!",
-                        "en": "Xiaoli: It's too high, looking down is so scary!"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "name": {
-                "text": "在学校",
-                "pronunciation": "Zài xuéxiào",
-                "translations": {
-                    "vi": "Ở trường học",
-                    "en": "At school"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "小明：听说你下个星期就要回国了？",
-                    "pronunciation": "Xiǎomíng: Tīngshuō nǐ xià ge xīngqī jiù yào huí guó le?",
-                    "translations": {
-                        "vi": "Tiểu Minh: Nghe nói tuần sau cậu về nước rồi à?",
-                        "en": "Xiaoming: I heard you are going back to your country next week?"
-                    }
-                },
-                {
-                    "text": "马可：是啊，真不想离开北京。",
-                    "pronunciation": "Mǎkě: Shì a, zhēn bù xiǎng líkāi Běijīng.",
-                    "translations": {
-                        "vi": "Marco: Đúng vậy, thật không muốn rời xa Bắc Kinh.",
-                        "en": "Marco: Yes, I really don't want to leave Beijing."
-                    }
-                },
-                {
-                    "text": "小明：我下星期不在北京，不能去机场送你了。",
-                    "pronunciation": "Xiǎomíng: Wǒ xià xīngqī bú zài Běijīng, bù néng qù jīchǎng sòng nǐ le.",
-                    "translations": {
-                        "vi": "Tiểu Minh: Tuần sau tớ không ở Bắc Kinh, không thể ra sân bay tiễn cậu được rồi.",
-                        "en": "Xiaoming: I won't be in Beijing next week, so I can't go to the airport to see you off."
-                    }
-                },
-                {
-                    "text": "马可：没关系，你忙吧。",
-                    "pronunciation": "Mǎkě: Méiguānxi, nǐ máng ba.",
-                    "translations": {
-                        "vi": "Marco: Không sao, cậu cứ bận việc đi.",
-                        "en": "Marco: It's okay, you go ahead with your business."
-                    }
-                },
-                {
-                    "text": "小明：这个小熊猫送给你，欢迎你以后再到中国来。",
-                    "pronunciation": "Xiǎomíng: Zhège xiǎo xióngmāo sòng gěi nǐ, huānyíng nǐ yǐhòu zài dào Zhōngguó lái.",
-                    "translations": {
-                        "vi": "Tiểu Minh: Con gấu trúc nhỏ này tặng cậu, hoan nghênh cậu sau này lại đến Trung Quốc.",
-                        "en": "Xiaoming: This little panda is for you. You are welcome to come back to China in the future."
-                    }
-                },
-                {
-                    "text": "马可：谢谢。希望以后能再见面。",
-                    "pronunciation": "Mǎkě: Xièxie. Xīwàng yǐhòu néng zài jiàn miàn.",
-                    "translations": {
-                        "vi": "Marco: Cảm ơn. Hy vọng sau này có thể gặp lại.",
-                        "en": "Marco: Thanks. I hope we can meet again in the future."
-                    }
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "name": {
-                "text": "在咖啡厅",
-                "pronunciation": "Zài kāfēitīng",
-                "translations": {
-                    "vi": "Ở quán cà phê",
-                    "en": "At the coffee shop"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "小丽：小刚，我们坐哪儿？",
-                    "pronunciation": "Xiǎolì: Xiǎogāng, wǒmen zuò nǎr?",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Tiểu Cương, chúng ta ngồi đâu?",
-                        "en": "Xiaoli: Xiaogang, where should we sit?"
-                    }
-                },
-                {
-                    "text": "小刚：你坐哪儿我就坐哪儿。",
-                    "pronunciation": "Xiǎogāng: Nǐ zuò nǎr wǒ jiù zuò nǎr.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Em ngồi đâu thì anh ngồi đó.",
-                        "en": "Xiaogang: I'll sit wherever you sit."
-                    }
-                },
-                {
-                    "text": "小丽：坐这儿吧，这儿安静。你想喝什么饮料？",
-                    "pronunciation": "Xiǎolì: Zuò zhèr ba, zhèr ānjìng. Nǐ xiǎng hē shénme yǐnliào?",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Ngồi đây đi, ở đây yên tĩnh. Anh muốn uống gì?",
-                        "en": "Xiaoli: Let's sit here, it's quiet here. What drink do you want?"
-                    }
-                },
-                {
-                    "text": "小刚：你喝什么我就喝什么。",
-                    "pronunciation": "Xiǎogāng: Nǐ hē shénme wǒ jiù hē shénme.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Em uống gì thì anh uống cái đó.",
-                        "en": "Xiaogang: I'll drink whatever you drink."
-                    }
-                },
-                {
-                    "text": "小丽：喝可乐吧。你等我一会儿，我马上回来。",
-                    "pronunciation": "Xiǎolì: Hē kělè ba. Nǐ děng wǒ yíhuìr, wǒ mǎshàng huílai.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Uống coca nhé. Anh đợi em một lát, em quay lại ngay.",
-                        "en": "Xiaoli: Let's drink cola. Wait a moment, I'll be right back."
-                    }
-                },
-                {
-                    "text": "小刚：小丽，你去哪儿？你去哪儿我就去哪儿。",
-                    "pronunciation": "Xiǎogāng: Xiǎolì, nǐ qù nǎr? Nǐ qù nǎr wǒ jiù qù nǎr.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Tiểu Lệ, em đi đâu? Em đi đâu thì anh đi đó.",
-                        "en": "Xiaogang: Xiaoli, where are you going? I'll go wherever you go."
-                    }
-                },
-                {
-                    "text": "小丽：我去洗手间。",
-                    "pronunciation": "Xiǎolì: Wǒ qù xǐshǒujiān.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Em đi nhà vệ sinh.",
-                        "en": "Xiaoli: I'm going to the restroom."
-                    }
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "name": {
-                "text": "在周明家",
-                "pronunciation": "Zài Zhōu Míng jiā",
-                "translations": {
-                    "vi": "Ở nhà Chu Minh",
-                    "en": "At Zhou Ming's home"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "老同学：快五年了，你几乎没变化。",
-                    "pronunciation": "Lǎo tóngxué: Kuài wǔ nián le, nǐ jīhū méi biànhuà.",
-                    "translations": {
-                        "vi": "Bạn cũ: Sắp 5 năm rồi, cậu hầu như không thay đổi.",
-                        "en": "Old Classmate: It's been almost five years, you haven't changed a bit."
-                    }
-                },
-                {
-                    "text": "周太太：谁说的？我胖了，以前的衣服都不能穿了。",
-                    "pronunciation": "Zhōu tàitai: Shéi shuō de? Wǒ pàng le, yǐqián de yīfu dōu bù néng chuān le.",
-                    "translations": {
-                        "vi": "Châu phu nhân: Ai nói vậy? Tớ béo rồi, quần áo trước đây đều không mặc được nữa.",
-                        "en": "Mrs. Zhou: Who said that? I've gotten fat, I can't wear my old clothes anymore."
-                    }
-                },
-                {
-                    "text": "老同学：健康最重要，胖瘦没关系。",
-                    "pronunciation": "Lǎo tóngxué: Jiànkāng zuì zhòngyào, pàng shòu méi guānxi.",
-                    "translations": {
-                        "vi": "Bạn cũ: Sức khỏe là quan trọng nhất, béo gầy không sao cả.",
-                        "en": "Old Classmate: Health is the most important thing, being fat or thin doesn't matter."
-                    }
-                },
-                {
-                    "text": "周太太：是呀，想吃什么就吃什么。",
-                    "pronunciation": "Zhōu tàitai: Shì ya, xiǎng chī shénme jiù chī shénme.",
-                    "translations": {
-                        "vi": "Châu phu nhân: Đúng vậy, muốn ăn gì thì ăn cái đó.",
-                        "en": "Mrs. Zhou: Yeah, I just eat whatever I want."
-                    }
-                },
-                {
-                    "text": "老同学：你做饭还是周明做饭？",
-                    "pronunciation": "Lǎo tóngxué: Nǐ zuò fàn háishi Zhōu Míng zuò fàn?",
-                    "translations": {
-                        "vi": "Bạn cũ: Cậu nấu cơm hay Chu Minh nấu cơm?",
-                        "en": "Old Classmate: Do you cook or does Zhou Ming cook?"
-                    }
-                },
-                {
-                    "text": "周太太：我做，我想吃什么就做什么，想吃多少就做多少。",
-                    "pronunciation": "Zhōu tàitai: Wǒ zuò, wǒ xiǎng chī shénme jiù zuò shénme, xiǎng chī duōshao jiù zuò duōshao.",
-                    "translations": {
-                        "vi": "Châu phu nhân: Tớ nấu, tớ muốn ăn gì thì nấu cái đó, muốn ăn bao nhiêu thì nấu bấy nhiêu.",
-                        "en": "Mrs. Zhou: I cook. I cook whatever I want to eat, and I cook as much as I want to eat."
-                    }
-                }
-            ]
+      }
+    },
+    {
+      "word": "层",
+      "type": "lượng từ",
+      "pronunciation": "céng",
+      "translations": {
+        "vi": "tầng",
+        "en": "floor; layer"
+      },
+      "example": {
+        "text": "一个有电梯，但是在二十层。",
+        "pronunciation": "Yí ge yǒu diàntī, dànshì zài èrshí céng.",
+        "translations": {
+          "vi": "Một cái có thang máy, nhưng ở tầng 20.",
+          "en": "One has an elevator, but it's on the 20th floor."
         }
-    ]
+      }
+    },
+    {
+      "word": "害怕",
+      "type": "động từ",
+      "pronunciation": "hàipà",
+      "translations": {
+        "vi": "sợ",
+        "en": "to be afraid; to be scared"
+      },
+      "example": {
+        "text": "太高了，往下看多害怕啊！",
+        "pronunciation": "Tài gāo le, wǎng xià kàn duō hàipà a!",
+        "translations": {
+          "vi": "Cao quá, nhìn xuống sợ lắm!",
+          "en": "It's too high, looking down is so scary!"
+        }
+      }
+    },
+    {
+      "word": "熊猫",
+      "type": "danh từ",
+      "pronunciation": "xióngmāo",
+      "translations": {
+        "vi": "gấu trúc",
+        "en": "panda"
+      },
+      "example": {
+        "text": "这个小熊猫送给你。",
+        "pronunciation": "Zhège xiǎo xióngmāo sòng gěi nǐ.",
+        "translations": {
+          "vi": "Con gấu trúc nhỏ này tặng cho cậu.",
+          "en": "This little panda is for you."
+        }
+      }
+    },
+    {
+      "word": "见面",
+      "type": "động từ",
+      "pronunciation": "jiàn miàn",
+      "translations": {
+        "vi": "gặp, gặp nhau",
+        "en": "to meet"
+      },
+      "example": {
+        "text": "希望以后能再见面。",
+        "pronunciation": "Xīwàng yǐhòu néng zài jiàn miàn.",
+        "translations": {
+          "vi": "Hy vọng sau này có thể gặp lại.",
+          "en": "I hope we can meet again in the future."
+        }
+      }
+    },
+    {
+      "word": "安静",
+      "type": "tính từ",
+      "pronunciation": "ānjìng",
+      "translations": {
+        "vi": "yên tĩnh",
+        "en": "quiet"
+      },
+      "example": {
+        "text": "坐这儿吧，这儿安静。",
+        "pronunciation": "Zuò zhèr ba, zhèr ānjìng.",
+        "translations": {
+          "vi": "Ngồi đây đi, ở đây yên tĩnh.",
+          "en": "Let's sit here, it's quiet here."
+        }
+      }
+    },
+    {
+      "word": "可乐",
+      "type": "danh từ",
+      "pronunciation": "kělè",
+      "translations": {
+        "vi": "coca-cola",
+        "en": "cola"
+      },
+      "example": {
+        "text": "喝可乐吧。",
+        "pronunciation": "Hē kělè ba.",
+        "translations": {
+          "vi": "Uống coca nhé.",
+          "en": "Let's drink cola."
+        }
+      }
+    },
+    {
+      "word": "一会儿",
+      "type": "danh từ",
+      "pronunciation": "yíhuìr",
+      "translations": {
+        "vi": "chốc lát, một lát",
+        "en": "a moment; a little while"
+      },
+      "example": {
+        "text": "你等我一会儿。",
+        "pronunciation": "Nǐ děng wǒ yíhuìr.",
+        "translations": {
+          "vi": "Anh đợi em một lát.",
+          "en": "Wait for me a moment."
+        }
+      }
+    },
+    {
+      "word": "马上",
+      "type": "phó từ",
+      "pronunciation": "mǎshàng",
+      "translations": {
+        "vi": "liền, ngay lập tức",
+        "en": "immediately; right away"
+      },
+      "example": {
+        "text": "我马上回来。",
+        "pronunciation": "Wǒ mǎshàng huílai.",
+        "translations": {
+          "vi": "Em quay lại ngay.",
+          "en": "I'll be back right away."
+        }
+      }
+    },
+    {
+      "word": "洗手间",
+      "type": "danh từ",
+      "pronunciation": "xǐshǒujiān",
+      "translations": {
+        "vi": "nhà vệ sinh",
+        "en": "bathroom; restroom"
+      },
+      "example": {
+        "text": "我去洗手间。",
+        "pronunciation": "Wǒ qù xǐshǒujiān.",
+        "translations": {
+          "vi": "Em đi nhà vệ sinh.",
+          "en": "I'm going to the restroom."
+        }
+      }
+    },
+    {
+      "word": "老",
+      "type": "tính từ",
+      "pronunciation": "lǎo",
+      "translations": {
+        "vi": "già, cũ",
+        "en": "old"
+      },
+      "example": {
+        "text": "老同学，快五年了，你几乎没变化。",
+        "pronunciation": "Lǎo tóngxué, kuài wǔ nián le, nǐ jīhū méi biànhuà.",
+        "translations": {
+          "vi": "Bạn cũ, sắp 5 năm rồi, cậu hầu như không thay đổi.",
+          "en": "Old classmate, it's been almost five years, you haven't changed at all."
+        }
+      }
+    },
+    {
+      "word": "几乎",
+      "type": "phó từ",
+      "pronunciation": "jīhū",
+      "translations": {
+        "vi": "hầu như, gần như",
+        "en": "almost; nearly"
+      },
+      "example": {
+        "text": "快五年了，你几乎没变化。",
+        "pronunciation": "Kuài wǔ nián le, nǐ jīhū méi biànhuà.",
+        "translations": {
+          "vi": "Sắp 5 năm rồi, cậu hầu như không thay đổi.",
+          "en": "It's been almost five years, you have almost no change."
+        }
+      }
+    },
+    {
+      "word": "变化",
+      "type": "động từ",
+      "pronunciation": "biànhuà",
+      "translations": {
+        "vi": "thay đổi",
+        "en": "change; to change"
+      },
+      "example": {
+        "text": "快五年了，你几乎没变化。",
+        "pronunciation": "Kuài wǔ nián le, nǐ jīhū méi biànhuà.",
+        "translations": {
+          "vi": "Sắp 5 năm rồi, cậu hầu như không thay đổi.",
+          "en": "It's been almost five years, you haven't changed."
+        }
+      }
+    },
+    {
+      "word": "健康",
+      "type": "tính từ",
+      "pronunciation": "jiànkāng",
+      "translations": {
+        "vi": "khỏe mạnh",
+        "en": "healthy; health"
+      },
+      "example": {
+        "text": "健康最重要。",
+        "pronunciation": "Jiànkāng zuì zhòngyào.",
+        "translations": {
+          "vi": "Sức khỏe là quan trọng nhất.",
+          "en": "Health is the most important."
+        }
+      }
+    },
+    {
+      "word": "重要",
+      "type": "tính từ",
+      "pronunciation": "zhòngyào",
+      "translations": {
+        "vi": "quan trọng",
+        "en": "important"
+      },
+      "example": {
+        "text": "健康最重要。",
+        "pronunciation": "Jiànkāng zuì zhòngyào.",
+        "translations": {
+          "vi": "Sức khỏe là quan trọng nhất.",
+          "en": "Health is the most important."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "“又” 和 “再”",
+      "descriptions": {
+        "vi": "Cả hai phó từ 又 và 再 đều có thể được dùng trước động từ để chỉ một hành động/tình huống được lặp lại. “又 + động từ” thường cho biết hành động/tình huống đó đã xảy ra còn “再 + động từ” cho biết hành động/tình huống đó vẫn chưa xảy ra.",
+        "en": "Both adverbs 又 and 再 can be used before verbs to indicate the repetition of an action or situation. \"又 + verb\" usually indicates that the action/situation has already happened, while \"再 + verb\" indicates that the action/situation has not happened yet."
+      },
+      "examples": [
+        {
+          "text": "上个星期我买了一条裤子，昨天又买了一条。",
+          "pronunciation": "Shàng ge xīngqī wǒ mǎi le yì tiáo kùzi, zuótiān yòu mǎi le yì tiáo.",
+          "translations": {
+            "vi": "Tuần trước tôi mua một chiếc quần, hôm qua lại mua thêm một chiếc nữa.",
+            "en": "I bought a pair of pants last week, and I bought another pair yesterday."
+          }
+        },
+        {
+          "text": "你上午已经喝了一杯咖啡，下午怎么又喝了一杯？",
+          "pronunciation": "Nǐ shàngwǔ yǐjīng hē le yì bēi kāfēi, xiàwǔ zěnme yòu hē le yì bēi?",
+          "translations": {
+            "vi": "Buổi sáng bạn đã uống một ly cà phê rồi, sao buổi chiều lại uống thêm một ly nữa?",
+            "en": "You already drank a cup of coffee this morning, why did you drink another one this afternoon?"
+          }
+        },
+        {
+          "text": "家里只有一个面包了，我们再买一些吧。",
+          "pronunciation": "Jiāli zhǐ yǒu yí ge miànbāo le, wǒmen zài mǎi yìxiē ba.",
+          "translations": {
+            "vi": "Trong nhà chỉ còn một cái bánh mì thôi, chúng ta mua thêm ít nữa đi.",
+            "en": "There is only one bread left at home, let's buy some more."
+          }
+        },
+        {
+          "text": "那个饭馆我昨天去了一次，明天还想再去一次。",
+          "pronunciation": "Nàge fànguǎn wǒ zuótiān qù le yí cì, míngtiān hái xiǎng zài qù yí cì.",
+          "translations": {
+            "vi": "Quán ăn đó hôm qua tôi đến một lần, ngày mai muốn đến lần nữa.",
+            "en": "I went to that restaurant once yesterday, and I want to go again tomorrow."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "疑问代词活用1",
+      "descriptions": {
+        "vi": "就 có thể được dùng ở giữa hai đại từ nghi vấn giống nhau. Trong trường hợp này, hai đại từ nghi vấn không diễn tả sự nghi vấn mà chỉ đối tượng giống nhau (người, sự vật hay cách thức không xác định). Khi hai mệnh đề có cùng chủ ngữ thì ta có thể lược bỏ chủ ngữ trong mệnh đề sau, khi hai mệnh đề có chủ ngữ khác nhau thì ta phải đặt chủ ngữ thứ hai trước 就.",
+        "en": "The adverb 就 can be used between two identical interrogative pronouns. In this case, the interrogative pronouns do not indicate a question but refer to the same indefinite person, thing, or manner. If the two clauses share the same subject, the subject in the second clause can be omitted. If the subjects are different, the second subject must be placed before 就."
+      },
+      "examples": [
+        {
+          "text": "什么东西便宜我就买什么。",
+          "pronunciation": "Shénme dōngxi piányi wǒ jiù mǎi shénme.",
+          "translations": {
+            "vi": "Cái gì rẻ thì tôi mua cái đó.",
+            "en": "I'll buy whatever is cheap."
+          }
+        },
+        {
+          "text": "你哪天有时间就哪天来我家吧。",
+          "pronunciation": "Nǐ nǎ tiān yǒu shíjiān jiù nǎ tiān lái wǒ jiā ba.",
+          "translations": {
+            "vi": "Hôm nào bạn có thời gian thì hôm đó đến nhà tôi nhé.",
+            "en": "Come to my house on whichever day you have time."
+          }
+        },
+        {
+          "text": "谁喜欢他他就喜欢谁。",
+          "pronunciation": "Shéi xǐhuan tā tā jiù xǐhuan shéi.",
+          "translations": {
+            "vi": "Ai thích anh ấy thì anh ấy thích người đó.",
+            "en": "He likes whoever likes him."
+          }
+        },
+        {
+          "text": "你坐哪儿我就坐哪儿。",
+          "pronunciation": "Nǐ zuò nǎr wǒ jiù zuò nǎr.",
+          "translations": {
+            "vi": "Em ngồi đâu thì anh ngồi đó.",
+            "en": "I'll sit wherever you sit."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在休息室",
+        "pronunciation": "Zài xiūxishì",
+        "translations": {
+          "vi": "Trong phòng giải lao",
+          "en": "In the lounge"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：听说你最近打算买房子？",
+          "pronunciation": "Tóngshì: Tīngshuō nǐ zuìjìn dǎsuàn mǎi fángzi?",
+          "translations": {
+            "vi": "Đồng nghiệp: Nghe nói dạo này cô định mua nhà à?",
+            "en": "Colleague: I heard you are planning to buy a house recently?"
+          }
+        },
+        {
+          "text": "小丽：是，昨天去看了看，今天又去看了看，明天还要再去看看。",
+          "pronunciation": "Xiǎolì: Shì, zuótiān qù kànle kàn, jīntiān yòu qù kànle kàn, míngtiān hái yào zài qù kànkan.",
+          "translations": {
+            "vi": "Tiểu Lệ: Đúng vậy, hôm qua đã đi xem, hôm nay lại đi xem, ngày mai vẫn muốn đi xem nữa.",
+            "en": "Xiaoli: Yes, I went to see some yesterday, went again today, and plan to go again tomorrow."
+          }
+        },
+        {
+          "text": "同事：都不满意吗？",
+          "pronunciation": "Tóngshì: Dōu bù mǎnyì ma?",
+          "translations": {
+            "vi": "Đồng nghiệp: Đều không hài lòng sao?",
+            "en": "Colleague: Are you not satisfied with any of them?"
+          }
+        },
+        {
+          "text": "小丽：一个没有电梯，不方便。一个有电梯，但是在二十层。",
+          "pronunciation": "Xiǎolì: Yí ge méiyǒu diàntī, bù fāngbiàn. Yí ge yǒu diàntī, dànshì zài èrshí céng.",
+          "translations": {
+            "vi": "Tiểu Lệ: Một cái không có thang máy, bất tiện. Một cái có thang máy nhưng ở tầng 20.",
+            "en": "Xiaoli: One doesn't have an elevator, which is inconvenient. One has an elevator, but it's on the 20th floor."
+          }
+        },
+        {
+          "text": "同事：二十层怎么了？",
+          "pronunciation": "Tóngshì: Èrshí céng zěnme le?",
+          "translations": {
+            "vi": "Đồng nghiệp: Tầng 20 thì sao?",
+            "en": "Colleague: What's wrong with the 20th floor?"
+          }
+        },
+        {
+          "text": "小丽：太高了，往下看多害怕啊！",
+          "pronunciation": "Xiǎolì: Tài gāo le, wǎng xià kàn duō hàipà a!",
+          "translations": {
+            "vi": "Tiểu Lệ: Cao quá, nhìn xuống sợ lắm!",
+            "en": "Xiaoli: It's too high, looking down is so scary!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在学校",
+        "pronunciation": "Zài xuéxiào",
+        "translations": {
+          "vi": "Ở trường học",
+          "en": "At school"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小明：听说你下个星期就要回国了？",
+          "pronunciation": "Xiǎomíng: Tīngshuō nǐ xià ge xīngqī jiù yào huí guó le?",
+          "translations": {
+            "vi": "Tiểu Minh: Nghe nói tuần sau cậu về nước rồi à?",
+            "en": "Xiaoming: I heard you are going back to your country next week?"
+          }
+        },
+        {
+          "text": "马可：是啊，真不想离开北京。",
+          "pronunciation": "Mǎkě: Shì a, zhēn bù xiǎng líkāi Běijīng.",
+          "translations": {
+            "vi": "Marco: Đúng vậy, thật không muốn rời xa Bắc Kinh.",
+            "en": "Marco: Yes, I really don't want to leave Beijing."
+          }
+        },
+        {
+          "text": "小明：我下星期不在北京，不能去机场送你了。",
+          "pronunciation": "Xiǎomíng: Wǒ xià xīngqī bú zài Běijīng, bù néng qù jīchǎng sòng nǐ le.",
+          "translations": {
+            "vi": "Tiểu Minh: Tuần sau tớ không ở Bắc Kinh, không thể ra sân bay tiễn cậu được rồi.",
+            "en": "Xiaoming: I won't be in Beijing next week, so I can't go to the airport to see you off."
+          }
+        },
+        {
+          "text": "马可：没关系，你忙吧。",
+          "pronunciation": "Mǎkě: Méiguānxi, nǐ máng ba.",
+          "translations": {
+            "vi": "Marco: Không sao, cậu cứ bận việc đi.",
+            "en": "Marco: It's okay, you go ahead with your business."
+          }
+        },
+        {
+          "text": "小明：这个小熊猫送给你，欢迎你以后再到中国来。",
+          "pronunciation": "Xiǎomíng: Zhège xiǎo xióngmāo sòng gěi nǐ, huānyíng nǐ yǐhòu zài dào Zhōngguó lái.",
+          "translations": {
+            "vi": "Tiểu Minh: Con gấu trúc nhỏ này tặng cậu, hoan nghênh cậu sau này lại đến Trung Quốc.",
+            "en": "Xiaoming: This little panda is for you. You are welcome to come back to China in the future."
+          }
+        },
+        {
+          "text": "马可：谢谢。希望以后能再见面。",
+          "pronunciation": "Mǎkě: Xièxie. Xīwàng yǐhòu néng zài jiàn miàn.",
+          "translations": {
+            "vi": "Marco: Cảm ơn. Hy vọng sau này có thể gặp lại.",
+            "en": "Marco: Thanks. I hope we can meet again in the future."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在咖啡厅",
+        "pronunciation": "Zài kāfēitīng",
+        "translations": {
+          "vi": "Ở quán cà phê",
+          "en": "At the coffee shop"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：小刚，我们坐哪儿？",
+          "pronunciation": "Xiǎolì: Xiǎogāng, wǒmen zuò nǎr?",
+          "translations": {
+            "vi": "Tiểu Lệ: Tiểu Cương, chúng ta ngồi đâu?",
+            "en": "Xiaoli: Xiaogang, where should we sit?"
+          }
+        },
+        {
+          "text": "小刚：你坐哪儿我就坐哪儿。",
+          "pronunciation": "Xiǎogāng: Nǐ zuò nǎr wǒ jiù zuò nǎr.",
+          "translations": {
+            "vi": "Tiểu Cương: Em ngồi đâu thì anh ngồi đó.",
+            "en": "Xiaogang: I'll sit wherever you sit."
+          }
+        },
+        {
+          "text": "小丽：坐这儿吧，这儿安静。你想喝什么饮料？",
+          "pronunciation": "Xiǎolì: Zuò zhèr ba, zhèr ānjìng. Nǐ xiǎng hē shénme yǐnliào?",
+          "translations": {
+            "vi": "Tiểu Lệ: Ngồi đây đi, ở đây yên tĩnh. Anh muốn uống gì?",
+            "en": "Xiaoli: Let's sit here, it's quiet here. What drink do you want?"
+          }
+        },
+        {
+          "text": "小刚：你喝什么我就喝什么。",
+          "pronunciation": "Xiǎogāng: Nǐ hē shénme wǒ jiù hē shénme.",
+          "translations": {
+            "vi": "Tiểu Cương: Em uống gì thì anh uống cái đó.",
+            "en": "Xiaogang: I'll drink whatever you drink."
+          }
+        },
+        {
+          "text": "小丽：喝可乐吧。你等我一会儿，我马上回来。",
+          "pronunciation": "Xiǎolì: Hē kělè ba. Nǐ děng wǒ yíhuìr, wǒ mǎshàng huílai.",
+          "translations": {
+            "vi": "Tiểu Lệ: Uống coca nhé. Anh đợi em một lát, em quay lại ngay.",
+            "en": "Xiaoli: Let's drink cola. Wait a moment, I'll be right back."
+          }
+        },
+        {
+          "text": "小刚：小丽，你去哪儿？你去哪儿我就去哪儿。",
+          "pronunciation": "Xiǎogāng: Xiǎolì, nǐ qù nǎr? Nǐ qù nǎr wǒ jiù qù nǎr.",
+          "translations": {
+            "vi": "Tiểu Cương: Tiểu Lệ, em đi đâu? Em đi đâu thì anh đi đó.",
+            "en": "Xiaogang: Xiaoli, where are you going? I'll go wherever you go."
+          }
+        },
+        {
+          "text": "小丽：我去洗手间。",
+          "pronunciation": "Xiǎolì: Wǒ qù xǐshǒujiān.",
+          "translations": {
+            "vi": "Tiểu Lệ: Em đi nhà vệ sinh.",
+            "en": "Xiaoli: I'm going to the restroom."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "在周明家",
+        "pronunciation": "Zài Zhōu Míng jiā",
+        "translations": {
+          "vi": "Ở nhà Chu Minh",
+          "en": "At Zhou Ming's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "老同学：快五年了，你几乎没变化。",
+          "pronunciation": "Lǎo tóngxué: Kuài wǔ nián le, nǐ jīhū méi biànhuà.",
+          "translations": {
+            "vi": "Bạn cũ: Sắp 5 năm rồi, cậu hầu như không thay đổi.",
+            "en": "Old Classmate: It's been almost five years, you haven't changed a bit."
+          }
+        },
+        {
+          "text": "周太太：谁说的？我胖了，以前的衣服都不能穿了。",
+          "pronunciation": "Zhōu tàitai: Shéi shuō de? Wǒ pàng le, yǐqián de yīfu dōu bù néng chuān le.",
+          "translations": {
+            "vi": "Châu phu nhân: Ai nói vậy? Tớ béo rồi, quần áo trước đây đều không mặc được nữa.",
+            "en": "Mrs. Zhou: Who said that? I've gotten fat, I can't wear my old clothes anymore."
+          }
+        },
+        {
+          "text": "老同学：健康最重要，胖瘦没关系。",
+          "pronunciation": "Lǎo tóngxué: Jiànkāng zuì zhòngyào, pàng shòu méi guānxi.",
+          "translations": {
+            "vi": "Bạn cũ: Sức khỏe là quan trọng nhất, béo gầy không sao cả.",
+            "en": "Old Classmate: Health is the most important thing, being fat or thin doesn't matter."
+          }
+        },
+        {
+          "text": "周太太：是呀，想吃什么就吃什么。",
+          "pronunciation": "Zhōu tàitai: Shì ya, xiǎng chī shénme jiù chī shénme.",
+          "translations": {
+            "vi": "Châu phu nhân: Đúng vậy, muốn ăn gì thì ăn cái đó.",
+            "en": "Mrs. Zhou: Yeah, I just eat whatever I want."
+          }
+        },
+        {
+          "text": "老同学：你做饭还是周明做饭？",
+          "pronunciation": "Lǎo tóngxué: Nǐ zuò fàn háishi Zhōu Míng zuò fàn?",
+          "translations": {
+            "vi": "Bạn cũ: Cậu nấu cơm hay Chu Minh nấu cơm?",
+            "en": "Old Classmate: Do you cook or does Zhou Ming cook?"
+          }
+        },
+        {
+          "text": "周太太：我做，我想吃什么就做什么，想吃多少就做多少。",
+          "pronunciation": "Zhōu tàitai: Wǒ zuò, wǒ xiǎng chī shénme jiù zuò shénme, xiǎng chī duōshao jiù zuò duōshao.",
+          "translations": {
+            "vi": "Châu phu nhân: Tớ nấu, tớ muốn ăn gì thì nấu cái đó, muốn ăn bao nhiêu thì nấu bấy nhiêu.",
+            "en": "Mrs. Zhou: I cook. I cook whatever I want to eat, and I cook as much as I want to eat."
+          }
+        }
+      ]
+    }
+  ]
 }

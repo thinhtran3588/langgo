@@ -1,0 +1,548 @@
+{
+  "title": {
+    "text": "把重要的东西放在我这儿吧。",
+    "pronunciation": "Bǎ zhòngyào de dōngxi fàng zài wǒ zhèr ba.",
+    "translations": {
+      "vi": "Hãy để những đồ quan trọng ở chỗ tôi đi.",
+      "en": "Put the important things here with me."
+    }
+  },
+  "newWords": [
+    {
+      "word": "太阳",
+      "type": "danh từ",
+      "pronunciation": "tàiyáng",
+      "translations": {
+        "vi": "mặt trời",
+        "en": "sun"
+      },
+      "example": {
+        "text": "今天太阳从西边出来了吗？",
+        "pronunciation": "Jīntiān tàiyáng cóng xībian chūlai le ma?",
+        "translations": {
+          "vi": "Hôm nay mặt trời mọc ở đằng tây à?",
+          "en": "Did the sun rise from the west today?"
+        }
+      }
+    },
+    {
+      "word": "西",
+      "type": "danh từ",
+      "pronunciation": "xī",
+      "translations": {
+        "vi": "phía tây, hướng tây",
+        "en": "west"
+      },
+      "example": {
+        "text": "今天太阳从西边出来了吗？",
+        "pronunciation": "Jīntiān tàiyáng cóng xībian chūlai le ma?",
+        "translations": {
+          "vi": "Hôm nay mặt trời mọc ở đằng tây à?",
+          "en": "Did the sun rise from the west today?"
+        }
+      }
+    },
+    {
+      "word": "生气",
+      "type": "động từ",
+      "pronunciation": "shēng qì",
+      "translations": {
+        "vi": "giận, tức giận",
+        "en": "to be angry"
+      },
+      "example": {
+        "text": "经理生气了，他告诉我，明天8点不到，以后就别来了。",
+        "pronunciation": "Jīnglǐ shēng qì le, tā gàosu wǒ, míngtiān bā diǎn bú dào, yǐhòu jiù bié lái le.",
+        "translations": {
+          "vi": "Giám đốc giận rồi, ông ấy bảo tôi ngày mai không đến trước 8 giờ thì sau này đừng đến nữa.",
+          "en": "The manager is angry; he told me if I don't arrive by 8 tomorrow, don't bother coming back."
+        }
+      }
+    },
+    {
+      "word": "行李箱",
+      "type": "danh từ",
+      "pronunciation": "xínglixiāng",
+      "translations": {
+        "vi": "hành lý, vali",
+        "en": "suitcase; luggage"
+      },
+      "example": {
+        "text": "那我帮你把衣服放到行李箱里吧。",
+        "pronunciation": "Nà wǒ bāng nǐ bǎ yīfu fàngdào xínglixiāng li ba.",
+        "translations": {
+          "vi": "Vậy em giúp anh bỏ quần áo vào vali nhé.",
+          "en": "Then let me help you put the clothes in the suitcase."
+        }
+      }
+    },
+    {
+      "word": "自己",
+      "type": "đại từ",
+      "pronunciation": "zìjǐ",
+      "translations": {
+        "vi": "tự mình, bản thân",
+        "en": "oneself"
+      },
+      "example": {
+        "text": "你要自己照顾好自己。",
+        "pronunciation": "Nǐ yào zìjǐ zhàogù hǎo zìjǐ.",
+        "translations": {
+          "vi": "Em phải tự chăm sóc tốt cho bản thân.",
+          "en": "You need to take good care of yourself."
+        }
+      }
+    },
+    {
+      "word": "包",
+      "type": "danh từ",
+      "pronunciation": "bāo",
+      "translations": {
+        "vi": "cặp, túi",
+        "en": "bag; sack"
+      },
+      "example": {
+        "text": "我已经把我的照片放在你的包里了。",
+        "pronunciation": "Wǒ yǐjīng bǎ wǒ de zhàopiàn fàng zài nǐ de bāo li le.",
+        "translations": {
+          "vi": "Em đã để ảnh của em trong túi của anh rồi.",
+          "en": "I've already put my photo in your bag."
+        }
+      }
+    },
+    {
+      "word": "发现",
+      "type": "động từ",
+      "pronunciation": "fāxiàn",
+      "translations": {
+        "vi": "phát hiện",
+        "en": "to discover; to realize"
+      },
+      "example": {
+        "text": "来机场的路上我才发现忘带护照了。",
+        "pronunciation": "Lái jīchǎng de lùshang wǒ cái fāxiàn wàng dài hùzhào le.",
+        "translations": {
+          "vi": "Trên đường đến sân bay tôi mới phát hiện quên mang hộ chiếu.",
+          "en": "I only realized I forgot my passport on the way to the airport."
+        }
+      }
+    },
+    {
+      "word": "护照",
+      "type": "danh từ",
+      "pronunciation": "hùzhào",
+      "translations": {
+        "vi": "hộ chiếu",
+        "en": "passport"
+      },
+      "example": {
+        "text": "来机场的路上我才发现忘带护照了。",
+        "pronunciation": "Lái jīchǎng de lùshang wǒ cái fāxiàn wàng dài hùzhào le.",
+        "translations": {
+          "vi": "Trên đường đến sân bay tôi mới phát hiện quên mang hộ chiếu.",
+          "en": "I only realized I forgot my passport on the way to the airport."
+        }
+      }
+    },
+    {
+      "word": "起飞",
+      "type": "động từ",
+      "pronunciation": "qǐfēi",
+      "translations": {
+        "vi": "cất cánh (máy bay)",
+        "en": "to take off (aircraft)"
+      },
+      "example": {
+        "text": "快点儿吧，飞机就要起飞了。",
+        "pronunciation": "Kuài diǎnr ba, fēijī jiùyào qǐfēi le.",
+        "translations": {
+          "vi": "Nhanh lên đi, máy bay sắp cất cánh rồi.",
+          "en": "Hurry up, the plane is about to take off."
+        }
+      }
+    },
+    {
+      "word": "司机",
+      "type": "danh từ",
+      "pronunciation": "sījī",
+      "translations": {
+        "vi": "tài xế",
+        "en": "driver"
+      },
+      "example": {
+        "text": "司机把我送到机场的时候，我才发现忘记带钱包了。",
+        "pronunciation": "Sījī bǎ wǒ sòngdào jīchǎng de shíhou, wǒ cái fāxiàn wàngjì dài qiánbāo le.",
+        "translations": {
+          "vi": "Lúc tài xế đưa tôi đến sân bay, tôi mới phát hiện quên mang ví tiền.",
+          "en": "When the driver took me to the airport, I realized I forgot my wallet."
+        }
+      }
+    },
+    {
+      "word": "教",
+      "type": "động từ",
+      "pronunciation": "jiāo",
+      "translations": {
+        "vi": "dạy",
+        "en": "to teach"
+      },
+      "example": {
+        "text": "我是一个中学老师，教学生画画儿。",
+        "pronunciation": "Wǒ shì yí ge zhōngxué lǎoshī, jiāo xuésheng huà huàr.",
+        "translations": {
+          "vi": "Tôi là một giáo viên trung học, dạy học sinh vẽ tranh.",
+          "en": "I am a middle school teacher, teaching students how to draw."
+        }
+      }
+    },
+    {
+      "word": "画",
+      "type": "động từ/danh từ",
+      "pronunciation": "huà",
+      "translations": {
+        "vi": "vẽ; tranh",
+        "en": "to draw; painting"
+      },
+      "example": {
+        "text": "我是一个中学老师，教学生画画儿。",
+        "pronunciation": "Wǒ shì yí ge zhōngxué lǎoshī, jiāo xuésheng huà huàr.",
+        "translations": {
+          "vi": "Tôi là một giáo viên trung học, dạy học sinh vẽ tranh.",
+          "en": "I am a middle school teacher, teaching students how to draw."
+        }
+      }
+    },
+    {
+      "word": "需要",
+      "type": "động từ",
+      "pronunciation": "xūyào",
+      "translations": {
+        "vi": "cần",
+        "en": "to need"
+      },
+      "example": {
+        "text": "每次下课前，我都会把下次学生需要带的东西写在黑板上。",
+        "pronunciation": "Měi cì xiàkè qián, wǒ dōu huì bǎ xià cì xuésheng xūyào dài de dōngxi xiě zài hēibǎn shang.",
+        "translations": {
+          "vi": "Trước mỗi lần tan học, tôi đều viết những đồ học sinh cần mang cho lần sau lên bảng đen.",
+          "en": "Before each class ends, I write what students need to bring next time on the blackboard."
+        }
+      }
+    },
+    {
+      "word": "黑板",
+      "type": "danh từ",
+      "pronunciation": "hēibǎn",
+      "translations": {
+        "vi": "bảng đen",
+        "en": "blackboard"
+      },
+      "example": {
+        "text": "每次下课前，我都会把下次学生需要带的东西写在黑板上。",
+        "pronunciation": "Měi cì xiàkè qián, wǒ dōu huì bǎ xià cì xuésheng xūyào dài de dōngxi xiě zài hēibǎn shang.",
+        "translations": {
+          "vi": "Trước mỗi lần tan học, tôi đều viết những đồ học sinh cần mang cho lần sau lên bảng đen.",
+          "en": "Before each class ends, I write what students need to bring next time on the blackboard."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "“才” 和 “就”",
+      "descriptions": {
+        "vi": "“才” và “就” đều có thể được dùng trước động từ để làm trạng ngữ. “就” biểu thị người nói cho rằng hành động xảy ra sớm, tiến hành nhanh, thuận lợi. “才” biểu thị người nói cho rằng hành động xảy ra muộn hoặc được thực hiện chậm trễ/không thuận lợi.",
+        "en": "\"才\" and \"就\" can both be used before verbs as adverbials. \"就\" indicates that the speaker thinks the action happened early, quickly, or smoothly. \"才\" indicates that the speaker thinks the action happened late, slowly, or not smoothly."
+      },
+      "examples": [
+        {
+          "text": "我早上五点就起床了。",
+          "pronunciation": "Wǒ zǎoshang wǔ diǎn jiù qǐchuáng le.",
+          "translations": {
+            "vi": "Buổi sáng 5 giờ tôi đã dậy rồi.",
+            "en": "I got up at 5 am."
+          }
+        },
+        {
+          "text": "八点上课，他九点才起床。",
+          "pronunciation": "Bā diǎn shàngkè, tā jiǔ diǎn cái qǐchuáng.",
+          "translations": {
+            "vi": "8 giờ vào học, 9 giờ cậu ấy mới dậy.",
+            "en": "Class starts at 8, he didn't get up until 9."
+          }
+        },
+        {
+          "text": "坐飞机一个小时就到了。",
+          "pronunciation": "Zuò fēijī yí ge xiǎoshí jiù dào le.",
+          "translations": {
+            "vi": "Đi máy bay một tiếng là đến rồi.",
+            "en": "It only takes an hour by plane."
+          }
+        },
+        {
+          "text": "坐火车八个小时才能到。",
+          "pronunciation": "Zuò huǒchē bā ge xiǎoshí cái néng dào.",
+          "translations": {
+            "vi": "Đi tàu hỏa 8 tiếng mới đến được.",
+            "en": "It takes 8 hours to arrive by train."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "“把” 字句2: A把B+动词+在/到/给……",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, câu có từ 把 thường được dùng để diễn tả một hành động được thực hiện và có tác động đến người hay sự vật xác định, làm thay đổi vị trí của người hay sự vật đó. Mẫu câu này có cấu trúc là “A 把 B + động từ + 在/到 + vị trí”. Biểu thị thông qua động tác khiến sự vật xác định nào đó xảy ra quan hệ chuyển dịch, có thể dùng “A 把 B + động từ + 给 + người nào đó”.",
+        "en": "In Chinese, the \"把\" sentence is often used to indicate an action performed on a specific person or object that changes its position. The structure is \"A 把 B + Verb + 在/到 + Position\". To indicate the transfer of possession, use \"A 把 B + Verb + 给 + Someone\"."
+      },
+      "examples": [
+        {
+          "text": "我把照片放在你包里了。",
+          "pronunciation": "Wǒ bǎ zhàopiàn fàng zài nǐ bāo li le.",
+          "translations": {
+            "vi": "Tôi đã để ảnh trong túi của bạn rồi.",
+            "en": "I put the photo in your bag."
+          }
+        },
+        {
+          "text": "老师把作业放在桌子上了。",
+          "pronunciation": "Lǎoshī bǎ zuòyè fàng zài zhuōzi shang le.",
+          "translations": {
+            "vi": "Thầy giáo đã để bài tập lên bàn rồi.",
+            "en": "The teacher put the homework on the table."
+          }
+        },
+        {
+          "text": "我把鲜花送给老师了。",
+          "pronunciation": "Wǒ bǎ xiānhuā sòng gěi lǎoshī le.",
+          "translations": {
+            "vi": "Tôi đã tặng hoa tươi cho thầy giáo rồi.",
+            "en": "I gave the fresh flowers to the teacher."
+          }
+        },
+        {
+          "text": "你帮我把这本书带给小刚。",
+          "pronunciation": "Nǐ bāng wǒ bǎ zhè běn shū dài gěi Xiǎogāng.",
+          "translations": {
+            "vi": "Bạn giúp tôi mang quyển sách này cho Tiểu Cương.",
+            "en": "Help me bring this book to Xiaogang."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在家",
+        "pronunciation": "Zài jiā",
+        "translations": {
+          "vi": "Ở nhà",
+          "en": "At home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：今天太阳从西边出来了吗？",
+          "pronunciation": "Xiǎolì: Jīntiān tàiyáng cóng xībian chūlai le ma?",
+          "translations": {
+            "vi": "Tiểu Lệ: Hôm nay mặt trời mọc ở đằng tây à?",
+            "en": "Xiaoli: Did the sun rise from the west today?"
+          }
+        },
+        {
+          "text": "小刚：怎么了？",
+          "pronunciation": "Xiǎogāng: Zěnme le?",
+          "translations": {
+            "vi": "Tiểu Cương: Sao vậy?",
+            "en": "Xiaogang: What's wrong?"
+          }
+        },
+        {
+          "text": "小丽：你怎么这么早就要睡觉了？以前都要12点以后才睡觉。",
+          "pronunciation": "Xiǎolì: Nǐ zěnme zhème zǎo jiù yào shuìjiào le? Yǐqián dōu yào shí'èr diǎn yǐhòu cái shuìjiào.",
+          "translations": {
+            "vi": "Tiểu Lệ: Sao anh ngủ sớm thế? Trước đây toàn 12 giờ hơn mới ngủ.",
+            "en": "Xiaoli: Why are you going to sleep so early? Usually you don't sleep until after 12."
+          }
+        },
+        {
+          "text": "小刚：我明天8点就要到公司。",
+          "pronunciation": "Xiǎogāng: Wǒ míngtiān bā diǎn jiù yào dào gōngsī.",
+          "translations": {
+            "vi": "Tiểu Cương: Ngày mai 8 giờ anh phải đến công ty rồi.",
+            "en": "Xiaogang: I have to be at the company by 8 tomorrow."
+          }
+        },
+        {
+          "text": "小丽：有事吗？",
+          "pronunciation": "Xiǎolì: Yǒu shì ma?",
+          "translations": {
+            "vi": "Tiểu Lệ: Có việc gì à?",
+            "en": "Xiaoli: Is something happening?"
+          }
+        },
+        {
+          "text": "小刚：经理生气了，他告诉我，明天8点不到，以后就别来了。",
+          "pronunciation": "Xiǎogāng: Jīnglǐ shēng qì le, tā gàosu wǒ, míngtiān bā diǎn bú dào, yǐhòu jiù bié lái le.",
+          "translations": {
+            "vi": "Tiểu Cương: Giám đốc giận rồi, ông ấy bảo anh ngày mai không đến trước 8 giờ thì sau này đừng đến nữa.",
+            "en": "Xiaogang: The manager is angry. He told me if I don't arrive by 8 tomorrow, don't bother coming back."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在家",
+        "pronunciation": "Zài jiā",
+        "translations": {
+          "vi": "Ở nhà",
+          "en": "At home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小刚：我要跟周经理去外地办事，明天的飞机。",
+          "pronunciation": "Xiǎogāng: Wǒ yào gēn Zhōu jīnglǐ qù wàidì bàn shì, míngtiān de fēijī.",
+          "translations": {
+            "vi": "Tiểu Cương: Anh phải đi công tác ngoại tỉnh với giám đốc Chu, bay ngày mai.",
+            "en": "Xiaogang: I have to go out of town for business with Manager Zhou, flying tomorrow."
+          }
+        },
+        {
+          "text": "小丽：那我帮你把衣服放到行李箱里吧。什么时候回来？",
+          "pronunciation": "Xiǎolì: Nà wǒ bāng nǐ bǎ yīfu fàngdào xínglixiāng li ba. Shénme shíhou huílai?",
+          "translations": {
+            "vi": "Tiểu Lệ: Vậy em giúp anh bỏ quần áo vào vali nhé. Khi nào về?",
+            "en": "Xiaoli: Then let me help you put your clothes in the suitcase. When will you be back?"
+          }
+        },
+        {
+          "text": "小刚：一个星期就回来。",
+          "pronunciation": "Xiǎogāng: Yí ge xīngqī jiù huílai.",
+          "translations": {
+            "vi": "Tiểu Cương: Một tuần là về.",
+            "en": "Xiaogang: I'll be back in just a week."
+          }
+        },
+        {
+          "text": "小丽：啊？一个星期以后才回来？",
+          "pronunciation": "Xiǎolì: À? Yí ge xīngqī yǐhòu cái huílai?",
+          "translations": {
+            "vi": "Tiểu Lệ: Hả? Một tuần sau mới về á?",
+            "en": "Xiaoli: Huh? You won't be back until a week later?"
+          }
+        },
+        {
+          "text": "小刚：你要自己照顾好自己，我已经给你准备好吃的和喝的了。",
+          "pronunciation": "Xiǎogāng: Nǐ yào zìjǐ zhàogù hǎo zìjǐ, wǒ yǐjīng gěi nǐ zhǔnbèi hǎo chī de hé hē de le.",
+          "translations": {
+            "vi": "Tiểu Cương: Em phải tự chăm sóc tốt cho bản thân, anh đã chuẩn bị đồ ăn thức uống cho em rồi.",
+            "en": "Xiaogang: You need to take care of yourself. I've already prepared food and drinks for you."
+          }
+        },
+        {
+          "text": "小丽：好吧。我已经把我的照片放在你的包里了。",
+          "pronunciation": "Xiǎolì: Hǎo ba. Wǒ yǐjīng bǎ wǒ de zhàopiàn fàng zài nǐ de bāo li le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Được rồi. Em đã để ảnh của em trong túi của anh rồi.",
+            "en": "Xiaoli: Okay. I've put my photo in your bag."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在机场",
+        "pronunciation": "Zài jīchǎng",
+        "translations": {
+          "vi": "Ở sân bay",
+          "en": "At the airport"
+        }
+      },
+      "sentences": [
+        {
+          "text": "周明：你怎么才来？",
+          "pronunciation": "Zhōu Míng: Nǐ zěnme cái lái?",
+          "translations": {
+            "vi": "Chu Minh: Sao bây giờ cậu mới đến?",
+            "en": "Zhou Ming: Why did you just arrive?"
+          }
+        },
+        {
+          "text": "小刚：对不起，周经理，来机场的路上我才发现忘带护照了。",
+          "pronunciation": "Xiǎogāng: Duìbuqǐ, Zhōu jīnglǐ, lái jīchǎng de lùshang wǒ cái fāxiàn wàng dài hùzhào le.",
+          "translations": {
+            "vi": "Tiểu Cương: Xin lỗi giám đốc Chu, trên đường đến sân bay tôi mới phát hiện quên mang hộ chiếu.",
+            "en": "Xiaogang: Sorry Manager Zhou, I only realized I forgot my passport on the way to the airport."
+          }
+        },
+        {
+          "text": "周明：快点儿吧，飞机就要起飞了。",
+          "pronunciation": "Zhōu Míng: Kuài diǎnr ba, fēijī jiùyào qǐfēi le.",
+          "translations": {
+            "vi": "Chu Minh: Nhanh lên đi, máy bay sắp cất cánh rồi.",
+            "en": "Zhou Ming: Hurry up, the plane is about to take off."
+          }
+        },
+        {
+          "text": "小刚：您有钱吗？司机把我送到机场的时候，我才发现忘记带钱包了。",
+          "pronunciation": "Xiǎogāng: Nín yǒu qián ma? Sījī bǎ wǒ sòngdào jīchǎng de shíhou, wǒ cái fāxiàn wàngjì dài qiánbāo le.",
+          "translations": {
+            "vi": "Tiểu Cương: Ông có tiền không? Lúc tài xế đưa tôi đến sân bay, tôi mới phát hiện quên mang ví tiền.",
+            "en": "Xiaogang: Do you have money? When the driver dropped me off, I realized I forgot my wallet."
+          }
+        },
+        {
+          "text": "周明：我看你还是把重要的东西放在我这儿吧。",
+          "pronunciation": "Zhōu Míng: Wǒ kàn nǐ háishi bǎ zhòngyào de dōngxi fàng zài wǒ zhèr ba.",
+          "translations": {
+            "vi": "Chu Minh: Tôi thấy cậu hay là để những đồ quan trọng ở chỗ tôi đi.",
+            "en": "Zhou Ming: I think you better put the important things here with me."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "中学老师",
+        "pronunciation": "Zhōngxué lǎoshī",
+        "translations": {
+          "vi": "Giáo viên trung học",
+          "en": "Middle school teacher"
+        }
+      },
+      "sentences": [
+        {
+          "text": "我是一个中学老师，教学生画画儿。",
+          "pronunciation": "Wǒ shì yí ge zhōngxué lǎoshī, jiāo xuésheng huà huàr.",
+          "translations": {
+            "vi": "Tôi là một giáo viên trung học, dạy học sinh vẽ tranh.",
+            "en": "I am a middle school teacher, teaching students how to draw."
+          }
+        },
+        {
+          "text": "每次下课前，我都会把下次学生需要带的东西写在黑板上，但是每次上课时，总会有学生忘了拿铅笔。",
+          "pronunciation": "Měi cì xiàkè qián, wǒ dōu huì bǎ xià cì xuésheng xūyào dài de dōngxi xiě zài hēibǎn shang, dànshì měi cì shàngkè shí, zǒng huì yǒu xuésheng wàng le ná qiānbǐ.",
+          "translations": {
+            "vi": "Trước mỗi lần tan học, tôi đều viết những đồ học sinh cần mang cho lần sau lên bảng đen, nhưng mỗi lần vào học, luôn có học sinh quên mang bút chì.",
+            "en": "Before each class ends, I write what students need to bring next time on the blackboard, but in every class, there are always students who forget to bring pencils."
+          }
+        },
+        {
+          "text": "所以我有点儿生气，不是因为他们没带铅笔，是因为他们没有好的学习习惯。",
+          "pronunciation": "Suǒyǐ wǒ yǒudiǎnr shēng qì, bú shì yīnwèi tāmen méi dài qiānbǐ, shì yīnwèi tāmen méiyǒu hǎo de xuéxí xíguàn.",
+          "translations": {
+            "vi": "Cho nên tôi hơi giận, không phải vì các em ấy không mang bút chì, mà là vì các em ấy không có thói quen học tập tốt.",
+            "en": "So I get a little angry, not because they didn't bring pencils, but because they don't have good study habits."
+          }
+        }
+      ]
+    }
+  ]
+}

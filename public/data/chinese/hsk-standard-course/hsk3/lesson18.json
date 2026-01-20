@@ -1,0 +1,599 @@
+{
+  "title": {
+    "text": "我相信他们会同意的。",
+    "pronunciation": "Wǒ xiāngxìn tāmen huì tóngyì de.",
+    "translations": {
+      "vi": "Tôi tin họ sẽ đồng ý.",
+      "en": "I believe they will agree."
+    }
+  },
+  "newWords": [
+    {
+      "word": "向",
+      "type": "giới từ",
+      "pronunciation": "xiàng",
+      "translations": {
+        "vi": "đối với, về phía (chỉ hướng của hành động)",
+        "en": "towards; to"
+      },
+      "example": {
+        "text": "老周，我打算买房子了，想向你借点儿钱。",
+        "pronunciation": "Lǎo Zhōu, wǒ dǎsuàn mǎi fángzi le, xiǎng xiàng nǐ jiè diǎnr qián.",
+        "translations": {
+          "vi": "Lão Châu, tôi định mua nhà rồi, muốn mượn anh chút tiền.",
+          "en": "Old Zhou, I'm planning to buy a house and want to borrow some money from you."
+        }
+      }
+    },
+    {
+      "word": "万",
+      "type": "số từ",
+      "pronunciation": "wàn",
+      "translations": {
+        "vi": "vạn, mười nghìn",
+        "en": "ten thousand"
+      },
+      "example": {
+        "text": "还差5万块钱。",
+        "pronunciation": "Hái chà wǔ wàn kuài qián.",
+        "translations": {
+          "vi": "Vẫn còn thiếu 5 vạn tệ.",
+          "en": "Still short of 50,000 yuan."
+        }
+      }
+    },
+    {
+      "word": "只",
+      "type": "lượng từ",
+      "pronunciation": "zhī",
+      "translations": {
+        "vi": "(được dùng cho động vật) con",
+        "en": "(measure word for certain animals)"
+      },
+      "example": {
+        "text": "妈妈，你看那只狗多可爱。",
+        "pronunciation": "Māma, nǐ kàn nà zhī gǒu duō kě'ài.",
+        "translations": {
+          "vi": "Mẹ, mẹ xem con chó kia đáng yêu quá.",
+          "en": "Mom, look how cute that dog is."
+        }
+      }
+    },
+    {
+      "word": "嘴",
+      "type": "danh từ",
+      "pronunciation": "zuǐ",
+      "translations": {
+        "vi": "miệng",
+        "en": "mouth"
+      },
+      "example": {
+        "text": "眼睛大大的，嘴小小的。",
+        "pronunciation": "Yǎnjing dàdà de, zuǐ xiǎoxiǎo de.",
+        "translations": {
+          "vi": "Mắt to to, miệng nhỏ nhỏ.",
+          "en": "Big eyes, small mouth."
+        }
+      }
+    },
+    {
+      "word": "动物",
+      "type": "danh từ",
+      "pronunciation": "dòngwù",
+      "translations": {
+        "vi": "động vật, loài vật",
+        "en": "animal"
+      },
+      "example": {
+        "text": "动物和小孩子一样，都需要人照顾。",
+        "pronunciation": "Dòngwù hé xiǎoháizi yíyàng, dōu xūyào rén zhàogù.",
+        "translations": {
+          "vi": "Động vật cũng giống như trẻ con, đều cần người chăm sóc.",
+          "en": "Animals are like children, they all need to be taken care of."
+        }
+      }
+    },
+    {
+      "word": "段",
+      "type": "lượng từ",
+      "pronunciation": "duàn",
+      "translations": {
+        "vi": "khoảng, quãng",
+        "en": "period; segment"
+      },
+      "example": {
+        "text": "这段时间你自己的衣服都没洗。",
+        "pronunciation": "Zhè duàn shíjiān nǐ zìjǐ de yīfu dōu méi xǐ.",
+        "translations": {
+          "vi": "Khoảng thời gian này quần áo của con con cũng chưa giặt.",
+          "en": "You haven't even washed your own clothes during this time."
+        }
+      }
+    },
+    {
+      "word": "不但……而且……",
+      "type": "liên từ",
+      "pronunciation": "búdàn... érqiě...",
+      "translations": {
+        "vi": "không những... mà còn...",
+        "en": "not only... but also..."
+      },
+      "example": {
+        "text": "贵公司不但很有名，而且工作环境好。",
+        "pronunciation": "Guì gōngsī búdàn hěn yǒumíng, érqiě gōngzuò huánjìng hǎo.",
+        "translations": {
+          "vi": "Quý công ty không những rất nổi tiếng, mà môi trường làm việc còn tốt.",
+          "en": "Your company is not only famous but also has a good working environment."
+        }
+      }
+    },
+    {
+      "word": "有名",
+      "type": "tính từ",
+      "pronunciation": "yǒumíng",
+      "translations": {
+        "vi": "có tiếng, nổi tiếng",
+        "en": "famous"
+      },
+      "example": {
+        "text": "贵公司不但很有名，而且工作环境好。",
+        "pronunciation": "Guì gōngsī búdàn hěn yǒumíng, érqiě gōngzuò huánjìng hǎo.",
+        "translations": {
+          "vi": "Quý công ty không những rất nổi tiếng, mà môi trường làm việc còn tốt.",
+          "en": "Your company is not only famous but also has a good working environment."
+        }
+      }
+    },
+    {
+      "word": "同意",
+      "type": "động từ",
+      "pronunciation": "tóngyì",
+      "translations": {
+        "vi": "đồng ý, tán thành",
+        "en": "to agree"
+      },
+      "example": {
+        "text": "只要我愿意，我相信他们就会同意的。",
+        "pronunciation": "Zhǐyào wǒ yuànyì, wǒ xiāngxìn tāmen jiù huì tóngyì de.",
+        "translations": {
+          "vi": "Chỉ cần tôi muốn, tôi tin họ sẽ đồng ý.",
+          "en": "As long as I am willing, I believe they will agree."
+        }
+      }
+    },
+    {
+      "word": "相信",
+      "type": "động từ",
+      "pronunciation": "xiāngxìn",
+      "translations": {
+        "vi": "tin, tin tưởng",
+        "en": "to believe"
+      },
+      "example": {
+        "text": "只要我愿意，我相信他们就会同意的。",
+        "pronunciation": "Zhǐyào wǒ yuànyì, wǒ xiāngxìn tāmen jiù huì tóngyì de.",
+        "translations": {
+          "vi": "Chỉ cần tôi muốn, tôi tin họ sẽ đồng ý.",
+          "en": "As long as I am willing, I believe they will agree."
+        }
+      }
+    },
+    {
+      "word": "关于",
+      "type": "giới từ",
+      "pronunciation": "guānyú",
+      "translations": {
+        "vi": "về, liên quan đến",
+        "en": "about; regarding"
+      },
+      "example": {
+        "text": "关于这个工作，还有什么问题吗？",
+        "pronunciation": "Guānyú zhège gōngzuò, hái yǒu shénme wèntí ma?",
+        "translations": {
+          "vi": "Về công việc này, còn có vấn đề gì không?",
+          "en": "Regarding this job, are there any other questions?"
+        }
+      }
+    },
+    {
+      "word": "机会",
+      "type": "danh từ",
+      "pronunciation": "jīhuì",
+      "translations": {
+        "vi": "cơ hội",
+        "en": "opportunity"
+      },
+      "example": {
+        "text": "谢谢您给我这个机会，我会努力的。",
+        "pronunciation": "Xièxie nín gěi wǒ zhège jīhuì, wǒ huì nǔlì de.",
+        "translations": {
+          "vi": "Cảm ơn ông đã cho tôi cơ hội này, tôi sẽ nỗ lực.",
+          "en": "Thank you for giving me this opportunity, I will work hard."
+        }
+      }
+    },
+    {
+      "word": "国家",
+      "type": "danh từ",
+      "pronunciation": "guójiā",
+      "translations": {
+        "vi": "đất nước, quốc gia",
+        "en": "country; nation"
+      },
+      "example": {
+        "text": "不同的国家有不同的文化。",
+        "pronunciation": "Bùtóng de guójiā yǒu bùtóng de wénhuà.",
+        "translations": {
+          "vi": "Các quốc gia khác nhau có văn hóa khác nhau.",
+          "en": "Different countries have different cultures."
+        }
+      }
+    },
+    {
+      "word": "种",
+      "type": "lượng từ",
+      "pronunciation": "zhǒng",
+      "translations": {
+        "vi": "loại",
+        "en": "kind; type"
+      },
+      "example": {
+        "text": "每种文化都有自己的特点。",
+        "pronunciation": "Měi zhǒng wénhuà dōu yǒu zìjǐ de tèdiǎn.",
+        "translations": {
+          "vi": "Mỗi loại văn hóa đều có đặc điểm riêng.",
+          "en": "Every culture has its own characteristics."
+        }
+      }
+    },
+    {
+      "word": "特点",
+      "type": "danh từ",
+      "pronunciation": "tèdiǎn",
+      "translations": {
+        "vi": "đặc điểm",
+        "en": "feature; characteristic"
+      },
+      "example": {
+        "text": "每种文化都有自己的特点。",
+        "pronunciation": "Měi zhǒng wénhuà dōu yǒu zìjǐ de tèdiǎn.",
+        "translations": {
+          "vi": "Mỗi loại văn hóa đều có đặc điểm riêng.",
+          "en": "Every culture has its own characteristics."
+        }
+      }
+    },
+    {
+      "word": "奇怪",
+      "type": "tính từ",
+      "pronunciation": "qíguài",
+      "translations": {
+        "vi": "kỳ lạ, lạ lùng",
+        "en": "strange; odd"
+      },
+      "example": {
+        "text": "你会觉得什么都很新鲜，而且还会觉得有点儿奇怪。",
+        "pronunciation": "Nǐ huì juéde shénme dōu hěn xīnxiān, érqiě hái huì juéde yǒudiǎnr qíguài.",
+        "translations": {
+          "vi": "Bạn sẽ cảm thấy cái gì cũng rất mới mẻ, hơn nữa còn cảm thấy hơi kỳ lạ.",
+          "en": "You will feel that everything is fresh, and you will also feel a bit strange."
+        }
+      }
+    },
+    {
+      "word": "地",
+      "type": "trợ từ",
+      "pronunciation": "de",
+      "translations": {
+        "vi": "trợ từ (được dùng để nối trạng ngữ với động từ mà nó bổ nghĩa)",
+        "en": "(particle used after an adverbial adjunct)"
+      },
+      "example": {
+        "text": "就会慢慢地习惯。",
+        "pronunciation": "Jiù huì mànman de xíguàn.",
+        "translations": {
+          "vi": "Sẽ từ từ quen thôi.",
+          "en": "Will slowly get used to it."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "只要……，就……",
+      "descriptions": {
+        "vi": "Cấu trúc “只要……，就……” được dùng để kết nối hai mệnh đề của một câu phức chỉ điều kiện. Theo sau 只要 là mệnh đề diễn tả điều kiện cần thiết, theo sau 就 là mệnh đề diễn tả kết quả tương ứng với điều kiện đó. Chủ ngữ có thể được đặt trước hoặc sau 只要. Nếu có chủ ngữ thứ hai thì ta phải đặt nó trước 就.",
+        "en": "The structure “只要……，就……” (As long as..., then...) connects clauses in a conditional sentence. 只要 introduces a necessary condition, and 就 introduces the corresponding result."
+      },
+      "examples": [
+        {
+          "text": "只要我有时间，就一定跟你去旅游。",
+          "pronunciation": "Zhǐyào wǒ yǒu shíjiān, jiù yídìng gēn nǐ qù lǚyóu.",
+          "translations": {
+            "vi": "Chỉ cần tôi có thời gian, nhất định sẽ đi du lịch cùng bạn.",
+            "en": "As long as I have time, I will definitely go traveling with you."
+          }
+        },
+        {
+          "text": "我只要喜欢，就一定会买。",
+          "pronunciation": "Wǒ zhǐyào xǐhuan, jiù yídìng huì mǎi.",
+          "translations": {
+            "vi": "Chỉ cần tôi thích, tôi nhất định sẽ mua.",
+            "en": "As long as I like it, I will definitely buy it."
+          }
+        },
+        {
+          "text": "只要你想去，我就跟你去。",
+          "pronunciation": "Zhǐyào nǐ xiǎng qù, wǒ jiù gēn nǐ qù.",
+          "translations": {
+            "vi": "Chỉ cần bạn muốn đi, tôi sẽ đi cùng bạn.",
+            "en": "As long as you want to go, I will go with you."
+          }
+        },
+        {
+          "text": "只要你给我买，我就能照顾好它。",
+          "pronunciation": "Zhǐyào nǐ gěi wǒ mǎi, wǒ jiù néng zhàogù hǎo tā.",
+          "translations": {
+            "vi": "Chỉ cần mẹ mua cho con, con sẽ có thể chăm sóc tốt cho nó.",
+            "en": "As long as you buy it for me, I can take good care of it."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "介词 “关于”",
+      "descriptions": {
+        "vi": "Giới từ 关于 được dùng trước danh từ để giới thiệu về đối tượng mà người nói muốn đề cập đến.",
+        "en": "The preposition 关于 is used before a noun to introduce the topic being discussed."
+      },
+      "examples": [
+        {
+          "text": "我最近看了一些关于中国文化的电影。",
+          "pronunciation": "Wǒ zuìjìn kànle yìxiē guānyú Zhōngguó wénhuà de diànyǐng.",
+          "translations": {
+            "vi": "Gần đây tôi có xem một vài bộ phim về văn hóa Trung Quốc.",
+            "en": "I recently watched some movies about Chinese culture."
+          }
+        },
+        {
+          "text": "关于这件事，我们还没有决定呢。",
+          "pronunciation": "Guānyú zhè jiàn shì, wǒmen hái méiyǒu juédìng ne.",
+          "translations": {
+            "vi": "Về việc này, chúng tôi vẫn chưa quyết định.",
+            "en": "Regarding this matter, we haven't decided yet."
+          }
+        },
+        {
+          "text": "关于出国学习的事，妈妈已经同意了。",
+          "pronunciation": "Guānyú chū guó xuéxí de shì, māma yǐjīng tóngyì le.",
+          "translations": {
+            "vi": "Về việc đi du học, mẹ đã đồng ý rồi.",
+            "en": "Regarding studying abroad, mom has already agreed."
+          }
+        },
+        {
+          "text": "关于这个工作，还有什么问题吗？",
+          "pronunciation": "Guānyú zhège gōngzuò, hái yǒu shénme wèntí ma?",
+          "translations": {
+            "vi": "Về công việc này, còn có vấn đề gì không?",
+            "en": "Regarding this job, are there any other questions?"
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在打电话",
+        "pronunciation": "Zài dǎ diànhuà",
+        "translations": {
+          "vi": "Nói chuyện qua điện thoại",
+          "en": "Talking on the phone"
+        }
+      },
+      "sentences": [
+        {
+          "text": "朋友：老周，我打算买房子了，想向你借点儿钱。",
+          "pronunciation": "Péngyou: Lǎo Zhōu, wǒ dǎsuàn mǎi fángzi le, xiǎng xiàng nǐ jiè diǎnr qián.",
+          "translations": {
+            "vi": "Bạn: Lão Châu, tôi định mua nhà rồi, muốn mượn anh chút tiền.",
+            "en": "Friend: Old Zhou, I'm planning to buy a house, I want to borrow some money from you."
+          }
+        },
+        {
+          "text": "周明：没问题，只要我有，就一定会借给你的。还差多少？",
+          "pronunciation": "Zhōu Míng: Méi wèntí, zhǐyào wǒ yǒu, jiù yídìng huì jiè gěi nǐ de. Hái chà duōshao?",
+          "translations": {
+            "vi": "Chu Minh: Không vấn đề gì, chỉ cần tôi có thì nhất định sẽ cho anh mượn. Còn thiếu bao nhiêu?",
+            "en": "Zhou Ming: No problem, as long as I have it, I will definitely lend it to you. How much are you short?"
+          }
+        },
+        {
+          "text": "朋友：还差5万块钱。",
+          "pronunciation": "Péngyou: Hái chà wǔ wàn kuài qián.",
+          "translations": {
+            "vi": "Bạn: Vẫn còn thiếu 5 vạn tệ.",
+            "en": "Friend: Still short of 50,000 yuan."
+          }
+        },
+        {
+          "text": "周明：好，钱下午打给你。你打算在哪儿买房？",
+          "pronunciation": "Zhōu Míng: Hǎo, qián xiàwǔ dǎ gěi nǐ. Nǐ dǎsuàn zài nǎr mǎi fáng?",
+          "translations": {
+            "vi": "Chu Minh: Được, chiều tôi chuyển tiền cho anh. Anh định mua nhà ở đâu?",
+            "en": "Zhou Ming: Okay, I'll transfer the money to you this afternoon. Where do you plan to buy the house?"
+          }
+        },
+        {
+          "text": "朋友：就在我们医院前面。",
+          "pronunciation": "Péngyou: Jiù zài wǒmen yīyuàn qiánmian.",
+          "translations": {
+            "vi": "Bạn: Ở ngay phía trước bệnh viện chúng tôi.",
+            "en": "Friend: Just in front of our hospital."
+          }
+        },
+        {
+          "text": "周明：那你以后去医院就方便了。",
+          "pronunciation": "Zhōu Míng: Nà nǐ yǐhòu qù yīyuàn jiù fāngbiàn le.",
+          "translations": {
+            "vi": "Chu Minh: Vậy sau này anh đi bệnh viện thuận tiện rồi.",
+            "en": "Zhou Ming: Then it will be convenient for you to go to the hospital in the future."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在商店",
+        "pronunciation": "Zài shāngdiàn",
+        "translations": {
+          "vi": "Ở cửa hàng",
+          "en": "At the store"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小明：妈妈，你看那只狗多可爱，眼睛大大的，嘴小小的，我们买回去吧。",
+          "pronunciation": "Xiǎomíng: Māma, nǐ kàn nà zhī gǒu duō kě'ài, yǎnjing dàdà de, zuǐ xiǎoxiǎo de, wǒmen mǎi huíqu ba.",
+          "translations": {
+            "vi": "Tiểu Minh: Mẹ, mẹ xem con chó kia đáng yêu quá, mắt to to, miệng nhỏ nhỏ, chúng ta mua về đi.",
+            "en": "Xiaoming: Mom, look how cute that dog is, with big eyes and a small mouth. Let's buy it and take it home."
+          }
+        },
+        {
+          "text": "妈妈：动物和小孩子一样，都需要人照顾。买回家去，谁照顾它啊？",
+          "pronunciation": "Māma: Dòngwù hé xiǎoháizi yíyàng, dōu xūyào rén zhàogù. Mǎi huí jiā qù, shéi zhàogù tā a?",
+          "translations": {
+            "vi": "Mẹ: Động vật cũng giống như trẻ con, đều cần người chăm sóc. Mua về nhà thì ai chăm sóc nó đây?",
+            "en": "Mom: Animals are like children, they all need to be taken care of. If we buy it, who will take care of it?"
+          }
+        },
+        {
+          "text": "小明：我照顾啊。",
+          "pronunciation": "Xiǎomíng: Wǒ zhàogù a.",
+          "translations": {
+            "vi": "Tiểu Minh: Con chăm sóc ạ.",
+            "en": "Xiaoming: I will take care of it."
+          }
+        },
+        {
+          "text": "妈妈：这段时间你自己的衣服都没洗，你能照顾好它吗？",
+          "pronunciation": "Māma: Zhè duàn shíjiān nǐ zìjǐ de yīfu dōu méi xǐ, nǐ néng zhàogù hǎo tā ma?",
+          "translations": {
+            "vi": "Mẹ: Khoảng thời gian này quần áo của con con cũng chưa giặt, con có thể chăm sóc tốt cho nó không?",
+            "en": "Mom: You haven't even washed your own clothes recently, can you take good care of it?"
+          }
+        },
+        {
+          "text": "小明：只要你给我买，我就能照顾好它。",
+          "pronunciation": "Xiǎomíng: Zhǐyào nǐ gěi wǒ mǎi, wǒ jiù néng zhàogù hǎo tā.",
+          "translations": {
+            "vi": "Tiểu Minh: Chỉ cần mẹ mua cho con, con sẽ có thể chăm sóc tốt cho nó.",
+            "en": "Xiaoming: As long as you buy it for me, I can take good care of it."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在公司",
+        "pronunciation": "Zài gōngsī",
+        "translations": {
+          "vi": "Trong công ty",
+          "en": "In the company"
+        }
+      },
+      "sentences": [
+        {
+          "text": "经理：说说你为什么选择来我们公司工作。",
+          "pronunciation": "Jīnglǐ: Shuōshuo nǐ wèishénme xuǎnzé lái wǒmen gōngsī gōngzuò.",
+          "translations": {
+            "vi": "Giám đốc: Hãy nói thử tại sao cô chọn đến công ty chúng tôi làm việc.",
+            "en": "Manager: Tell me why you chose to work at our company."
+          }
+        },
+        {
+          "text": "学生：贵公司不但很有名，而且工作环境好。",
+          "pronunciation": "Xuésheng: Guì gōngsī búdàn hěn yǒumíng, érqiě gōngzuò huánjìng hǎo.",
+          "translations": {
+            "vi": "Học sinh: Quý công ty không những rất nổi tiếng, mà môi trường làm việc còn tốt.",
+            "en": "Student: Your company is not only famous but also has a good working environment."
+          }
+        },
+        {
+          "text": "经理：做这个工作有点儿累，需要经常去外地。你家人同意吗？",
+          "pronunciation": "Jīnglǐ: Zuò zhège gōngzuò yǒudiǎnr lèi, xūyào jīngcháng qù wàidì. Nǐ jiārén tóngyì ma?",
+          "translations": {
+            "vi": "Giám đốc: Làm công việc này hơi mệt, cần phải thường xuyên đi ngoại tỉnh. Người nhà cô có đồng ý không?",
+            "en": "Manager: This job is a bit tiring and requires frequent travel to other places. Does your family agree?"
+          }
+        },
+        {
+          "text": "学生：只要我愿意，我相信他们就会同意的。",
+          "pronunciation": "Xuésheng: Zhǐyào wǒ yuànyì, wǒ xiāngxìn tāmen jiù huì tóngyì de.",
+          "translations": {
+            "vi": "Học sinh: Chỉ cần tôi muốn, tôi tin họ sẽ đồng ý.",
+            "en": "Student: As long as I am willing, I believe they will agree."
+          }
+        },
+        {
+          "text": "经理：好，那你明天来上班吧。关于这个工作，还有什么问题吗？",
+          "pronunciation": "Jīnglǐ: Hǎo, nà nǐ míngtiān lái shàngbān ba. Guānyú zhège gōngzuò, hái yǒu shénme wèntí ma?",
+          "translations": {
+            "vi": "Giám đốc: Được, vậy ngày mai cô đến đi làm đi. Về công việc này, còn có vấn đề gì không?",
+            "en": "Manager: Okay, then come to work tomorrow. Regarding this job, are there any other questions?"
+          }
+        },
+        {
+          "text": "学生：没有了，谢谢您给我这个机会，我会努力的。",
+          "pronunciation": "Xuésheng: Méiyǒu le, xièxie nín gěi wǒ zhège jīhuì, wǒ huì nǔlì de.",
+          "translations": {
+            "vi": "Học sinh: Không còn nữa ạ, cảm ơn ông đã cho tôi cơ hội này, tôi sẽ nỗ lực.",
+            "en": "Student: No more, thank you for giving me this opportunity, I will work hard."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "不同的国家",
+        "pronunciation": "Bùtóng de guójiā",
+        "translations": {
+          "vi": "Các quốc gia khác nhau",
+          "en": "Different countries"
+        }
+      },
+      "sentences": [
+        {
+          "text": "不同的国家有不同的文化，每种文化都有自己的特点。",
+          "pronunciation": "Bùtóng de guójiā yǒu bùtóng de wénhuà, měi zhǒng wénhuà dōu yǒu zìjǐ de tèdiǎn.",
+          "translations": {
+            "vi": "Các quốc gia khác nhau có văn hóa khác nhau, mỗi loại văn hóa đều có đặc điểm riêng.",
+            "en": "Different countries have different cultures, and every culture has its own characteristics."
+          }
+        },
+        {
+          "text": "到了一个新环境，你会觉得什么都很新鲜，而且还会觉得有点儿奇怪：",
+          "pronunciation": "Dàole yí ge xīn huánjìng, nǐ huì juéde shénme dōu hěn xīnxiān, érqiě hái huì juéde yǒudiǎnr qíguài:",
+          "translations": {
+            "vi": "Đến một môi trường mới, bạn sẽ cảm thấy cái gì cũng rất mới mẻ, hơn nữa còn cảm thấy hơi kỳ lạ:",
+            "en": "When you arrive in a new environment, you will feel that everything is fresh, and you will also feel a bit strange:"
+          }
+        },
+        {
+          "text": "有些国家的人名写在姓前面，有些国家的人名写在姓后面，但是只要经过一段时间，就会慢慢地习惯。",
+          "pronunciation": "Yǒuxiē guójiā de rénmíng xiě zài xìng qiánmian, yǒuxiē guójiā de rénmíng xiě zài xìng hòumian, dànshì zhǐyào jīngguò yí duàn shíjiān, jiù huì mànman de xíguàn.",
+          "translations": {
+            "vi": "Có một số quốc gia tên người viết trước họ, có một số quốc gia tên người viết sau họ, nhưng chỉ cần qua một khoảng thời gian, sẽ từ từ quen thôi.",
+            "en": "In some countries, the given name is written before the surname, while in others it is written after. But after a period of time, you will slowly get used to it."
+          }
+        }
+      ]
+    }
+  ]
+}

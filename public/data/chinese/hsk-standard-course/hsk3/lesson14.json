@@ -1,0 +1,591 @@
+{
+  "title": {
+    "text": "你把水果拿过来。",
+    "pronunciation": "Nǐ bǎ shuǐguǒ ná guolai.",
+    "translations": {
+      "vi": "Cậu hãy mang trái cây đến đây.",
+      "en": "Bring the fruit over here."
+    }
+  },
+  "newWords": [
+    {
+      "word": "打扫",
+      "type": "động từ",
+      "pronunciation": "dǎsǎo",
+      "translations": {
+        "vi": "quét dọn, dọn dẹp",
+        "en": "to clean; to sweep"
+      },
+      "example": {
+        "text": "别着急，我让孩子们打扫呢。",
+        "pronunciation": "Bié zháojí, wǒ ràng háizimen dǎsǎo ne.",
+        "translations": {
+          "vi": "Đừng lo, anh bảo bọn trẻ dọn dẹp rồi.",
+          "en": "Don't worry, I asked the children to clean up."
+        }
+      }
+    },
+    {
+      "word": "干净",
+      "type": "tính từ",
+      "pronunciation": "gānjìng",
+      "translations": {
+        "vi": "sạch sẽ",
+        "en": "clean"
+      },
+      "example": {
+        "text": "他们会把房间打扫干净。",
+        "pronunciation": "Tāmen huì bǎ fángjiān dǎsǎo gānjìng.",
+        "translations": {
+          "vi": "Bọn trẻ sẽ dọn dẹp phòng sạch sẽ.",
+          "en": "They will clean the room."
+        }
+      }
+    },
+    {
+      "word": "然后",
+      "type": "liên từ",
+      "pronunciation": "ránhòu",
+      "translations": {
+        "vi": "sau đó",
+        "en": "then; after that"
+      },
+      "example": {
+        "text": "先把茶和杯子放好，然后把冰箱里的西瓜拿出来。",
+        "pronunciation": "Xiān bǎ chá hé bēizi fànghǎo, ránhòu bǎ bīngxiāng li de xīguā náchūlai.",
+        "translations": {
+          "vi": "Trước tiên để trà và cốc chén ngay ngắn, sau đó lấy dưa hấu trong tủ lạnh ra.",
+          "en": "First put the tea and cups in place, then take the watermelon out of the refrigerator."
+        }
+      }
+    },
+    {
+      "word": "冰箱",
+      "type": "danh từ",
+      "pronunciation": "bīngxiāng",
+      "translations": {
+        "vi": "tủ lạnh",
+        "en": "refrigerator"
+      },
+      "example": {
+        "text": "然后把冰箱里的西瓜拿出来。",
+        "pronunciation": "Ránhòu bǎ bīngxiāng li de xīguā náchūlai.",
+        "translations": {
+          "vi": "Sau đó lấy dưa hấu trong tủ lạnh ra.",
+          "en": "Then take the watermelon out of the refrigerator."
+        }
+      }
+    },
+    {
+      "word": "洗澡",
+      "type": "động từ",
+      "pronunciation": "xǐ zǎo",
+      "translations": {
+        "vi": "tắm, tắm rửa",
+        "en": "to take a bath/shower"
+      },
+      "example": {
+        "text": "对不起，我刚洗了个澡，没听见。",
+        "pronunciation": "Duìbuqǐ, wǒ gāng xǐle ge zǎo, méi tīngjiàn.",
+        "translations": {
+          "vi": "Xin lỗi, tôi vừa tắm xong, không nghe thấy.",
+          "en": "Sorry, I just took a shower, I didn't hear it."
+        }
+      }
+    },
+    {
+      "word": "节目",
+      "type": "danh từ",
+      "pronunciation": "jiémù",
+      "translations": {
+        "vi": "chương trình (truyền hình)",
+        "en": "program"
+      },
+      "example": {
+        "text": "没关系，你先把电视节目看完吧。",
+        "pronunciation": "Méiguānxi, nǐ xiān bǎ diànshì jiémù kànwán ba.",
+        "translations": {
+          "vi": "Không sao, cậu xem hết chương trình tivi trước đi.",
+          "en": "It's okay, finish watching your TV program first."
+        }
+      }
+    },
+    {
+      "word": "月亮",
+      "type": "danh từ",
+      "pronunciation": "yuèliang",
+      "translations": {
+        "vi": "mặt trăng",
+        "en": "moon"
+      },
+      "example": {
+        "text": "今晚的月亮真漂亮。",
+        "pronunciation": "Jīnwǎn de yuèliang zhēn piàoliang.",
+        "translations": {
+          "vi": "Mặt trăng đêm nay thật đẹp.",
+          "en": "The moon tonight is really beautiful."
+        }
+      }
+    },
+    {
+      "word": "像",
+      "type": "động từ",
+      "pronunciation": "xiàng",
+      "translations": {
+        "vi": "giống",
+        "en": "to resemble; to be like"
+      },
+      "example": {
+        "text": "像白色的盘子一样。",
+        "pronunciation": "Xiàng báisè de pánzi yíyàng.",
+        "translations": {
+          "vi": "Giống như cái đĩa màu trắng vậy.",
+          "en": "Just like a white plate."
+        }
+      }
+    },
+    {
+      "word": "盘子",
+      "type": "danh từ",
+      "pronunciation": "pánzi",
+      "translations": {
+        "vi": "đĩa, mâm",
+        "en": "plate; dish"
+      },
+      "example": {
+        "text": "像白色的盘子一样。",
+        "pronunciation": "Xiàng báisè de pánzi yíyàng.",
+        "translations": {
+          "vi": "Giống như cái đĩa màu trắng vậy.",
+          "en": "Just like a white plate."
+        }
+      }
+    },
+    {
+      "word": "刮风",
+      "type": "động từ",
+      "pronunciation": "guā fēng",
+      "translations": {
+        "vi": "nổi gió",
+        "en": "to be windy"
+      },
+      "example": {
+        "text": "外边也不刮风。",
+        "pronunciation": "Wàibian yě bù guā fēng.",
+        "translations": {
+          "vi": "Bên ngoài cũng không có gió.",
+          "en": "It's not windy outside either."
+        }
+      }
+    },
+    {
+      "word": "叔叔",
+      "type": "danh từ",
+      "pronunciation": "shūshu",
+      "translations": {
+        "vi": "chú",
+        "en": "uncle"
+      },
+      "example": {
+        "text": "我们听叔叔阿姨讲讲他们年轻时候的故事。",
+        "pronunciation": "Wǒmen tīng shūshu āyí jiǎngjiang tāmen niánqīng shíhou de gùshi.",
+        "translations": {
+          "vi": "Chúng ta nghe cô chú kể chuyện lúc họ còn trẻ.",
+          "en": "Let's listen to uncle and aunt tell stories from their youth."
+        }
+      }
+    },
+    {
+      "word": "阿姨",
+      "type": "danh từ",
+      "pronunciation": "āyí",
+      "translations": {
+        "vi": "dì, cô",
+        "en": "aunt"
+      },
+      "example": {
+        "text": "我们听叔叔阿姨讲讲他们年轻时候的故事。",
+        "pronunciation": "Wǒmen tīng shūshu āyí jiǎngjiang tāmen niánqīng shíhou de gùshi.",
+        "translations": {
+          "vi": "Chúng ta nghe cô chú kể chuyện lúc họ còn trẻ.",
+          "en": "Let's listen to uncle and aunt tell stories from their youth."
+        }
+      }
+    },
+    {
+      "word": "故事",
+      "type": "danh từ",
+      "pronunciation": "gùshi",
+      "translations": {
+        "vi": "truyện, câu chuyện",
+        "en": "story"
+      },
+      "example": {
+        "text": "我们听叔叔阿姨讲讲他们年轻时候的故事。",
+        "pronunciation": "Wǒmen tīng shūshu āyí jiǎngjiang tāmen niánqīng shíhou de gùshi.",
+        "translations": {
+          "vi": "Chúng ta nghe cô chú kể chuyện lúc họ còn trẻ.",
+          "en": "Let's listen to uncle and aunt tell stories from their youth."
+        }
+      }
+    },
+    {
+      "word": "声音",
+      "type": "danh từ",
+      "pronunciation": "shēngyīn",
+      "translations": {
+        "vi": "âm thanh, tiếng",
+        "en": "voice; sound"
+      },
+      "example": {
+        "text": "你听外边的声音，一定是大山。",
+        "pronunciation": "Nǐ tīng wàibian de shēngyīn, yídìng shì Dàshān.",
+        "translations": {
+          "vi": "Cậu nghe tiếng bên ngoài xem, chắc chắn là Đại Sơn.",
+          "en": "Listen to the voice outside, it must be Dashan."
+        }
+      }
+    },
+    {
+      "word": "菜单",
+      "type": "danh từ",
+      "pronunciation": "càidān",
+      "translations": {
+        "vi": "thực đơn",
+        "en": "menu"
+      },
+      "example": {
+        "text": "你在饭馆儿的菜单上见过水果饭吗？",
+        "pronunciation": "Nǐ zài fànguǎnr de càidān shang jiàn guo shuǐguǒ fàn ma?",
+        "translations": {
+          "vi": "Bạn đã bao giờ thấy cơm trái cây trên thực đơn nhà hàng chưa?",
+          "en": "Have you ever seen fruit rice on a restaurant menu?"
+        }
+      }
+    },
+    {
+      "word": "简单",
+      "type": "tính từ",
+      "pronunciation": "jiǎndān",
+      "translations": {
+        "vi": "đơn giản",
+        "en": "simple"
+      },
+      "example": {
+        "text": "其实做水果饭很简单。",
+        "pronunciation": "Qíshí zuò shuǐguǒ fàn hěn jiǎndān.",
+        "translations": {
+          "vi": "Thật ra làm cơm trái cây rất đơn giản.",
+          "en": "Actually, making fruit rice is very simple."
+        }
+      }
+    },
+    {
+      "word": "香蕉",
+      "type": "danh từ",
+      "pronunciation": "xiāngjiāo",
+      "translations": {
+        "vi": "chuối tiêu",
+        "en": "banana"
+      },
+      "example": {
+        "text": "你可以做苹果饭、香蕉饭。",
+        "pronunciation": "Nǐ kěyǐ zuò píngguǒ fàn, xiāngjiāo fàn.",
+        "translations": {
+          "vi": "Bạn có thể làm cơm táo, cơm chuối.",
+          "en": "You can make apple rice, banana rice."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "“把” 字句3: A把B+动词+结果补语/趋向补语",
+      "descriptions": {
+        "vi": "Mẫu câu “A 把 B + động từ + bổ ngữ chỉ kết quả/bổ ngữ chỉ phương hướng” có thể được dùng để diễn tả một hành động mang lại kết quả nào đó cho người hay một sự vật xác định, hoặc làm thay đổi vị trí của người hay sự vật đó.",
+        "en": "The structure “A 把 B + Verb + Result/Directional Complement” indicates that an action produces a certain result on a specific person or object, or changes its position."
+      },
+      "examples": [
+        {
+          "text": "我把衣服洗干净了。",
+          "pronunciation": "Wǒ bǎ yīfu xǐ gānjìng le.",
+          "translations": {
+            "vi": "Tôi giặt sạch quần áo rồi.",
+            "en": "I washed the clothes clean."
+          }
+        },
+        {
+          "text": "妈妈还没把饭做好呢。",
+          "pronunciation": "Māma hái méi bǎ fàn zuòhǎo ne.",
+          "translations": {
+            "vi": "Mẹ vẫn chưa nấu cơm xong.",
+            "en": "Mom hasn't finished cooking yet."
+          }
+        },
+        {
+          "text": "请同学们把铅笔拿出来。",
+          "pronunciation": "Qǐng tóngxuémen bǎ qiānbǐ náchūlai.",
+          "translations": {
+            "vi": "Mời các em lấy bút chì ra.",
+            "en": "Students, please take out your pencils."
+          }
+        },
+        {
+          "text": "你把水果拿过来。",
+          "pronunciation": "Nǐ bǎ shuǐguǒ ná guolai.",
+          "translations": {
+            "vi": "Bạn mang trái cây qua đây.",
+            "en": "Bring the fruit over here."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "先……，再/又……，然后……",
+      "descriptions": {
+        "vi": "Cấu trúc “先……，再/又……，然后……” diễn tả trình tự của các hành động. 再 chỉ hành động chưa xảy ra còn 又 chỉ hành động đã xảy ra. (Trước tiên..., lại/nữa..., sau đó...)",
+        "en": "The structure “先……，再/又……，然后……” indicates the sequence of actions (First..., then/again..., afterwards...). 再 is used for future/unhappened actions, while 又 is for past/happened actions."
+      },
+      "examples": [
+        {
+          "text": "回家以后，我先做作业，然后吃饭。",
+          "pronunciation": "Huí jiā yǐhòu, wǒ xiān zuò zuòyè, ránhòu chī fàn.",
+          "translations": {
+            "vi": "Sau khi về nhà, tôi làm bài tập trước, sau đó ăn cơm.",
+            "en": "After getting home, I do my homework first, then eat."
+          }
+        },
+        {
+          "text": "我先坐了一个小时公共汽车，又坐了一会儿地铁才到小刚家。",
+          "pronunciation": "Wǒ xiān zuò le yí ge xiǎoshí gōnggòngqìchē, yòu zuò le yíhuìr dìtiě cái dào Xiǎogāng jiā.",
+          "translations": {
+            "vi": "Tôi ngồi xe buýt một tiếng trước, rồi lại ngồi tàu điện ngầm một lúc mới đến nhà Tiểu Cương.",
+            "en": "I took the bus for an hour first, then took the subway for a while to get to Xiaogang's house."
+          }
+        },
+        {
+          "text": "你先把电视节目看完吧，然后再给我回电话。",
+          "pronunciation": "Nǐ xiān bǎ diànshì jiémù kànwán ba, ránhòu zài gěi wǒ huí diànhuà.",
+          "translations": {
+            "vi": "Bạn xem hết chương trình tivi trước đi, sau đó gọi lại cho tôi.",
+            "en": "Finish watching the TV program first, then call me back."
+          }
+        },
+        {
+          "text": "先把米饭做好，然后再把一块块新鲜的水果放进去。",
+          "pronunciation": "Xiān bǎ mǐfàn zuòhǎo, ránhòu zài bǎ yí kuài kuài xīnxiān de shuǐguǒ fàng jìnqu.",
+          "translations": {
+            "vi": "Nấu cơm xong trước, sau đó bỏ từng miếng trái cây tươi vào.",
+            "en": "Make the rice first, then put in pieces of fresh fruit."
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在家",
+        "pronunciation": "Zài jiā",
+        "translations": {
+          "vi": "Ở nhà",
+          "en": "At home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "周太太：客人就要来了，你怎么还不打扫房间啊？",
+          "pronunciation": "Zhōu tàitai: Kèrén jiùyào lái le, nǐ zěnme hái bù dǎsǎo fángjiān a?",
+          "translations": {
+            "vi": "Châu phu nhân: Khách sắp đến rồi, sao anh vẫn chưa dọn dẹp phòng vậy?",
+            "en": "Mrs. Zhou: The guests are coming soon, why haven't you cleaned the room yet?"
+          }
+        },
+        {
+          "text": "周明：别着急，我让孩子们打扫呢，客人来的时候，他们会把房间打扫干净。",
+          "pronunciation": "Zhōu Míng: Bié zháojí, wǒ ràng háizimen dǎsǎo ne, kèrén lái de shíhou, tāmen huì bǎ fángjiān dǎsǎo gānjìng.",
+          "translations": {
+            "vi": "Chu Minh: Đừng lo, anh bảo bọn trẻ dọn dẹp rồi, khi khách đến, chúng nó sẽ dọn phòng sạch sẽ.",
+            "en": "Zhou Ming: Don't worry, I asked the kids to clean. They will have the room cleaned by the time the guests arrive."
+          }
+        },
+        {
+          "text": "周太太：那你也不能看电视啊。",
+          "pronunciation": "Zhōu tàitai: Nà nǐ yě bù néng kàn diànshì a.",
+          "translations": {
+            "vi": "Châu phu nhân: Thế thì anh cũng không được xem tivi chứ.",
+            "en": "Mrs. Zhou: Then you can't watch TV either."
+          }
+        },
+        {
+          "text": "周明：你让我做什么？",
+          "pronunciation": "Zhōu Míng: Nǐ ràng wǒ zuò shénme?",
+          "translations": {
+            "vi": "Chu Minh: Em bảo anh làm gì?",
+            "en": "Zhou Ming: What do you want me to do?"
+          }
+        },
+        {
+          "text": "周太太：先把茶和杯子放好，然后把冰箱里的西瓜拿出来。",
+          "pronunciation": "Zhōu tàitai: Xiān bǎ chá hé bēizi fànghǎo, ránhòu bǎ bīngxiāng li de xīguā náchūlai.",
+          "translations": {
+            "vi": "Châu phu nhân: Trước tiên để trà và cốc chén ngay ngắn, sau đó lấy dưa hấu trong tủ lạnh ra.",
+            "en": "Mrs. Zhou: First put the tea and cups in place, then take the watermelon out of the refrigerator."
+          }
+        },
+        {
+          "text": "周明：太热了，我还是先把空调打开吧。",
+          "pronunciation": "Zhōu Míng: Tài rè le, wǒ háishi xiān bǎ kōngtiáo dǎkāi ba.",
+          "translations": {
+            "vi": "Chu Minh: Nóng quá, hay là anh bật điều hòa trước đã.",
+            "en": "Zhou Ming: It's too hot, I'd better turn on the air conditioner first."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在打电话",
+        "pronunciation": "Zài dǎ diànhuà",
+        "translations": {
+          "vi": "Nói chuyện qua điện thoại",
+          "en": "On the phone"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：你在忙什么呢？刚才打你的手机你也不接。",
+          "pronunciation": "Tóngshì: Nǐ zài máng shénme ne? Gāngcái dǎ nǐ de shǒujī nǐ yě bù jiē.",
+          "translations": {
+            "vi": "Đồng nghiệp: Cậu đang bận gì thế? Vừa nãy gọi di động cậu cũng không nghe.",
+            "en": "Colleague: What are you busy with? I called your cell just now and you didn't answer."
+          }
+        },
+        {
+          "text": "小刚：对不起，我刚洗了个澡，没听见。有什么事吗？",
+          "pronunciation": "Xiǎogāng: Duìbuqǐ, wǒ gāng xǐle ge zǎo, méi tīngjiàn. Yǒu shénme shì ma?",
+          "translations": {
+            "vi": "Tiểu Cương: Xin lỗi, tớ vừa tắm xong, không nghe thấy. Có việc gì không?",
+            "en": "Xiaogang: Sorry, I just took a shower and didn't hear it. Is something up?"
+          }
+        },
+        {
+          "text": "同事：我想问问你公司里的一些事情。",
+          "pronunciation": "Tóngshì: Wǒ xiǎng wènwen nǐ gōngsī li de yìxiē shìqing.",
+          "translations": {
+            "vi": "Đồng nghiệp: Tớ muốn hỏi cậu một vài việc trong công ty.",
+            "en": "Colleague: I want to ask you about some company matters."
+          }
+        },
+        {
+          "text": "小刚：你先等一下，我去把电视关了。",
+          "pronunciation": "Xiǎogāng: Nǐ xiān děng yíxià, wǒ qù bǎ diànshì guān le.",
+          "translations": {
+            "vi": "Tiểu Cương: Cậu đợi một lát, tớ đi tắt tivi đã.",
+            "en": "Xiaogang: Wait a moment, I'll go turn off the TV."
+          }
+        },
+        {
+          "text": "同事：没关系，你先把电视节目看完吧，然后再给我回电话。",
+          "pronunciation": "Tóngshì: Méiguānxi, nǐ xiān bǎ diànshì jiémù kànwán ba, ránhòu zài gěi wǒ huí diànhuà.",
+          "translations": {
+            "vi": "Đồng nghiệp: Không sao, cậu xem hết chương trình tivi trước đi, sau đó gọi lại cho tớ.",
+            "en": "Colleague: It's okay, finish watching your TV program first, then call me back."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在小明家",
+        "pronunciation": "Zài Xiǎomíng jiā",
+        "translations": {
+          "vi": "Tại nhà bạn Minh",
+          "en": "At Xiaoming's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同学：今晚的月亮真漂亮，像白色的盘子一样。",
+          "pronunciation": "Tóngxué: Jīnwǎn de yuèliang zhēn piàoliang, xiàng báisè de pánzi yíyàng.",
+          "translations": {
+            "vi": "Bạn học: Mặt trăng đêm nay đẹp thật, giống như cái đĩa màu trắng vậy.",
+            "en": "Classmate: The moon tonight is really beautiful, just like a white plate."
+          }
+        },
+        {
+          "text": "小明：是啊，外边也不刮风，我们坐在外边一边看月亮一边吃东西，怎么样？",
+          "pronunciation": "Xiǎomíng: Shì a, wàibian yě bù guā fēng, wǒmen zuò zài wàibian yìbiān kàn yuèliang yìbiān chī dōngxi, zěnmeyàng?",
+          "translations": {
+            "vi": "Tiểu Minh: Đúng vậy, bên ngoài cũng không có gió, chúng ta ngồi bên ngoài vừa ngắm trăng vừa ăn đồ ăn, thế nào?",
+            "en": "Xiaoming: Yes, and it's not windy outside. How about we sit outside, watch the moon, and eat?"
+          }
+        },
+        {
+          "text": "同学：好啊，我先把桌椅搬出去，然后你把水果拿过来，我们听叔叔阿姨讲讲他们年轻时候的故事。",
+          "pronunciation": "Tóngxué: Hǎo a, wǒ xiān bǎ zhuōyǐ bān chūqu, ránhòu nǐ bǎ shuǐguǒ ná guolai, wǒmen tīng shūshu āyí jiǎngjiang tāmen niánqīng shíhou de gùshi.",
+          "translations": {
+            "vi": "Bạn học: Được, tớ chuyển bàn ghế ra ngoài trước, sau đó cậu mang trái cây qua đây, chúng ta nghe cô chú kể chuyện lúc họ còn trẻ.",
+            "en": "Classmate: Okay, I'll move the tables and chairs out first, then you bring the fruit over. We'll listen to Uncle and Aunt tell stories from when they were young."
+          }
+        },
+        {
+          "text": "小明：太好了！记得给大山打个电话，让他马上过来。",
+          "pronunciation": "Xiǎomíng: Tài hǎo le! Jìde gěi Dàshān dǎ ge diànhuà, ràng tā mǎshàng guòlai.",
+          "translations": {
+            "vi": "Tiểu Minh: Tuyệt quá! Nhớ gọi điện cho Đại Sơn, bảo cậu ấy qua đây ngay.",
+            "en": "Xiaoming: Great! Remember to give Dashan a call and tell him to come over immediately."
+          }
+        },
+        {
+          "text": "同学：不用打了，你听外边的声音，一定是大山。",
+          "pronunciation": "Tóngxué: Búyòng dǎ le, nǐ tīng wàibian de shēngyīn, yídìng shì Dàshān.",
+          "translations": {
+            "vi": "Bạn học: Không cần gọi đâu, cậu nghe tiếng bên ngoài xem, chắc chắn là Đại Sơn.",
+            "en": "Classmate: No need to call, listen to the voice outside, it must be Dashan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "水果饭",
+        "pronunciation": "Shuǐguǒ fàn",
+        "translations": {
+          "vi": "Cơm trái cây",
+          "en": "Fruit rice"
+        }
+      },
+      "sentences": [
+        {
+          "text": "你吃过水果饭吗？你在饭馆儿的菜单上见过水果饭吗？",
+          "pronunciation": "Nǐ chī guo shuǐguǒ fàn ma? Nǐ zài fànguǎnr de càidān shang jiàn guo shuǐguǒ fàn ma?",
+          "translations": {
+            "vi": "Bạn đã từng ăn cơm trái cây chưa? Bạn đã bao giờ thấy cơm trái cây trên thực đơn nhà hàng chưa?",
+            "en": "Have you ever eaten fruit rice? Have you ever seen fruit rice on a restaurant menu?"
+          }
+        },
+        {
+          "text": "你想学着做水果饭吗？其实做水果饭很简单，先把米饭做好，然后再把一块块新鲜的水果放进去，水果饭就做好了。",
+          "pronunciation": "Nǐ xiǎng xuézhe zuò shuǐguǒ fàn ma? Qíshí zuò shuǐguǒ fàn hěn jiǎndān, xiān bǎ mǐfàn zuòhǎo, ránhòu zài bǎ yí kuài kuài xīnxiān de shuǐguǒ fàng jìnqu, shuǐguǒ fàn jiù zuòhǎo le.",
+          "translations": {
+            "vi": "Bạn có muốn học làm cơm trái cây không? Thật ra làm cơm trái cây rất đơn giản, trước tiên nấu cơm xong, sau đó bỏ từng miếng trái cây tươi vào, cơm trái cây đã làm xong rồi.",
+            "en": "Do you want to learn how to make fruit rice? Actually, making fruit rice is very simple. First make the rice, then put in pieces of fresh fruit, and the fruit rice is ready."
+          }
+        },
+        {
+          "text": "你可以做苹果饭、香蕉饭，要是你愿意，还可以做西瓜饭。多吃新鲜水果对身体好。",
+          "pronunciation": "Nǐ kěyǐ zuò píngguǒ fàn, xiāngjiāo fàn, yàoshi nǐ yuànyì, hái kěyǐ zuò xīguā fàn. Duō chī xīnxiān shuǐguǒ duì shēntǐ hǎo.",
+          "translations": {
+            "vi": "Bạn có thể làm cơm táo, cơm chuối, nếu bạn muốn, còn có thể làm cơm dưa hấu. Ăn nhiều trái cây tươi rất tốt cho sức khỏe.",
+            "en": "You can make apple rice, banana rice, and if you like, you can even make watermelon rice. Eating plenty of fresh fruit is good for your health."
+          }
+        }
+      ]
+    }
+  ]
+}

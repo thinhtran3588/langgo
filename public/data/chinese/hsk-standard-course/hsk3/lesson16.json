@@ -1,0 +1,607 @@
+{
+  "title": {
+    "text": "我现在累得下了班就想睡觉。",
+    "pronunciation": "Wǒ xiànzài lèi de xiàle bān jiù xiǎng shuìjiào.",
+    "translations": {
+      "vi": "Bây giờ tôi mệt đến nỗi chỉ muốn đi ngủ sau khi hết giờ làm việc.",
+      "en": "I am so tired now that I just want to sleep after work."
+    }
+  },
+  "newWords": [
+    {
+      "word": "城市",
+      "type": "danh từ",
+      "pronunciation": "chéngshì",
+      "translations": {
+        "vi": "thành phố",
+        "en": "city"
+      },
+      "example": {
+        "text": "我不喜欢一直住在同一个城市，想去其他城市看一看。",
+        "pronunciation": "Wǒ bù xǐhuan yìzhí zhù zài tóng yí ge chéngshì, xiǎng qù qítā chéngshì kànkan.",
+        "translations": {
+          "vi": "Tôi không thích cứ sống mãi ở một thành phố, muốn đi các thành phố khác xem thử.",
+          "en": "I don't like staying in the same city all the time; I want to visit other cities."
+        }
+      }
+    },
+    {
+      "word": "如果",
+      "type": "liên từ",
+      "pronunciation": "rúguǒ",
+      "translations": {
+        "vi": "nếu",
+        "en": "if"
+      },
+      "example": {
+        "text": "如果不舒服，就去医院检查一下吧。",
+        "pronunciation": "Rúguǒ bù shūfu, jiù qù yīyuàn jiǎnchá yíxià ba.",
+        "translations": {
+          "vi": "Nếu không thoải mái thì đi bệnh viện kiểm tra một chút đi.",
+          "en": "If you're not feeling well, go to the hospital for a check-up."
+        }
+      }
+    },
+    {
+      "word": "认为",
+      "type": "động từ",
+      "pronunciation": "rènwéi",
+      "translations": {
+        "vi": "cho rằng, nghĩ rằng",
+        "en": "to think; to consider"
+      },
+      "example": {
+        "text": "我认为现在您有时间也不会出去玩儿。",
+        "pronunciation": "Wǒ rènwéi xiànzài nín yǒu shíjiān yě bú huì chūqu wánr.",
+        "translations": {
+          "vi": "Tôi nghĩ rằng bây giờ ông có thời gian cũng sẽ không ra ngoài chơi.",
+          "en": "I think even if you have time now, you won't go out to play."
+        }
+      }
+    },
+    {
+      "word": "皮鞋",
+      "type": "danh từ",
+      "pronunciation": "píxié",
+      "translations": {
+        "vi": "giày da",
+        "en": "leather shoes"
+      },
+      "example": {
+        "text": "你送的小皮鞋和小帽子真漂亮！",
+        "pronunciation": "Nǐ sòng de xiǎo píxié hé xiǎo màozi zhēn piàoliang!",
+        "translations": {
+          "vi": "Đôi giày da nhỏ và cái mũ nhỏ bạn tặng thật đẹp!",
+          "en": "The little leather shoes and hat you gave are really beautiful!"
+        }
+      }
+    },
+    {
+      "word": "帽子",
+      "type": "danh từ",
+      "pronunciation": "màozi",
+      "translations": {
+        "vi": "mũ, nón",
+        "en": "hat; cap"
+      },
+      "example": {
+        "text": "你送的小皮鞋和小帽子真漂亮！",
+        "pronunciation": "Nǐ sòng de xiǎo píxié hé xiǎo màozi zhēn piàoliang!",
+        "translations": {
+          "vi": "Đôi giày da nhỏ và cái mũ nhỏ bạn tặng thật đẹp!",
+          "en": "The little leather shoes and hat you gave are really beautiful!"
+        }
+      }
+    },
+    {
+      "word": "长",
+      "type": "động từ",
+      "pronunciation": "zhǎng",
+      "translations": {
+        "vi": "trưởng thành, lớn lên",
+        "en": "to grow; to develop"
+      },
+      "example": {
+        "text": "你女儿长得白白的、胖胖的，真可爱！",
+        "pronunciation": "Nǐ nǚ'ér zhǎng de báibái de, pàngpàng de, zhēn kě'ài!",
+        "translations": {
+          "vi": "Con gái bạn lớn lên trắng trẻo, mập mạp, thật đáng yêu!",
+          "en": "Your daughter has grown up white and chubby, so cute!"
+        }
+      }
+    },
+    {
+      "word": "可爱",
+      "type": "tính từ",
+      "pronunciation": "kě'ài",
+      "translations": {
+        "vi": "đáng yêu, dễ thương",
+        "en": "cute; lovely"
+      },
+      "example": {
+        "text": "你女儿长得白白的、胖胖的，真可爱！",
+        "pronunciation": "Nǐ nǚ'ér zhǎng de báibái de, pàngpàng de, zhēn kě'ài!",
+        "translations": {
+          "vi": "Con gái bạn lớn lên trắng trẻo, mập mạp, thật đáng yêu!",
+          "en": "Your daughter has grown up white and chubby, so cute!"
+        }
+      }
+    },
+    {
+      "word": "米",
+      "type": "danh từ",
+      "pronunciation": "mǐ",
+      "translations": {
+        "vi": "mét",
+        "en": "meter"
+      },
+      "example": {
+        "text": "快1米了，25公斤。",
+        "pronunciation": "Kuài yì mǐ le, èrshíwǔ gōngjīn.",
+        "translations": {
+          "vi": "Sắp được 1 mét rồi, 25 ki-lô-gam.",
+          "en": "Almost 1 meter tall, 25 kilograms."
+        }
+      }
+    },
+    {
+      "word": "公斤",
+      "type": "danh từ",
+      "pronunciation": "gōngjīn",
+      "translations": {
+        "vi": "ki-lô-gam",
+        "en": "kilogram"
+      },
+      "example": {
+        "text": "快1米了，25公斤。",
+        "pronunciation": "Kuài yì mǐ le, èrshíwǔ gōngjīn.",
+        "translations": {
+          "vi": "Sắp được 1 mét rồi, 25 ki-lô-gam.",
+          "en": "Almost 1 meter tall, 25 kilograms."
+        }
+      }
+    },
+    {
+      "word": "鼻子",
+      "type": "danh từ",
+      "pronunciation": "bízi",
+      "translations": {
+        "vi": "mũi",
+        "en": "nose"
+      },
+      "example": {
+        "text": "你看她鼻子小小的。",
+        "pronunciation": "Nǐ kàn tā bízi xiǎoxiǎo de.",
+        "translations": {
+          "vi": "Bạn xem mũi cô bé nhỏ nhắn kìa.",
+          "en": "Look, her nose is small."
+        }
+      }
+    },
+    {
+      "word": "头发",
+      "type": "danh từ",
+      "pronunciation": "tóufa",
+      "translations": {
+        "vi": "tóc",
+        "en": "hair"
+      },
+      "example": {
+        "text": "头发黑黑的，长得像谁？",
+        "pronunciation": "Tóufa hēihēi de, zhǎng de xiàng shéi?",
+        "translations": {
+          "vi": "Tóc đen nhánh, trông giống ai thế?",
+          "en": "With black hair, who does she look like?"
+        }
+      }
+    },
+    {
+      "word": "检查",
+      "type": "động từ",
+      "pronunciation": "jiǎnchá",
+      "translations": {
+        "vi": "kiểm tra, khám",
+        "en": "to check; to examine"
+      },
+      "example": {
+        "text": "如果不舒服，就去医院检查一下吧。",
+        "pronunciation": "Rúguǒ bù shūfu, jiù qù yīyuàn jiǎnchá yíxià ba.",
+        "translations": {
+          "vi": "Nếu không thoải mái thì đi bệnh viện kiểm tra một chút đi.",
+          "en": "If you're not feeling well, go to the hospital for a check-up."
+        }
+      }
+    },
+    {
+      "word": "刷牙",
+      "type": "động từ",
+      "pronunciation": "shuā yá",
+      "translations": {
+        "vi": "chải răng, đánh răng",
+        "en": "to brush teeth"
+      },
+      "example": {
+        "text": "每次医生都告诉我，回家好好儿刷牙。",
+        "pronunciation": "Měi cì yīshēng dōu gàosu wǒ, huí jiā hǎohāor shuā yá.",
+        "translations": {
+          "vi": "Lần nào bác sĩ cũng bảo tôi về nhà đánh răng cho kỹ.",
+          "en": "Every time the doctor tells me to go home and brush my teeth well."
+        }
+      }
+    },
+    {
+      "word": "关系",
+      "type": "danh từ",
+      "pronunciation": "guānxì",
+      "translations": {
+        "vi": "quan hệ",
+        "en": "relationship"
+      },
+      "example": {
+        "text": "很多人都觉得现在人和人的关系冷冷的。",
+        "pronunciation": "Hěn duō rén dōu juéde xiànzài rén hé rén de guānxì lěnglěng de.",
+        "translations": {
+          "vi": "Rất nhiều người cảm thấy mối quan hệ giữa người với người hiện nay rất lạnh nhạt.",
+          "en": "Many people feel that relationships between people are cold nowadays."
+        }
+      }
+    },
+    {
+      "word": "别人",
+      "type": "danh từ",
+      "pronunciation": "biérén",
+      "translations": {
+        "vi": "người khác",
+        "en": "others; other people"
+      },
+      "example": {
+        "text": "忙得没时间跟别人见面。",
+        "pronunciation": "Máng de méi shíjiān gēn biérén jiàn miàn.",
+        "translations": {
+          "vi": "Bận đến nỗi không có thời gian gặp gỡ người khác.",
+          "en": "Too busy to have time to meet others."
+        }
+      }
+    },
+    {
+      "word": "词语",
+      "type": "danh từ",
+      "pronunciation": "cíyǔ",
+      "translations": {
+        "vi": "từ ngữ",
+        "en": "word; expression"
+      },
+      "example": {
+        "text": "说话时如果能多用一些“您好”“谢谢”这样的词语。",
+        "pronunciation": "Shuō huà shí rúguǒ néng duō yòng yìxiē “Nínhǎo” “Xièxie” zhèyàng de cíyǔ.",
+        "translations": {
+          "vi": "Khi nói chuyện nếu có thể dùng nhiều hơn những từ ngữ như \"Xin chào\", \"Cảm ơn\".",
+          "en": "If you can use more words like \"Hello\" and \"Thank you\" when speaking."
+        }
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "如果……（的话），（主语）就……",
+      "descriptions": {
+        "vi": "Cấu trúc “如果……（的话），（主语）就……” dùng để biểu thị giả thiết. \"如果\" ở phân câu đầu nêu lên một giả thiết, \"就\" ở phân câu sau cho biết kết quả sinh ra trong tình huống giả thiết đó.",
+        "en": "The structure “如果……（的话），（主语）就……” indicates a hypothesis. \"如果\" in the first clause introduces the hypothesis, and \"就\" in the second clause indicates the result."
+      },
+      "examples": [
+        {
+          "text": "如果你太累了，就休息一会儿。",
+          "pronunciation": "Rúguǒ nǐ tài lèi le, jiù xiūxi yíhuìr.",
+          "translations": {
+            "vi": "Nếu bạn mệt quá thì nghỉ ngơi một lát đi.",
+            "en": "If you are too tired, rest for a while."
+          }
+        },
+        {
+          "text": "如果你喜欢，我就给你买。",
+          "pronunciation": "Rúguǒ nǐ xǐhuan, wǒ jiù gěi nǐ mǎi.",
+          "translations": {
+            "vi": "Nếu em thích thì anh sẽ mua cho em.",
+            "en": "If you like it, I'll buy it for you."
+          }
+        },
+        {
+          "text": "如果有钱的话，我就去旅游。",
+          "pronunciation": "Rúguǒ yǒu qián de huà, wǒ jiù qù lǚyóu.",
+          "translations": {
+            "vi": "Nếu có tiền thì tôi sẽ đi du lịch.",
+            "en": "If I have money, I will go traveling."
+          }
+        },
+        {
+          "text": "如果不舒服，就去医院检查一下吧。",
+          "pronunciation": "Rúguǒ bù shūfu, jiù qù yīyuàn jiǎnchá yíxià ba.",
+          "translations": {
+            "vi": "Nếu không thoải mái thì đi bệnh viện kiểm tra một chút đi.",
+            "en": "If you are uncomfortable, go to the hospital for a check-up."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "复杂的状态补语",
+      "descriptions": {
+        "vi": "Trong tiếng Trung Quốc, \"得\" có thể được dùng để tạo thành bổ ngữ chỉ trạng thái nhằm miêu tả trạng thái nào đó. Thường thì đứng trước \"得\" là tính từ hoặc động từ và theo sau \"得\" là cụm động từ.",
+        "en": "In Chinese, \"得\" is used to form a state complement to describe a state. Usually, an adjective or verb precedes \"得\", and a verb phrase follows it."
+      },
+      "examples": [
+        {
+          "text": "孩子们玩儿得不想回家。",
+          "pronunciation": "Háizimen wánr de bù xiǎng huí jiā.",
+          "translations": {
+            "vi": "Bọn trẻ chơi vui đến nỗi không muốn về nhà.",
+            "en": "The children played so much they didn't want to go home."
+          }
+        },
+        {
+          "text": "弟弟高兴得跳了起来。",
+          "pronunciation": "Dìdi gāoxìng de tiào le qǐlai.",
+          "translations": {
+            "vi": "Em trai vui đến nỗi nhảy cẫng lên.",
+            "en": "My younger brother was so happy that he jumped up."
+          }
+        },
+        {
+          "text": "儿子累得下了班就睡觉了。",
+          "pronunciation": "Érzi lèi de xiàle bān jiù shuìjiào le.",
+          "translations": {
+            "vi": "Con trai mệt đến nỗi tan làm là đi ngủ luôn.",
+            "en": "My son was so tired that he went to sleep right after work."
+          }
+        },
+        {
+          "text": "人们忙得没时间跟别人见面。",
+          "pronunciation": "Rénmen máng de méi shíjiān gēn biérén jiàn miàn.",
+          "translations": {
+            "vi": "Mọi người bận đến nỗi không có thời gian gặp gỡ người khác.",
+            "en": "People are so busy that they don't have time to meet others."
+          }
+        }
+      ]
+    },
+    {
+      "grammar": "单音节形容词重叠",
+      "descriptions": {
+        "vi": "Tính từ có một âm tiết thường được dùng theo cách lặp lại “AA的” để miêu tả đặc trưng của người hay sự vật với mức độ tăng thêm.",
+        "en": "Monosyllabic adjectives are often reduplicated as \"AA的\" to describe characteristics of people or things with increased intensity."
+      },
+      "examples": [
+        {
+          "text": "你送的花红红的，我很喜欢。",
+          "pronunciation": "Nǐ sòng de huā hónghóng de, wǒ hěn xǐhuan.",
+          "translations": {
+            "vi": "Hoa bạn tặng đỏ thắm, tôi rất thích.",
+            "en": "The flowers you gave are red, I like them very much."
+          }
+        },
+        {
+          "text": "这些草绿绿的，真漂亮。",
+          "pronunciation": "Zhèxiē cǎo lǜlǜ de, zhēn piàoliang.",
+          "translations": {
+            "vi": "Những đám cỏ này xanh mướt, thật đẹp.",
+            "en": "These grasses are green, really beautiful."
+          }
+        },
+        {
+          "text": "他鼻子小小的，长得像谁？",
+          "pronunciation": "Tā bízi xiǎoxiǎo de, zhǎng de xiàng shéi?",
+          "translations": {
+            "vi": "Mũi nó nhỏ nhắn, trông giống ai vậy?",
+            "en": "His nose is small, who does he look like?"
+          }
+        },
+        {
+          "text": "你女儿长得白白的、胖胖的，真可爱！",
+          "pronunciation": "Nǐ nǚ'ér zhǎng de báibái de, pàngpàng de, zhēn kě'ài!",
+          "translations": {
+            "vi": "Con gái bạn lớn lên trắng trẻo, mập mạp, thật đáng yêu!",
+            "en": "Your daughter grows up white and chubby, really cute!"
+          }
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在公司",
+        "pronunciation": "Zài gōngsī",
+        "translations": {
+          "vi": "Trong công ty",
+          "en": "In the company"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：我不喜欢一直住在同一个城市，想去其他城市看一看。",
+          "pronunciation": "Xiǎolì: Wǒ bù xǐhuan yìzhí zhù zài tóng yí ge chéngshì, xiǎng qù qítā chéngshì kànkan.",
+          "translations": {
+            "vi": "Tiểu Lệ: Tôi không thích cứ sống mãi ở một thành phố, muốn đi các thành phố khác xem thử.",
+            "en": "Xiaoli: I don't like living in the same city all the time; I want to go see other cities."
+          }
+        },
+        {
+          "text": "周明：我年轻的时候也这么想，但是那时候没有钱，如果有钱，就去了。",
+          "pronunciation": "Zhōu Míng: Wǒ niánqīng de shíhou yě zhème xiǎng, dànshì nà shíhou méiyǒu qián, rúguǒ yǒu qián, jiù qù le.",
+          "translations": {
+            "vi": "Chu Minh: Lúc còn trẻ tôi cũng nghĩ như vậy, nhưng hồi đó không có tiền, nếu có tiền thì đã đi rồi.",
+            "en": "Zhou Ming: I thought the same when I was young, but I didn't have money back then. If I had money, I would have gone."
+          }
+        },
+        {
+          "text": "小丽：那您现在为什么不去？",
+          "pronunciation": "Xiǎolì: Nà nín xiànzài wèishénme bú qù?",
+          "translations": {
+            "vi": "Tiểu Lệ: Vậy tại sao bây giờ ông không đi?",
+            "en": "Xiaoli: Then why don't you go now?"
+          }
+        },
+        {
+          "text": "周明：现在钱不是问题了，主要是没有时间。",
+          "pronunciation": "Zhōu Míng: Xiànzài qián bú shì wèntí le, zhǔyào shì méiyǒu shíjiān.",
+          "translations": {
+            "vi": "Chu Minh: Bây giờ tiền không phải là vấn đề nữa, chủ yếu là không có thời gian.",
+            "en": "Zhou Ming: Money isn't a problem now, mainly it's that I don't have time."
+          }
+        },
+        {
+          "text": "小丽：我认为现在您有时间也不会出去玩儿。",
+          "pronunciation": "Xiǎolì: Wǒ rènwéi xiànzài nín yǒu shíjiān yě bú huì chūqu wánr.",
+          "translations": {
+            "vi": "Tiểu Lệ: Tôi nghĩ rằng bây giờ ông có thời gian cũng sẽ không ra ngoài chơi.",
+            "en": "Xiaoli: I think even if you have time now, you won't go out to play."
+          }
+        },
+        {
+          "text": "周明：你说得对，我现在累得下了班就想睡觉。",
+          "pronunciation": "Zhōu Míng: Nǐ shuō de duì, wǒ xiànzài lèi de xiàle bān jiù xiǎng shuìjiào.",
+          "translations": {
+            "vi": "Chu Minh: Cô nói đúng, bây giờ tôi mệt đến nỗi chỉ muốn đi ngủ sau khi hết giờ làm việc.",
+            "en": "Zhou Ming: You're right, I'm so tired now that I just want to sleep after work."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在同事家",
+        "pronunciation": "Zài tóngshì jiā",
+        "translations": {
+          "vi": "Ở nhà đồng nghiệp",
+          "en": "At a colleague's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "同事：谢谢你们来看我女儿。你送的小皮鞋和小帽子真漂亮！",
+          "pronunciation": "Tóngshì: Xièxie nǐmen lái kàn wǒ nǚ'ér. Nǐ sòng de xiǎo píxié hé xiǎo màozi zhēn piàoliang!",
+          "translations": {
+            "vi": "Đồng nghiệp: Cảm ơn các bạn đến thăm con gái tôi. Đôi giày da nhỏ và cái mũ nhỏ bạn tặng thật đẹp!",
+            "en": "Colleague: Thank you for coming to see my daughter. The little leather shoes and hat you gave are so beautiful!"
+          }
+        },
+        {
+          "text": "小丽：别客气，你女儿长得白白的、胖胖的，真可爱！现在多高了？",
+          "pronunciation": "Xiǎolì: Bié kèqi, nǐ nǚ'ér zhǎng de báibái de, pàngpàng de, zhēn kě'ài! Xiànzài duō gāo le?",
+          "translations": {
+            "vi": "Tiểu Lệ: Đừng khách sáo, con gái bạn lớn lên trắng trẻo, mập mạp, thật đáng yêu! Bây giờ cao bao nhiêu rồi?",
+            "en": "Xiaoli: You're welcome. Your daughter has grown up white and chubby, so cute! How tall is she now?"
+          }
+        },
+        {
+          "text": "同事：快1米了，25公斤。",
+          "pronunciation": "Tóngshì: Kuài yì mǐ le, èrshíwǔ gōngjīn.",
+          "translations": {
+            "vi": "Đồng nghiệp: Sắp được 1 mét rồi, 25 ki-lô-gam.",
+            "en": "Colleague: Almost 1 meter, 25 kilograms."
+          }
+        },
+        {
+          "text": "小丽：你看她鼻子小小的，头发黑黑的，长得像谁？",
+          "pronunciation": "Xiǎolì: Nǐ kàn tā bízi xiǎoxiǎo de, tóufa hēihēi de, zhǎng de xiàng shéi?",
+          "translations": {
+            "vi": "Tiểu Lệ: Bạn xem mũi cô bé nhỏ nhắn, tóc đen nhánh, trông giống ai thế?",
+            "en": "Xiaoli: Look, her nose is small and her hair is black. Who does she look like?"
+          }
+        },
+        {
+          "text": "同事：像她爸爸，刚出生时她爸爸高兴得一个晚上都没睡着。",
+          "pronunciation": "Tóngshì: Xiàng tā bàba, gāng chūshēng shí tā bàba gāoxìng de yí ge wǎnshang dōu méi shuìzháo.",
+          "translations": {
+            "vi": "Đồng nghiệp: Giống bố nó, lúc mới sinh bố nó vui đến nỗi cả đêm không ngủ được.",
+            "en": "Colleague: She looks like her dad. When she was born, her dad was so happy that he didn't sleep all night."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在公司",
+        "pronunciation": "Zài gōngsī",
+        "translations": {
+          "vi": "Trong công ty",
+          "en": "In the company"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小刚：我的牙还是很疼。",
+          "pronunciation": "Xiǎogāng: Wǒ de yá háishi hěn téng.",
+          "translations": {
+            "vi": "Tiểu Cương: Răng tôi vẫn rất đau.",
+            "en": "Xiaogang: My tooth still hurts a lot."
+          }
+        },
+        {
+          "text": "同事：如果不舒服，就去医院检查一下吧。",
+          "pronunciation": "Tóngshì: Rúguǒ bù shūfu, jiù qù yīyuàn jiǎnchá yíxià ba.",
+          "translations": {
+            "vi": "Đồng nghiệp: Nếu không thoải mái thì đi bệnh viện kiểm tra một chút đi.",
+            "en": "Colleague: If you're not comfortable, go to the hospital for a check-up."
+          }
+        },
+        {
+          "text": "小刚：检查好几次了，但是没什用。",
+          "pronunciation": "Xiǎogāng: Jiǎnchá hǎo jǐ cì le, dànshì méi shénme yòng.",
+          "translations": {
+            "vi": "Tiểu Cương: Kiểm tra mấy lần rồi, nhưng chẳng có tác dụng gì.",
+            "en": "Xiaogang: I've checked several times, but it's useless."
+          }
+        },
+        {
+          "text": "同事：大夫怎么说的？",
+          "pronunciation": "Tóngshì: Dàifu zěnme shuō de?",
+          "translations": {
+            "vi": "Đồng nghiệp: Bác sĩ nói sao?",
+            "en": "Colleague: What did the doctor say?"
+          }
+        },
+        {
+          "text": "小刚：每次医生都告诉我，回家好好儿刷牙。",
+          "pronunciation": "Xiǎogāng: Měi cì yīshēng dōu gàosu wǒ, huí jiā hǎohāor shuā yá.",
+          "translations": {
+            "vi": "Tiểu Cương: Lần nào bác sĩ cũng bảo tôi về nhà đánh răng cho kỹ.",
+            "en": "Xiaogang: Every time the doctor tells me to go home and brush my teeth well."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "人际关系",
+        "pronunciation": "Rénjì guānxì",
+        "translations": {
+          "vi": "Quan hệ giữa người với người",
+          "en": "Interpersonal relationships"
+        }
+      },
+      "sentences": [
+        {
+          "text": "很多人都觉得现在人和人的关系冷冷的，这可能是因为工作太忙，忙得没时间跟别人见面，累得不愿意和别人多说话。",
+          "pronunciation": "Hěn duō rén dōu juéde xiànzài rén hé rén de guānxì lěnglěng de, zhè kěnéng shì yīnwèi gōngzuò tài máng, máng de méi shíjiān gēn biérén jiàn miàn, lèi de bú yuànyì hé biérén duō shuō huà.",
+          "translations": {
+            "vi": "Rất nhiều người cảm thấy mối quan hệ giữa người với người hiện nay rất lạnh nhạt, điều này có thể là do công việc quá bận rộn, bận đến nỗi không có thời gian gặp gỡ người khác, mệt đến nỗi không muốn nói chuyện nhiều với người khác.",
+            "en": "Many people feel that relationships between people are cold nowadays. This may be because work is too busy; they are so busy that they don't have time to meet others, and so tired that they don't want to talk much with others."
+          }
+        },
+        {
+          "text": "其实，我们应该多对别人笑笑，说话时如果能多用一些“您好”“谢谢”这样的词语，和别人的关系就会变得更好。",
+          "pronunciation": "Qíshí, wǒmen yīnggāi duō duì biérén xiàoxiao, shuō huà shí rúguǒ néng duō yòng yìxiē “Nínhǎo” “Xièxie” zhèyàng de cíyǔ, hé biérén de guānxì jiù huì biàn de gèng hǎo.",
+          "translations": {
+            "vi": "Thực ra, chúng ta nên cười với người khác nhiều hơn, khi nói chuyện nếu có thể dùng nhiều hơn những từ ngữ như \"Xin chào\", \"Cảm ơn\", thì mối quan hệ với người khác sẽ trở nên tốt đẹp hơn.",
+            "en": "Actually, we should smile more at others. If we can use more words like \"Hello\" and \"Thank you\" when speaking, our relationships with others will become better."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,555 +1,555 @@
 {
-    "title": {
+  "title": {
+    "text": "我最近越来越胖了。",
+    "pronunciation": "Wǒ zuìjìn yuè lái yuè pàng le.",
+    "translations": {
+      "vi": "Dạo này em ngày càng béo ra.",
+      "en": "I am getting fatter and fatter lately."
+    }
+  },
+  "newWords": [
+    {
+      "word": "发烧",
+      "type": "động từ",
+      "pronunciation": "fā shāo",
+      "translations": {
+        "vi": "sốt",
+        "en": "to have a fever"
+      },
+      "example": {
+        "text": "前几天有点儿发烧，现在好多了。",
+        "pronunciation": "Qián jǐ tiān yǒudiǎnr fā shāo, xiànzài hǎo duō le.",
+        "translations": {
+          "vi": "Mấy hôm trước hơi bị sốt, bây giờ đỡ nhiều rồi.",
+          "en": "I had a fever a few days ago, I'm much better now."
+        }
+      }
+    },
+    {
+      "word": "为",
+      "type": "giới từ",
+      "pronunciation": "wèi",
+      "translations": {
+        "vi": "cho, vì",
+        "en": "for"
+      },
+      "example": {
+        "text": "这是我为你买的绿茶，很不错。",
+        "pronunciation": "Zhè shì wǒ wèi nǐ mǎi de lǜchá, hěn búcuò.",
+        "translations": {
+          "vi": "Đây là trà xanh tôi mua cho bạn, rất ngon.",
+          "en": "This is green tea I bought for you, it's very good."
+        }
+      }
+    },
+    {
+      "word": "照顾",
+      "type": "động từ",
+      "pronunciation": "zhàogù",
+      "translations": {
+        "vi": "chăm sóc",
+        "en": "to take care of"
+      },
+      "example": {
+        "text": "我儿子生病了，我要在家照顾他。",
+        "pronunciation": "Wǒ érzi shēng bìng le, wǒ yào zài jiā zhàogù tā.",
+        "translations": {
+          "vi": "Con trai tôi bị ốm rồi, tôi phải ở nhà chăm sóc nó.",
+          "en": "My son is sick, I need to take care of him at home."
+        }
+      }
+    },
+    {
+      "word": "用",
+      "type": "động từ",
+      "pronunciation": "yòng",
+      "translations": {
+        "vi": "cần, dùng",
+        "en": "to need; to use"
+      },
+      "example": {
+        "text": "不用去医院，昨天吃了感冒药，现在好一些了。",
+        "pronunciation": "Bú yòng qù yīyuàn, zuótiān chīle gǎnmào yào, xiànzài hǎo yìxiē le.",
+        "translations": {
+          "vi": "Không cần đi bệnh viện, hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
+          "en": "No need to go to the hospital, he took cold medicine yesterday, he's a bit better now."
+        }
+      }
+    },
+    {
+      "word": "感冒",
+      "type": "động từ",
+      "pronunciation": "gǎnmào",
+      "translations": {
+        "vi": "bị cảm",
+        "en": "to catch a cold"
+      },
+      "example": {
+        "text": "昨天吃了感冒药，现在好一些了。",
+        "pronunciation": "Zuótiān chīle gǎnmào yào, xiànzài hǎo yìxiē le.",
+        "translations": {
+          "vi": "Hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
+          "en": "He took cold medicine yesterday, he's a bit better now."
+        }
+      }
+    },
+    {
+      "word": "季节",
+      "type": "danh từ",
+      "pronunciation": "jìjié",
+      "translations": {
+        "vi": "mùa",
+        "en": "season"
+      },
+      "example": {
+        "text": "你最喜欢哪个季节？",
+        "pronunciation": "Nǐ zuì xǐhuan nǎge jìjié?",
+        "translations": {
+          "vi": "Em thích nhất mùa nào?",
+          "en": "Which season do you like the best?"
+        }
+      }
+    },
+    {
+      "word": "当然",
+      "type": "phó từ",
+      "pronunciation": "dāngrán",
+      "translations": {
+        "vi": "đương nhiên, dĩ nhiên",
+        "en": "of course"
+      },
+      "example": {
+        "text": "当然是春天，天气不那么冷了。",
+        "pronunciation": "Dāngrán shì chūntiān, tiānqì bú nàme lěng le.",
+        "translations": {
+          "vi": "Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa.",
+          "en": "Of course it's spring, the weather isn't that cold anymore."
+        }
+      }
+    },
+    {
+      "word": "春（天）",
+      "type": "danh từ",
+      "pronunciation": "chūn (tiān)",
+      "translations": {
+        "vi": "(mùa) xuân",
+        "en": "spring"
+      },
+      "example": {
+        "text": "当然是春天，天气不那么冷了。",
+        "pronunciation": "Dāngrán shì chūntiān, tiānqì bú nàme lěng le.",
+        "translations": {
+          "vi": "Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa.",
+          "en": "Of course it's spring, the weather isn't that cold anymore."
+        }
+      }
+    },
+    {
+      "word": "草",
+      "type": "danh từ",
+      "pronunciation": "cǎo",
+      "translations": {
+        "vi": "cỏ",
+        "en": "grass"
+      },
+      "example": {
+        "text": "草和树都绿了，花也开了。",
+        "pronunciation": "Cǎo hé shù dōu lǜ le, huā yě kāi le.",
+        "translations": {
+          "vi": "Cỏ và cây đều xanh rồi, hoa cũng nở rồi.",
+          "en": "The grass and trees are green, and the flowers are blooming."
+        }
+      }
+    },
+    {
+      "word": "夏（天）",
+      "type": "danh từ",
+      "pronunciation": "xià (tiān)",
+      "translations": {
+        "vi": "(mùa) hè",
+        "en": "summer"
+      },
+      "example": {
+        "text": "我最喜欢夏天，因为我可以穿漂亮的裙子了。",
+        "pronunciation": "Wǒ zuì xǐhuan xiàtiān, yīnwèi wǒ kěyǐ chuān piàoliang de qúnzi le.",
+        "translations": {
+          "vi": "Anh thích nhất mùa hè, bởi vì anh có thể mặc váy đẹp rồi.",
+          "en": "I like summer best, because I can wear pretty dresses."
+        }
+      }
+    },
+    {
+      "word": "裙子",
+      "type": "danh từ",
+      "pronunciation": "qúnzi",
+      "translations": {
+        "vi": "váy",
+        "en": "dress; skirt"
+      },
+      "example": {
+        "text": "这条裙子是去年买的，今年就不能穿了。",
+        "pronunciation": "Zhè tiáo qúnzi shì qùnián mǎi de, jīnnián jiù bù néng chuān le.",
+        "translations": {
+          "vi": "Chiếc váy này mua năm ngoái, năm nay không mặc được nữa rồi.",
+          "en": "This dress was bought last year, I can't wear it this year."
+        }
+      }
+    },
+    {
+      "word": "最近",
+      "type": "phó từ",
+      "pronunciation": "zuìjìn",
+      "translations": {
+        "vi": "gần đây, dạo này",
+        "en": "recently; lately"
+      },
+      "example": {
         "text": "我最近越来越胖了。",
         "pronunciation": "Wǒ zuìjìn yuè lái yuè pàng le.",
         "translations": {
-            "vi": "Dạo này em ngày càng béo ra.",
-            "en": "I am getting fatter and fatter lately."
+          "vi": "Dạo này em ngày càng béo ra.",
+          "en": "I am getting fatter and fatter lately."
         }
+      }
     },
-    "newWords": [
-        {
-            "word": "发烧",
-            "type": "động từ",
-            "pronunciation": "fā shāo",
-            "translations": {
-                "vi": "sốt",
-                "en": "to have a fever"
-            },
-            "example": {
-                "text": "前几天有点儿发烧，现在好多了。",
-                "pronunciation": "Qián jǐ tiān yǒudiǎnr fā shāo, xiànzài hǎo duō le.",
-                "translations": {
-                    "vi": "Mấy hôm trước hơi bị sốt, bây giờ đỡ nhiều rồi.",
-                    "en": "I had a fever a few days ago, I'm much better now."
-                }
-            }
-        },
-        {
-            "word": "为",
-            "type": "giới từ",
-            "pronunciation": "wèi",
-            "translations": {
-                "vi": "cho, vì",
-                "en": "for"
-            },
-            "example": {
-                "text": "这是我为你买的绿茶，很不错。",
-                "pronunciation": "Zhè shì wǒ wèi nǐ mǎi de lǜchá, hěn búcuò.",
-                "translations": {
-                    "vi": "Đây là trà xanh tôi mua cho bạn, rất ngon.",
-                    "en": "This is green tea I bought for you, it's very good."
-                }
-            }
-        },
-        {
-            "word": "照顾",
-            "type": "động từ",
-            "pronunciation": "zhàogù",
-            "translations": {
-                "vi": "chăm sóc",
-                "en": "to take care of"
-            },
-            "example": {
-                "text": "我儿子生病了，我要在家照顾他。",
-                "pronunciation": "Wǒ érzi shēng bìng le, wǒ yào zài jiā zhàogù tā.",
-                "translations": {
-                    "vi": "Con trai tôi bị ốm rồi, tôi phải ở nhà chăm sóc nó.",
-                    "en": "My son is sick, I need to take care of him at home."
-                }
-            }
-        },
-        {
-            "word": "用",
-            "type": "động từ",
-            "pronunciation": "yòng",
-            "translations": {
-                "vi": "cần, dùng",
-                "en": "to need; to use"
-            },
-            "example": {
-                "text": "不用去医院，昨天吃了感冒药，现在好一些了。",
-                "pronunciation": "Bú yòng qù yīyuàn, zuótiān chīle gǎnmào yào, xiànzài hǎo yìxiē le.",
-                "translations": {
-                    "vi": "Không cần đi bệnh viện, hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
-                    "en": "No need to go to the hospital, he took cold medicine yesterday, he's a bit better now."
-                }
-            }
-        },
-        {
-            "word": "感冒",
-            "type": "động từ",
-            "pronunciation": "gǎnmào",
-            "translations": {
-                "vi": "bị cảm",
-                "en": "to catch a cold"
-            },
-            "example": {
-                "text": "昨天吃了感冒药，现在好一些了。",
-                "pronunciation": "Zuótiān chīle gǎnmào yào, xiànzài hǎo yìxiē le.",
-                "translations": {
-                    "vi": "Hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
-                    "en": "He took cold medicine yesterday, he's a bit better now."
-                }
-            }
-        },
-        {
-            "word": "季节",
-            "type": "danh từ",
-            "pronunciation": "jìjié",
-            "translations": {
-                "vi": "mùa",
-                "en": "season"
-            },
-            "example": {
-                "text": "你最喜欢哪个季节？",
-                "pronunciation": "Nǐ zuì xǐhuan nǎge jìjié?",
-                "translations": {
-                    "vi": "Em thích nhất mùa nào?",
-                    "en": "Which season do you like the best?"
-                }
-            }
-        },
-        {
-            "word": "当然",
-            "type": "phó từ",
-            "pronunciation": "dāngrán",
-            "translations": {
-                "vi": "đương nhiên, dĩ nhiên",
-                "en": "of course"
-            },
-            "example": {
-                "text": "当然是春天，天气不那么冷了。",
-                "pronunciation": "Dāngrán shì chūntiān, tiānqì bú nàme lěng le.",
-                "translations": {
-                    "vi": "Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa.",
-                    "en": "Of course it's spring, the weather isn't that cold anymore."
-                }
-            }
-        },
-        {
-            "word": "春（天）",
-            "type": "danh từ",
-            "pronunciation": "chūn (tiān)",
-            "translations": {
-                "vi": "(mùa) xuân",
-                "en": "spring"
-            },
-            "example": {
-                "text": "当然是春天，天气不那么冷了。",
-                "pronunciation": "Dāngrán shì chūntiān, tiānqì bú nàme lěng le.",
-                "translations": {
-                    "vi": "Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa.",
-                    "en": "Of course it's spring, the weather isn't that cold anymore."
-                }
-            }
-        },
-        {
-            "word": "草",
-            "type": "danh từ",
-            "pronunciation": "cǎo",
-            "translations": {
-                "vi": "cỏ",
-                "en": "grass"
-            },
-            "example": {
-                "text": "草和树都绿了，花也开了。",
-                "pronunciation": "Cǎo hé shù dōu lǜ le, huā yě kāi le.",
-                "translations": {
-                    "vi": "Cỏ và cây đều xanh rồi, hoa cũng nở rồi.",
-                    "en": "The grass and trees are green, and the flowers are blooming."
-                }
-            }
-        },
-        {
-            "word": "夏（天）",
-            "type": "danh từ",
-            "pronunciation": "xià (tiān)",
-            "translations": {
-                "vi": "(mùa) hè",
-                "en": "summer"
-            },
-            "example": {
-                "text": "我最喜欢夏天，因为我可以穿漂亮的裙子了。",
-                "pronunciation": "Wǒ zuì xǐhuan xiàtiān, yīnwèi wǒ kěyǐ chuān piàoliang de qúnzi le.",
-                "translations": {
-                    "vi": "Anh thích nhất mùa hè, bởi vì anh có thể mặc váy đẹp rồi.",
-                    "en": "I like summer best, because I can wear pretty dresses."
-                }
-            }
-        },
-        {
-            "word": "裙子",
-            "type": "danh từ",
-            "pronunciation": "qúnzi",
-            "translations": {
-                "vi": "váy",
-                "en": "dress; skirt"
-            },
-            "example": {
-                "text": "这条裙子是去年买的，今年就不能穿了。",
-                "pronunciation": "Zhè tiáo qúnzi shì qùnián mǎi de, jīnnián jiù bù néng chuān le.",
-                "translations": {
-                    "vi": "Chiếc váy này mua năm ngoái, năm nay không mặc được nữa rồi.",
-                    "en": "This dress was bought last year, I can't wear it this year."
-                }
-            }
-        },
-        {
-            "word": "最近",
-            "type": "phó từ",
-            "pronunciation": "zuìjìn",
-            "translations": {
-                "vi": "gần đây, dạo này",
-                "en": "recently; lately"
-            },
-            "example": {
-                "text": "我最近越来越胖了。",
-                "pronunciation": "Wǒ zuìjìn yuè lái yuè pàng le.",
-                "translations": {
-                    "vi": "Dạo này em ngày càng béo ra.",
-                    "en": "I am getting fatter and fatter lately."
-                }
-            }
-        },
-        {
-            "word": "越",
-            "type": "phó từ",
-            "pronunciation": "yuè",
-            "translations": {
-                "vi": "càng",
-                "en": "more; to a greater degree"
-            },
-            "example": {
-                "text": "我觉得你越来越漂亮了。",
-                "pronunciation": "Wǒ juéde nǐ yuè lái yuè piàoliang le.",
-                "translations": {
-                    "vi": "Anh thấy em ngày càng xinh đẹp.",
-                    "en": "I think you are getting prettier and prettier."
-                }
-            }
+    {
+      "word": "越",
+      "type": "phó từ",
+      "pronunciation": "yuè",
+      "translations": {
+        "vi": "càng",
+        "en": "more; to a greater degree"
+      },
+      "example": {
+        "text": "我觉得你越来越漂亮了。",
+        "pronunciation": "Wǒ juéde nǐ yuè lái yuè piàoliang le.",
+        "translations": {
+          "vi": "Anh thấy em ngày càng xinh đẹp.",
+          "en": "I think you are getting prettier and prettier."
         }
-    ],
-    "grammars": [
+      }
+    }
+  ],
+  "grammars": [
+    {
+      "grammar": "“了” 表示变化",
+      "descriptions": {
+        "vi": "Trợ từ ngữ khí “了” được dùng ở cuối câu trần thuật để chỉ sự thay đổi trong một tình huống hoặc sự xuất hiện của một tình huống mới. Chẳng hạn câu \"我现在没钱了\" diễn tả sự thay đổi là trước kia tôi có tiền nhưng hiện giờ thì không có nữa.",
+        "en": "The modal particle “了” is used at the end of a declarative sentence to indicate a change in a situation or the occurrence of a new situation. For example, \"我现在没钱了\" (I have no money now) implies a change: I used to have money, but now I don't."
+      },
+      "examples": [
         {
-            "grammar": "“了” 表示变化",
-            "descriptions": {
-                "vi": "Trợ từ ngữ khí “了” được dùng ở cuối câu trần thuật để chỉ sự thay đổi trong một tình huống hoặc sự xuất hiện của một tình huống mới. Chẳng hạn câu \"我现在没钱了\" diễn tả sự thay đổi là trước kia tôi có tiền nhưng hiện giờ thì không có nữa.",
-                "en": "The modal particle “了” is used at the end of a declarative sentence to indicate a change in a situation or the occurrence of a new situation. For example, \"我现在没钱了\" (I have no money now) implies a change: I used to have money, but now I don't."
-            },
-            "examples": [
-                {
-                    "text": "上个月很冷，现在天气不那么冷了。",
-                    "pronunciation": "Shàng ge yuè hěn lěng, xiànzài tiānqì bú nàme lěng le.",
-                    "translations": {
-                        "vi": "Tháng trước rất lạnh, bây giờ thời tiết không lạnh như thế nữa.",
-                        "en": "Last month was very cold, now the weather isn't that cold."
-                    }
-                },
-                {
-                    "text": "我前几天有点儿发烧，现在好多了。",
-                    "pronunciation": "Wǒ qián jǐ tiān yǒudiǎnr fā shāo, xiànzài hǎo duō le.",
-                    "translations": {
-                        "vi": "Mấy ngày trước tôi hơi sốt, bây giờ tốt hơn nhiều rồi.",
-                        "en": "I had a fever a few days ago, now I am much better."
-                    }
-                },
-                {
-                    "text": "我现在喜欢夏天了。",
-                    "pronunciation": "Wǒ xiànzài xǐhuan xiàtiān le.",
-                    "translations": {
-                        "vi": "Bây giờ tôi thích mùa hè rồi.",
-                        "en": "I like summer now."
-                    }
-                },
-                {
-                    "text": "这条裙子是去年买的，今年就不能穿了。",
-                    "pronunciation": "Zhè tiáo qúnzi shì qùnián mǎi de, jīnnián jiù bù néng chuān le.",
-                    "translations": {
-                        "vi": "Chiếc váy này mua năm ngoái, năm nay không mặc được nữa rồi.",
-                        "en": "This dress was bought last year, I can't wear it this year."
-                    }
-                }
-            ]
+          "text": "上个月很冷，现在天气不那么冷了。",
+          "pronunciation": "Shàng ge yuè hěn lěng, xiànzài tiānqì bú nàme lěng le.",
+          "translations": {
+            "vi": "Tháng trước rất lạnh, bây giờ thời tiết không lạnh như thế nữa.",
+            "en": "Last month was very cold, now the weather isn't that cold."
+          }
         },
         {
-            "grammar": "越来越 + 形容词/心理动词",
-            "descriptions": {
-                "vi": "Cấu trúc “越来越 + tính từ/động từ chỉ trạng thái tâm lý” được dùng để chỉ sự thay đổi về mức độ theo thời gian. Lưu ý là bạn không được thêm phó từ chỉ mức độ vào trước tính từ hoặc động từ chỉ trạng thái tâm lý (không được nói 越来越很热, 越来越非常想).",
-                "en": "The structure “越来越 + adjective / psychological verb” indicates a change in degree over time (more and more). Note: You cannot place degree adverbs (like 很, 非常) before the adjective or psychological verb. Phrases like “越来越很热” or “越来越非常想” are incorrect."
-            },
-            "examples": [
-                {
-                    "text": "我认识的汉字越来越多。",
-                    "pronunciation": "Wǒ rènshi de Hànzì yuè lái yuè duō.",
-                    "translations": {
-                        "vi": "Chữ Hán tôi biết ngày càng nhiều.",
-                        "en": "I know more and more Chinese characters."
-                    }
-                },
-                {
-                    "text": "你越来越漂亮。",
-                    "pronunciation": "Nǐ yuè lái yuè piàoliang.",
-                    "translations": {
-                        "vi": "Bạn ngày càng xinh đẹp.",
-                        "en": "You are getting prettier and prettier."
-                    }
-                },
-                {
-                    "text": "我越来越喜欢运动。",
-                    "pronunciation": "Wǒ yuè lái yuè xǐhuan yùndòng.",
-                    "translations": {
-                        "vi": "Tôi ngày càng thích vận động.",
-                        "en": "I like exercising more and more."
-                    }
-                },
-                {
-                    "text": "我做的饭越来越好吃。",
-                    "pronunciation": "Wǒ zuò de fàn yuè lái yuè hǎochī.",
-                    "translations": {
-                        "vi": "Cơm tôi nấu ngày càng ngon.",
-                        "en": "The food I cook is getting tastier and tastier."
-                    }
-                }
-            ]
+          "text": "我前几天有点儿发烧，现在好多了。",
+          "pronunciation": "Wǒ qián jǐ tiān yǒudiǎnr fā shāo, xiànzài hǎo duō le.",
+          "translations": {
+            "vi": "Mấy ngày trước tôi hơi sốt, bây giờ tốt hơn nhiều rồi.",
+            "en": "I had a fever a few days ago, now I am much better."
+          }
+        },
+        {
+          "text": "我现在喜欢夏天了。",
+          "pronunciation": "Wǒ xiànzài xǐhuan xiàtiān le.",
+          "translations": {
+            "vi": "Bây giờ tôi thích mùa hè rồi.",
+            "en": "I like summer now."
+          }
+        },
+        {
+          "text": "这条裙子是去年买的，今年就不能穿了。",
+          "pronunciation": "Zhè tiáo qúnzi shì qùnián mǎi de, jīnnián jiù bù néng chuān le.",
+          "translations": {
+            "vi": "Chiếc váy này mua năm ngoái, năm nay không mặc được nữa rồi.",
+            "en": "This dress was bought last year, I can't wear it this year."
+          }
         }
-    ],
-    "dialogs": [
+      ]
+    },
+    {
+      "grammar": "越来越 + 形容词/心理动词",
+      "descriptions": {
+        "vi": "Cấu trúc “越来越 + tính từ/động từ chỉ trạng thái tâm lý” được dùng để chỉ sự thay đổi về mức độ theo thời gian. Lưu ý là bạn không được thêm phó từ chỉ mức độ vào trước tính từ hoặc động từ chỉ trạng thái tâm lý (không được nói 越来越很热, 越来越非常想).",
+        "en": "The structure “越来越 + adjective / psychological verb” indicates a change in degree over time (more and more). Note: You cannot place degree adverbs (like 很, 非常) before the adjective or psychological verb. Phrases like “越来越很热” or “越来越非常想” are incorrect."
+      },
+      "examples": [
         {
-            "id": 1,
-            "name": {
-                "text": "在小丽家",
-                "pronunciation": "Zài Xiǎolì jiā",
-                "translations": {
-                    "vi": "Tại nhà chị Lệ",
-                    "en": "At Xiaoli's home"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "朋友：我听说你身体不舒服，怎么了？",
-                    "pronunciation": "Péngyou: Wǒ tīngshuō nǐ shēntǐ bù shūfu, zěnme le?",
-                    "translations": {
-                        "vi": "Bạn: Tôi nghe nói bạn không khỏe, sao vậy?",
-                        "en": "Friend: I heard you aren't feeling well, what's wrong?"
-                    }
-                },
-                {
-                    "text": "小丽：前几天有点儿发烧，现在好多了。",
-                    "pronunciation": "Xiǎolì: Qián jǐ tiān yǒudiǎnr fā shāo, xiànzài hǎo duō le.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Mấy hôm trước hơi bị sốt, bây giờ đỡ nhiều rồi.",
-                        "en": "Xiaoli: I had a fever a few days ago, I'm much better now."
-                    }
-                },
-                {
-                    "text": "朋友：喝杯茶吧，这是我为你买的绿茶，很不错。",
-                    "pronunciation": "Péngyou: Hē bēi chá ba, zhè shì wǒ wèi nǐ mǎi de lǜchá, hěn búcuò.",
-                    "translations": {
-                        "vi": "Bạn: Uống tách trà đi, đây là trà xanh tôi mua cho bạn, rất ngon.",
-                        "en": "Friend: Have a cup of tea, this is green tea I bought for you, it's very good."
-                    }
-                },
-                {
-                    "text": "小丽：谢谢，我要吃药，不喝茶了。",
-                    "pronunciation": "Xiǎolì: Xièxie, wǒ yào chī yào, bù hē chá le.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Cảm ơn, tôi phải uống thuốc, không uống trà nữa.",
-                        "en": "Xiaoli: Thanks, I need to take medicine, I won't drink tea."
-                    }
-                },
-                {
-                    "text": "朋友：那喝杯水吧。",
-                    "pronunciation": "Péngyou: Nà hē bēi shuǐ ba.",
-                    "translations": {
-                        "vi": "Bạn: Vậy uống ly nước đi.",
-                        "en": "Friend: Then have a glass of water."
-                    }
-                },
-                {
-                    "text": "小丽：好的。",
-                    "pronunciation": "Xiǎolì: Hǎo de.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Được.",
-                        "en": "Xiaoli: Okay."
-                    }
-                }
-            ]
+          "text": "我认识的汉字越来越多。",
+          "pronunciation": "Wǒ rènshi de Hànzì yuè lái yuè duō.",
+          "translations": {
+            "vi": "Chữ Hán tôi biết ngày càng nhiều.",
+            "en": "I know more and more Chinese characters."
+          }
         },
         {
-            "id": 2,
-            "name": {
-                "text": "在打电话",
-                "pronunciation": "Zài dǎ diànhuà",
-                "translations": {
-                    "vi": "Nói chuyện qua điện thoại",
-                    "en": "Talking on the phone"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "周太太：对不起，我明天不能和你们出去玩儿了。",
-                    "pronunciation": "Zhōu tàitai: Duìbuqǐ, wǒ míngtiān bù néng hé nǐmen chūqu wánr le.",
-                    "translations": {
-                        "vi": "Châu phu nhân: Xin lỗi, ngày mai tôi không thể đi chơi cùng các bạn rồi.",
-                        "en": "Mrs. Zhou: Sorry, I can't go out with you guys tomorrow."
-                    }
-                },
-                {
-                    "text": "张太太：为什么？怎么了？",
-                    "pronunciation": "Zhāng tàitai: Wèishénme? Zěnme le?",
-                    "translations": {
-                        "vi": "Trương phu nhân: Tại sao? Sao vậy?",
-                        "en": "Mrs. Zhang: Why? What happened?"
-                    }
-                },
-                {
-                    "text": "周太太：我儿子生病了，我要在家照顾他。",
-                    "pronunciation": "Zhōu tàitai: Wǒ érzi shēng bìng le, wǒ yào zài jiā zhàogù tā.",
-                    "translations": {
-                        "vi": "Châu phu nhân: Con trai tôi bị ốm rồi, tôi phải ở nhà chăm sóc nó.",
-                        "en": "Mrs. Zhou: My son is sick, I need to stay home and take care of him."
-                    }
-                },
-                {
-                    "text": "张太太：他吃药了吗？要不要去医院？",
-                    "pronunciation": "Zhāng tàitai: Tā chī yào le ma? Yào bú yào qù yīyuàn?",
-                    "translations": {
-                        "vi": "Trương phu nhân: Nó uống thuốc chưa? Có cần đi bệnh viện không?",
-                        "en": "Mrs. Zhang: Did he take medicine? Does he need to go to the hospital?"
-                    }
-                },
-                {
-                    "text": "周太太：不用去医院，昨天吃了感冒药，现在好一些了。",
-                    "pronunciation": "Zhōu tàitai: Bú yòng qù yīyuàn, zuótiān chīle gǎnmào yào, xiànzài hǎo yìxiē le.",
-                    "translations": {
-                        "vi": "Châu phu nhân: Không cần đi bệnh viện, hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
-                        "en": "Mrs. Zhou: No need for the hospital, he took cold medicine yesterday, he is a bit better now."
-                    }
-                },
-                {
-                    "text": "张太太：那我们下次再一起出去玩儿吧。",
-                    "pronunciation": "Zhāng tàitai: Nà wǒmen xià cì zài yìqǐ chūqu wánr ba.",
-                    "translations": {
-                        "vi": "Trương phu nhân: Vậy lần sau chúng ta lại cùng đi chơi nhé.",
-                        "en": "Mrs. Zhang: Then let's go out together next time."
-                    }
-                }
-            ]
+          "text": "你越来越漂亮。",
+          "pronunciation": "Nǐ yuè lái yuè piàoliang.",
+          "translations": {
+            "vi": "Bạn ngày càng xinh đẹp.",
+            "en": "You are getting prettier and prettier."
+          }
         },
         {
-            "id": 3,
-            "name": {
-                "text": "在小刚家",
-                "pronunciation": "Zài Xiǎogāng jiā",
-                "translations": {
-                    "vi": "Tại nhà anh Cương",
-                    "en": "At Xiaogang's home"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "小丽：你最喜欢哪个季节？",
-                    "pronunciation": "Xiǎolì: Nǐ zuì xǐhuan nǎge jìjié?",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Anh thích nhất mùa nào?",
-                        "en": "Xiaoli: Which season do you like the best?"
-                    }
-                },
-                {
-                    "text": "小刚：当然是春天，天气不那么冷了，草和树都绿了，花也开了。",
-                    "pronunciation": "Xiǎogāng: Dāngrán shì chūntiān, tiānqì bú nàme lěng le, cǎo hé shù dōu lǜ le, huā yě kāi le.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa, cỏ và cây đều xanh rồi, hoa cũng nở rồi.",
-                        "en": "Xiaogang: Of course spring. The weather isn't that cold, the grass and trees are green, and flowers are blooming."
-                    }
-                },
-                {
-                    "text": "小丽：我最喜欢夏天，因为我可以穿漂亮的裙子了。",
-                    "pronunciation": "Xiǎolì: Wǒ zuì xǐhuan xiàtiān, yīnwèi wǒ kěyǐ chuān piàoliang de qúnzi le.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Em thích nhất mùa hè, bởi vì em có thể mặc váy đẹp rồi.",
-                        "en": "Xiaoli: I like summer best because I can wear pretty dresses."
-                    }
-                },
-                {
-                    "text": "小刚：那我也喜欢夏天了。",
-                    "pronunciation": "Xiǎogāng: Nà wǒ yě xǐhuan xiàtiān le.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Vậy thì anh cũng thích mùa hè rồi.",
-                        "en": "Xiaogang: Then I like summer too."
-                    }
-                },
-                {
-                    "text": "小丽：怎么？你也有漂亮的裙子？",
-                    "pronunciation": "Xiǎolì: Zěnme? Nǐ yě yǒu piàoliang de qúnzi?",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Sao vậy? Anh cũng có váy đẹp à?",
-                        "en": "Xiaoli: Why? Do you have pretty dresses too?"
-                    }
-                },
-                {
-                    "text": "小刚：不，我喜欢看你穿漂亮的裙子。",
-                    "pronunciation": "Xiǎogāng: Bù, wǒ xǐhuan kàn nǐ chuān piàoliang de qúnzi.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Không, anh thích ngắm em mặc váy đẹp.",
-                        "en": "Xiaogang: No, I like watching you wear pretty dresses."
-                    }
-                }
-            ]
+          "text": "我越来越喜欢运动。",
+          "pronunciation": "Wǒ yuè lái yuè xǐhuan yùndòng.",
+          "translations": {
+            "vi": "Tôi ngày càng thích vận động.",
+            "en": "I like exercising more and more."
+          }
         },
         {
-            "id": 4,
-            "name": {
-                "text": "在小刚家",
-                "pronunciation": "Zài Xiǎogāng jiā",
-                "translations": {
-                    "vi": "Tại nhà anh Cương",
-                    "en": "At Xiaogang's home"
-                }
-            },
-            "sentences": [
-                {
-                    "text": "小丽：我最近越来越胖了。",
-                    "pronunciation": "Xiǎolì: Wǒ zuìjìn yuè lái yuè pàng le.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Dạo này em ngày càng béo ra.",
-                        "en": "Xiaoli: I'm getting fatter and fatter lately."
-                    }
-                },
-                {
-                    "text": "小刚：谁说的？我觉得你越来越漂亮了。",
-                    "pronunciation": "Xiǎogāng: Shéi shuō de? Wǒ juéde nǐ yuè lái yuè piàoliang le.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Ai nói thế? Anh thấy em ngày càng xinh đẹp.",
-                        "en": "Xiaogang: Who said that? I think you are getting prettier and prettier."
-                    }
-                },
-                {
-                    "text": "小丽：你看，这条裙子是去年买的，今年就不能穿了。",
-                    "pronunciation": "Xiǎolì: Nǐ kàn, zhè tiáo qúnzi shì qùnián mǎi de, jīnnián jiù bù néng chuān le.",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Anh xem, chiếc váy này mua năm ngoái, năm nay không mặc được nữa rồi.",
-                        "en": "Xiaoli: Look, this dress was bought last year, I can't wear it this year."
-                    }
-                },
-                {
-                    "text": "小刚：那是因为你吃得太多了，少吃点儿吧。",
-                    "pronunciation": "Xiǎogāng: Nà shì yīnwèi nǐ chī de tài duō le, shǎo chī diǎnr ba.",
-                    "translations": {
-                        "vi": "Tiểu Cương: Đó là bởi vì em ăn nhiều quá rồi, ăn ít đi chút nhé.",
-                        "en": "Xiaogang: That's because you eat too much, eat a little less."
-                    }
-                },
-                {
-                    "text": "小丽：我做的饭越来越好吃，我能少吃吗？",
-                    "pronunciation": "Xiǎolì: Wǒ zuò de fàn yuè lái yuè hǎochī, wǒ néng shǎo chī ma?",
-                    "translations": {
-                        "vi": "Tiểu Lệ: Cơm em nấu ngày càng ngon, em có thể ăn ít đi sao?",
-                        "en": "Xiaoli: My cooking is getting tastier and tastier, can I eat less?"
-                    }
-                }
-            ]
+          "text": "我做的饭越来越好吃。",
+          "pronunciation": "Wǒ zuò de fàn yuè lái yuè hǎochī.",
+          "translations": {
+            "vi": "Cơm tôi nấu ngày càng ngon.",
+            "en": "The food I cook is getting tastier and tastier."
+          }
         }
-    ]
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": 1,
+      "name": {
+        "text": "在小丽家",
+        "pronunciation": "Zài Xiǎolì jiā",
+        "translations": {
+          "vi": "Tại nhà chị Lệ",
+          "en": "At Xiaoli's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "朋友：我听说你身体不舒服，怎么了？",
+          "pronunciation": "Péngyou: Wǒ tīngshuō nǐ shēntǐ bù shūfu, zěnme le?",
+          "translations": {
+            "vi": "Bạn: Tôi nghe nói bạn không khỏe, sao vậy?",
+            "en": "Friend: I heard you aren't feeling well, what's wrong?"
+          }
+        },
+        {
+          "text": "小丽：前几天有点儿发烧，现在好多了。",
+          "pronunciation": "Xiǎolì: Qián jǐ tiān yǒudiǎnr fā shāo, xiànzài hǎo duō le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Mấy hôm trước hơi bị sốt, bây giờ đỡ nhiều rồi.",
+            "en": "Xiaoli: I had a fever a few days ago, I'm much better now."
+          }
+        },
+        {
+          "text": "朋友：喝杯茶吧，这是我为你买的绿茶，很不错。",
+          "pronunciation": "Péngyou: Hē bēi chá ba, zhè shì wǒ wèi nǐ mǎi de lǜchá, hěn búcuò.",
+          "translations": {
+            "vi": "Bạn: Uống tách trà đi, đây là trà xanh tôi mua cho bạn, rất ngon.",
+            "en": "Friend: Have a cup of tea, this is green tea I bought for you, it's very good."
+          }
+        },
+        {
+          "text": "小丽：谢谢，我要吃药，不喝茶了。",
+          "pronunciation": "Xiǎolì: Xièxie, wǒ yào chī yào, bù hē chá le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Cảm ơn, tôi phải uống thuốc, không uống trà nữa.",
+            "en": "Xiaoli: Thanks, I need to take medicine, I won't drink tea."
+          }
+        },
+        {
+          "text": "朋友：那喝杯水吧。",
+          "pronunciation": "Péngyou: Nà hē bēi shuǐ ba.",
+          "translations": {
+            "vi": "Bạn: Vậy uống ly nước đi.",
+            "en": "Friend: Then have a glass of water."
+          }
+        },
+        {
+          "text": "小丽：好的。",
+          "pronunciation": "Xiǎolì: Hǎo de.",
+          "translations": {
+            "vi": "Tiểu Lệ: Được.",
+            "en": "Xiaoli: Okay."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "text": "在打电话",
+        "pronunciation": "Zài dǎ diànhuà",
+        "translations": {
+          "vi": "Nói chuyện qua điện thoại",
+          "en": "Talking on the phone"
+        }
+      },
+      "sentences": [
+        {
+          "text": "周太太：对不起，我明天不能和你们出去玩儿了。",
+          "pronunciation": "Zhōu tàitai: Duìbuqǐ, wǒ míngtiān bù néng hé nǐmen chūqu wánr le.",
+          "translations": {
+            "vi": "Châu phu nhân: Xin lỗi, ngày mai tôi không thể đi chơi cùng các bạn rồi.",
+            "en": "Mrs. Zhou: Sorry, I can't go out with you guys tomorrow."
+          }
+        },
+        {
+          "text": "张太太：为什么？怎么了？",
+          "pronunciation": "Zhāng tàitai: Wèishénme? Zěnme le?",
+          "translations": {
+            "vi": "Trương phu nhân: Tại sao? Sao vậy?",
+            "en": "Mrs. Zhang: Why? What happened?"
+          }
+        },
+        {
+          "text": "周太太：我儿子生病了，我要在家照顾他。",
+          "pronunciation": "Zhōu tàitai: Wǒ érzi shēng bìng le, wǒ yào zài jiā zhàogù tā.",
+          "translations": {
+            "vi": "Châu phu nhân: Con trai tôi bị ốm rồi, tôi phải ở nhà chăm sóc nó.",
+            "en": "Mrs. Zhou: My son is sick, I need to stay home and take care of him."
+          }
+        },
+        {
+          "text": "张太太：他吃药了吗？要不要去医院？",
+          "pronunciation": "Zhāng tàitai: Tā chī yào le ma? Yào bú yào qù yīyuàn?",
+          "translations": {
+            "vi": "Trương phu nhân: Nó uống thuốc chưa? Có cần đi bệnh viện không?",
+            "en": "Mrs. Zhang: Did he take medicine? Does he need to go to the hospital?"
+          }
+        },
+        {
+          "text": "周太太：不用去医院，昨天吃了感冒药，现在好一些了。",
+          "pronunciation": "Zhōu tàitai: Bú yòng qù yīyuàn, zuótiān chīle gǎnmào yào, xiànzài hǎo yìxiē le.",
+          "translations": {
+            "vi": "Châu phu nhân: Không cần đi bệnh viện, hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
+            "en": "Mrs. Zhou: No need for the hospital, he took cold medicine yesterday, he is a bit better now."
+          }
+        },
+        {
+          "text": "张太太：那我们下次再一起出去玩儿吧。",
+          "pronunciation": "Zhāng tàitai: Nà wǒmen xià cì zài yìqǐ chūqu wánr ba.",
+          "translations": {
+            "vi": "Trương phu nhân: Vậy lần sau chúng ta lại cùng đi chơi nhé.",
+            "en": "Mrs. Zhang: Then let's go out together next time."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "text": "在小刚家",
+        "pronunciation": "Zài Xiǎogāng jiā",
+        "translations": {
+          "vi": "Tại nhà anh Cương",
+          "en": "At Xiaogang's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：你最喜欢哪个季节？",
+          "pronunciation": "Xiǎolì: Nǐ zuì xǐhuan nǎge jìjié?",
+          "translations": {
+            "vi": "Tiểu Lệ: Anh thích nhất mùa nào?",
+            "en": "Xiaoli: Which season do you like the best?"
+          }
+        },
+        {
+          "text": "小刚：当然是春天，天气不那么冷了，草和树都绿了，花也开了。",
+          "pronunciation": "Xiǎogāng: Dāngrán shì chūntiān, tiānqì bú nàme lěng le, cǎo hé shù dōu lǜ le, huā yě kāi le.",
+          "translations": {
+            "vi": "Tiểu Cương: Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa, cỏ và cây đều xanh rồi, hoa cũng nở rồi.",
+            "en": "Xiaogang: Of course spring. The weather isn't that cold, the grass and trees are green, and flowers are blooming."
+          }
+        },
+        {
+          "text": "小丽：我最喜欢夏天，因为我可以穿漂亮的裙子了。",
+          "pronunciation": "Xiǎolì: Wǒ zuì xǐhuan xiàtiān, yīnwèi wǒ kěyǐ chuān piàoliang de qúnzi le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Em thích nhất mùa hè, bởi vì em có thể mặc váy đẹp rồi.",
+            "en": "Xiaoli: I like summer best because I can wear pretty dresses."
+          }
+        },
+        {
+          "text": "小刚：那我也喜欢夏天了。",
+          "pronunciation": "Xiǎogāng: Nà wǒ yě xǐhuan xiàtiān le.",
+          "translations": {
+            "vi": "Tiểu Cương: Vậy thì anh cũng thích mùa hè rồi.",
+            "en": "Xiaogang: Then I like summer too."
+          }
+        },
+        {
+          "text": "小丽：怎么？你也有漂亮的裙子？",
+          "pronunciation": "Xiǎolì: Zěnme? Nǐ yě yǒu piàoliang de qúnzi?",
+          "translations": {
+            "vi": "Tiểu Lệ: Sao vậy? Anh cũng có váy đẹp à?",
+            "en": "Xiaoli: Why? Do you have pretty dresses too?"
+          }
+        },
+        {
+          "text": "小刚：不，我喜欢看你穿漂亮的裙子。",
+          "pronunciation": "Xiǎogāng: Bù, wǒ xǐhuan kàn nǐ chuān piàoliang de qúnzi.",
+          "translations": {
+            "vi": "Tiểu Cương: Không, anh thích ngắm em mặc váy đẹp.",
+            "en": "Xiaogang: No, I like watching you wear pretty dresses."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "text": "在小刚家",
+        "pronunciation": "Zài Xiǎogāng jiā",
+        "translations": {
+          "vi": "Tại nhà anh Cương",
+          "en": "At Xiaogang's home"
+        }
+      },
+      "sentences": [
+        {
+          "text": "小丽：我最近越来越胖了。",
+          "pronunciation": "Xiǎolì: Wǒ zuìjìn yuè lái yuè pàng le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Dạo này em ngày càng béo ra.",
+            "en": "Xiaoli: I'm getting fatter and fatter lately."
+          }
+        },
+        {
+          "text": "小刚：谁说的？我觉得你越来越漂亮了。",
+          "pronunciation": "Xiǎogāng: Shéi shuō de? Wǒ juéde nǐ yuè lái yuè piàoliang le.",
+          "translations": {
+            "vi": "Tiểu Cương: Ai nói thế? Anh thấy em ngày càng xinh đẹp.",
+            "en": "Xiaogang: Who said that? I think you are getting prettier and prettier."
+          }
+        },
+        {
+          "text": "小丽：你看，这条裙子是去年买的，今年就不能穿了。",
+          "pronunciation": "Xiǎolì: Nǐ kàn, zhè tiáo qúnzi shì qùnián mǎi de, jīnnián jiù bù néng chuān le.",
+          "translations": {
+            "vi": "Tiểu Lệ: Anh xem, chiếc váy này mua năm ngoái, năm nay không mặc được nữa rồi.",
+            "en": "Xiaoli: Look, this dress was bought last year, I can't wear it this year."
+          }
+        },
+        {
+          "text": "小刚：那是因为你吃得太多了，少吃点儿吧。",
+          "pronunciation": "Xiǎogāng: Nà shì yīnwèi nǐ chī de tài duō le, shǎo chī diǎnr ba.",
+          "translations": {
+            "vi": "Tiểu Cương: Đó là bởi vì em ăn nhiều quá rồi, ăn ít đi chút nhé.",
+            "en": "Xiaogang: That's because you eat too much, eat a little less."
+          }
+        },
+        {
+          "text": "小丽：我做的饭越来越好吃，我能少吃吗？",
+          "pronunciation": "Xiǎolì: Wǒ zuò de fàn yuè lái yuè hǎochī, wǒ néng shǎo chī ma?",
+          "translations": {
+            "vi": "Tiểu Lệ: Cơm em nấu ngày càng ngon, em có thể ăn ít đi sao?",
+            "en": "Xiaoli: My cooking is getting tastier and tastier, can I eat less?"
+          }
+        }
+      ]
+    }
+  ]
 }

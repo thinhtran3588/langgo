@@ -130,6 +130,126 @@
                       "vi": "Bài 8"
                     }
                   }
+                },
+                {
+                  "id": "lesson09",
+                  "label": {
+                    "text": "Lesson 9",
+                    "translations": {
+                      "en": "Lesson 9",
+                      "vi": "Bài 9"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson10",
+                  "label": {
+                    "text": "Lesson 10",
+                    "translations": {
+                      "en": "Lesson 10",
+                      "vi": "Bài 10"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson11",
+                  "label": {
+                    "text": "Lesson 11",
+                    "translations": {
+                      "en": "Lesson 11",
+                      "vi": "Bài 11"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson12",
+                  "label": {
+                    "text": "Lesson 12",
+                    "translations": {
+                      "en": "Lesson 12",
+                      "vi": "Bài 12"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson13",
+                  "label": {
+                    "text": "Lesson 13",
+                    "translations": {
+                      "en": "Lesson 13",
+                      "vi": "Bài 13"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson14",
+                  "label": {
+                    "text": "Lesson 14",
+                    "translations": {
+                      "en": "Lesson 14",
+                      "vi": "Bài 14"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson15",
+                  "label": {
+                    "text": "Lesson 15",
+                    "translations": {
+                      "en": "Lesson 15",
+                      "vi": "Bài 15"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson16",
+                  "label": {
+                    "text": "Lesson 16",
+                    "translations": {
+                      "en": "Lesson 16",
+                      "vi": "Bài 16"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson17",
+                  "label": {
+                    "text": "Lesson 17",
+                    "translations": {
+                      "en": "Lesson 17",
+                      "vi": "Bài 17"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson18",
+                  "label": {
+                    "text": "Lesson 18",
+                    "translations": {
+                      "en": "Lesson 18",
+                      "vi": "Bài 18"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson19",
+                  "label": {
+                    "text": "Lesson 19",
+                    "translations": {
+                      "en": "Lesson 19",
+                      "vi": "Bài 19"
+                    }
+                  }
+                },
+                {
+                  "id": "lesson20",
+                  "label": {
+                    "text": "Lesson 20",
+                    "translations": {
+                      "en": "Lesson 20",
+                      "vi": "Bài 20"
+                    }
+                  }
                 }
               ]
             }
