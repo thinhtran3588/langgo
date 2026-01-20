@@ -1,8 +1,8 @@
 'use client';
 
 import ContentTabs from '@/components/ContentTabs';
-import GrammarDescription from '@/components/GrammarDescription';
 import GamesTab from '@/components/GamesTab';
+import GrammarDescription from '@/components/GrammarDescription';
 import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
 import TranslatedText from '@/components/TranslatedText';
@@ -137,7 +137,7 @@ const LevelOverviewTabs = ({
       }
     };
 
-    loadLessons();
+    void loadLessons();
     return () => {
       cancelled = true;
     };
@@ -183,28 +183,6 @@ const LevelOverviewTabs = ({
       : [...selectedLessonIds, lessonId];
     persistSelection(nextSelection);
   };
-
-  const allNewWords = useMemo(
-    () =>
-      lessonEntries.flatMap((entry) =>
-        (entry.data.newWords ?? []).map((word, index) => ({
-          ...word,
-          key: `${entry.lesson.id}-${index}-${word.word}`,
-        }))
-      ),
-    [lessonEntries]
-  );
-
-  const allGrammars = useMemo(
-    () =>
-      lessonEntries.flatMap((entry) =>
-        (entry.data.grammars ?? []).map((grammarItem, index) => ({
-          ...grammarItem,
-          key: `${entry.lesson.id}-${index}-${grammarItem.grammar}`,
-        }))
-      ),
-    [lessonEntries]
-  );
 
   const selectedWords = useMemo(
     () =>

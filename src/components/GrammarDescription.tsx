@@ -30,9 +30,7 @@ const GrammarDescription = ({
   const Component = as;
 
   return (
-    <Component className={className}>
-      {stripInlineMarkdown(rawValue)}
-    </Component>
+    <Component className={className}>{stripInlineMarkdown(rawValue)}</Component>
   );
 };
 
