@@ -86,6 +86,12 @@ type DialogGroup = {
   words: NewWordEntry[];
 };
 
+type LearnStep = {
+  phase: 'words' | 'dialog' | 'grammar' | 'games';
+  dialogIndex: number;
+  wordIndex: number;
+};
+
 const resolveTranslation = (
   locale: 'en' | 'vi',
   translations?: LessonTranslations
@@ -179,48 +185,78 @@ const LearnLessonExperience = ({
         },
       ];
 
-  const [dialogIndex, setDialogIndex] = useState(0);
-  const [wordIndex, setWordIndex] = useState(0);
-  const [phase, setPhase] = useState<'words' | 'dialog' | 'grammar' | 'games'>(
-    dialogGroups[0]?.words?.length
-      ? 'words'
-      : dialogs.length
-        ? 'dialog'
-        : hasGrammar
-          ? 'grammar'
-          : 'games'
-  );
-
+  const initialPhase: LearnStep['phase'] = dialogGroups[0]?.words?.length
+    ? 'words'
+    : dialogs.length
+      ? 'dialog'
+      : hasGrammar
+        ? 'grammar'
+        : 'games';
+  const [history, setHistory] = useState<LearnStep[]>([
+    { phase: initialPhase, dialogIndex: 0, wordIndex: 0 },
+  ]);
+  const [historyIndex, setHistoryIndex] = useState(0);
+  const currentStep = history[historyIndex] ?? history[0];
+  const { phase, dialogIndex, wordIndex } = currentStep;
   const currentGroup = dialogGroups[dialogIndex];
   const currentWord = currentGroup?.words?.[wordIndex];
+  const canGoBack = historyIndex > 0;
+
+  const pushStep = (nextStep: LearnStep) => {
+    setHistory((prevHistory) => [
+      ...prevHistory.slice(0, historyIndex + 1),
+      nextStep,
+    ]);
+    setHistoryIndex((prevIndex) => prevIndex + 1);
+  };
+
+  const handlePrevStep = () => {
+    if (!canGoBack) {
+      return;
+    }
+    setHistoryIndex((prevIndex) => Math.max(0, prevIndex - 1));
+  };
 
   const handleNextWord = () => {
     if (!currentGroup?.words?.length) {
-      setPhase(dialogs.length ? 'dialog' : hasGrammar ? 'grammar' : 'games');
+      pushStep({
+        phase: dialogs.length ? 'dialog' : hasGrammar ? 'grammar' : 'games',
+        dialogIndex,
+        wordIndex: 0,
+      });
       return;
     }
     const nextIndex = wordIndex + 1;
     if (nextIndex >= currentGroup.words.length) {
-      setPhase(dialogs.length ? 'dialog' : hasGrammar ? 'grammar' : 'games');
-      setWordIndex(0);
+      pushStep({
+        phase: dialogs.length ? 'dialog' : hasGrammar ? 'grammar' : 'games',
+        dialogIndex,
+        wordIndex: 0,
+      });
       return;
     }
-    setWordIndex(nextIndex);
+    pushStep({ phase: 'words', dialogIndex, wordIndex: nextIndex });
   };
 
   const handleNextDialog = () => {
     const nextIndex = dialogIndex + 1;
     if (nextIndex >= dialogGroups.length) {
-      setPhase(hasGrammar ? 'grammar' : 'games');
+      pushStep({
+        phase: hasGrammar ? 'grammar' : 'games',
+        dialogIndex,
+        wordIndex,
+      });
       return;
     }
-    setDialogIndex(nextIndex);
-    setWordIndex(0);
-    setPhase(dialogGroups[nextIndex]?.words?.length ? 'words' : 'dialog');
+    pushStep({
+      phase: dialogGroups[nextIndex]?.words?.length ? 'words' : 'dialog',
+      dialogIndex: nextIndex,
+      wordIndex: 0,
+    });
   };
 
   const handleNextGrammar = () => {
-    setPhase('games');
+    pushStep({ phase: 'games', dialogIndex, wordIndex });
   };
 
   return (
@@ -257,7 +293,16 @@ const LearnLessonExperience = ({
             <TranslatedText id="learn.newWord" fallback="New word" />
           </p>
           <p className="mt-4 text-3xl font-semibold text-zinc-900 dark:text-zinc-100 sm:text-4xl">
-            {currentWord.word}
+            <a
+              href={`https://hanzii.net/search/word/${encodeURIComponent(
+                currentWord.word
+              )}?hl=${languageId}`}
+              target="_blank"
+              rel="noreferrer"
+              className="transition hover:text-zinc-700 dark:hover:text-zinc-200"
+            >
+              {currentWord.word}
+            </a>
           </p>
           <div className="mt-6 space-y-3 text-left text-sm text-zinc-600 dark:text-zinc-300">
             <div className="flex flex-wrap items-center gap-2">
@@ -287,7 +332,18 @@ const LearnLessonExperience = ({
               </span>
             </div>
           </div>
-          <div className="mt-4 flex items-center justify-end">
+          <div className="mt-4 flex items-center justify-between">
+            {canGoBack ? (
+              <button
+                type="button"
+                onClick={handlePrevStep}
+                className="rounded-full border border-zinc-200 px-5 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
+              >
+                <TranslatedText id="flashcard.goBack" fallback="Go back" />
+              </button>
+            ) : (
+              <span />
+            )}
             <button
               type="button"
               onClick={handleNextWord}
@@ -342,7 +398,18 @@ const LearnLessonExperience = ({
               }.mp3`}
             />
           </div>
-          <div className="flex items-center justify-end">
+          <div className="flex items-center justify-between">
+            {canGoBack ? (
+              <button
+                type="button"
+                onClick={handlePrevStep}
+                className="rounded-full border border-zinc-200 px-5 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
+              >
+                <TranslatedText id="flashcard.goBack" fallback="Go back" />
+              </button>
+            ) : (
+              <span />
+            )}
             <button
               type="button"
               onClick={handleNextDialog}
@@ -404,7 +471,18 @@ const LearnLessonExperience = ({
               </article>
             ))}
           </div>
-          <div className="flex items-center justify-end">
+          <div className="flex items-center justify-between">
+            {canGoBack ? (
+              <button
+                type="button"
+                onClick={handlePrevStep}
+                className="rounded-full border border-zinc-200 px-5 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
+              >
+                <TranslatedText id="flashcard.goBack" fallback="Go back" />
+              </button>
+            ) : (
+              <span />
+            )}
             <button
               type="button"
               onClick={handleNextGrammar}
@@ -418,6 +496,17 @@ const LearnLessonExperience = ({
 
       {phase === 'games' ? (
         <div className="space-y-4">
+          {canGoBack ? (
+            <div className="flex items-center justify-start">
+              <button
+                type="button"
+                onClick={handlePrevStep}
+                className="rounded-full border border-zinc-200 px-5 py-2 text-sm font-semibold text-zinc-600 transition hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-300 dark:hover:text-white"
+              >
+                <TranslatedText id="flashcard.goBack" fallback="Go back" />
+              </button>
+            </div>
+          ) : undefined}
           <GamesTab
             words={lessonData.newWords ?? []}
             storageKey={`langgo.flashcard.${languageId}.${courseId}.${levelId}.${lessonId}.learn`}
