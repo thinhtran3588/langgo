@@ -3,6 +3,7 @@
 import DialogAudioPlayer from '@/components/DialogAudioPlayer';
 import DialogSentenceWithHighlights from '@/components/DialogSentenceWithHighlights';
 import GamesTab from '@/components/GamesTab';
+import GrammarDescription from '@/components/GrammarDescription';
 import { useI18n } from '@/components/I18nProvider';
 import LanguageText from '@/components/LanguageText';
 import LocalizedText from '@/components/LocalizedText';
@@ -43,6 +44,18 @@ type NewWordEntry = {
   };
 };
 
+type GrammarExample = {
+  text: string;
+  pronunciation?: string;
+  translations?: LessonTranslations;
+};
+
+type GrammarEntry = {
+  grammar: string;
+  descriptions?: LessonTranslations;
+  examples?: GrammarExample[];
+};
+
 type LessonData = {
   title?: {
     text: string;
@@ -51,6 +64,7 @@ type LessonData = {
   };
   newWords?: NewWordEntry[];
   dialogs?: DialogEntry[];
+  grammars?: GrammarEntry[];
 };
 
 type LessonLabel = {
@@ -135,6 +149,8 @@ const LearnLessonExperience = ({
 }: LearnLessonExperienceProps) => {
   const { locale } = useI18n();
   const dialogs = lessonData.dialogs ?? [];
+  const grammars = lessonData.grammars ?? [];
+  const hasGrammar = grammars.length > 0;
   const lessonAudioId = formatLessonAudioId(lessonId);
   const dialogGroups: DialogGroup[] = dialogs.length
     ? (() => {
@@ -165,12 +181,14 @@ const LearnLessonExperience = ({
 
   const [dialogIndex, setDialogIndex] = useState(0);
   const [wordIndex, setWordIndex] = useState(0);
-  const [phase, setPhase] = useState<'words' | 'dialog' | 'games'>(
+  const [phase, setPhase] = useState<'words' | 'dialog' | 'grammar' | 'games'>(
     dialogGroups[0]?.words?.length
       ? 'words'
       : dialogs.length
         ? 'dialog'
-        : 'games'
+        : hasGrammar
+          ? 'grammar'
+          : 'games'
   );
 
   const currentGroup = dialogGroups[dialogIndex];
@@ -178,12 +196,12 @@ const LearnLessonExperience = ({
 
   const handleNextWord = () => {
     if (!currentGroup?.words?.length) {
-      setPhase('dialog');
+      setPhase(dialogs.length ? 'dialog' : hasGrammar ? 'grammar' : 'games');
       return;
     }
     const nextIndex = wordIndex + 1;
     if (nextIndex >= currentGroup.words.length) {
-      setPhase('dialog');
+      setPhase(dialogs.length ? 'dialog' : hasGrammar ? 'grammar' : 'games');
       setWordIndex(0);
       return;
     }
@@ -193,12 +211,16 @@ const LearnLessonExperience = ({
   const handleNextDialog = () => {
     const nextIndex = dialogIndex + 1;
     if (nextIndex >= dialogGroups.length) {
-      setPhase('games');
+      setPhase(hasGrammar ? 'grammar' : 'games');
       return;
     }
     setDialogIndex(nextIndex);
     setWordIndex(0);
     setPhase(dialogGroups[nextIndex]?.words?.length ? 'words' : 'dialog');
+  };
+
+  const handleNextGrammar = () => {
+    setPhase('games');
   };
 
   return (
@@ -324,6 +346,68 @@ const LearnLessonExperience = ({
             <button
               type="button"
               onClick={handleNextDialog}
+              className="rounded-full bg-zinc-900 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
+            >
+              <TranslatedText id="learn.next" fallback="Next" />
+            </button>
+          </div>
+        </div>
+      ) : undefined}
+
+      {phase === 'grammar' && hasGrammar ? (
+        <div className="space-y-4 rounded-3xl border border-zinc-200 bg-white p-6 shadow-sm dark:border-zinc-800 dark:bg-zinc-900/40">
+          <div className="space-y-1 text-center">
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-400">
+              <TranslatedText id="lesson.tab.grammar" fallback="Grammar" />
+            </p>
+          </div>
+          <div className="space-y-4">
+            {grammars.map((grammarItem, index) => (
+              <article
+                key={`${lessonId}-grammar-${index}-${grammarItem.grammar}`}
+                className="space-y-3 rounded-2xl border border-zinc-100 bg-zinc-50 p-4 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950 dark:text-zinc-200"
+              >
+                <div>
+                  <h3 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
+                    {grammarItem.grammar}
+                  </h3>
+                  {grammarItem.descriptions ? (
+                    <GrammarDescription
+                      descriptions={grammarItem.descriptions}
+                      className="mt-2 whitespace-pre-line text-sm text-zinc-600 dark:text-zinc-300"
+                    />
+                  ) : undefined}
+                </div>
+                {grammarItem.examples?.length ? (
+                  <div className="space-y-3">
+                    <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+                      <TranslatedText
+                        id="lesson.examples"
+                        fallback="Examples"
+                      />
+                    </p>
+                    {grammarItem.examples.map((example, exampleIndex) => (
+                      <div
+                        key={`${lessonId}-grammar-${index}-example-${exampleIndex}`}
+                        className="rounded-lg border border-zinc-100 bg-white p-3 text-sm text-zinc-700 dark:border-zinc-800 dark:bg-zinc-950"
+                      >
+                        <LanguageText
+                          text={example.text}
+                          pronunciation={example.pronunciation}
+                          translations={example.translations}
+                          textClassName="text-lg font-medium text-zinc-900 dark:text-zinc-100"
+                        />
+                      </div>
+                    ))}
+                  </div>
+                ) : undefined}
+              </article>
+            ))}
+          </div>
+          <div className="flex items-center justify-end">
+            <button
+              type="button"
+              onClick={handleNextGrammar}
               className="rounded-full bg-zinc-900 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
             >
               <TranslatedText id="learn.next" fallback="Next" />

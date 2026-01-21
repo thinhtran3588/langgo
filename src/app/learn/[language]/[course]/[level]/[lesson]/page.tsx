@@ -39,6 +39,15 @@ type LessonData = {
       translations?: LessonTranslations;
     }>;
   }>;
+  grammars?: Array<{
+    grammar: string;
+    descriptions?: LessonTranslations;
+    examples?: Array<{
+      text: string;
+      pronunciation?: string;
+      translations?: LessonTranslations;
+    }>;
+  }>;
 };
 
 type LearnPageProps = {
