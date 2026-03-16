@@ -42,6 +42,15 @@ type NewWordEntry = {
     pronunciation?: string;
     translations?: LessonTranslations;
   };
+  sinoVietnamese?: string;
+  mnemonic?: string;
+  radicals?: Array<{
+    character: string;
+    radical: string;
+    pinyin: string;
+    vi: string;
+    sinoVietnamese?: string;
+  }>;
 };
 
 type GrammarExample = {
@@ -320,8 +329,8 @@ const LearnLessonExperience = ({
               </span>
               <span>{currentWord.type ?? '—'}</span>
             </div>
-            <div className="flex flex-wrap items-center gap-2">
-              <span className="rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
+            <div className="flex flex-col gap-2">
+              <span className="w-fit rounded-full border border-zinc-200 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">
                 <TranslatedText
                   id="flashcard.translation"
                   fallback="Translation"
@@ -331,6 +340,61 @@ const LearnLessonExperience = ({
                 {resolveTranslation(locale, currentWord.translations)}
               </span>
             </div>
+
+            {currentWord?.sinoVietnamese ||
+            currentWord?.mnemonic ||
+            currentWord?.radicals?.length ? (
+              <div className="mt-4 flex flex-col gap-3 rounded-xl border border-zinc-100 bg-zinc-50/50 p-4 dark:border-zinc-800/60 dark:bg-zinc-900/50">
+                {currentWord?.sinoVietnamese && (
+                  <div className="flex flex-wrap items-center gap-2">
+                    <span className="rounded-full border border-zinc-200 bg-white px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-zinc-500 dark:border-zinc-800 dark:bg-zinc-950 dark:text-zinc-400">
+                      Hán Việt
+                    </span>
+                    <span className="font-medium text-zinc-900 dark:text-zinc-100">
+                      {currentWord.sinoVietnamese}
+                    </span>
+                  </div>
+                )}
+                {currentWord?.mnemonic && (
+                  <div className="space-y-1">
+                    <p className="text-[10px] font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+                      Chiết tự / Mẹo nhớ
+                    </p>
+                    <p className="text-sm leading-relaxed text-zinc-700 dark:text-zinc-200">
+                      {currentWord.mnemonic}
+                    </p>
+                  </div>
+                )}
+                {currentWord?.radicals && currentWord.radicals.length > 0 && (
+                  <div className="space-y-2 pt-1">
+                    <p className="text-[10px] font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+                      Bộ thủ
+                    </p>
+                    <div className="flex flex-wrap gap-2">
+                      {currentWord.radicals.map((radical, index) => (
+                        <div
+                          key={index}
+                          className="flex w-[72px] flex-col items-center justify-center rounded-lg border border-zinc-200 bg-white p-2 text-center shadow-sm dark:border-zinc-800 dark:bg-zinc-950"
+                        >
+                          <span className="text-xl font-semibold text-zinc-900 dark:text-zinc-100">
+                            {radical.radical}
+                          </span>
+                          <span className="mt-1 text-[10px] text-zinc-500">
+                            {radical.pinyin}
+                          </span>
+                          <span className="text-[10px] font-medium text-zinc-700 line-clamp-1 dark:text-zinc-300">
+                            {radical.sinoVietnamese}
+                          </span>
+                          <span className="text-[10px] text-zinc-500 line-clamp-1">
+                            {radical.vi}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+            ) : undefined}
           </div>
           <div className="mt-4 flex items-center justify-between">
             {canGoBack ? (

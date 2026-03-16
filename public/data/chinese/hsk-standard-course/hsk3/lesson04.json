@@ -23,7 +23,25 @@
           "vi": "Đây là ảnh thi đấu của các bạn à?",
           "en": "Is this the photo of your competition?"
         }
-      }
+      },
+      "sinoVietnamese": "tỷ tái",
+      "mnemonic": "比 (Tỷ): So sánh hai người (匕). 赛 (Tái): Thi đấu tranh bảo bối (贝) bên trong nhà để đoạt cúp. Ghép lại là thi đấu.",
+      "radicals": [
+        {
+          "character": "比",
+          "radical": "比",
+          "pinyin": "bǐ",
+          "vi": "so sánh",
+          "sinoVietnamese": "tỷ"
+        },
+        {
+          "character": "赛",
+          "radical": "贝",
+          "pinyin": "bèi",
+          "vi": "bảo bối, bảo vật",
+          "sinoVietnamese": "bối"
+        }
+      ]
     },
     {
       "word": "照片",
@@ -40,7 +58,25 @@
           "vi": "Đây là ảnh thi đấu của các bạn à?",
           "en": "Is this the photo of your competition?"
         }
-      }
+      },
+      "sinoVietnamese": "chiếu phiến",
+      "mnemonic": "照 (Chiếu): Bộ Nhật (日 - mặt trời) chiếu sáng xuống bằng hỏa (灬 - lửa). 片 (Phiến): Miếng mỏng. Chiếu trên tấm giấy mỏng in lại hình là bức ảnh.",
+      "radicals": [
+        {
+          "character": "照",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "lửa",
+          "sinoVietnamese": "hỏa"
+        },
+        {
+          "character": "片",
+          "radical": "片",
+          "pinyin": "piàn",
+          "vi": "tấm, phiến",
+          "sinoVietnamese": "phiến"
+        }
+      ]
     },
     {
       "word": "年级",
@@ -57,7 +93,25 @@
           "vi": "Các bạn đều cùng một khóa à?",
           "en": "Are you all in the same grade?"
         }
-      }
+      },
+      "sinoVietnamese": "niên cấp",
+      "mnemonic": "年 (Niên): Một năm. 级 (Cấp): Bộ Mịch (纟 - tơ lụa), bộ Bát (mức độ). Trải qua một năm lên được một cấp/khối kĩ năng (cấp học).",
+      "radicals": [
+        {
+          "character": "年",
+          "radical": "干",
+          "pinyin": "gān",
+          "vi": "can dự",
+          "sinoVietnamese": "can"
+        },
+        {
+          "character": "级",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "tơ lụa",
+          "sinoVietnamese": "mịch"
+        }
+      ]
     },
     {
       "word": "又",
@@ -74,7 +128,18 @@
           "vi": "Cô gái vừa cao vừa xinh đẹp kia là sinh viên năm hai.",
           "en": "That tall and pretty girl is in the second grade."
         }
-      }
+      },
+      "sinoVietnamese": "hựu",
+      "mnemonic": "Hựu (又) là một bộ thủ hình bàn tay dang ra lấy đồ đạc, làm một hành động lặp đi lặp lại. Có nghĩa là lại làm tiếp.",
+      "radicals": [
+        {
+          "character": "又",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "lại, tay phải",
+          "sinoVietnamese": "hựu"
+        }
+      ]
     },
     {
       "word": "聪明",
@@ -91,7 +156,25 @@
           "vi": "Cô ấy vừa thông minh vừa nhiệt tình.",
           "en": "She is both smart and enthusiastic."
         }
-      }
+      },
+      "sinoVietnamese": "thông minh",
+      "mnemonic": "聪 (Thông): Gồm chữ Nhĩ (耳 - Tai), luôn lắng nghe. 明 (Minh): Nhật (日 - Trăng) và Nguyệt (月 - Trăng) luôn sáng. Người có tai nghe kỹ mắt sáng là người thông minh.",
+      "radicals": [
+        {
+          "character": "聪",
+          "radical": "耳",
+          "pinyin": "ěr",
+          "vi": "cái tai",
+          "sinoVietnamese": "nhĩ"
+        },
+        {
+          "character": "明",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        }
+      ]
     },
     {
       "word": "热情",
@@ -108,7 +191,25 @@
           "vi": "Cô ấy vừa thông minh vừa nhiệt tình.",
           "en": "She is both smart and enthusiastic."
         }
-      }
+      },
+      "sinoVietnamese": "nhiệt tình",
+      "mnemonic": "热 (Nhiệt): Chấp (执) cầm nắm trên ngọn Lửa (灬), làm cho nóng ran cả lên. 情 (Tình): Tâm (忄) rộn ràng bùng lên cảm xúc (Thanh 青).",
+      "radicals": [
+        {
+          "character": "热",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "lửa",
+          "sinoVietnamese": "hỏa"
+        },
+        {
+          "character": "情",
+          "radical": "忄",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "努力",
@@ -125,7 +226,25 @@
           "vi": "Cô ấy vừa thông minh vừa nhiệt tình, cũng rất nỗ lực.",
           "en": "She is smart, enthusiastic, and also very hardworking."
         }
-      }
+      },
+      "sinoVietnamese": "nỗ lực",
+      "mnemonic": "努 (Nỗ): Nô (奴 - kẻ phục dịch) làm việc dùng hết Lực (力 - sức) để cố gắng. 力 (Lực): Sức lực. Gộp là cố gắng tối đa sức lực.",
+      "radicals": [
+        {
+          "character": "努",
+          "radical": "力",
+          "pinyin": "lì",
+          "vi": "sức lực",
+          "sinoVietnamese": "lực"
+        },
+        {
+          "character": "力",
+          "radical": "力",
+          "pinyin": "lì",
+          "vi": "sức lực",
+          "sinoVietnamese": "lực"
+        }
+      ]
     },
     {
       "word": "总是",
@@ -142,7 +261,25 @@
           "vi": "Tớ thấy cô ấy luôn cười khi trả lời câu hỏi của thầy giáo.",
           "en": "I see she always smiles when answering the teacher's questions."
         }
-      }
+      },
+      "sinoVietnamese": "tổng thị",
+      "mnemonic": "总 (Tổng): Gom hết mọi thứ trong Tâm (心) luôn luôn thế. 是 (Thị): Luôn đúng. Gom lại thành chữ 'Luôn luôn'.",
+      "radicals": [
+        {
+          "character": "总",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        },
+        {
+          "character": "是",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        }
+      ]
     },
     {
       "word": "回答",
@@ -159,7 +296,25 @@
           "vi": "Tớ thấy cô ấy luôn cười khi trả lời câu hỏi của thầy giáo.",
           "en": "I see she always smiles when answering the teacher's questions."
         }
-      }
+      },
+      "sinoVietnamese": "hồi đáp",
+      "mnemonic": "回 (Hồi): Hình vòng quay, mồm (口) nói trả lại. 答 (Đáp): Trúc (⺮) là gậy gõ khi ai đó hỏi, Hợp (合 - ráp lại). Trả lời (đáp lại) đúng trọng tâm.",
+      "radicals": [
+        {
+          "character": "回",
+          "radical": "囗",
+          "pinyin": "wéi",
+          "vi": "vòng quanh",
+          "sinoVietnamese": "vi"
+        },
+        {
+          "character": "答",
+          "radical": "⺮",
+          "pinyin": "zhú",
+          "vi": "cây trúc",
+          "sinoVietnamese": "trúc"
+        }
+      ]
     },
     {
       "word": "站",
@@ -176,7 +331,18 @@
           "vi": "Cậu nhìn những người cầm hoa tươi đứng ở cửa kia, đều là đợi cô ấy đấy.",
           "en": "Look at those people standing at the door holding flowers, they are all waiting for her."
         }
-      }
+      },
+      "sinoVietnamese": "trạm",
+      "mnemonic": "Lập (立 - đứng lên), Chiêm (占 - xem bói). Nơi một người hay đứng lại xem tình hình là ở Trạm, Bến.",
+      "radicals": [
+        {
+          "character": "站",
+          "radical": "立",
+          "pinyin": "lì",
+          "vi": "đứng",
+          "sinoVietnamese": "lập"
+        }
+      ]
     },
     {
       "word": "饿",
@@ -193,7 +359,18 @@
           "vi": "Anh hơi đói rồi.",
           "en": "I'm a little hungry."
         }
-      }
+      },
+      "sinoVietnamese": "ngạ",
+      "mnemonic": "Thực (饣 - thức ăn), Ngã (我 - tôi), bản thân tôi cần thức ăn nghĩa là đang bị đói bụng (ngạ).",
+      "radicals": [
+        {
+          "character": "饿",
+          "radical": "饣",
+          "pinyin": "shí",
+          "vi": "thức ăn",
+          "sinoVietnamese": "thực"
+        }
+      ]
     },
     {
       "word": "超市",
@@ -210,7 +387,25 @@
           "vi": "Chúng ta vào siêu thị mua chút đồ đi.",
           "en": "Let's go into the supermarket to buy something."
         }
-      }
+      },
+      "sinoVietnamese": "siêu thị",
+      "mnemonic": "超 (Siêu): Đi (走) vượt mặt bằng đao (刀) miệng. Sự vượt trội. 市 (Thị): Chợ búa, khăn quàng (巾) che lại. Chợ siêu cấp vượt trội được gọi là siêu thị.",
+      "radicals": [
+        {
+          "character": "超",
+          "radical": "走",
+          "pinyin": "zǒu",
+          "vi": "đi lại",
+          "sinoVietnamese": "tẩu"
+        },
+        {
+          "character": "市",
+          "radical": "巾",
+          "pinyin": "jīn",
+          "vi": "xưng khăn",
+          "sinoVietnamese": "cân"
+        }
+      ]
     },
     {
       "word": "蛋糕",
@@ -227,7 +422,25 @@
           "vi": "Bánh kem của siêu thị này vừa rẻ vừa ngon.",
           "en": "The cakes in this supermarket are both cheap and delicious."
         }
-      }
+      },
+      "sinoVietnamese": "đản cao",
+      "mnemonic": "蛋 (Đản): Côn trùng/con vật (虫) đẻ ra trứng (匹). Trứng đản. 糕 (Cao): Bột gạo (米) hấp qua hơi nóng mượt như cừu (羊) phồng lửa (灬).",
+      "radicals": [
+        {
+          "character": "蛋",
+          "radical": "虫",
+          "pinyin": "chóng",
+          "vi": "côn trùng",
+          "sinoVietnamese": "trùng"
+        },
+        {
+          "character": "糕",
+          "radical": "米",
+          "pinyin": "mǐ",
+          "vi": "gạo mễ",
+          "sinoVietnamese": "mễ"
+        }
+      ]
     },
     {
       "word": "年轻",
@@ -244,7 +457,25 @@
           "vi": "Ở chỗ chúng tôi có rất nhiều nhân viên phục vụ trẻ đẹp.",
           "en": "We have many young and pretty waitresses here."
         }
-      }
+      },
+      "sinoVietnamese": "niên khinh",
+      "mnemonic": "年 (Niên): Một năm. 轻 (Khinh): Xe ngựa (车) đi xuyên qua mặt đất tạo cảm giác lướt gió siêu nhẹ (Khinh). Độ tuổi còn ở mức nhẹ (thấp) là tuổi trẻ.",
+      "radicals": [
+        {
+          "character": "年",
+          "radical": "干",
+          "pinyin": "gān",
+          "vi": "can dự",
+          "sinoVietnamese": "can"
+        },
+        {
+          "character": "轻",
+          "radical": "车",
+          "pinyin": "chē",
+          "vi": "xe cộ",
+          "sinoVietnamese": "xa"
+        }
+      ]
     },
     {
       "word": "认真",
@@ -261,7 +492,25 @@
           "vi": "Cô ấy làm việc vừa chăm chỉ vừa nhiệt tình.",
           "en": "She is both serious and enthusiastic in her work."
         }
-      }
+      },
+      "sinoVietnamese": "nhận chân",
+      "mnemonic": "认 (Nhận): Dùng Lời nói/ngôn ngữ (讠) để nhận biết ai đó. 真 (Chân): Mắt nhìn (目) thấy hai phần gốc thật, chân thật. Sự việc chu tâm thật sự là nghiêm túc.",
+      "radicals": [
+        {
+          "character": "认",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "lời nói",
+          "sinoVietnamese": "ngôn"
+        },
+        {
+          "character": "真",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "con mắt",
+          "sinoVietnamese": "mục"
+        }
+      ]
     },
     {
       "word": "客人",
@@ -278,7 +527,25 @@
           "vi": "Cô ấy luôn cười khi nói chuyện với khách hàng.",
           "en": "She always smiles when talking to customers."
         }
-      }
+      },
+      "sinoVietnamese": "khách nhân",
+      "mnemonic": "客 (Khách): Đến chung một mái nhà Miên (宀) và ăn uống từng phần Mỗi (各) là người ngoài tới (khách). 人 (Nhân): Người.",
+      "radicals": [
+        {
+          "character": "客",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "mái nhà",
+          "sinoVietnamese": "miên"
+        },
+        {
+          "character": "人",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     }
   ],
   "grammars": [

@@ -2,6 +2,12 @@
 
 LangGo is a cross-platform language learning app (Web + Mobile) focused on efficient, daily practice through lessons, flashcards, mini-games
 
+## Todo
+
+- [ ] Add exercises from books
+- [ ] Add exercises
+- [ ] Fix errors if some lessons cannot be loaded
+
 ## Getting Started
 
 First, run the development server:

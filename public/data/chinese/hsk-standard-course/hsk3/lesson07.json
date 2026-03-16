@@ -23,7 +23,25 @@
           "vi": "Người đồng nghiệp mới xinh đẹp kia là ai vậy?",
           "en": "Who is that beautiful new colleague?"
         }
-      }
+      },
+      "sinoVietnamese": "đồng sự",
+      "mnemonic": "同 (Đồng): Chung một cái Mồm (口) nói trong Cổng (冂). 事 (Sự): Cầm bút ghi chép việc ở văn phòng. Đồng sự = Đồng nghiệp cùng một việc.",
+      "radicals": [
+        {
+          "character": "同",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "miệng",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "事",
+          "radical": "亅",
+          "pinyin": "jué",
+          "vi": "nét móc",
+          "sinoVietnamese": "quyết"
+        }
+      ]
     },
     {
       "word": "以前",
@@ -40,7 +58,25 @@
           "vi": "Trước đây cô ấy làm việc ở đâu?",
           "en": "Where did she work before?"
         }
-      }
+      },
+      "sinoVietnamese": "dĩ tiền",
+      "mnemonic": "以 (Dĩ): Hai người nối nhau phía sau người kia. 前 (Tiền): Dao Đao (刂), nhục (月), rạch trên trước mặt cắt ra. Ý là 'trước dĩ đây, thời dĩ vãng, trước kia'.",
+      "radicals": [
+        {
+          "character": "以",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "前",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "con dao",
+          "sinoVietnamese": "đao"
+        }
+      ]
     },
     {
       "word": "银行",
@@ -57,7 +93,25 @@
           "vi": "Cô ấy làm việc ở ngân hàng hai năm sau đó mới đến công ty chúng tôi.",
           "en": "She worked at a bank for two years before coming to our company."
         }
-      }
+      },
+      "sinoVietnamese": "ngân hàng",
+      "mnemonic": "银 (Ngân): Kim loại (钅) màu bạc làm từ cấn (艮) sinh từ đất. 行 (Hành): Đường đi ngã tư Xích (彳). Ngân hành (hàng) là nơi lưu thông bạc tiền.",
+      "radicals": [
+        {
+          "character": "银",
+          "radical": "钅",
+          "pinyin": "jīn",
+          "vi": "kim loại",
+          "sinoVietnamese": "kim"
+        },
+        {
+          "character": "行",
+          "radical": "彳",
+          "pinyin": "chì",
+          "vi": "bước đi chập chững",
+          "sinoVietnamese": "xích"
+        }
+      ]
     },
     {
       "word": "久",
@@ -74,7 +128,18 @@
           "vi": "Các bạn hát bao lâu?",
           "en": "How long did you sing?"
         }
-      }
+      },
+      "sinoVietnamese": "cửu",
+      "mnemonic": "Hình tượng một người nằm trên giường bệnh đau đớn bị châm cứu thời gian dài. Rất trìu tượng ngụ ý Lâu Dài.",
+      "radicals": [
+        {
+          "character": "久",
+          "radical": "丿",
+          "pinyin": "piě",
+          "vi": "phẩy",
+          "sinoVietnamese": "phiệt"
+        }
+      ]
     },
     {
       "word": "感兴趣",
@@ -91,7 +156,32 @@
           "vi": "Các bạn đều có hứng thú với âm nhạc à?",
           "en": "Are you all interested in music?"
         }
-      }
+      },
+      "sinoVietnamese": "cảm hứng thú",
+      "mnemonic": "感 (Cảm): Cảm xúc từ tâm (心). 兴 (Hứng): Hai tay nâng lên (廾) vui mừng. 趣 (Thú): Đi (走 - tẩu) lấy đồ vật tẩu thú vì lòng hứng thú. Nghĩa: Cảm thấy thích thú.",
+      "radicals": [
+        {
+          "character": "感",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        },
+        {
+          "character": "兴",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "tám",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "趣",
+          "radical": "走",
+          "pinyin": "zǒu",
+          "vi": "đi bộ",
+          "sinoVietnamese": "tẩu"
+        }
+      ]
     },
     {
       "word": "结婚",
@@ -108,7 +198,25 @@
           "vi": "Tôi và Tiểu Lệ tháng sau kết hôn.",
           "en": "Xiaoli and I are getting married next month."
         }
-      }
+      },
+      "sinoVietnamese": "kết hôn",
+      "mnemonic": "结 (Kết): Mịch (纟 - sợi tơ) Cát (吉 - tốt tành). Tổ đan sợi nhân duyên. 婚 (Hôn): Nữ (女) giới kết hợp ở dòng họ (氏) dưới trời xẩm Nhật (日). Việc cưới hỏi.",
+      "radicals": [
+        {
+          "character": "结",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "sợi tơ",
+          "sinoVietnamese": "mịch"
+        },
+        {
+          "character": "婚",
+          "radical": "女",
+          "pinyin": "nǚ",
+          "vi": "phụ nữ",
+          "sinoVietnamese": "nữ"
+        }
+      ]
     },
     {
       "word": "欢迎",
@@ -125,7 +233,25 @@
           "vi": "Đến lúc đó hoan nghênh cậu đến.",
           "en": "You are welcome to come then."
         }
-      }
+      },
+      "sinoVietnamese": "hoan nghênh",
+      "mnemonic": "欢 (Hoan): Khiếm (欠 - ngáp, thiếu thụt), Hựu (又). Nghênh (迎): Nửa mình (卬) và bước đi Xước (辶). Há miệng cười hoan hỉ đi ra đón khách.",
+      "radicals": [
+        {
+          "character": "欢",
+          "radical": "欠",
+          "pinyin": "qiàn",
+          "vi": "khiếm khuyết",
+          "sinoVietnamese": "khiếm"
+        },
+        {
+          "character": "迎",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "bước chân bước",
+          "sinoVietnamese": "xước"
+        }
+      ]
     },
     {
       "word": "迟到",
@@ -142,7 +268,25 @@
           "vi": "Anh xem đồng hồ đi, sao lại đến muộn vậy?",
           "en": "Look at your watch, why are you late?"
         }
-      }
+      },
+      "sinoVietnamese": "trì đáo",
+      "mnemonic": "迟 (Trì): Con cừu Tế/Thi (尸) đi rất rù rì Xước (辶). Đến muộn (trì). 到 (Đáo): Vác dao (刂) đi bước đến mục tiêu. Nghĩa là Đến muộn.",
+      "radicals": [
+        {
+          "character": "迟",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "bước chân vội vã",
+          "sinoVietnamese": "xước"
+        },
+        {
+          "character": "到",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "con dao",
+          "sinoVietnamese": "đao"
+        }
+      ]
     },
     {
       "word": "半",
@@ -159,7 +303,18 @@
           "vi": "Bây giờ không phải là 7 giờ rưỡi sao?",
           "en": "Isn't it 7:30 now?"
         }
-      }
+      },
+      "sinoVietnamese": "bán",
+      "mnemonic": "Hai nét phẩy / mác chia đôi chữ Thập (十) ra thành 2 nửa (Bát 八). Bán = Một nửa.",
+      "radicals": [
+        {
+          "character": "半",
+          "radical": "十",
+          "pinyin": "shí",
+          "vi": "số mười",
+          "sinoVietnamese": "thập"
+        }
+      ]
     },
     {
       "word": "接",
@@ -176,7 +331,18 @@
           "vi": "Không phải anh nói 7 giờ rưỡi đến đón em sao?",
           "en": "Didn't you say you'd come pick me up at 7:30?"
         }
-      }
+      },
+      "sinoVietnamese": "tiếp",
+      "mnemonic": "Thủ (扌) tay, Lập (立 - đứng), Nữ (女 - phụ nữ). Vươn tay ra đón nhận, đứng nghênh tiếp người con gái. Nghĩa là Đón, Tiếp nhận.",
+      "radicals": [
+        {
+          "character": "接",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "tay",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "刻",
@@ -193,7 +359,18 @@
           "vi": "Anh đến muộn 15 phút rồi.",
           "en": "You are a quarter of an hour late."
         }
-      }
+      },
+      "sinoVietnamese": "khắc",
+      "mnemonic": "Hợi (亥 - con heo) và Đao (刂 - con dao). Dùng dao mổ heo chia làm nhiều phần, thời gian cũng bị chia thành từng khắc.",
+      "radicals": [
+        {
+          "character": "刻",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "con dao",
+          "sinoVietnamese": "đao"
+        }
+      ]
     },
     {
       "word": "差",
@@ -210,7 +387,18 @@
           "vi": "Đã 8 giờ kém 15 rồi!",
           "en": "It's already a quarter to eight!"
         }
-      }
+      },
+      "sinoVietnamese": "sai / sái",
+      "mnemonic": "Dương (羊 - Con cừu), Công (工 - người thợ). Cắt xén lông cừu không đều tạo sự sai sót, gồ ghề.",
+      "radicals": [
+        {
+          "character": "差",
+          "radical": "工",
+          "pinyin": "gōng",
+          "vi": "công việc",
+          "sinoVietnamese": "công"
+        }
+      ]
     }
   ],
   "grammars": [

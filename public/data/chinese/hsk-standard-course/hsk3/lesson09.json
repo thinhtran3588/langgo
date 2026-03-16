@@ -23,7 +23,25 @@
           "vi": "Marco, tiếng Trung của cậu càng nói càng tốt rồi!",
           "en": "Marco, your Chinese is getting better and better!"
         }
-      }
+      },
+      "sinoVietnamese": "trung văn",
+      "mnemonic": "中 (Trung): Ở giữa đất nước trung tâm. 文 (Văn): Ngữ văn, bài văn viết có đầu đội nón mác. Chữ viết của người việt trung (Tiếng Trung).",
+      "radicals": [
+        {
+          "character": "中",
+          "radical": "丨",
+          "pinyin": "gǔn",
+          "vi": "nét sổ",
+          "sinoVietnamese": "cổn"
+        },
+        {
+          "character": "文",
+          "radical": "文",
+          "pinyin": "wén",
+          "vi": "văn chương",
+          "sinoVietnamese": "văn"
+        }
+      ]
     },
     {
       "word": "班",
@@ -40,7 +58,18 @@
           "vi": "Lý Tịnh lớp chúng tớ nói còn tốt hơn.",
           "en": "Li Jing in our class speaks even better."
         }
-      }
+      },
+      "sinoVietnamese": "ban",
+      "mnemonic": "Hai Vương (王) kẹp lấy dao (刂) sắc, chia đôi miếng ngọc ra thành hai Ban (lớp, đội, nhóm).",
+      "radicals": [
+        {
+          "character": "班",
+          "radical": "王",
+          "pinyin": "wáng",
+          "vi": "Ngọc/vua",
+          "sinoVietnamese": "vương"
+        }
+      ]
     },
     {
       "word": "一样",
@@ -57,7 +86,25 @@
           "vi": "Cô ấy nói tiếng Trung hay như người Trung Quốc vậy.",
           "en": "She speaks Chinese as well as a Chinese person."
         }
-      }
+      },
+      "sinoVietnamese": "nhất dạng",
+      "mnemonic": "一 (Nhất): Số 1. 样 (Dạng): Bộ Mộc (木 - gỗ) và Dương (羊 - cừu). Từ một cây gỗ nặn ra cái khuôn giống hệt con cừu (Dạng giống hệt). Cùng một hệ.",
+      "radicals": [
+        {
+          "character": "一",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số 1",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "样",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gỗ",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "最后",
@@ -74,7 +121,25 @@
           "vi": "Đây là miếng cuối cùng rồi.",
           "en": "This is the last piece."
         }
-      }
+      },
+      "sinoVietnamese": "tối hậu",
+      "mnemonic": "最 (Tối): Nhật (日) chiếm trên Thủ Cảng. Hết mức. 后 (Hậu): Miệng Khẩu (口) ở mép sườn núi (厂). Nấp mình đằng sau (Phía sau, phần sau cùng).",
+      "radicals": [
+        {
+          "character": "最",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        },
+        {
+          "character": "后",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "mồm",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "放心",
@@ -91,7 +156,25 @@
           "vi": "Em yên tâm, anh nhất định sẽ không béo lên đâu.",
           "en": "Don't worry, I definitely won't get fat."
         }
-      }
+      },
+      "sinoVietnamese": "phóng tâm",
+      "mnemonic": "放 (Phóng): Phương (方) và Phốc (攵 - thả ra). 心 (Tâm): Tim. Thả lỏng trái tim, không còn co thắt (yên tâm, phóng tâm).",
+      "radicals": [
+        {
+          "character": "放",
+          "radical": "攵",
+          "pinyin": "pū",
+          "vi": "đánh khẽ",
+          "sinoVietnamese": "phốc"
+        },
+        {
+          "character": "心",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "一定",
@@ -108,7 +191,25 @@
           "vi": "Em yên tâm, anh nhất định sẽ không béo lên đâu.",
           "en": "Don't worry, I definitely won't get fat."
         }
-      }
+      },
+      "sinoVietnamese": "nhất định",
+      "mnemonic": "一 (Nhất): Số 1, Định (定): Miên (宀 - Nhà chống mái) và Chính (正) biến chân đi (疋). Ở trong nhà quyết chí một hướng đi. Nhất mực như thế.",
+      "radicals": [
+        {
+          "character": "一",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số 1",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "定",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "mái nhà",
+          "sinoVietnamese": "miên"
+        }
+      ]
     },
     {
       "word": "担心",
@@ -125,7 +226,25 @@
           "vi": "Không cần lo lắng, có anh đây rồi.",
           "en": "Don't worry, I'm here."
         }
-      }
+      },
+      "sinoVietnamese": "đảm tâm",
+      "mnemonic": "担 (Đảm): Thủ (扌 - Tay), Đán (旦 - Ban mai rạng chiếu mặt trời). Dùng tay ôm sự việc từ rạng sáng đến tối nên nặng tâm tư. 心(Tâm): Lòng lo lắng.",
+      "radicals": [
+        {
+          "character": "担",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "tay",
+          "sinoVietnamese": "thủ"
+        },
+        {
+          "character": "心",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "比较",
@@ -142,7 +261,25 @@
           "vi": "Anh khá hiểu rõ về nơi này.",
           "en": "I know this place quite well."
         }
-      }
+      },
+      "sinoVietnamese": "tỷ giác",
+      "mnemonic": "比 (Tỷ): So hai bên người 匕. 较 (Giác): Xe (车 - cộ) và Giao (交 - cắt chéo). So đi so lại cắt ngang dọc thì là So sánh.",
+      "radicals": [
+        {
+          "character": "比",
+          "radical": "比",
+          "pinyin": "bǐ",
+          "vi": "so sánh 2 bên",
+          "sinoVietnamese": "tỉ"
+        },
+        {
+          "character": "较",
+          "radical": "车",
+          "pinyin": "chē",
+          "vi": "cái chiếc xe",
+          "sinoVietnamese": "xa"
+        }
+      ]
     },
     {
       "word": "了解",
@@ -159,7 +296,25 @@
           "vi": "Anh khá hiểu rõ về nơi này.",
           "en": "I know this place quite well."
         }
-      }
+      },
+      "sinoVietnamese": "liễu giải",
+      "mnemonic": "了 (Liễu): Xong xỏ, kết thúc. 解 (Giải): Cầm đao (刀) mổ con trâu bò (牛) tách lấy sừng Góc (角). Liễu giải là đã giải quyết thông suốt (Hiểu rõ).",
+      "radicals": [
+        {
+          "character": "了",
+          "radical": "乙",
+          "pinyin": "yǐ",
+          "vi": "can ất",
+          "sinoVietnamese": "ất"
+        },
+        {
+          "character": "解",
+          "radical": "角",
+          "pinyin": "jiǎo",
+          "vi": "sừng",
+          "sinoVietnamese": "giác"
+        }
+      ]
     },
     {
       "word": "先",
@@ -176,7 +331,18 @@
           "vi": "Vậy chúng ta nghỉ một lát trước đã, lát nữa leo tiếp.",
           "en": "Then let's rest a bit first, and climb again in a while."
         }
-      }
+      },
+      "sinoVietnamese": "tiên",
+      "mnemonic": "Bộ Nhân đi (儿) đội Đất (土) và một vệt (丿). Đi trước ngự đạo ở tương lai làm Tiền bối (Tiên phong, trước trước).",
+      "radicals": [
+        {
+          "character": "先",
+          "radical": "儿",
+          "pinyin": "ér",
+          "vi": "con nhỏ",
+          "sinoVietnamese": "nhi"
+        }
+      ]
     },
     {
       "word": "中间",
@@ -193,7 +359,25 @@
           "vi": "Lát nữa chúng ta có thể đi lên từ con đường ở giữa này.",
           "en": "In a while we can go up from this middle path."
         }
-      }
+      },
+      "sinoVietnamese": "trung gian",
+      "mnemonic": "中 (Trung): Xuyên thẳng vào giữa lỗ hổng bộ Khẩu (口). 间 (Gian): Ánh sáng mặt trời (日) xuyên qua Cửa (门 - Môn). Không gian nằm ở giữa.",
+      "radicals": [
+        {
+          "character": "中",
+          "radical": "丨",
+          "pinyin": "gǔn",
+          "vi": "cái que, sổ thẳng",
+          "sinoVietnamese": "cổn"
+        },
+        {
+          "character": "间",
+          "radical": "门",
+          "pinyin": "mén",
+          "vi": "cánh cửa",
+          "sinoVietnamese": "môn"
+        }
+      ]
     },
     {
       "word": "参加",
@@ -210,7 +394,25 @@
           "vi": "Trận đấu bóng rổ tháng sau, cậu có thể tham gia không?",
           "en": "Can you participate in next month's basketball game?"
         }
-      }
+      },
+      "sinoVietnamese": "tham gia",
+      "mnemonic": "参 (Tham): Tư Tư (厶) 3 ngôi sao Đại rạng chiếu, bộ Sam (彡). Cấu tạo thành việc tham dự nhiều người. 加(Gia): Lực cuốn bao Khẩu miệng. Thuyết lực cộng vào nhóm hội.",
+      "radicals": [
+        {
+          "character": "参",
+          "radical": "厶",
+          "pinyin": "sī",
+          "vi": "cái tư trang",
+          "sinoVietnamese": "khư"
+        },
+        {
+          "character": "加",
+          "radical": "力",
+          "pinyin": "lì",
+          "vi": "sức lực",
+          "sinoVietnamese": "lực"
+        }
+      ]
     },
     {
       "word": "影响",
@@ -227,7 +429,25 @@
           "vi": "Nhất định có thể tham gia, một chút ảnh hưởng cũng không có.",
           "en": "I can definitely participate, it won't affect me at all."
         }
-      }
+      },
+      "sinoVietnamese": "ảnh hưởng",
+      "mnemonic": "影 (Ảnh): Cảnh (景) mặt trời cao hiện rõ hình, dùng bộ Sam (彡) in thành cái Vệt Bóng. 响 (Hưởng): Âm vang từ Mồm (口) Hướng tới. Nghĩa sự ảnh/bóng dội tác động lên.",
+      "radicals": [
+        {
+          "character": "影",
+          "radical": "彡",
+          "pinyin": "shān",
+          "vi": "vệt bóng mượt",
+          "sinoVietnamese": "sam"
+        },
+        {
+          "character": "响",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "mồm",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     }
   ],
   "grammars": [

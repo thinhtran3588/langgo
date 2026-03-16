@@ -23,7 +23,25 @@
           "vi": "Kính của anh đâu rồi?",
           "en": "Where are my glasses?"
         }
-      }
+      },
+      "sinoVietnamese": "nhãn kính",
+      "mnemonic": "眼 (Nhãn): Mục (目) và Cấn (艮). Mắt nhìn vào ngọn núi. 镜 (Kính): Kim loại (钅) và chữ Cảnh (竟). Kính làm bằng kim loại phản chiếu phong cảnh.",
+      "radicals": [
+        {
+          "character": "眼",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "con mắt",
+          "sinoVietnamese": "mục"
+        },
+        {
+          "character": "镜",
+          "radical": "钅",
+          "pinyin": "jīn",
+          "vi": "kim loại",
+          "sinoVietnamese": "kim"
+        }
+      ]
     },
     {
       "word": "突然",
@@ -40,7 +58,25 @@
           "vi": "Sao bỗng dưng lại không tìm thấy?",
           "en": "Why can't I find it suddenly?"
         }
-      }
+      },
+      "sinoVietnamese": "đột nhiên",
+      "mnemonic": "突 (Đột): Huyệt (穴 - hang) chó (犬). Con chó bất thình lình lao ra khỏi hang tạo sự bất ngờ. 然 (Nhiên): Giống nhục chó nướng lửa nhiệt (灬).",
+      "radicals": [
+        {
+          "character": "突",
+          "radical": "穴",
+          "pinyin": "xué",
+          "vi": "hang động",
+          "sinoVietnamese": "huyệt"
+        },
+        {
+          "character": "然",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "lửa",
+          "sinoVietnamese": "hỏa"
+        }
+      ]
     },
     {
       "word": "离开",
@@ -57,7 +93,25 @@
           "vi": "Anh không thể rời khỏi cái mắt kính.",
           "en": "I can't be without glasses."
         }
-      }
+      },
+      "sinoVietnamese": "ly khai",
+      "mnemonic": "离 (Ly): Một con chim (隹) bay đi bỏ lại tổ nhà. 开 (Khai): Hai tay cầm then cài tháo cửa. Cấu tạo thành việc mở cửa mà đi. (rời đi, ly khai)",
+      "radicals": [
+        {
+          "character": "离",
+          "radical": "隹",
+          "pinyin": "zhuī",
+          "vi": "chim đuôi ngắn",
+          "sinoVietnamese": "truy"
+        },
+        {
+          "character": "开",
+          "radical": "廾",
+          "pinyin": "gǒng",
+          "vi": "hai tay nâng lên",
+          "sinoVietnamese": "củng"
+        }
+      ]
     },
     {
       "word": "清楚",
@@ -74,7 +128,25 @@
           "vi": "Không có kính, một chữ anh cũng không nhìn rõ.",
           "en": "Without glasses, I can't see a single word clearly."
         }
-      }
+      },
+      "sinoVietnamese": "thanh sở",
+      "mnemonic": "清 (Thanh): Nước (氵) trong vắt nhìn thấy màu Xanh (青). 楚 (Sở): Hai cây (林) mọc thẳng rõ nét làm trụ. Nghĩa bóng: rõ ràng rành mạch.",
+      "radicals": [
+        {
+          "character": "清",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước",
+          "sinoVietnamese": "thủy"
+        },
+        {
+          "character": "楚",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "cái cây",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "刚才",
@@ -91,7 +163,25 @@
           "vi": "Có phải lúc nãy để trên bàn rồi không?",
           "en": "Did you put it on the table just now?"
         }
-      }
+      },
+      "sinoVietnamese": "cương tài",
+      "mnemonic": "刚 (Cương): Gắn với Đao (刂), lưới đao rất cứng vừa chặt xuống. 才 (Tài): Vừa mới nảy mầm. 'Vừa mới tức thì'.",
+      "radicals": [
+        {
+          "character": "刚",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "con dao",
+          "sinoVietnamese": "đao"
+        },
+        {
+          "character": "才",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "tay",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "帮忙",
@@ -108,7 +198,25 @@
           "vi": "Em mau qua đây giúp một tay đi.",
           "en": "Come over and help me quickly."
         }
-      }
+      },
+      "sinoVietnamese": "bang mang",
+      "mnemonic": "帮 (Bang): Bạch (白) cái khăn, Cân (巾). Mang vải tới giúp bạn hữu. 忙 (Mang): Tâm (忄) rộn rã vội (亡), sự bận rộn. Bớt thời gian bận để giúp người(giúp đỡ).",
+      "radicals": [
+        {
+          "character": "帮",
+          "radical": "巾",
+          "pinyin": "jīn",
+          "vi": "cái khăn",
+          "sinoVietnamese": "cân"
+        },
+        {
+          "character": "忙",
+          "radical": "忄",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "特别",
@@ -125,7 +233,25 @@
           "vi": "Hôm nay những câu hỏi này cực kỳ khó.",
           "en": "These questions today are especially difficult."
         }
-      }
+      },
+      "sinoVietnamese": "đặc biệt",
+      "mnemonic": "特 (Đặc): Con bò (牛) đứng cạnh chùa (寺) rất đặc biệt và thiêng. 别 (Biệt): Dùng dao (刂) chia cắt rời rạc, không chung đụng (Khác biệt).",
+      "radicals": [
+        {
+          "character": "特",
+          "radical": "牛",
+          "pinyin": "niú",
+          "vi": "con bò",
+          "sinoVietnamese": "ngưu"
+        },
+        {
+          "character": "别",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "con dao",
+          "sinoVietnamese": "đao"
+        }
+      ]
     },
     {
       "word": "讲",
@@ -142,7 +268,18 @@
           "vi": "Bạn đến nhà tớ đi, tớ giảng cho bạn.",
           "en": "Come to my house, I'll explain it to you."
         }
-      }
+      },
+      "sinoVietnamese": "giảng",
+      "mnemonic": "Ngôn (讠 - lời) nói đứng gần giếng (井 - Giếng) giảng đạo lí cho dân nghe. Giảng bài, kể chuyện.",
+      "radicals": [
+        {
+          "character": "讲",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "lời nói",
+          "sinoVietnamese": "ngôn"
+        }
+      ]
     },
     {
       "word": "明白",
@@ -159,7 +296,25 @@
           "vi": "Trong điện thoại nói không rõ ràng.",
           "en": "I can't explain it clearly over the phone."
         }
-      }
+      },
+      "sinoVietnamese": "minh bạch",
+      "mnemonic": "明 (Minh): Nhật (日) Nguyệt (月) tỏa sáng. 白 (Bạch): Trắng trẻo, rõ sáng (日). Trong sáng rõ ràng dễ hiểu mồn một.",
+      "radicals": [
+        {
+          "character": "明",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        },
+        {
+          "character": "白",
+          "radical": "白",
+          "pinyin": "bái",
+          "vi": "màu trắng",
+          "sinoVietnamese": "bạch"
+        }
+      ]
     },
     {
       "word": "锻炼",
@@ -176,7 +331,25 @@
           "vi": "Được, tớ tập thể dục xong sẽ qua ngay.",
           "en": "Okay, I'll come over after I finish exercising."
         }
-      }
+      },
+      "sinoVietnamese": "đoán luyện",
+      "mnemonic": "锻 (Đoán): Kim kim loại (钅) mang rèn đòn. 炼 (Luyện): Nung qua lửa (火), mài luyện đồ vật cho bén. Tích hợp là tôi luyện, rèn luyện thân thể.",
+      "radicals": [
+        {
+          "character": "锻",
+          "radical": "钅",
+          "pinyin": "jīn",
+          "vi": "kim loại",
+          "sinoVietnamese": "kim"
+        },
+        {
+          "character": "炼",
+          "radical": "火",
+          "pinyin": "huǒ",
+          "vi": "lửa",
+          "sinoVietnamese": "hỏa"
+        }
+      ]
     },
     {
       "word": "音乐",
@@ -193,7 +366,25 @@
           "vi": "Cô ấy thích nghe nhạc.",
           "en": "She likes listening to music."
         }
-      }
+      },
+      "sinoVietnamese": "âm nhạc",
+      "mnemonic": "音 (Âm): Lập (立), Vi (日). Âm thanh từ nhạc khí. 乐 (Nhạc): Cây đàn có dây tơ (白 / 木). Tạo ra âm nhạc.",
+      "radicals": [
+        {
+          "character": "音",
+          "radical": "音",
+          "pinyin": "yīn",
+          "vi": "âm thanh",
+          "sinoVietnamese": "âm"
+        },
+        {
+          "character": "乐",
+          "radical": "丿",
+          "pinyin": "piě",
+          "vi": "nét phẩy",
+          "sinoVietnamese": "phiệt"
+        }
+      ]
     },
     {
       "word": "公园",
@@ -210,7 +401,25 @@
           "vi": "Vậy đi công viên đi dạo đi.",
           "en": "Then go for a walk in the park."
         }
-      }
+      },
+      "sinoVietnamese": "công viên",
+      "mnemonic": "公 (Công): Chung, chia đều (Bát - 八). 园 (Viên): Khung viền Vi (囗) quanh mảnh đất có chữ Nguyên (元). Nơi đất trống rào lại cho dùng chung là CV.",
+      "radicals": [
+        {
+          "character": "公",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "số tám",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "园",
+          "radical": "囗",
+          "pinyin": "wéi",
+          "vi": "vòng quanh",
+          "sinoVietnamese": "vi"
+        }
+      ]
     },
     {
       "word": "聊天(儿)",
@@ -227,7 +436,25 @@
           "vi": "Vậy đi công viên đi dạo, trò chuyện nhé.",
           "en": "Then let's go for a walk in the park and chat."
         }
-      }
+      },
+      "sinoVietnamese": "liêu thiên",
+      "mnemonic": "聊 (Liêu): Nhĩ (耳) Mão (卯). Lắng nghe tai buôn chuyện. 天 (Thiên): Trời (Đại - 大 thêm nét). Trò chuyện trên trời dưới biển.",
+      "radicals": [
+        {
+          "character": "聊",
+          "radical": "耳",
+          "pinyin": "ěr",
+          "vi": "cái tai",
+          "sinoVietnamese": "nhĩ"
+        },
+        {
+          "character": "天",
+          "radical": "大",
+          "pinyin": "dà",
+          "vi": "to lớn",
+          "sinoVietnamese": "đại"
+        }
+      ]
     },
     {
       "word": "睡着",
@@ -244,7 +471,25 @@
           "vi": "Không phải anh nói buổi tối không ngủ được sao?",
           "en": "Didn't you say you couldn't fall asleep at night?"
         }
-      }
+      },
+      "sinoVietnamese": "thụy trứ",
+      "mnemonic": "睡 (Thụy): 目 (mắt), 垂 (cụp lại). Nhắm mắt cụp lông mày để ngủ. 着 (Trứ): Hành động đạt được mục đích. Thụy trứ là đã chìm vào giấc ngủ.",
+      "radicals": [
+        {
+          "character": "睡",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "con mắt",
+          "sinoVietnamese": "mục"
+        },
+        {
+          "character": "着",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "con mắt",
+          "sinoVietnamese": "mục"
+        }
+      ]
     },
     {
       "word": "更",
@@ -261,7 +506,18 @@
           "vi": "Uống ly sữa, có thể ngủ ngon hơn chút.",
           "en": "Drink a glass of milk, you can sleep better."
         }
-      }
+      },
+      "sinoVietnamese": "cánh / canh",
+      "mnemonic": "Nhất (一), Nguyệt (日) và chéo hai chân (乂). Sự trải dài qua ngày qua đêm ngụ ý sự thay đổi, thậm chí càng thêm vượt mức.",
+      "radicals": [
+        {
+          "character": "更",
+          "radical": "曰",
+          "pinyin": "yuē",
+          "vi": "nói",
+          "sinoVietnamese": "viết"
+        }
+      ]
     }
   ],
   "grammars": [

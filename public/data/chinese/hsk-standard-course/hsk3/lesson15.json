@@ -23,7 +23,25 @@
           "vi": "Em đến Trung Quốc du học 2 năm rồi.",
           "en": "I have been studying abroad in China for two years."
         }
-      }
+      },
+      "sinoVietnamese": "lưu học",
+      "mnemonic": "留 (Lưu): Mão (卯), Đao (刀) và Điền (田). Dùng dao khắc lên mảnh ruộng đánh dẫu giữ lại không cho trôi. Lưu lại điền địa. 学(Học). Lưu vực đóng tại ngoại bang đi thu học (Du học lưu xá).",
+      "radicals": [
+        {
+          "character": "留",
+          "radical": "田",
+          "pinyin": "tián",
+          "vi": "ruộng vườn",
+          "sinoVietnamese": "điền"
+        },
+        {
+          "character": "学",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "tử nít",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "水平",
@@ -40,7 +58,25 @@
           "vi": "Nhưng trình độ tiếng Trung của em tiến bộ chẳng nhanh chút nào.",
           "en": "But my Chinese level hasn't improved fast at all."
         }
-      }
+      },
+      "sinoVietnamese": "thủy bình",
+      "mnemonic": "水 (Thủy): Hình thù dòng nước chảy xiết ngách ngoằn nghèo (Nước). 平 (Bình): Cái cân phân 2 Cán hai bên cân đối thẳng tăm tắp chẻ ngang. Mặt Nước Tĩnh bằng (Thủy bình / Cấp độ Trình độ).",
+      "radicals": [
+        {
+          "character": "水",
+          "radical": "水",
+          "pinyin": "shuǐ",
+          "vi": "giọt nước",
+          "sinoVietnamese": "thủy"
+        },
+        {
+          "character": "平",
+          "radical": "干",
+          "pinyin": "gān",
+          "vi": "còn cạn, mộc",
+          "sinoVietnamese": "can"
+        }
+      ]
     },
     {
       "word": "提高",
@@ -57,7 +93,25 @@
           "vi": "Nhưng trình độ tiếng Trung của em tiến bộ chẳng nhanh chút nào.",
           "en": "But my Chinese level hasn't improved fast at all."
         }
-      }
+      },
+      "sinoVietnamese": "đề cao",
+      "mnemonic": "提 (Đề): Tay (扌) bợ đỡ món Thị (是) và Nhật Nhất Móc. Nâng bấc đồ vật nâng đề nó lên. 高(Cao): Lâu đài cao 2 tầng xây tháp có cửa miệng Khẩu. Đề bốc lên lầu tháp (Nâng tầm cao).",
+      "radicals": [
+        {
+          "character": "提",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "tay thủ",
+          "sinoVietnamese": "thủ"
+        },
+        {
+          "character": "高",
+          "radical": "高",
+          "pinyin": "gāo",
+          "vi": "chót vót",
+          "sinoVietnamese": "cao"
+        }
+      ]
     },
     {
       "word": "练习",
@@ -74,7 +128,25 @@
           "vi": "Em mỗi ngày đều chăm chỉ học tập, làm bài tập, hoàn thành bài về nhà.",
           "en": "You study seriously every day, do exercises, and finish homework."
         }
-      }
+      },
+      "sinoVietnamese": "luyện tập",
+      "mnemonic": "练 (Luyện): Mịch (纟) dùng dây lụa phơi Phương (东/Cấn) làm cho dẻo dai thành phẩm. 习(Tập): 1 bộ cánh phi lên nháp tới nháp lui. Mài dũa đi lại (Rèn luyện).",
+      "radicals": [
+        {
+          "character": "练",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "tơ lụa dây",
+          "sinoVietnamese": "mịch"
+        },
+        {
+          "character": "习",
+          "radical": "乙",
+          "pinyin": "yǐ",
+          "vi": "chim bay, ất ngầm",
+          "sinoVietnamese": "ất"
+        }
+      ]
     },
     {
       "word": "完成",
@@ -91,7 +163,25 @@
           "vi": "Em mỗi ngày đều chăm chỉ học tập, làm bài tập, hoàn thành bài về nhà.",
           "en": "You study seriously every day, do exercises, and finish homework."
         }
-      }
+      },
+      "sinoVietnamese": "hoàn thành",
+      "mnemonic": "完 (Hoàn): Mái nhà Miên (宀), Nhị Can Nguyên (元). Người ở trọn trong nhà coi như được xong xuôi kết thúc tốt. 成 (Thành): Vũ khí Qua đán Phệt (戈/戊). Dẹp giặc thành công toàn mãn (Hoàn tất việc).",
+      "radicals": [
+        {
+          "character": "完",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "nhà",
+          "sinoVietnamese": "miên"
+        },
+        {
+          "character": "成",
+          "radical": "戈",
+          "pinyin": "gē",
+          "vi": "qua đâm",
+          "sinoVietnamese": "qua"
+        }
+      ]
     },
     {
       "word": "句子",
@@ -108,7 +198,25 @@
           "vi": "Ngoài câu này ý nghĩa hơi không rõ ràng ra, những câu khác đều không có vấn đề gì.",
           "en": "Except for this sentence which is a bit unclear, there are no other problems."
         }
-      }
+      },
+      "sinoVietnamese": "câu tử",
+      "mnemonic": "句 (Câu): Bao vây quanh Khẩu (口 - Miệng) bằng (勹) ôm chùm. Nắm móc mớ câu hát từ miệng bật ra gọi là lời chữ Câu nói. 子(Tử). 1 câu thoại dòng.",
+      "radicals": [
+        {
+          "character": "句",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "khuôn miệng",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "bé nhỏ",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "其他",
@@ -125,7 +233,25 @@
           "vi": "Ngoài câu này ý nghĩa hơi không rõ ràng ra, những câu khác đều không có vấn đề gì.",
           "en": "Except for this sentence which is a bit unclear, there are no other problems."
         }
-      }
+      },
+      "sinoVietnamese": "kỳ tha",
+      "mnemonic": "其 (Kỳ): Viết trên bảng trống kê ở Bát (八), ngụ ý vật kỉ. Trỏ vật kia đồ nọ. 他 (Tha): Nhân đứng (亻) và Dã (也 - cũng). Chỉ người khác nó hắn, đồ khác. Cấu từ là NHỮNG CÁI CÒN LẠI.",
+      "radicals": [
+        {
+          "character": "其",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "con số 8 bát",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "他",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "người trần đứng",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "发",
@@ -142,7 +268,18 @@
           "vi": "Có thể gọi điện thoại hoặc gửi email cho cô.",
           "en": "You can call me or send an email."
         }
-      }
+      },
+      "sinoVietnamese": "phát",
+      "mnemonic": "Bộ Hựu lặp (又 - Tay xéo) và thân cung bật. Phát ra đưa ra bắn tung bay ra ngoài không giấu đi (Gửi đi, phóng phát).",
+      "radicals": [
+        {
+          "character": "发",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "lại xào tay",
+          "sinoVietnamese": "hựu"
+        }
+      ]
     },
     {
       "word": "要求",
@@ -159,7 +296,25 @@
           "vi": "Trước tiên tôi nói cho mọi người nghe về yêu cầu của cuộc thi lần này.",
           "en": "I will first explain the requirements of this competition to everyone."
         }
-      }
+      },
+      "sinoVietnamese": "yêu cầu",
+      "mnemonic": "要 (Yêu/Yếu): Nữ cường (女) và Tây che đậy (覀) chóp ngụy. Mệnh lệnh cứng cốt Yếu. 求(Cầu): Lỗ nước Thủy rò mọc Chủy / Hạt. Van xin khẩn thiết mong muốn (Ra Mệnh lệnh Cầu).",
+      "radicals": [
+        {
+          "character": "要",
+          "radical": "覀",
+          "pinyin": "xià",
+          "vi": "che nắp lại á",
+          "sinoVietnamese": "á"
+        },
+        {
+          "character": "求",
+          "radical": "水",
+          "pinyin": "shuǐ",
+          "vi": "hạt nước",
+          "sinoVietnamese": "thủy"
+        }
+      ]
     },
     {
       "word": "注意",
@@ -176,7 +331,25 @@
           "vi": "Và một vài điểm cần chú ý.",
           "en": "And some points that need attention."
         }
-      }
+      },
+      "sinoVietnamese": "chú ý",
+      "mnemonic": "注 (Chú): Nước (氵 - Nước), Chủ nhân (主 - cai quản). Dồn thủy rưới rót vào cai ngự, dồn vào một điểm ngấm nước. 意 (Ý): Nghe tiếng Âm (音) rộn Tâm (心). Tập trung dồn Lòng nghe ngóng cao độ.",
+      "radicals": [
+        {
+          "character": "注",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "bộ nước nhỏ",
+          "sinoVietnamese": "thủy"
+        },
+        {
+          "character": "意",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái lòng trong",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "上网",
@@ -193,7 +366,25 @@
           "vi": "Bây giờ dùng máy tính lên mạng thật tiện lợi!",
           "en": "Using a computer to go online is so convenient now!"
         }
-      }
+      },
+      "sinoVietnamese": "thượng võng",
+      "mnemonic": "上 (Thượng): Lớn lên chỉ hướng cao Trên. 网 (Võng): Lưới Vi lưới cá (冂 / 乂乂). Mạng nhện giăng mắc. Lên internet bắt con mồi kết mạng mạng lưới (Lên Mạng).",
+      "radicals": [
+        {
+          "character": "上",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "một gạch chéo",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "网",
+          "radical": "网",
+          "pinyin": "wǎng",
+          "vi": "bộ lưới",
+          "sinoVietnamese": "võng"
+        }
+      ]
     },
     {
       "word": "除了",
@@ -210,7 +401,25 @@
           "vi": "Ngoài xem tin tức, mọi người còn có thể nghe nhạc trên mạng.",
           "en": "Besides reading news, people can also listen to music online."
         }
-      }
+      },
+      "sinoVietnamese": "trừ liễu",
+      "mnemonic": "除 (Trừ): Vùng Đồi (阝 - ấp, đồi) cây Dư (余) chặt vớt rác xén bỏ rào rìa (Hạt trừ hao mòn bớt đi). 了 (Liễu). Rũ xén làm mất đi lấy vật khác thay (Ngoại trừ, loại bỏ).",
+      "radicals": [
+        {
+          "character": "除",
+          "radical": "阝",
+          "pinyin": "fù",
+          "vi": "bãi đồi / tai",
+          "sinoVietnamese": "phụ"
+        },
+        {
+          "character": "了",
+          "radical": "乙",
+          "pinyin": "yǐ",
+          "vi": "quắn ất chẻ",
+          "sinoVietnamese": "ất"
+        }
+      ]
     },
     {
       "word": "新闻",
@@ -227,7 +436,25 @@
           "vi": "Ngoài xem tin tức, mọi người còn có thể nghe nhạc trên mạng.",
           "en": "Besides reading news, people can also listen to music online."
         }
-      }
+      },
+      "sinoVietnamese": "tân văn",
+      "mnemonic": "新 (Tân): Rìu Cân (斤) hạ chặt cây Mộc (木). Sinh ra đồ thớt dăm Gỗ Mới. 闻 (Văn): Nghe qua Môn cửa (门) lọt Nhĩ Tai nghe (耳 - rình). Trộm hóng nghe những gì Cực Mới Xảy Ra (Tin Mới nóng Tin Tức).",
+      "radicals": [
+        {
+          "character": "新",
+          "radical": "斤",
+          "pinyin": "jīn",
+          "vi": "rìu chặt gỗ",
+          "sinoVietnamese": "cân"
+        },
+        {
+          "character": "闻",
+          "radical": "门",
+          "pinyin": "mén",
+          "vi": "cánh cửa gỗ",
+          "sinoVietnamese": "môn"
+        }
+      ]
     },
     {
       "word": "花",
@@ -244,7 +471,18 @@
           "vi": "Không cần tốn tiền mà vẫn có quần áo mới mặc.",
           "en": "No need to spend money, and he still has new clothes to wear."
         }
-      }
+      },
+      "sinoVietnamese": "hoa",
+      "mnemonic": "Bộ Thảo (艹 - cỏ) và chữ Hóa (化 - biến hóa). Loài cây cỏ biến hóa đâm chồi nở thành bông hoa rực rỡ.",
+      "radicals": [
+        {
+          "character": "花",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "cây cỏ",
+          "sinoVietnamese": "thảo"
+        }
+      ]
     },
     {
       "word": "极",
@@ -261,7 +499,18 @@
           "vi": "Nó hài lòng cực kỳ.",
           "en": "He is extremely satisfied."
         }
-      }
+      },
+      "sinoVietnamese": "cực",
+      "mnemonic": "Cây gỗ Mộc (木) đỡ ngang một Cập chóp (及) nhô lên chống chọi. Vươn kịch đỉnh giới hạn ko với nổi trượt. Đỉnh chóp tột cùng tột bậc Cực độ.",
+      "radicals": [
+        {
+          "character": "极",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "rừng mây gỗ",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "节日",
@@ -278,7 +527,25 @@
           "vi": "Lễ hội bia cũng là một ngày lễ rất quan trọng ở đây.",
           "en": "The Beer Festival is also a very important festival here."
         }
-      }
+      },
+      "sinoVietnamese": "tiết nhật",
+      "mnemonic": "节 (Tiết): Đốt tre cứng (Thảo cỏ 艹) có mầm khớp chia từng đốt. Nhật (日): Ngày nắng (Mặt trời chiếu sáng rực). Ngày mà hoa nở đốt tre nhú mầm chép (Ngày hội mùa Mùa kỉ niệm lễ).",
+      "radicals": [
+        {
+          "character": "节",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "cỏ mọc lan",
+          "sinoVietnamese": "thảo"
+        },
+        {
+          "character": "日",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "trời sáng",
+          "sinoVietnamese": "nhật"
+        }
+      ]
     },
     {
       "word": "举行",
@@ -295,7 +562,25 @@
           "vi": "Nơi này mỗi mùa hè đều tổ chức lễ hội bia một lần.",
           "en": "This place holds a Beer Festival every summer."
         }
-      }
+      },
+      "sinoVietnamese": "cử hành",
+      "mnemonic": "举 (Cử): Dùng tay đôi (廾) nâng nhấc khối vạn (兴) tung hê giương đỡ. Nâng Cử nặng. 行 (Hành): Đường đi xích bộ chập (彳). Tung trống chiêng khiêng kiệu tiến hành đi bước đại lễ.",
+      "radicals": [
+        {
+          "character": "举",
+          "radical": "丶",
+          "pinyin": "zhǔ",
+          "vi": "ngắt chấm phẩy",
+          "sinoVietnamese": "chủ"
+        },
+        {
+          "character": "行",
+          "radical": "彳",
+          "pinyin": "chì",
+          "vi": "bước chạng đi",
+          "sinoVietnamese": "xích"
+        }
+      ]
     },
     {
       "word": "世界",
@@ -312,7 +597,25 @@
           "vi": "Bạn có thể uống được bia từ nhiều nơi khác nhau trên thế giới.",
           "en": "You can drink beer from different places in the world."
         }
-      }
+      },
+      "sinoVietnamese": "thế giới",
+      "mnemonic": "世 (Thế): Mộc chóp vung chữ Nhật rỗng, chia ra Tạm thời 3 chục năm 1 đời. 界 (Giới): Ruộng (田) bị vạch định Bát (八) kẹp Cổn ranh, chia cõi biên rào mốc. Đời và Ranh mốc quy ước Mọi thứ trần gian nhân Loại (Thế Giới Toàn cầu).",
+      "radicals": [
+        {
+          "character": "世",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "đường ranh ngang",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "界",
+          "radical": "田",
+          "pinyin": "tián",
+          "vi": "cuốc mộc ruộng",
+          "sinoVietnamese": "điền"
+        }
+      ]
     },
     {
       "word": "街道",
@@ -329,7 +632,25 @@
           "vi": "Bạn còn có thể nhìn thấy ca múa từ nhiều nơi trên thế giới ở hai bên đường phố.",
           "en": "You can also see songs and dances from different parts of the world on both sides of the street."
         }
-      }
+      },
+      "sinoVietnamese": "nhai đạo",
+      "mnemonic": "街 (Nhai): Đi chơi Xích Hành chập (行) rải đất Kê ngọc đất cát nắn gạch (圭 - Thổ+Thổ). Đường lớn rải đá ốp hai dãy. 道 (Đạo): Đầu 首 hướng Đi Xước 辶 bước ngọc đi ra đường lớn lối mở. Hai dải đường rải nhựa lớn Khu Phố dài.",
+      "radicals": [
+        {
+          "character": "街",
+          "radical": "行",
+          "pinyin": "xíng/háng",
+          "vi": "đường lớn",
+          "sinoVietnamese": "hành"
+        },
+        {
+          "character": "道",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "dạo bộ đi",
+          "sinoVietnamese": "xước"
+        }
+      ]
     },
     {
       "word": "各",
@@ -346,7 +667,18 @@
           "vi": "Bạn có muốn tìm hiểu văn hóa bia của mỗi nơi trên thế giới không?",
           "en": "Do you want to know about the beer culture of various places in the world?"
         }
-      }
+      },
+      "sinoVietnamese": "các",
+      "mnemonic": "Mồm Khẩu (口), trên có chữ Tuy / Chỉ chĩa xuống (夂) tự chỉ vào mặt. Tự mệnh danh Các loại các nhân mỗi người (Nhân từ Mỗi/Các).",
+      "radicals": [
+        {
+          "character": "各",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "bộ mồm",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "文化",
@@ -363,7 +695,25 @@
           "vi": "Bạn có muốn tìm hiểu văn hóa bia của mỗi nơi trên thế giới không?",
           "en": "Do you want to know about the beer culture of various places in the world?"
         }
-      }
+      },
+      "sinoVietnamese": "văn hóa",
+      "mnemonic": "文 (Văn): Ngòi bút vạch Đấu nón chấm, Chữ xào viết, văn chương sách vở lễ nghĩa lề. 化 (Hóa): Nhân Biến rốn Lật thay. Dùng Đạo làm người chuyển thay cải biến (Đào tạo phong tục Văn Hóa nếp quen).",
+      "radicals": [
+        {
+          "character": "文",
+          "radical": "文",
+          "pinyin": "wén",
+          "vi": "nét bút văn thư",
+          "sinoVietnamese": "văn"
+        },
+        {
+          "character": "化",
+          "radical": "匕",
+          "pinyin": "bǐ",
+          "vi": "cái thìa thìa",
+          "sinoVietnamese": "tủy"
+        }
+      ]
     }
   ],
   "grammars": [

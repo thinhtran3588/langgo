@@ -23,7 +23,25 @@
           "vi": "Marco cao hơn tôi, tôi thấp hơn Marco một chút.",
           "en": "Marco is taller than me, I am a little shorter than Marco."
         }
-      }
+      },
+      "sinoVietnamese": "cá tử",
+      "mnemonic": "个 (Cá): Cái cây nhô phần Nhân/cọc để chống gậy gỗ giữa đất. Chỉ số lượng người. Tử (con nhỏ). Chỉ cái thân hình dáng điệu chung của người.",
+      "radicals": [
+        {
+          "character": "个",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "người",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "tử nhi",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "矮",
@@ -40,7 +58,18 @@
           "vi": "Marco cao hơn tôi, tôi thấp hơn Marco một chút.",
           "en": "Marco is taller than me, I am a little shorter than Marco."
         }
-      }
+      },
+      "sinoVietnamese": "ải",
+      "mnemonic": "Bộ Thỉ (矢 - cái tên mũi kiếm mũi tên), Nữ (女). Hình ảnh cô gái bắn cung uốn người thấp xuống (Lùn, Ải lùn xịt).",
+      "radicals": [
+        {
+          "character": "矮",
+          "radical": "矢",
+          "pinyin": "shǐ",
+          "vi": "cái tên",
+          "sinoVietnamese": "thỉ"
+        }
+      ]
     },
     {
       "word": "历史",
@@ -57,7 +86,25 @@
           "vi": "Tớ thích môn Lịch sử, môn Thể dục, không thích môn Toán.",
           "en": "I like history class and PE class, I don't like math class."
         }
-      }
+      },
+      "sinoVietnamese": "lịch sử",
+      "mnemonic": "历 (Lịch): Xưởng (厂), rèn đúc sức mạnh (力) qua thời gian ngày. 史 (Sử): Khẩu (口), lời miệng kể lưu truyền lại bằng nét mác (丿). Quá khứ lịch sử.",
+      "radicals": [
+        {
+          "character": "历",
+          "radical": "厂",
+          "pinyin": "hàn",
+          "vi": "sườn núi",
+          "sinoVietnamese": "hán"
+        },
+        {
+          "character": "史",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "mồm",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "体育",
@@ -74,7 +121,25 @@
           "vi": "Tớ thích môn Lịch sử, môn Thể dục, không thích môn Toán.",
           "en": "I like history class and PE class, I don't like math class."
         }
-      }
+      },
+      "sinoVietnamese": "thể dục",
+      "mnemonic": "体 (Thể): Nhân (亻), Bản (本 - gốc rễ), Con người lấy bản thể thân xác là bộ gốc cốt lõi. 育 (Dục): Dưỡng lớn trẻ Tử lên bằng nhục nhã (月 - Thịt). Môn thể dục phát triển cơ thể.",
+      "radicals": [
+        {
+          "character": "体",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "育",
+          "radical": "月",
+          "pinyin": "ròu",
+          "vi": "thịt",
+          "sinoVietnamese": "nhục"
+        }
+      ]
     },
     {
       "word": "数学",
@@ -91,7 +156,25 @@
           "vi": "Tớ cảm thấy môn Toán khó hơn môn Lịch sử nhiều.",
           "en": "I think math is much harder than history."
         }
-      }
+      },
+      "sinoVietnamese": "số học",
+      "mnemonic": "数 (Số): Người đàn bà trên cánh đồng Lâu (娄) bị phốc đòn (攵), đếm số lượng lúa mễ. 学 (Học): Tử (子) đội nấm (冖) đi chép bài thu nhận kiến thức. Toán học.",
+      "radicals": [
+        {
+          "character": "数",
+          "radical": "攵",
+          "pinyin": "pū",
+          "vi": "đánh khẽ",
+          "sinoVietnamese": "phốc"
+        },
+        {
+          "character": "学",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "con cái",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "方便",
@@ -108,7 +191,25 @@
           "vi": "Vậy thuận tiện quá.",
           "en": "That's very convenient."
         }
-      }
+      },
+      "sinoVietnamese": "phương tiện",
+      "mnemonic": "方 (Phương): Cấu tạo phương hướng của Trời vuông đất tròn. 便 (Tiện): Nhân đứng (亻), Canh (更) cánh đổi. Đi lại bằng xe cộ do công người là được sự tiện lợi (Thuận tiện).",
+      "radicals": [
+        {
+          "character": "方",
+          "radical": "方",
+          "pinyin": "fāng",
+          "vi": "vuông",
+          "sinoVietnamese": "phương"
+        },
+        {
+          "character": "便",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "自行车",
@@ -125,7 +226,32 @@
           "vi": "Tớ còn định mua một chiếc xe đạp.",
           "en": "I also plan to buy a bicycle."
         }
-      }
+      },
+      "sinoVietnamese": "tự hành xa",
+      "mnemonic": "自 (Tự): Chính bản thân (từ cái Mũi). 行 (Hành): Đường đi (彳). 车 (Xa): Cái xe có 2 bánh trục. Xe do chính bản thân thao tác để đi (Xe đạp).",
+      "radicals": [
+        {
+          "character": "自",
+          "radical": "自",
+          "pinyin": "zì",
+          "vi": "tự bản thân",
+          "sinoVietnamese": "tự"
+        },
+        {
+          "character": "行",
+          "radical": "彳",
+          "pinyin": "chì",
+          "vi": "bước ngắn",
+          "sinoVietnamese": "xích"
+        },
+        {
+          "character": "车",
+          "radical": "车",
+          "pinyin": "chē",
+          "vi": "cái xe",
+          "sinoVietnamese": "xa"
+        }
+      ]
     },
     {
       "word": "骑",
@@ -142,7 +268,18 @@
           "vi": "Đạp xe 7-8 phút là đến nơi.",
           "en": "Riding a bike takes only seven or eight minutes."
         }
-      }
+      },
+      "sinoVietnamese": "kỵ",
+      "mnemonic": "Khuyển Mã (马 - Con ngựa). Kỳ (奇 - Lạ lùng, quái kiệt, Đại 大 + Khả 可). Dùng mã lực cưỡi trên yên vượt bao dặm kì tích (Cưỡi lên).",
+      "radicals": [
+        {
+          "character": "骑",
+          "radical": "马",
+          "pinyin": "mǎ",
+          "vi": "ngựa",
+          "sinoVietnamese": "mã"
+        }
+      ]
     },
     {
       "word": "旧",
@@ -159,7 +296,18 @@
           "vi": "Chiếc đó cũ quá rồi, muốn đổi một chiếc khác.",
           "en": "That one is too old, I want to replace it."
         }
-      }
+      },
+      "sinoVietnamese": "cựu",
+      "mnemonic": "Cấu tạo gồm nét Cổn sổ mộc, ngang Nhật (日 - ánh ngày). Đã qua một ngày dài mồn một (Lâu ngày sinh Cũ kĩ, Cựu nát).",
+      "radicals": [
+        {
+          "character": "旧",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trăng/nắng",
+          "sinoVietnamese": "nhật"
+        }
+      ]
     },
     {
       "word": "换",
@@ -176,7 +324,18 @@
           "vi": "Chiếc đó cũ quá rồi, muốn đổi một chiếc khác.",
           "en": "That one is too old, I want to replace it."
         }
-      }
+      },
+      "sinoVietnamese": "hoán",
+      "mnemonic": "Thủ (扌 - Tay), Hoán (奂). Bàn tay móc lấy để thay đồ vật này bằng món khác lớn hơn (Hoán đổi, đổi thay).",
+      "radicals": [
+        {
+          "character": "换",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "地方",
@@ -193,7 +352,25 @@
           "vi": "Nhà ở hai nơi này có giống nhau không?",
           "en": "Are the houses in these two places the same?"
         }
-      }
+      },
+      "sinoVietnamese": "địa phương",
+      "mnemonic": "地 (Địa): Bộ Thổ (土 - đất đai), Dã (也 - cái sọt). Nơi chốn trồng trọt. 方(Phương): Phương hướng. Khu vực địa bàn (Một vùng địa phương).",
+      "radicals": [
+        {
+          "character": "地",
+          "radical": "土",
+          "pinyin": "tǔ",
+          "vi": "xứ đất",
+          "sinoVietnamese": "thổ"
+        },
+        {
+          "character": "方",
+          "radical": "方",
+          "pinyin": "fāng",
+          "vi": "hướng đất",
+          "sinoVietnamese": "phương"
+        }
+      ]
     },
     {
       "word": "中介",
@@ -210,7 +387,25 @@
           "vi": "Nhà ở hai nơi này có giống nhau không? (Môi giới)",
           "en": "Are the houses in these two places the same? (Agent)"
         }
-      }
+      },
+      "sinoVietnamese": "trung giới",
+      "mnemonic": "中 (Trung): Ở giữa rốn. 介 (Giới): Ở giữa có Nhân (人), đứng ở giữa hai bên rào bát (八). Cấu tạo nên cá nhân làm môi giới, người ở giữa 2 ranh giới (Môi giới).",
+      "radicals": [
+        {
+          "character": "中",
+          "radical": "丨",
+          "pinyin": "gǔn",
+          "vi": "nét trụ giữa",
+          "sinoVietnamese": "cổn"
+        },
+        {
+          "character": "介",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "nhân sự",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "主要",
@@ -227,7 +422,25 @@
           "vi": "Lớn nhỏ không quan trọng, chủ yếu là môi trường.",
           "en": "Size doesn't matter, the main thing is the environment."
         }
-      }
+      },
+      "sinoVietnamese": "chủ yếu",
+      "mnemonic": "主 (Chủ): Chấm chủ (丶) cai ngự trên ngọn Vương (王), bậc cai quản lớn nhất. 要 (Yếu): Cốt yếu (Á - 覀 , Nữ - 女). Yếu nhân chủ đạo.",
+      "radicals": [
+        {
+          "character": "主",
+          "radical": "丶",
+          "pinyin": "zhǔ",
+          "vi": "dấu chấm",
+          "sinoVietnamese": "chủ"
+        },
+        {
+          "character": "要",
+          "radical": "覀",
+          "pinyin": "xià",
+          "vi": "che nắp",
+          "sinoVietnamese": "á"
+        }
+      ]
     },
     {
       "word": "环境",
@@ -244,7 +457,25 @@
           "vi": "Lớn nhỏ không quan trọng, chủ yếu là môi trường.",
           "en": "Size doesn't matter, the main thing is the environment."
         }
-      }
+      },
+      "sinoVietnamese": "hoàn cảnh",
+      "mnemonic": "环 (Hoàn): Vương Ngọc (王) và Bất (不). Vòng ngọc tròn không đứt vỡ. 境 (Cảnh): Thổ khu đất (土), Kính (竟), mảnh đất tạo lên không gian quanh ta.",
+      "radicals": [
+        {
+          "character": "环",
+          "radical": "王",
+          "pinyin": "wáng",
+          "vi": "vua/ngọc",
+          "sinoVietnamese": "vương"
+        },
+        {
+          "character": "境",
+          "radical": "土",
+          "pinyin": "tǔ",
+          "vi": "đất",
+          "sinoVietnamese": "thổ"
+        }
+      ]
     },
     {
       "word": "附近",
@@ -261,7 +492,25 @@
           "vi": "Gần đó có ba bốn bến xe.",
           "en": "There are three or four bus stops nearby."
         }
-      }
+      },
+      "sinoVietnamese": "phụ cận",
+      "mnemonic": "附 (Phụ): Lấp lánh Ấp/Phụ (阝), Thốn Cân Phó (付) phụ giúp lẫn nhau. 近 (Cận): Bước chân Xước (辶) chặt gỗ (斤) rất Gần chỗ. Vùng gần đây.",
+      "radicals": [
+        {
+          "character": "附",
+          "radical": "阝",
+          "pinyin": "fù",
+          "vi": "phụ",
+          "sinoVietnamese": "phụ/ấp"
+        },
+        {
+          "character": "近",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "bước chầm chậm",
+          "sinoVietnamese": "xước"
+        }
+      ]
     }
   ],
   "grammars": [

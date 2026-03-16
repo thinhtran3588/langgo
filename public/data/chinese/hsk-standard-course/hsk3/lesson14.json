@@ -23,7 +23,25 @@
           "vi": "Đừng lo, anh bảo bọn trẻ dọn dẹp rồi.",
           "en": "Don't worry, I asked the children to clean up."
         }
-      }
+      },
+      "sinoVietnamese": "đả tảo",
+      "mnemonic": "打 (Đả): Dùng Bàn tay Hựu (扌). Thu gom. 扫 (Tảo): Bàn tay Thủ (扌) cầm chổi Tuy (彐) quét rác thành đống núi / chổi rơm. (Quét dọn vệ sinh).",
+      "radicals": [
+        {
+          "character": "打",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        },
+        {
+          "character": "扫",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "干净",
@@ -40,7 +58,25 @@
           "vi": "Bọn trẻ sẽ dọn dẹp phòng sạch sẽ.",
           "en": "They will clean the room."
         }
-      }
+      },
+      "sinoVietnamese": "can tịnh",
+      "mnemonic": "干 (Can): Chữ can thiệp. Sạch không dính nước. 净 (Tịnh): Băng (冫 - giá lạnh nước đá), Tranh (争). Những hạt sương giá tự kết tủa cho vẻ thuần sạch tĩnh, Sạch sẽ tịnh hóa.",
+      "radicals": [
+        {
+          "character": "干",
+          "radical": "干",
+          "pinyin": "gān",
+          "vi": "nước cạn/can thiệp",
+          "sinoVietnamese": "can"
+        },
+        {
+          "character": "净",
+          "radical": "冫",
+          "pinyin": "bīng",
+          "vi": "đá lạnh",
+          "sinoVietnamese": "băng"
+        }
+      ]
     },
     {
       "word": "然后",
@@ -57,7 +93,25 @@
           "vi": "Trước tiên để trà và cốc chén ngay ngắn, sau đó lấy dưa hấu trong tủ lạnh ra.",
           "en": "First put the tea and cups in place, then take the watermelon out of the refrigerator."
         }
-      }
+      },
+      "sinoVietnamese": "nhiên hậu",
+      "mnemonic": "然 (Nhiên): Thịt lợn chó nướng dưới lửa (灬), sáng rõ tự thế hiển nhiên. 后 (Hậu): Mũi miệng đằng sau vách đá (厂). Sau đó rõ ràng diễn tiến cái sau (Sau đó).",
+      "radicals": [
+        {
+          "character": "然",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "lửa cháy",
+          "sinoVietnamese": "hỏa"
+        },
+        {
+          "character": "后",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái miệng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "冰箱",
@@ -74,7 +128,25 @@
           "vi": "Sau đó lấy dưa hấu trong tủ lạnh ra.",
           "en": "Then take the watermelon out of the refrigerator."
         }
-      }
+      },
+      "sinoVietnamese": "băng sương",
+      "mnemonic": "冰 (Băng): Gồm Thủy (水) làm Lạnh đóng giá thành Băng (冫). 箱 (Sương/Tương): Tương tủ Trúc (⺮) hòm để bảo quản đồ Tương (相). Máy cái hòm bảo ôn đông lạnh (Tủ lạnh).",
+      "radicals": [
+        {
+          "character": "冰",
+          "radical": "冫",
+          "pinyin": "bīng",
+          "vi": "hạt đá lạnh",
+          "sinoVietnamese": "băng"
+        },
+        {
+          "character": "箱",
+          "radical": "⺮",
+          "pinyin": "zhú",
+          "vi": "tre nứa trúc",
+          "sinoVietnamese": "trúc"
+        }
+      ]
     },
     {
       "word": "洗澡",
@@ -91,7 +163,25 @@
           "vi": "Xin lỗi, tôi vừa tắm xong, không nghe thấy.",
           "en": "Sorry, I just took a shower, I didn't hear it."
         }
-      }
+      },
+      "sinoVietnamese": "tẩy táo",
+      "mnemonic": "洗 (Tẩy): Nước (氵). 澡 (Táo): Nước (氵 - thủy) dội rửa hàng núi (口 - phẩm) Đồ mộc lên cây chim (木). Chim chóc vẫy vùng nước tắm táp. Nghĩa tắm rửa.",
+      "radicals": [
+        {
+          "character": "洗",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước",
+          "sinoVietnamese": "thủy"
+        },
+        {
+          "character": "澡",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước",
+          "sinoVietnamese": "thủy"
+        }
+      ]
     },
     {
       "word": "节目",
@@ -108,7 +198,25 @@
           "vi": "Không sao, cậu xem hết chương trình tivi trước đi.",
           "en": "It's okay, finish watching your TV program first."
         }
-      }
+      },
+      "sinoVietnamese": "tiết mục",
+      "mnemonic": "节 (Tiết): Đốt xương cây cỏ Thảo (艹), bộ Tiết Lệnh (卩). Đốt chia theo đoạn. 目 (Mục): Mắt Mục. Đoạn chia để thưởng lãm (Tiết mục chương trình).",
+      "radicals": [
+        {
+          "character": "节",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "rơm cỏ",
+          "sinoVietnamese": "thảo"
+        },
+        {
+          "character": "目",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "mắt",
+          "sinoVietnamese": "mục"
+        }
+      ]
     },
     {
       "word": "月亮",
@@ -125,7 +233,25 @@
           "vi": "Mặt trăng đêm nay thật đẹp.",
           "en": "The moon tonight is really beautiful."
         }
-      }
+      },
+      "sinoVietnamese": "nguyệt lượng",
+      "mnemonic": "月 (Nguyệt). Trăng khuyết tỏa trên cao. 亮 (Lượng): Mái ngói Kinh (亠 , 口), che Tủy (儿). Ngôi đền sáng bóng ánh sáng lan tỏa lấp loáng (Sáng sủa). Trăng sáng.",
+      "radicals": [
+        {
+          "character": "月",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "mặt trăng (nhục)",
+          "sinoVietnamese": "nguyệt"
+        },
+        {
+          "character": "亮",
+          "radical": "亠",
+          "pinyin": "tóu",
+          "vi": "chấm đầu nắp",
+          "sinoVietnamese": "đầu"
+        }
+      ]
     },
     {
       "word": "像",
@@ -142,7 +268,18 @@
           "vi": "Giống như cái đĩa màu trắng vậy.",
           "en": "Just like a white plate."
         }
-      }
+      },
+      "sinoVietnamese": "tượng",
+      "mnemonic": "Nhân đứng (亻), hình Tượng (象) con Voi khổng lồ. Con người khắc hình tạc vẽ lại hình thù con voi chân thực giống in nguyên (Bức tượng / Trông giống).",
+      "radicals": [
+        {
+          "character": "像",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "người nhỏ",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "盘子",
@@ -159,7 +296,25 @@
           "vi": "Giống như cái đĩa màu trắng vậy.",
           "en": "Just like a white plate."
         }
-      }
+      },
+      "sinoVietnamese": "bàn tử",
+      "mnemonic": "盘 (Bàn): Bánh lái thuyền Chu (舟), Mâm ngọc cái Mãnh (皿 - đĩa). Khay đựng và mâm tròn bát tròn (Mâm, đĩa).",
+      "radicals": [
+        {
+          "character": "盘",
+          "radical": "皿",
+          "pinyin": "mǐn",
+          "vi": "bát đựng/mâm",
+          "sinoVietnamese": "mãnh"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "thóc nít/con",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "刮风",
@@ -176,7 +331,25 @@
           "vi": "Bên ngoài cũng không có gió.",
           "en": "It's not windy outside either."
         }
-      }
+      },
+      "sinoVietnamese": "quát phong",
+      "mnemonic": "刮 (Quát): Dùng cái Lưỡi ngậm (舌) liếm cái Đao (刂). Sự lướt gọt mạnh sướt qua nhanh kinh ngạc rợn người. 风 (Phong): Gió bão thổi vào trùng (虫). Thổi gió Quát phong.",
+      "radicals": [
+        {
+          "character": "刮",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "con đao",
+          "sinoVietnamese": "đao"
+        },
+        {
+          "character": "风",
+          "radical": "风",
+          "pinyin": "fēng",
+          "vi": "gió lớn",
+          "sinoVietnamese": "phong"
+        }
+      ]
     },
     {
       "word": "叔叔",
@@ -193,7 +366,18 @@
           "vi": "Chúng ta nghe cô chú kể chuyện lúc họ còn trẻ.",
           "en": "Let's listen to uncle and aunt tell stories from their youth."
         }
-      }
+      },
+      "sinoVietnamese": "thúc thúc",
+      "mnemonic": "叔 (Thúc): Thượng Thúc nhặt Đậu trên mặt đất (上, 小) rồi trao tay Hựu (又) mót nhặt nhẹ nhàng. Chỉ thân danh huynh đệ cha đẻ (Chú ở nhà).",
+      "radicals": [
+        {
+          "character": "叔",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "lặp lại",
+          "sinoVietnamese": "hựu"
+        }
+      ]
     },
     {
       "word": "阿姨",
@@ -210,7 +394,25 @@
           "vi": "Chúng ta nghe cô chú kể chuyện lúc họ còn trẻ.",
           "en": "Let's listen to uncle and aunt tell stories from their youth."
         }
-      }
+      },
+      "sinoVietnamese": "a di",
+      "mnemonic": "阿 (A): 阝 (phụ/vách), Khả (可). Sự Adua kêu đệm gật gù Khả ố. 姨 (Di): Nữ (女) và Di (夷). Phụ thân là bạn mẹ. Gọi chung là Cô / Dì người có tuổi a di.",
+      "radicals": [
+        {
+          "character": "阿",
+          "radical": "阝",
+          "pinyin": "fù",
+          "vi": "vùng ấp",
+          "sinoVietnamese": "phụ"
+        },
+        {
+          "character": "姨",
+          "radical": "女",
+          "pinyin": "nǚ",
+          "vi": "đàn bà nữ",
+          "sinoVietnamese": "nữ"
+        }
+      ]
     },
     {
       "word": "故事",
@@ -227,7 +429,25 @@
           "vi": "Chúng ta nghe cô chú kể chuyện lúc họ còn trẻ.",
           "en": "Let's listen to uncle and aunt tell stories from their youth."
         }
-      }
+      },
+      "sinoVietnamese": "cố sự",
+      "mnemonic": "故 (Cố): Chữ Cổ (古 - Cũ kĩ), Phốc đánh (攵). Cầm roi dạy lại các câu kể sự lâu đời cổ (Xưa cũ). 事 (Sự): Cầm cán viết sự đời. Sự tình đã qua (Sợi chuyện Cổ tích/cố sự).",
+      "radicals": [
+        {
+          "character": "故",
+          "radical": "攵",
+          "pinyin": "pū",
+          "vi": "phốc đánh",
+          "sinoVietnamese": "phốc"
+        },
+        {
+          "character": "事",
+          "radical": "亅",
+          "pinyin": "jué",
+          "vi": "móc câu",
+          "sinoVietnamese": "quyết"
+        }
+      ]
     },
     {
       "word": "声音",
@@ -244,7 +464,25 @@
           "vi": "Cậu nghe tiếng bên ngoài xem, chắc chắn là Đại Sơn.",
           "en": "Listen to the voice outside, it must be Dashan."
         }
-      }
+      },
+      "sinoVietnamese": "thanh âm",
+      "mnemonic": "声 (Thanh): Sĩ tử Sĩ (士) giương cột cờ lên vung tay móc, phát ra một thể loại phát âm truyền bá (Thanh giọng). 音(Âm): Đứng (立) nói Nhật (日) âm thanh.",
+      "radicals": [
+        {
+          "character": "声",
+          "radical": "士",
+          "pinyin": "shì",
+          "vi": "võ sĩ quan",
+          "sinoVietnamese": "sĩ"
+        },
+        {
+          "character": "音",
+          "radical": "音",
+          "pinyin": "yīn",
+          "vi": "âm thanh nhạc",
+          "sinoVietnamese": "âm"
+        }
+      ]
     },
     {
       "word": "菜单",
@@ -261,7 +499,25 @@
           "vi": "Bạn đã bao giờ thấy cơm trái cây trên thực đơn nhà hàng chưa?",
           "en": "Have you ever seen fruit rice on a restaurant menu?"
         }
-      }
+      },
+      "sinoVietnamese": "thái đan",
+      "mnemonic": "菜 (Thái): Rơm Thảo (艹 - cỏ mọc), móng vuốt Trảo (爫), cây (木). Hái lá cây rau ăn làm rơm rả đồ xào(Rau cỏ thảo dược). 单 (Đơn/Đan): Mắt lưới thập tự đan nhau. Thực đơn / Bảng chọn món đan chéo.",
+      "radicals": [
+        {
+          "character": "菜",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "cây cỏ",
+          "sinoVietnamese": "thảo"
+        },
+        {
+          "character": "单",
+          "radical": "十",
+          "pinyin": "shí",
+          "vi": "số chục",
+          "sinoVietnamese": "thập"
+        }
+      ]
     },
     {
       "word": "简单",
@@ -278,7 +534,25 @@
           "vi": "Thật ra làm cơm trái cây rất đơn giản.",
           "en": "Actually, making fruit rice is very simple."
         }
-      }
+      },
+      "sinoVietnamese": "giản đơn",
+      "mnemonic": "简 (Giản): Tre trúc (⺮) cất giữ đồ gỗ (间). Quết mảnh tre tạo tờ mỏng nhẹ dễ mang thư tín Giản hóa. 单(Đơn/Đan): Tấm thẻ ghi sổ đan phất tay. Dễ dàng mỏng đơn sơ.",
+      "radicals": [
+        {
+          "character": "简",
+          "radical": "⺮",
+          "pinyin": "zhú",
+          "vi": "trúc tre",
+          "sinoVietnamese": "trúc"
+        },
+        {
+          "character": "单",
+          "radical": "十",
+          "pinyin": "shí",
+          "vi": "chữ thập",
+          "sinoVietnamese": "thập"
+        }
+      ]
     },
     {
       "word": "香蕉",
@@ -295,7 +569,25 @@
           "vi": "Bạn có thể làm cơm táo, cơm chuối.",
           "en": "You can make apple rice, banana rice."
         }
-      }
+      },
+      "sinoVietnamese": "hương tiêu",
+      "mnemonic": "香 (Hương): Lúa (禾) ngậm Nhật (日). Gạo phơi sấy thơm mùi hương lúa bùi bùi. 蕉 (Tiêu): Cỏ Thảo (艹), con chim sém lửa (焦 - Tiêu hỏa). Loài cây chuối lá cháy vàng giống chim nướng ngửi thơm hương là Chuối Tiêu.",
+      "radicals": [
+        {
+          "character": "香",
+          "radical": "香",
+          "pinyin": "xiāng",
+          "vi": "mùi thơm ngát",
+          "sinoVietnamese": "hương"
+        },
+        {
+          "character": "蕉",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "chồi xanh cỏ",
+          "sinoVietnamese": "thảo"
+        }
+      ]
     }
   ],
   "grammars": [

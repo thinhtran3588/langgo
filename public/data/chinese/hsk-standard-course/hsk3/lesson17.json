@@ -23,7 +23,25 @@
           "vi": "Giám đốc Chu, tuần sau tôi có thể xin nghỉ vài ngày không?",
           "en": "Manager Zhou, can I ask for a few days off next week?"
         }
-      }
+      },
+      "sinoVietnamese": "thỉnh giả",
+      "mnemonic": "请 (Thỉnh): Nói Ngôn nhã nhặn mời gọi Cơm Thanh Thanh tươi tắn (青). 假 (Giả): Nhân Mượn trốn Người mượn đồ giả vờ Phục nhái để bỏ trốn việc thật làm Tạm sự lấy lệ Trốn Khỏi Cục mác (Kêu Xin Cáo Ốm Nghỉ Nửa / Phép Tạm).",
+      "radicals": [
+        {
+          "character": "请",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "tiếng lời",
+          "sinoVietnamese": "ngôn"
+        },
+        {
+          "character": "假",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "kẻ người đứng",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "一共",
@@ -40,7 +58,25 @@
           "vi": "Cô muốn xin nghỉ tổng cộng mấy ngày?",
           "en": "How many days do you want to take off in total?"
         }
-      }
+      },
+      "sinoVietnamese": "nhất cộng",
+      "mnemonic": "一 (Nhất). 共 (Cộng): Cùng chung Hai Bát tay nâng Mười phần cỏ (八 / 卄 - thảo / củng) xốc vào nhau ôm gộp dồn lên Lưỡng chục. Bằng Cùng Cộng Thêm = (Gộp Lại Toàn Bộ Tổng Thành = 一共 Nhất Cộng).",
+      "radicals": [
+        {
+          "character": "一",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "chốt nhát chỉ",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "共",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "hai bàn bát chụm",
+          "sinoVietnamese": "bát"
+        }
+      ]
     },
     {
       "word": "邻居",
@@ -57,7 +93,25 @@
           "vi": "Chúng tôi trước đây là hàng xóm, sau đó là bạn đại học.",
           "en": "We used to be neighbors, and later were college classmates."
         }
-      }
+      },
+      "sinoVietnamese": "lân cư",
+      "mnemonic": "邻 (Lân): Mệnh chi Lệnh Ấp rào rập chia đất (阝). Đất giáp ranh vùng Hàng xóm Lân. 居 (Cư): Thi Tháo Xác đắp Mái làm Vách ở Cổ nằm cưỡi gối dài ngâm trú ngụ lâu (Định cư ở). Hàng Nước Kề Nhà Sân cạnh.",
+      "radicals": [
+        {
+          "character": "邻",
+          "radical": "阝",
+          "pinyin": "fù",
+          "vi": "kề vách đá đồi",
+          "sinoVietnamese": "phụ"
+        },
+        {
+          "character": "居",
+          "radical": "尸",
+          "pinyin": "shī",
+          "vi": "vãnh mái thi",
+          "sinoVietnamese": "thi"
+        }
+      ]
     },
     {
       "word": "后来",
@@ -74,7 +128,25 @@
           "vi": "Chúng tôi trước đây là hàng xóm, sau đó là bạn đại học.",
           "en": "We used to be neighbors, and later were college classmates."
         }
-      }
+      },
+      "sinoVietnamese": "hậu lai",
+      "mnemonic": "后 (Hậu): Nấp nấp trong Hang Mép rào Hõm Khẩu miệng tụt tịt lẩn Rụt lùi lại sau Rìa xó Cực Đoan Rút Lùi. 来 (Lai): Bộ Mộc cây ráng lớn lộc chồi sinh Nẩy 2 Bát lộc đâm chồi về tiếp. -> Đi Về Đằng Hậu Trôi Vượt Tương Lai Sau Này Hiện Lai Cõi.",
+      "radicals": [
+        {
+          "character": "后",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "miệng hang hốc khẩu",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "来",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "Bệ rễ gỗ",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "爱好",
@@ -91,7 +163,25 @@
           "vi": "Anh ấy có rất nhiều sở thích, hát, vẽ, đá bóng, cái gì cũng biết.",
           "en": "He has many hobbies: singing, painting, playing soccer; he can do everything."
         }
-      }
+      },
+      "sinoVietnamese": "ái hiếu/hảo",
+      "mnemonic": "爱 (Ái): Tim Trảo Tâm Vuốt yêu. 好 (Hiếu/Hảo): Nữ Phụ Tử con cái vui tốt. Hai chữ thể hiện sự Yêu thích nghiêng về (Sở thích).",
+      "radicals": [
+        {
+          "character": "爱",
+          "radical": "爫",
+          "pinyin": "zhǎo",
+          "vi": "che móng vuốt",
+          "sinoVietnamese": "trảo"
+        },
+        {
+          "character": "好",
+          "radical": "女",
+          "pinyin": "nǚ",
+          "vi": "đàn bà phụ",
+          "sinoVietnamese": "nữ"
+        }
+      ]
     },
     {
       "word": "办法",
@@ -108,7 +198,25 @@
           "vi": "Không cần đi bệnh viện, ai cũng có cách chữa khỏi \"bệnh\" của em.",
           "en": "No need to go to the hospital, everyone has a way to cure your \"illness\"."
         }
-      }
+      },
+      "sinoVietnamese": "biện pháp",
+      "mnemonic": "办 (Biện): Dùng Lực sức hai Bát Giải quyết. 法 (Pháp): Dùng Nước dẹp bỏ đi (Thủy Khứ 去 氵). Phương pháp lề luật dập luật Giải quyết Lực.",
+      "radicals": [
+        {
+          "character": "办",
+          "radical": "力",
+          "pinyin": "lì",
+          "vi": "công lực sức",
+          "sinoVietnamese": "lực"
+        },
+        {
+          "character": "法",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "khối nước",
+          "sinoVietnamese": "thủy"
+        }
+      ]
     },
     {
       "word": "饱",
@@ -125,7 +233,18 @@
           "vi": "Nhưng em ăn no xong là ngủ.",
           "en": "But you sleep right after you get full."
         }
-      }
+      },
+      "sinoVietnamese": "bão",
+      "mnemonic": "Thực (饣 - Thức ăn), Bao (包 - Bao bọc/cái bao). Ăn thực đồ thực no bọc bụng tròn một cục rỗng tuếch căng đầy (No nê Bão bụng).",
+      "radicals": [
+        {
+          "character": "饱",
+          "radical": "饣",
+          "pinyin": "shí",
+          "vi": "thức vật",
+          "sinoVietnamese": "thực"
+        }
+      ]
     },
     {
       "word": "为了",
@@ -142,7 +261,18 @@
           "vi": "Vì sức khỏe, tôi thật sự nên tập thể dục nhiều hơn.",
           "en": "For the sake of health, I really should exercise more."
         }
-      }
+      },
+      "sinoVietnamese": "vi liễu",
+      "mnemonic": "为 (Vì/Vi): Nét chấm phẩy hành tạo sự vật Chủ. 了 (Liễu): Ất chẻ Nhất quắn nét (Xong xuôi). Tác ý nhằm để vì cái đích sự việc vì lợi (Vì, vì để).",
+      "radicals": [
+        {
+          "character": "为",
+          "radical": "丶",
+          "pinyin": "zhǔ",
+          "vi": "nét chấm",
+          "sinoVietnamese": "chủ"
+        }
+      ]
     },
     {
       "word": "决定",
@@ -159,7 +289,25 @@
           "vi": "Từ ngày mai, tôi quyết định mỗi ngày sẽ đi chạy đường dài.",
           "en": "Starting tomorrow, I decide to go for a long run every day."
         }
-      }
+      },
+      "sinoVietnamese": "quyết định",
+      "mnemonic": "决 (Quyết): Băng (冫 - giá), Quải (夬 - Bẻ gẫy thủng). Bẻ vỡ khối băng quyết liệt. 定 (Định): Mái nhà Miên Chân Bước mốc. Quyết định rõ xuôi (Quyết chí).",
+      "radicals": [
+        {
+          "character": "决",
+          "radical": "冫",
+          "pinyin": "bīng",
+          "vi": "nước đá",
+          "sinoVietnamese": "băng"
+        },
+        {
+          "character": "定",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "ngôi lều mái",
+          "sinoVietnamese": "miên"
+        }
+      ]
     },
     {
       "word": "选择",
@@ -176,7 +324,25 @@
           "vi": "Thứ nhất, cần chọn thời gian \"đúng\".",
           "en": "First, you need to choose the \"right\" time."
         }
-      }
+      },
+      "sinoVietnamese": "tuyển trạch",
+      "mnemonic": "选 (Tuyển): Đi Xước (辶) Tốn (巽 Cung/Trước Tẩu đi qua). Lựa bước nhặt lấy. 择 (Trạch): Tay bốc Thủ (扌) trạch vật ngự rước. (Lựa nhặt chọn).",
+      "radicals": [
+        {
+          "character": "选",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "chân đi nhấc",
+          "sinoVietnamese": "xước"
+        },
+        {
+          "character": "择",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "tay vịn thủ",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "冬(天)",
@@ -193,7 +359,18 @@
           "vi": "Nói chung, 9 giờ sáng là thời gian tốt nhất, mùa đông cần muộn hơn một chút.",
           "en": "Generally speaking, 9 am is the best time, and it should be a bit later in winter."
         }
-      }
+      },
+      "sinoVietnamese": "đông",
+      "mnemonic": "Chữ Tuy Trĩ (夂 - Bước chậm) Băng đá (冫). Bước đi chậm rãi vì dưới chân có đóng lớp băng tuyết của trời buốt (Mùa đông).",
+      "radicals": [
+        {
+          "character": "冬",
+          "radical": "夂",
+          "pinyin": "zhǐ/zhī",
+          "vi": "theo sau chậm",
+          "sinoVietnamese": "trĩ"
+        }
+      ]
     },
     {
       "word": "必须",
@@ -210,7 +387,25 @@
           "vi": "Thứ ba, cần phải vận động dựa theo tình trạng sức khỏe của bản thân.",
           "en": "Third, you must exercise according to your own health condition."
         }
-      }
+      },
+      "sinoVietnamese": "tất tu",
+      "mnemonic": "必 (Tất): Tâm rạch dọc chia (心). Trái tim chẻ đứt đôi phải làm bằng được (Tất yếu ắt hẳn). 须 (Tu): Hiệt trang đầu/râu ria (页). Cái cần nhổ mọc lông râu (Cần thiết, phải).",
+      "radicals": [
+        {
+          "character": "必",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "nội tâm",
+          "sinoVietnamese": "tâm"
+        },
+        {
+          "character": "须",
+          "radical": "页",
+          "pinyin": "yè",
+          "vi": "trang gáy đầu",
+          "sinoVietnamese": "hiệt"
+        }
+      ]
     },
     {
       "word": "根据",
@@ -227,7 +422,25 @@
           "vi": "Thứ ba, cần phải vận động dựa theo tình trạng sức khỏe của bản thân.",
           "en": "Third, you must exercise according to your own health condition."
         }
-      }
+      },
+      "sinoVietnamese": "căn cứ",
+      "mnemonic": "根 (Căn): Gỗ Mộc (木) và Cấn Sơn (艮). Rễ cây mọc sâu dưới núi vững làm gốc Căn bề. 据 (Cứ): Tay Thủ bốc giữ lấy ngự bộ Cứ cọp (Căn cứ, bám vào Cứ).",
+      "radicals": [
+        {
+          "character": "根",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "đồ gỗ",
+          "sinoVietnamese": "mộc"
+        },
+        {
+          "character": "据",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "vuốt tay tóm",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "情况",
@@ -244,7 +457,25 @@
           "vi": "Thứ ba, cần phải vận động dựa theo tình trạng sức khỏe của bản thân.",
           "en": "Third, you must exercise according to your own health condition."
         }
-      }
+      },
+      "sinoVietnamese": "tình huống",
+      "mnemonic": "情 (Tình): Tâm (忄) rộn Thanh sắc (青). Cảm tình con Tâm. 况 (Huống): Băng (冫) giá Huynh anh (兄). Tình cảnh bị kẹt đóng băng (Tình huống, cục diện).",
+      "radicals": [
+        {
+          "character": "情",
+          "radical": "忄",
+          "pinyin": "xīn",
+          "vi": "tâm tình",
+          "sinoVietnamese": "tâm"
+        },
+        {
+          "character": "况",
+          "radical": "冫",
+          "pinyin": "bīng",
+          "vi": "giọt băng",
+          "sinoVietnamese": "băng"
+        }
+      ]
     },
     {
       "word": "口",
@@ -261,7 +492,18 @@
           "vi": "Còn phải nhớ khi vừa vận động xong khát nước, đừng uống nước ngay.",
           "en": "Also remember not to drink water immediately when you are thirsty right after exercising."
         }
-      }
+      },
+      "sinoVietnamese": "khẩu",
+      "mnemonic": "Hình thù nguyên vuông của cái miệng đang há ra, hay cánh cửa đường dẫn vào nhà / cái lỗ hở.",
+      "radicals": [
+        {
+          "character": "口",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "mồm họng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "渴",
@@ -278,7 +520,18 @@
           "vi": "Còn phải nhớ khi vừa vận động xong khát nước, đừng uống nước ngay.",
           "en": "Also remember not to drink water immediately when you are thirsty right after exercising."
         }
-      }
+      },
+      "sinoVietnamese": "khát",
+      "mnemonic": "Thủy (氵 - Nước), Hạt (曷 - Há mồm). Miệng há lớn ra gọi hóng uống vào ngụm Nước do đi xa khát bao tử khô (Khát nước).",
+      "radicals": [
+        {
+          "character": "渴",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "giọt nước",
+          "sinoVietnamese": "thủy"
+        }
+      ]
     }
   ],
   "grammars": [

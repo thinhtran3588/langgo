@@ -23,7 +23,25 @@
           "vi": "Ngày mai là trời nắng hay trời âm u?",
           "en": "Is tomorrow sunny or cloudy?"
         }
-      }
+      },
+      "sinoVietnamese": "hoàn thị",
+      "mnemonic": "还 (Hoàn): Chữ Bất (不 - không) kết hợp bộ Xước (辶 - đi). Cứ đi rồi không dứt, lặp lại. 是 (Thị): Bộ Nhật (日 - mặt trời), chữ Chính (正). Ý nói sự việc lại tiếp tục đúng như vậy. (hay là).",
+      "radicals": [
+        {
+          "character": "还",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "bước chân đi",
+          "sinoVietnamese": "xước"
+        },
+        {
+          "character": "是",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        }
+      ]
     },
     {
       "word": "爬山",
@@ -40,7 +58,25 @@
           "vi": "Ngày mai chúng tôi sẽ đi leo núi.",
           "en": "We are going mountain climbing tomorrow."
         }
-      }
+      },
+      "sinoVietnamese": "ba san",
+      "mnemonic": "爬 (Ba): Bộ Trảo (爪 - móng vuốt) và chữ Ba (巴). Dùng móng vuốt cào rách để leo trèo (bò, leo). 山 (San): Hình một ngọn núi có 3 đỉnh. Ba san là leo núi.",
+      "radicals": [
+        {
+          "character": "爬",
+          "radical": "爪",
+          "pinyin": "zhǎo",
+          "vi": "móng vuốt",
+          "sinoVietnamese": "trảo"
+        },
+        {
+          "character": "山",
+          "radical": "山",
+          "pinyin": "shān",
+          "vi": "ngọn núi",
+          "sinoVietnamese": "sơn"
+        }
+      ]
     },
     {
       "word": "小心",
@@ -57,7 +93,25 @@
           "vi": "Khi leo núi cần phải cẩn thận một chút.",
           "en": "Be a bit careful when climbing the mountain."
         }
-      }
+      },
+      "sinoVietnamese": "tiểu tâm",
+      "mnemonic": "小 (Tiểu): Nhỏ bé. 心 (Tâm): Trái tim. Có trái tim chú ý cẩn thận từng chi tiết nhỏ là một người cẩn thận, cẩn trọng.",
+      "radicals": [
+        {
+          "character": "小",
+          "radical": "小",
+          "pinyin": "xiǎo",
+          "vi": "nhỏ bé",
+          "sinoVietnamese": "tiểu"
+        },
+        {
+          "character": "心",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "条",
@@ -74,7 +128,18 @@
           "vi": "Anh cảm thấy chiếc quần này thế nào?",
           "en": "What do you think of this pair of pants?"
         }
-      }
+      },
+      "sinoVietnamese": "điều",
+      "mnemonic": "Bộ Mộc (木 - cây cối) ở dưới bộ Tuy (夂). Quả cây thõng xuống từng cành (mỗi nhánh là một điều, sợi). Lượng từ cho vật dài.",
+      "radicals": [
+        {
+          "character": "条",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "cái cây",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "裤子",
@@ -91,7 +156,25 @@
           "vi": "Anh nhớ em đã có hai chiếc quần như thế này rồi.",
           "en": "I remember you already have two pairs of pants like this."
         }
-      }
+      },
+      "sinoVietnamese": "khố tử",
+      "mnemonic": "Bộ Y (衤 - quần áo) và chữ Khố (库 - cái kho). Cái quần (thuộc đồ mặc) bảo quản trong kho.",
+      "radicals": [
+        {
+          "character": "裤",
+          "radical": "衤",
+          "pinyin": "yī",
+          "vi": "quần áo",
+          "sinoVietnamese": "y"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "đứa con",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "记得",
@@ -108,7 +191,25 @@
           "vi": "Anh nhớ em đã có hai chiếc quần như thế này rồi.",
           "en": "I remember you already have two pairs of pants like this."
         }
-      }
+      },
+      "sinoVietnamese": "ký đắc",
+      "mnemonic": "记 (Ký): Bộ Ngôn (讠 - lời nói) ghi chép lại làm kỉ niệm (己). 得 (Đắc): Bước chân (彳) đi lấy được vật đắc thủ.",
+      "radicals": [
+        {
+          "character": "记",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "lời nói",
+          "sinoVietnamese": "ngôn"
+        },
+        {
+          "character": "得",
+          "radical": "彳",
+          "pinyin": "chì",
+          "vi": "bước chân chậm",
+          "sinoVietnamese": "xích"
+        }
+      ]
     },
     {
       "word": "衬衫",
@@ -125,7 +226,25 @@
           "vi": "Chiếc áo sơ mi này thế nào?",
           "en": "How about this shirt?"
         }
-      }
+      },
+      "sinoVietnamese": "sấn sam",
+      "mnemonic": "衬 (Sấn): Bộ Y (衤 - quần áo) và chữ Thốn (寸). Áo mặc ôm vừa với chiều dài cơ thể. 衫 (Sam): Bộ Y (衤) và San (彡 - lông tóc). Cấu tạo thành áo sơ mi mỏng.",
+      "radicals": [
+        {
+          "character": "衬",
+          "radical": "衤",
+          "pinyin": "yī",
+          "vi": "quần áo",
+          "sinoVietnamese": "y"
+        },
+        {
+          "character": "衫",
+          "radical": "衤",
+          "pinyin": "yī",
+          "vi": "quần áo",
+          "sinoVietnamese": "y"
+        }
+      ]
     },
     {
       "word": "元",
@@ -142,7 +261,18 @@
           "vi": "Trên này viết 320 tệ.",
           "en": "It says 320 yuan on this."
         }
-      }
+      },
+      "sinoVietnamese": "nguyên",
+      "mnemonic": "Hình ảnh giống số Nhị (二 - 2) ở trên chân người (儿). Khởi thủy nguyên thủy của vật, đồng xu tròn.",
+      "radicals": [
+        {
+          "character": "元",
+          "radical": "儿",
+          "pinyin": "ér",
+          "vi": "con nít",
+          "sinoVietnamese": "nhi"
+        }
+      ]
     },
     {
       "word": "新鲜",
@@ -159,7 +289,25 @@
           "vi": "Những loại trái cây này thật tươi.",
           "en": "These fruits are really fresh."
         }
-      }
+      },
+      "sinoVietnamese": "tân tiên",
+      "mnemonic": "新 (Tân): Gỗ (木) mới chặt bằng rìu (斤). 鲜 (Tiên): Cá (鱼) và Cừu (羊) hai đồ ăn luôn cần sự tươi sống, tươi mới.",
+      "radicals": [
+        {
+          "character": "新",
+          "radical": "斤",
+          "pinyin": "jīn",
+          "vi": "cái rìu",
+          "sinoVietnamese": "cân"
+        },
+        {
+          "character": "鲜",
+          "radical": "鱼",
+          "pinyin": "yú",
+          "vi": "con cá",
+          "sinoVietnamese": "ngư"
+        }
+      ]
     },
     {
       "word": "甜",
@@ -176,7 +324,18 @@
           "vi": "Dưa hấu không ngọt không lấy tiền.",
           "en": "If the watermelon isn't sweet, it's free."
         }
-      }
+      },
+      "sinoVietnamese": "điềm",
+      "mnemonic": "Bộ Thiệt (舌) là cái lưỡi, bộ Cam (甘) là ngọt. Cái lưỡi nếm thấy vị ngọt xớt gọi là 'điềm' (ngọt).",
+      "radicals": [
+        {
+          "character": "甜",
+          "radical": "舌",
+          "pinyin": "shé",
+          "vi": "cái lưỡi",
+          "sinoVietnamese": "thiệt"
+        }
+      ]
     },
     {
       "word": "只",
@@ -193,7 +352,18 @@
           "vi": "Tối nay chỉ ăn trái cây không ăn cơm!",
           "en": "Tonight we'll only eat fruit, no dinner!"
         }
-      }
+      },
+      "sinoVietnamese": "chỉ",
+      "mnemonic": "Chữ Khẩu (口 - miệng) ở trên và chữ Bát (八 - tám). Nói ra (miệng) chỉ có (chỉ) tám (Bát) phần, lượng từ con vật nhỏ.",
+      "radicals": [
+        {
+          "character": "只",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái miệng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "放",
@@ -210,7 +380,18 @@
           "vi": "Trên bàn có đặt rất nhiều đồ uống.",
           "en": "There are many drinks placed on the table."
         }
-      }
+      },
+      "sinoVietnamese": "phóng",
+      "mnemonic": "Chữ Phương (方 - phương hướng) và bộ Phốc (攵 - đánh khẽ). Phóng là đánh ra, đặt ra một phương. (Đặt, để)",
+      "radicals": [
+        {
+          "character": "放",
+          "radical": "攵",
+          "pinyin": "pū",
+          "vi": "đánh khẽ",
+          "sinoVietnamese": "phốc"
+        }
+      ]
     },
     {
       "word": "饮料",
@@ -227,7 +408,25 @@
           "vi": "Trên bàn có đặt rất nhiều đồ uống.",
           "en": "There are many drinks placed on the table."
         }
-      }
+      },
+      "sinoVietnamese": "ẩm liệu",
+      "mnemonic": "饮 (Ẩm): Bữa ăn (饣) người nghèo (欠) thèm uống nước. 料 (Liệu): Đong gạo (米) bằng đấu (斗) là nguyên liệu pha chế. Ẩm liệu là đồ uống.",
+      "radicals": [
+        {
+          "character": "饮",
+          "radical": "饣",
+          "pinyin": "shí",
+          "vi": "thức ăn",
+          "sinoVietnamese": "thực"
+        },
+        {
+          "character": "料",
+          "radical": "米",
+          "pinyin": "mǐ",
+          "vi": "gạo mắm",
+          "sinoVietnamese": "mễ"
+        }
+      ]
     },
     {
       "word": "或者",
@@ -244,7 +443,25 @@
           "vi": "Trà hoặc cà phê đều được.",
           "en": "Tea or coffee are both fine."
         }
-      }
+      },
+      "sinoVietnamese": "hoặc giả",
+      "mnemonic": "或 (Hoặc): Biên giới xung quanh cái Qua (戈 - vũ khí), sự nghi ngờ hoặc điều gì đó không rõ ràng. 者 (Giả): Lão (老) già rồi. Tạo nghĩa Hoặc là.",
+      "radicals": [
+        {
+          "character": "或",
+          "radical": "戈",
+          "pinyin": "gē",
+          "vi": "vũ khí qua",
+          "sinoVietnamese": "qua"
+        },
+        {
+          "character": "者",
+          "radical": "老",
+          "pinyin": "lǎo",
+          "vi": "người già",
+          "sinoVietnamese": "lão"
+        }
+      ]
     },
     {
       "word": "舒服",
@@ -261,7 +478,25 @@
           "vi": "Uống một tách trà nóng sẽ rất dễ chịu.",
           "en": "Drinking a cup of hot tea will be very comfortable."
         }
-      }
+      },
+      "sinoVietnamese": "thư phục",
+      "mnemonic": "舒 (Thư): Xá (舍 - cái nhà), Dư (予 - ta). Căn nhà của ta làm ta thư dãn. 服 (Phục): Nhục (月), cái thân thể luôn phục tùng (mặc quần áo).",
+      "radicals": [
+        {
+          "character": "舒",
+          "radical": "舌",
+          "pinyin": "shé",
+          "vi": "cái lưỡi",
+          "sinoVietnamese": "thiệt"
+        },
+        {
+          "character": "服",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "thịt",
+          "sinoVietnamese": "nhục"
+        }
+      ]
     },
     {
       "word": "花",
@@ -278,7 +513,18 @@
           "vi": "Trà hoa, trà xanh, hồng trà, tôi đều thích.",
           "en": "Flower tea, green tea, black tea, I like them all."
         }
-      }
+      },
+      "sinoVietnamese": "hoa",
+      "mnemonic": "Bộ Thảo (艹 - cỏ) và chữ Hóa (化 - biến hóa). Loài cây cỏ biến hóa đâm chồi nở thành bông hoa rực rỡ.",
+      "radicals": [
+        {
+          "character": "花",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "cây cỏ",
+          "sinoVietnamese": "thảo"
+        }
+      ]
     },
     {
       "word": "绿",
@@ -295,7 +541,18 @@
           "vi": "Trà hoa, trà xanh, hồng trà, tôi đều thích.",
           "en": "Flower tea, green tea, black tea, I like them all."
         }
-      }
+      },
+      "sinoVietnamese": "lục",
+      "mnemonic": "Bộ Mịch (纟 - sợi tơ lụa) và phần bên phải lấy từ bộ Thủy (nước). Sợi tơ nhuộm màu của lá cây và nước sinh ra màu xanh lục.",
+      "radicals": [
+        {
+          "character": "绿",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "tơ lụa",
+          "sinoVietnamese": "mịch"
+        }
+      ]
     }
   ],
   "grammars": [

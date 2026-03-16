@@ -23,7 +23,18 @@
           "vi": "Hôm qua đi xem thử, hôm nay lại đi xem thử.",
           "en": "I went to see it yesterday, and I went to see it again today."
         }
-      }
+      },
+      "sinoVietnamese": "hựu",
+      "mnemonic": "Hựu (又) là một bộ thủ hình bàn tay dang ra lấy đồ đạc, làm một hành động lặp đi lặp lại. Có nghĩa là lại làm tiếp.",
+      "radicals": [
+        {
+          "character": "又",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "lại, tay phải",
+          "sinoVietnamese": "hựu"
+        }
+      ]
     },
     {
       "word": "满意",
@@ -40,7 +51,25 @@
           "vi": "Đều không hài lòng sao?",
           "en": "Are you not satisfied with any of them?"
         }
-      }
+      },
+      "sinoVietnamese": "mãn ý",
+      "mnemonic": "满 (Mãn): Nước (氵 - Nước), Thảo (艹 - cỏ), Lưỡng (两 - hai). Nước dâng lên ngập 2 bờ cỏ là đầy ắp (Mãn). 意 (Ý): Âm thanh (音) từ trái tim (心). Ý tứ đủ đầy làm mãn nguyện.",
+      "radicals": [
+        {
+          "character": "满",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước",
+          "sinoVietnamese": "thủy"
+        },
+        {
+          "character": "意",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "电梯",
@@ -57,7 +86,25 @@
           "vi": "Một cái không có thang máy, không thuận tiện.",
           "en": "One doesn't have an elevator, it's inconvenient."
         }
-      }
+      },
+      "sinoVietnamese": "điện thế",
+      "mnemonic": "电 (Điện): Tia chớp. 梯 (Thế/Thê): Cây mộc (木), và chữ Đệ (弟). Bậc cầu thang làm bằng gỗ cho mấy huynh đệ leo. Thang có điện là thang máy.",
+      "radicals": [
+        {
+          "character": "电",
+          "radical": "田",
+          "pinyin": "tián",
+          "vi": "ruộng",
+          "sinoVietnamese": "điền"
+        },
+        {
+          "character": "梯",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gỗ",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "层",
@@ -74,7 +121,18 @@
           "vi": "Một cái có thang máy, nhưng ở tầng 20.",
           "en": "One has an elevator, but it's on the 20th floor."
         }
-      }
+      },
+      "sinoVietnamese": "tằng",
+      "mnemonic": "Thi (尸 - thây ma/cái mái) che mưa, Vân (云 - đám mây). Các lớp mái nhà xếp chồng lên nhau như tằng mây cao (từng tầng, tầng nhà).",
+      "radicals": [
+        {
+          "character": "层",
+          "radical": "尸",
+          "pinyin": "shī",
+          "vi": "thây ma",
+          "sinoVietnamese": "thi"
+        }
+      ]
     },
     {
       "word": "害怕",
@@ -91,7 +149,25 @@
           "vi": "Cao quá, nhìn xuống sợ lắm!",
           "en": "It's too high, looking down is so scary!"
         }
-      }
+      },
+      "sinoVietnamese": "hại phạ",
+      "mnemonic": "害 (Hại): Miên (宀 - nhà), Khẩu (口) miệng rêu rao gây hại. 怕 (Phạ): Tâm (忄 - Trái tim) và Bạch (白 - trắng). Tim đập thình thịch sợ trắng bệch cả mặt (sợ hãi).",
+      "radicals": [
+        {
+          "character": "害",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "mái nhà",
+          "sinoVietnamese": "miên"
+        },
+        {
+          "character": "怕",
+          "radical": "忄",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "熊猫",
@@ -108,7 +184,25 @@
           "vi": "Con gấu trúc nhỏ này tặng cho cậu.",
           "en": "This little panda is for you."
         }
-      }
+      },
+      "sinoVietnamese": "hùng miêu",
+      "mnemonic": "熊 (Hùng): Gấu, Năng (能 - có bản lĩnh), Hỏa (灬 - dưới sức nóng gấu chịu được). 猫 (Miêu): Miêu (苗 - cây non mầm), Khuyển (犭con chó/mèo). Mèo khổng lồ là gấu trúc.",
+      "radicals": [
+        {
+          "character": "熊",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "lửa",
+          "sinoVietnamese": "hỏa"
+        },
+        {
+          "character": "猫",
+          "radical": "犭",
+          "pinyin": "quǎn",
+          "vi": "chó (bộ khuyển)",
+          "sinoVietnamese": "khuyển"
+        }
+      ]
     },
     {
       "word": "见面",
@@ -125,7 +219,25 @@
           "vi": "Hy vọng sau này có thể gặp lại.",
           "en": "I hope we can meet again in the future."
         }
-      }
+      },
+      "sinoVietnamese": "kiến diện",
+      "mnemonic": "见 (Kiến): Mục (目) con mắt trên thân người đang nhìn ngắm. 面 (Diện): Gương mặt / bề mặt. Gặp mặt nhìn thấy mặt nhau (Kiến diện).",
+      "radicals": [
+        {
+          "character": "见",
+          "radical": "见",
+          "pinyin": "jiàn",
+          "vi": "nhìn thấy",
+          "sinoVietnamese": "kiến"
+        },
+        {
+          "character": "面",
+          "radical": "面",
+          "pinyin": "miàn",
+          "vi": "khuôn mặt",
+          "sinoVietnamese": "diện"
+        }
+      ]
     },
     {
       "word": "安静",
@@ -142,7 +254,25 @@
           "vi": "Ngồi đây đi, ở đây yên tĩnh.",
           "en": "Let's sit here, it's quiet here."
         }
-      }
+      },
+      "sinoVietnamese": "an tĩnh",
+      "mnemonic": "安 (An): Phụ nữ (女) đội nón mái nhà (宀) cảm thấy an toàn. 静 (Tĩnh): Chữ Thanh (青) và chữ Tranh (争), bầu trời trong xanh tĩnh lặng không tranh chấp.",
+      "radicals": [
+        {
+          "character": "安",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "mái che",
+          "sinoVietnamese": "miên"
+        },
+        {
+          "character": "静",
+          "radical": "青",
+          "pinyin": "qīng",
+          "vi": "màu xanh",
+          "sinoVietnamese": "thanh"
+        }
+      ]
     },
     {
       "word": "可乐",
@@ -159,7 +289,25 @@
           "vi": "Uống coca nhé.",
           "en": "Let's drink cola."
         }
-      }
+      },
+      "sinoVietnamese": "khả lạc",
+      "mnemonic": "可 (Khả): Cái miệng (口) cho phép một (一) việc móc (亅) đạt tiến triển (Khả năng/Có thể) . 乐 (Nhạc/Lạc): Đàn làm vui vẻ tâm trí. Đồ uống ngon làm ta có thể vui vẻ (Cola / Nước có ga).",
+      "radicals": [
+        {
+          "character": "可",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái miệng",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "乐",
+          "radical": "丿",
+          "pinyin": "piě",
+          "vi": "nét phẩy",
+          "sinoVietnamese": "phiệt"
+        }
+      ]
     },
     {
       "word": "一会儿",
@@ -176,7 +324,25 @@
           "vi": "Anh đợi em một lát.",
           "en": "Wait for me a moment."
         }
-      }
+      },
+      "sinoVietnamese": "nhất hội nhi",
+      "mnemonic": "Nhanh chóng trong một (一) lúc, một khoảng nhỏ. Hội (会 - tập hợp). Nhi (儿 - nhỏ bé). Gom lại là một chốc lát, một hạt thời gian ngắn.",
+      "radicals": [
+        {
+          "character": "一",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số một",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "会",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "马上",
@@ -193,7 +359,25 @@
           "vi": "Em quay lại ngay.",
           "en": "I'll be back right away."
         }
-      }
+      },
+      "sinoVietnamese": "mã thượng",
+      "mnemonic": "马 (Mã): Con ngựa đang phí nhanh. 上 (Thượng): Phía trên. Lên trên lưng ngựa phi đi tức tốc làm ngay (mã thượng = ngay lập tức).",
+      "radicals": [
+        {
+          "character": "马",
+          "radical": "马",
+          "pinyin": "mǎ",
+          "vi": "con ngựa",
+          "sinoVietnamese": "mã"
+        },
+        {
+          "character": "上",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số một",
+          "sinoVietnamese": "nhất"
+        }
+      ]
     },
     {
       "word": "洗手间",
@@ -210,7 +394,32 @@
           "vi": "Em đi nhà vệ sinh.",
           "en": "I'm going to the restroom."
         }
-      }
+      },
+      "sinoVietnamese": "tẩy thủ gian",
+      "mnemonic": "洗 (Tẩy): Bộ Thủy (氵) nước, Tiên (先) trước tiên. Rửa tay trước khi ăn là rửa gột. 手(Thủ): Tay. 间(Gian): Cửa (门) khoảng trống. Phòng rửa tay dọn dẹp (Nhà vệ sinh).",
+      "radicals": [
+        {
+          "character": "洗",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước",
+          "sinoVietnamese": "thủy"
+        },
+        {
+          "character": "手",
+          "radical": "手",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        },
+        {
+          "character": "间",
+          "radical": "门",
+          "pinyin": "mén",
+          "vi": "cửa",
+          "sinoVietnamese": "môn"
+        }
+      ]
     },
     {
       "word": "老",
@@ -227,7 +436,18 @@
           "vi": "Bạn cũ, sắp 5 năm rồi, cậu hầu như không thay đổi.",
           "en": "Old classmate, it's been almost five years, you haven't changed at all."
         }
-      }
+      },
+      "sinoVietnamese": "lão",
+      "mnemonic": "Bộ Lão (老). Hình ảnh một người cụ già còng lưng chống gậy (chữ tủy 匕 ở dưới giống cây gậy chống). Già lão.",
+      "radicals": [
+        {
+          "character": "老",
+          "radical": "老",
+          "pinyin": "lǎo",
+          "vi": "về già",
+          "sinoVietnamese": "lão"
+        }
+      ]
     },
     {
       "word": "几乎",
@@ -244,7 +464,25 @@
           "vi": "Sắp 5 năm rồi, cậu hầu như không thay đổi.",
           "en": "It's been almost five years, you have almost no change."
         }
-      }
+      },
+      "sinoVietnamese": "kỷ hồ",
+      "mnemonic": "几 (Kỷ): Cái bàn kỉ nhỏ bé, con số lẻ (mấy). 乎 (Hồ): Hầu như. Sự việc đạt mức độ đong ở cái mâm kỉ gần đầy. Tức là hầu như, gần như.",
+      "radicals": [
+        {
+          "character": "几",
+          "radical": "几",
+          "pinyin": "jī",
+          "vi": "cái bàn / kỉ",
+          "sinoVietnamese": "kỷ"
+        },
+        {
+          "character": "乎",
+          "radical": "丿",
+          "pinyin": "piě",
+          "vi": "nét phẩy",
+          "sinoVietnamese": "phiệt"
+        }
+      ]
     },
     {
       "word": "变化",
@@ -261,7 +499,25 @@
           "vi": "Sắp 5 năm rồi, cậu hầu như không thay đổi.",
           "en": "It's been almost five years, you haven't changed."
         }
-      }
+      },
+      "sinoVietnamese": "biến hóa",
+      "mnemonic": "变 (Biến): Diệc (亦 - cũng), Phốc (攵 - đánh). Can thiệp vũ lực để thay đổi lại trạng thái (Biến đổi). 化 (Hóa): Nhân chữ Nhân, biến hóa. Tạo ra biến đổi.",
+      "radicals": [
+        {
+          "character": "变",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "bàn tay hựu",
+          "sinoVietnamese": "hựu"
+        },
+        {
+          "character": "化",
+          "radical": "匕",
+          "pinyin": "bǐ",
+          "vi": "cái thìa",
+          "sinoVietnamese": "tủy"
+        }
+      ]
     },
     {
       "word": "健康",
@@ -278,7 +534,25 @@
           "vi": "Sức khỏe là quan trọng nhất.",
           "en": "Health is the most important."
         }
-      }
+      },
+      "sinoVietnamese": "kiện khang",
+      "mnemonic": "健 (Kiện): Người (亻) có sức khỏe dẻo dai làm kiến trúc (建). 康 (Khang): Ngôi nhà Dễm (广) nhiều nước (水) tài tuôn. Sức khỏe dồi dào, an khang.",
+      "radicals": [
+        {
+          "character": "健",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "người",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "康",
+          "radical": "广",
+          "pinyin": "yǎn",
+          "vi": "mái che",
+          "sinoVietnamese": "nghiễm"
+        }
+      ]
     },
     {
       "word": "重要",
@@ -295,7 +569,25 @@
           "vi": "Sức khỏe là quan trọng nhất.",
           "en": "Health is the most important."
         }
-      }
+      },
+      "sinoVietnamese": "trọng yếu",
+      "mnemonic": "重 (Trọng): Nặng. 千 (Ngàn) 里 (Dặm) bước chân dài nặng nề. 要 (Yếu): Tây (西 - hướng tây) Nữ (女). Người đàn bà cầm cương vị chủ yếu. Trọng tâm, trọng yếu.",
+      "radicals": [
+        {
+          "character": "重",
+          "radical": "里",
+          "pinyin": "lǐ",
+          "vi": "dặm",
+          "sinoVietnamese": "lý"
+        },
+        {
+          "character": "要",
+          "radical": "覀",
+          "pinyin": "xià",
+          "vi": "phủ đắp",
+          "sinoVietnamese": "á"
+        }
+      ]
     }
   ],
   "grammars": [

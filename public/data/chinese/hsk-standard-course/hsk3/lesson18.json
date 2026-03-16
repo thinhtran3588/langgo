@@ -23,7 +23,18 @@
           "vi": "Lão Châu, tôi định mua nhà rồi, muốn mượn anh chút tiền.",
           "en": "Old Zhou, I'm planning to buy a house and want to borrow some money from you."
         }
-      }
+      },
+      "sinoVietnamese": "hướng",
+      "mnemonic": "Chữ Khẩu mồm (口) bọc trong khung cửa. Hướng của miệng nói vọng từ 1 nẻo (Phương hướng, hướng về).",
+      "radicals": [
+        {
+          "character": "向",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cửa lỗ miệng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "万",
@@ -40,7 +51,18 @@
           "vi": "Vẫn còn thiếu 5 vạn tệ.",
           "en": "Still short of 50,000 yuan."
         }
-      }
+      },
+      "sinoVietnamese": "vạn",
+      "mnemonic": "Một nét ngang Nhất lớn đè lên một lực Quắn hất móc. Hạt ức vạn chục ngàn chục số bọ cạp lắt léo Mười Ngàn.",
+      "radicals": [
+        {
+          "character": "万",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "đường sổ ngang",
+          "sinoVietnamese": "nhất"
+        }
+      ]
     },
     {
       "word": "只",
@@ -57,7 +79,18 @@
           "vi": "Mẹ, mẹ xem con chó kia đáng yêu quá.",
           "en": "Mom, look how cute that dog is."
         }
-      }
+      },
+      "sinoVietnamese": "chỉ",
+      "mnemonic": "Chữ Khẩu (口 - miệng) ở trên và chữ Bát (八 - tám). Nói ra (miệng) chỉ có (chỉ) tám (Bát) phần, lượng từ con vật nhỏ.",
+      "radicals": [
+        {
+          "character": "只",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái miệng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "嘴",
@@ -74,7 +107,18 @@
           "vi": "Mắt to to, miệng nhỏ nhỏ.",
           "en": "Big eyes, small mouth."
         }
-      }
+      },
+      "sinoVietnamese": "chủy",
+      "mnemonic": "Bộ Khẩu miệng (口) góc. Bên rào Giác góc kẹp. Cái mõm miệng chỏm chỉa ra hình góc nhọn như mỏ dơi (Cái Mỏ/Cái Mồm).",
+      "radicals": [
+        {
+          "character": "嘴",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái lỗ miệng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "动物",
@@ -91,7 +135,25 @@
           "vi": "Động vật cũng giống như trẻ con, đều cần người chăm sóc.",
           "en": "Animals are like children, they all need to be taken care of."
         }
-      }
+      },
+      "sinoVietnamese": "động vật",
+      "mnemonic": "动 (Động): Trọng Yếu lướt dùng Sức Lực thao tác (力+重 Vân/Trọng). Vật rung tay khua. 物(Vật): Sự vật. Cấu ra con Vật cử Động nhúc nhích (Động vật).",
+      "radicals": [
+        {
+          "character": "动",
+          "radical": "力",
+          "pinyin": "lì",
+          "vi": "công sức lực",
+          "sinoVietnamese": "lực"
+        },
+        {
+          "character": "物",
+          "radical": "牛",
+          "pinyin": "niú",
+          "vi": "con bò/ngưu",
+          "sinoVietnamese": "ngưu"
+        }
+      ]
     },
     {
       "word": "段",
@@ -108,7 +170,18 @@
           "vi": "Khoảng thời gian này quần áo của con con cũng chưa giặt.",
           "en": "You haven't even washed your own clothes during this time."
         }
-      }
+      },
+      "sinoVietnamese": "đoạn",
+      "mnemonic": "Bộ Thù (殳 - Binh khí sỏi đập gõ). Bức tường rào hay đoạn súc gỗ bị chặt gạch đứt từng Đoạn bằng thanh nẹp nọc binh khí (Phân đoạn, khúc).",
+      "radicals": [
+        {
+          "character": "段",
+          "radical": "殳",
+          "pinyin": "shū",
+          "vi": "đập gậy nọc",
+          "sinoVietnamese": "thù"
+        }
+      ]
     },
     {
       "word": "不但……而且……",
@@ -125,7 +198,25 @@
           "vi": "Quý công ty không những rất nổi tiếng, mà môi trường làm việc còn tốt.",
           "en": "Your company is not only famous but also has a good working environment."
         }
-      }
+      },
+      "sinoVietnamese": "bất đãn nhi thả",
+      "mnemonic": "不但 (Không chỉ): Chữ Bất (không) + Đãn (nhật đè). 而且 (Mà Còn): Nhi (Và/Mà) + Thả (Nhất/Lưỡi Đục rãnh xếp song). Cấu trúc 'Không chỉ cái này MÀ CÒN cái kia'.",
+      "radicals": [
+        {
+          "character": "但",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "người đứng",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "而",
+          "radical": "而",
+          "pinyin": "ér",
+          "vi": "có râu rìa",
+          "sinoVietnamese": "nhi"
+        }
+      ]
     },
     {
       "word": "有名",
@@ -142,7 +233,25 @@
           "vi": "Quý công ty không những rất nổi tiếng, mà môi trường làm việc còn tốt.",
           "en": "Your company is not only famous but also has a good working environment."
         }
-      }
+      },
+      "sinoVietnamese": "hữu danh",
+      "mnemonic": "有 (Hữu): Hữu Nhục Nguyệt / Có sỡ hữu tay nắm (Nguyệt/Tịch). 名 (Danh): Ban Tịch chiều tối Tịch gọi Mồm Khẩu gọi tên. Đi đêm Có Gọi Tên (Có tiếng tăm Nổi Danh).",
+      "radicals": [
+        {
+          "character": "有",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "trăng khuya thịt",
+          "sinoVietnamese": "nguyệt"
+        },
+        {
+          "character": "名",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "mồm họng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "同意",
@@ -159,7 +268,25 @@
           "vi": "Chỉ cần tôi muốn, tôi tin họ sẽ đồng ý.",
           "en": "As long as I am willing, I believe they will agree."
         }
-      }
+      },
+      "sinoVietnamese": "đồng ý",
+      "mnemonic": "同 (Đồng): Chung 1 Khẩu rào cồng. 意 (Ý): Âm thanh lọt Tim Tâm đập. Cùng chung một Nhịp Thở Khẩu Âm. Biểu đạt ý nghĩa Tán thành Đồng Thuận Ý.",
+      "radicals": [
+        {
+          "character": "同",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "vòm miệng",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "意",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "tim nội lòng",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "相信",
@@ -176,7 +303,25 @@
           "vi": "Chỉ cần tôi muốn, tôi tin họ sẽ đồng ý.",
           "en": "As long as I am willing, I believe they will agree."
         }
-      }
+      },
+      "sinoVietnamese": "tương tín",
+      "mnemonic": "相 (Tương): Cây cối Mộc và Mắt Mục xem rõ giao ứng nhau Mộc (nhau/tương). 信(Tín): Ngôn lời nói Nhân đứng. Lời nòi kẻ đứng ra Mồm nói đảm bảo Tín nghĩa (Tin tưởng Tín).",
+      "radicals": [
+        {
+          "character": "相",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "ánh mắt",
+          "sinoVietnamese": "mục"
+        },
+        {
+          "character": "信",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "kẻ đứng",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "关于",
@@ -193,7 +338,25 @@
           "vi": "Về công việc này, còn có vấn đề gì không?",
           "en": "Regarding this job, are there any other questions?"
         }
-      }
+      },
+      "sinoVietnamese": "quan vu",
+      "mnemonic": "关 (Quan): Khép khóa Then. 于 (Vu): Nhất ngang gạch đinh. Ở chốt điểm chốt chặn (Liên quan đến, Về sự việc Quan).",
+      "radicals": [
+        {
+          "character": "关",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "tám nhát",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "于",
+          "radical": "二",
+          "pinyin": "èr",
+          "vi": "gạch nhị",
+          "sinoVietnamese": "nhị"
+        }
+      ]
     },
     {
       "word": "机会",
@@ -210,7 +373,25 @@
           "vi": "Cảm ơn ông đã cho tôi cơ hội này, tôi sẽ nỗ lực.",
           "en": "Thank you for giving me this opportunity, I will work hard."
         }
-      }
+      },
+      "sinoVietnamese": "cơ hội",
+      "mnemonic": "机 (Cơ): Gỗ mộc ghế Mấy Kỉ (Cơ Máy). Hội (会): Người quy tập Vân mây họp lại. Sự chắp vá tụ Hội của Tạo Hóa làm Cơ Đồ (Cơ Hội).",
+      "radicals": [
+        {
+          "character": "机",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gỗ lạt",
+          "sinoVietnamese": "mộc"
+        },
+        {
+          "character": "会",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "tụ tập nhân",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "国家",
@@ -227,7 +408,25 @@
           "vi": "Các quốc gia khác nhau có văn hóa khác nhau.",
           "en": "Different countries have different cultures."
         }
-      }
+      },
+      "sinoVietnamese": "quốc gia",
+      "mnemonic": "国 (Quốc): Thành bao bọc quanh Ngọc (玉) kho báu. Gia (家): Mái lều chòi che Lợn Heo Thỉ (豕) nơi chăn nuôi tá túc. Gia cư hợp thành Vùng Vương Quốc Gia.",
+      "radicals": [
+        {
+          "character": "国",
+          "radical": "囗",
+          "pinyin": "wéi",
+          "vi": "viền bao góc",
+          "sinoVietnamese": "vi"
+        },
+        {
+          "character": "家",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "chòi gác mái",
+          "sinoVietnamese": "miên"
+        }
+      ]
     },
     {
       "word": "种",
@@ -244,7 +443,18 @@
           "vi": "Mỗi loại văn hóa đều có đặc điểm riêng.",
           "en": "Every culture has its own characteristics."
         }
-      }
+      },
+      "sinoVietnamese": "chủng / chúng",
+      "mnemonic": "Hòa (禾 - Cây lúa cỏ ngọt tạt). Trung thẳng chính. Giống nòi Hạt được tuyển ở lõi Trung gieo nòi (Chủng nòi, Giống nòi, Lượng từ: Loại cá thể).",
+      "radicals": [
+        {
+          "character": "种",
+          "radical": "禾",
+          "pinyin": "hé",
+          "vi": "cọng lúa hòa",
+          "sinoVietnamese": "hòa"
+        }
+      ]
     },
     {
       "word": "特点",
@@ -261,7 +471,25 @@
           "vi": "Mỗi loại văn hóa đều có đặc điểm riêng.",
           "en": "Every culture has its own characteristics."
         }
-      }
+      },
+      "sinoVietnamese": "đặc điểm",
+      "mnemonic": "特 (Đặc): Thuộc trâu rựng Bò. 点 (Điểm): Chấm gạch Lửa Đốt cháy mốc. Bộ mốc đánh dấu cháy đặc dị chỉ có 1 Chấm (Đặc điểm nhận diện riêng).",
+      "radicals": [
+        {
+          "character": "特",
+          "radical": "牛",
+          "pinyin": "niú",
+          "vi": "dòng bò/trâu",
+          "sinoVietnamese": "ngưu"
+        },
+        {
+          "character": "点",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "bốn chấm lửa",
+          "sinoVietnamese": "hỏa"
+        }
+      ]
     },
     {
       "word": "奇怪",
@@ -278,7 +506,25 @@
           "vi": "Bạn sẽ cảm thấy cái gì cũng rất mới mẻ, hơn nữa còn cảm thấy hơi kỳ lạ.",
           "en": "You will feel that everything is fresh, and you will also feel a bit strange."
         }
-      }
+      },
+      "sinoVietnamese": "kỳ quái",
+      "mnemonic": "奇 (Kỳ): Cực Lớn Đại Khả lạ thường. 怪 (Quái): Tâm dị Mộc dị Thổ thổ. Sự quái gở sinh ra dị Kỳ Quái kỳ tính trong Mắt / Trái tim.",
+      "radicals": [
+        {
+          "character": "奇",
+          "radical": "大",
+          "pinyin": "dà",
+          "vi": "to đại",
+          "sinoVietnamese": "đại"
+        },
+        {
+          "character": "怪",
+          "radical": "忄",
+          "pinyin": "xīn",
+          "vi": "tâm xô nảy",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "地",
@@ -295,7 +541,18 @@
           "vi": "Sẽ từ từ quen thôi.",
           "en": "Will slowly get used to it."
         }
-      }
+      },
+      "sinoVietnamese": "địa / đích",
+      "mnemonic": "Đất Thổ (土) và Cái gầu Dã vúc (也). Khu Đất nền. (Trợ từ: Dùng làm trạng ngữ đệm đuôi hành động De/Đích một cách Cụ thể).",
+      "radicals": [
+        {
+          "character": "地",
+          "radical": "土",
+          "pinyin": "tǔ",
+          "vi": "đường đất thổ",
+          "sinoVietnamese": "thổ"
+        }
+      ]
     }
   ],
   "grammars": [

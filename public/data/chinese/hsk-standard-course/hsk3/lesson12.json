@@ -23,7 +23,25 @@
           "vi": "Hôm nay mặt trời mọc ở đằng tây à?",
           "en": "Did the sun rise from the west today?"
         }
-      }
+      },
+      "sinoVietnamese": "thái dương",
+      "mnemonic": "太 (Thái): To Đại vĩ đại (大) hơn 1 mức (、), Dương (阳): Vùng đồi Ấp (阝) nhận Mặt trăng / Nhật chói lọi (日). Nguồn lửa cao tột đỉnh mặt trời.",
+      "radicals": [
+        {
+          "character": "太",
+          "radical": "大",
+          "pinyin": "dà",
+          "vi": "to lắm",
+          "sinoVietnamese": "đại"
+        },
+        {
+          "character": "阳",
+          "radical": "阝",
+          "pinyin": "fù",
+          "vi": "bờ đá / phụ",
+          "sinoVietnamese": "phụ"
+        }
+      ]
     },
     {
       "word": "西",
@@ -40,7 +58,18 @@
           "vi": "Hôm nay mặt trời mọc ở đằng tây à?",
           "en": "Did the sun rise from the west today?"
         }
-      }
+      },
+      "sinoVietnamese": "tây",
+      "mnemonic": "Hình tượng ổ trứng chim nằm trong cái rế treo trên mái lúc chạng vạng mặt trời lặn (hướng Tây lặn mặt trời là lúc chim về). Hướng Tây.",
+      "radicals": [
+        {
+          "character": "西",
+          "radical": "覀",
+          "pinyin": "yà",
+          "vi": "che nắp đậy",
+          "sinoVietnamese": "á"
+        }
+      ]
     },
     {
       "word": "生气",
@@ -57,7 +86,25 @@
           "vi": "Giám đốc giận rồi, ông ấy bảo tôi ngày mai không đến trước 8 giờ thì sau này đừng đến nữa.",
           "en": "The manager is angry; he told me if I don't arrive by 8 tomorrow, don't bother coming back."
         }
-      }
+      },
+      "sinoVietnamese": "sinh khí",
+      "mnemonic": "生 (Sinh): Mầm mới vọt mọc lên khỏi đất (土). Khí (气): Luồng gió không khí. Cấu hợp 2 thanh tạo sinh ra luồng khí nổi giận xung thiên ngùn ngụt (Tức giận).",
+      "radicals": [
+        {
+          "character": "生",
+          "radical": "生",
+          "pinyin": "shēng",
+          "vi": "sinh nở",
+          "sinoVietnamese": "sinh"
+        },
+        {
+          "character": "气",
+          "radical": "气",
+          "pinyin": "qì",
+          "vi": "luồng hơi",
+          "sinoVietnamese": "khí"
+        }
+      ]
     },
     {
       "word": "行李箱",
@@ -74,7 +121,32 @@
           "vi": "Vậy em giúp anh bỏ quần áo vào vali nhé.",
           "en": "Then let me help you put the clothes in the suitcase."
         }
-      }
+      },
+      "sinoVietnamese": "hành lý sương",
+      "mnemonic": "行 (Hành). 李 (Lý): Cây (木) để sinh Mận (子) (đóng gói Lý). 箱 (Sương/Tương): Trúc mây nan (⺮) đan thành hình chóp cái Tương (相 - Mắt Mộc). Va-li hộp sương chứa đồ đạc đi xa.",
+      "radicals": [
+        {
+          "character": "行",
+          "radical": "彳",
+          "pinyin": "chì",
+          "vi": "chân đi",
+          "sinoVietnamese": "xích"
+        },
+        {
+          "character": "李",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "kéo cây",
+          "sinoVietnamese": "mộc"
+        },
+        {
+          "character": "箱",
+          "radical": "⺮",
+          "pinyin": "zhú",
+          "vi": "tre trúc",
+          "sinoVietnamese": "trúc"
+        }
+      ]
     },
     {
       "word": "自己",
@@ -91,7 +163,25 @@
           "vi": "Em phải tự chăm sóc tốt cho bản thân.",
           "en": "You need to take good care of yourself."
         }
-      }
+      },
+      "sinoVietnamese": "tự kỷ",
+      "mnemonic": "自 (Tự): Bộ cái Mũi (chỉ chỏ vào mũi là ta, tự mk). 己 (Kỷ): Cái dây đan dệt đan cài vướng quấn lại (Chỉ chính bản thân ta ko lối thoát. Tự bản thân Kỷ thị).",
+      "radicals": [
+        {
+          "character": "自",
+          "radical": "自",
+          "pinyin": "zì",
+          "vi": "tự ta",
+          "sinoVietnamese": "tự"
+        },
+        {
+          "character": "己",
+          "radical": "己",
+          "pinyin": "jǐ",
+          "vi": "chính ta",
+          "sinoVietnamese": "kỷ"
+        }
+      ]
     },
     {
       "word": "包",
@@ -108,7 +198,18 @@
           "vi": "Em đã để ảnh của em trong túi của anh rồi.",
           "en": "I've already put my photo in your bag."
         }
-      }
+      },
+      "sinoVietnamese": "bao",
+      "mnemonic": "Bộ Bao (勹 - Bao bọc), bên trong có Tị (巳 - đứa sơ sinh non). Hình tự bao bọc ôm thai nghén nên là Gói chùm, Bọc lấy.",
+      "radicals": [
+        {
+          "character": "包",
+          "radical": "勹",
+          "pinyin": "bāo",
+          "vi": "bao phủ",
+          "sinoVietnamese": "bao"
+        }
+      ]
     },
     {
       "word": "发现",
@@ -125,7 +226,25 @@
           "vi": "Trên đường đến sân bay tôi mới phát hiện quên mang hộ chiếu.",
           "en": "I only realized I forgot my passport on the way to the airport."
         }
-      }
+      },
+      "sinoVietnamese": "phát hiện",
+      "mnemonic": "发 (Phát): Phóng lực bắn cung xa. 现 (Hiện): Ngọc (王) lộ ra trước Mắt (见). Hành động dò tia và nhìn thẳng cho ngọc ló ra ánh (Phát hiện phơi bày).",
+      "radicals": [
+        {
+          "character": "发",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "tiếp tục tay",
+          "sinoVietnamese": "hựu"
+        },
+        {
+          "character": "现",
+          "radical": "王",
+          "pinyin": "wáng",
+          "vi": "ngọc lấp",
+          "sinoVietnamese": "vương"
+        }
+      ]
     },
     {
       "word": "护照",
@@ -142,7 +261,25 @@
           "vi": "Trên đường đến sân bay tôi mới phát hiện quên mang hộ chiếu.",
           "en": "I only realized I forgot my passport on the way to the airport."
         }
-      }
+      },
+      "sinoVietnamese": "hộ chiếu",
+      "mnemonic": "护 (Hộ): Tay (扌) giữ khư khư lấy Hộ gia Miệng (户). Bảo Bọc hộ. 照(Chiếu): Ánh dương (日) trên Lửa (灬) vạn vật Chiếu (召). Chứng minh tùy thân Hộ chiếu.",
+      "radicals": [
+        {
+          "character": "护",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        },
+        {
+          "character": "照",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "ngọn đốt hoả",
+          "sinoVietnamese": "hỏa"
+        }
+      ]
     },
     {
       "word": "起飞",
@@ -159,7 +296,25 @@
           "vi": "Nhanh lên đi, máy bay sắp cất cánh rồi.",
           "en": "Hurry up, the plane is about to take off."
         }
-      }
+      },
+      "sinoVietnamese": "khởi phi",
+      "mnemonic": "起 (Khởi): Tẩu (走 - Chạy), Kỷ (己 - Ta). Ta đi bằng chân vượt chướng bùng khởi bay lên. 飞 (Phi): Chim mọc 2 cánh vút thăng lên. Nhổ bến bay lên cao / Khởi phi.",
+      "radicals": [
+        {
+          "character": "起",
+          "radical": "走",
+          "pinyin": "zǒu",
+          "vi": "chạy tẩu",
+          "sinoVietnamese": "tẩu"
+        },
+        {
+          "character": "飞",
+          "radical": "飞",
+          "pinyin": "fēi",
+          "vi": "cánh phi",
+          "sinoVietnamese": "phi"
+        }
+      ]
     },
     {
       "word": "司机",
@@ -176,7 +331,25 @@
           "vi": "Lúc tài xế đưa tôi đến sân bay, tôi mới phát hiện quên mang ví tiền.",
           "en": "When the driver took me to the airport, I realized I forgot my wallet."
         }
-      }
+      },
+      "sinoVietnamese": "ti cơ / tư cơ",
+      "mnemonic": "司 (Ti / Tư): Lỗ miệng khẩu (口) báo truyền Lệnh quan (尸). Máy móc hoạt cơ sở. 机 (Cơ): Gỗ mộc (木), Bàn kỉ (几). Tài xế lái bộ cỗ tay phanh chạy xe (Tài xế).",
+      "radicals": [
+        {
+          "character": "司",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "khẩu hình mồm",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "机",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "rừng cây mộc",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "教",
@@ -193,7 +366,18 @@
           "vi": "Tôi là một giáo viên trung học, dạy học sinh vẽ tranh.",
           "en": "I am a middle school teacher, teaching students how to draw."
         }
-      }
+      },
+      "sinoVietnamese": "giáo",
+      "mnemonic": "Lão (老) người thầy răn đe hiếu thảo Tử (子) rồi vung roi Phốc (攵) đôn đốc phạt đánh đứa trẻ lười. Dạy bảo / Giáo điều dục.",
+      "radicals": [
+        {
+          "character": "教",
+          "radical": "攵",
+          "pinyin": "pū",
+          "vi": "đáh nọc nhẹ",
+          "sinoVietnamese": "phốc"
+        }
+      ]
     },
     {
       "word": "画",
@@ -210,7 +394,18 @@
           "vi": "Tôi là một giáo viên trung học, dạy học sinh vẽ tranh.",
           "en": "I am a middle school teacher, teaching students how to draw."
         }
-      }
+      },
+      "sinoVietnamese": "họa",
+      "mnemonic": "Xưa kia dùng điền Địa vuông vắn (田) vạch cõi (一) xung quanh đắp Lập rào bao lưới Khảm (凵). Rạch đường vẽ lại gọi là Bức Họa (vẽ).",
+      "radicals": [
+        {
+          "character": "画",
+          "radical": "田",
+          "pinyin": "tián",
+          "vi": "ruộng vạch",
+          "sinoVietnamese": "điền"
+        }
+      ]
     },
     {
       "word": "需要",
@@ -227,7 +422,25 @@
           "vi": "Trước mỗi lần tan học, tôi đều viết những đồ học sinh cần mang cho lần sau lên bảng đen.",
           "en": "Before each class ends, I write what students need to bring next time on the blackboard."
         }
-      }
+      },
+      "sinoVietnamese": "nhu yếu",
+      "mnemonic": "需 (Nhu): Cơn mưa (雨) rơi và Nhi (而). Lúc hạn cỏ mong mưa rào mọc lại, sự cấp Nhu. 要 (Yếu): Cần Tây Á yếu (覀) đàn bà (女). Rất cần đáp ứng (Nhu cầu, cần).",
+      "radicals": [
+        {
+          "character": "需",
+          "radical": "雨",
+          "pinyin": "yǔ",
+          "vi": "mưa rơi",
+          "sinoVietnamese": "vũ"
+        },
+        {
+          "character": "要",
+          "radical": "覀",
+          "pinyin": "xià",
+          "vi": "cài Tây",
+          "sinoVietnamese": "á"
+        }
+      ]
     },
     {
       "word": "黑板",
@@ -244,7 +457,25 @@
           "vi": "Trước mỗi lần tan học, tôi đều viết những đồ học sinh cần mang cho lần sau lên bảng đen.",
           "en": "Before each class ends, I write what students need to bring next time on the blackboard."
         }
-      }
+      },
+      "sinoVietnamese": "hắc bản",
+      "mnemonic": "黑 (Hắc): Đốt đất thổ trên ngọn lửa (灬) hun cho ám lọ nhọ nồi Đen thui thủi. 板 (Bản): Gỗ thụ (木) chặt lấy phản Phản (反) nẹp. Ghép lại Bức mảng đen gõ Phấn Bảng Hắc.",
+      "radicals": [
+        {
+          "character": "黑",
+          "radical": "黑",
+          "pinyin": "hēi",
+          "vi": "bịt đen",
+          "sinoVietnamese": "hắc"
+        },
+        {
+          "character": "板",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gỗ cứng",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     }
   ],
   "grammars": [
