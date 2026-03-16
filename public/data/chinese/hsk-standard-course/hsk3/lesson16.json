@@ -23,7 +23,25 @@
           "vi": "Tôi không thích cứ sống mãi ở một thành phố, muốn đi các thành phố khác xem thử.",
           "en": "I don't like staying in the same city all the time; I want to visit other cities."
         }
-      }
+      },
+      "sinoVietnamese": "thành thị",
+      "mnemonic": "城 (Thành): Đất Thổ mọc làm ụ lũy thép vây màng Thành Xương Đinh chốt (成). Tường đắp lũy bao. 市(Thị): Cân khăn vuông che khu buôn đắp chợ thị tập. Phố xá khu dân cư đông ở tường thành Thượng.",
+      "radicals": [
+        {
+          "character": "城",
+          "radical": "土",
+          "pinyin": "tǔ",
+          "vi": "bụi đất dơ",
+          "sinoVietnamese": "thổ"
+        },
+        {
+          "character": "市",
+          "radical": "巾",
+          "pinyin": "jīn",
+          "vi": "tà khăn vắt",
+          "sinoVietnamese": "cân"
+        }
+      ]
     },
     {
       "word": "如果",
@@ -40,7 +58,25 @@
           "vi": "Nếu không thoải mái thì đi bệnh viện kiểm tra một chút đi.",
           "en": "If you're not feeling well, go to the hospital for a check-up."
         }
-      }
+      },
+      "sinoVietnamese": "như quả",
+      "mnemonic": "如 (Như): Đàn bà Nữ sinh há miệng nghe theo lời chồng y đút, Y hệt phỏng. 果 (Quả): Cây (木) đơm cành mọc Nhật quả trái lớn. Thu hoạch cái trái thật ngọt sau khi gieo trồng (Trái / Hiện hữu / Giả như).",
+      "radicals": [
+        {
+          "character": "如",
+          "radical": "女",
+          "pinyin": "nǚ",
+          "vi": "đàn bà mẫu",
+          "sinoVietnamese": "nữ"
+        },
+        {
+          "character": "果",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gốc cây",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "认为",
@@ -57,7 +93,25 @@
           "vi": "Tôi nghĩ rằng bây giờ ông có thời gian cũng sẽ không ra ngoài chơi.",
           "en": "I think even if you have time now, you won't go out to play."
         }
-      }
+      },
+      "sinoVietnamese": "nhận vi",
+      "mnemonic": "认 (Nhận): Nói thốt Ngôn Lời (讠) ra tiếp nhân xác quyết điều tỏ là Nhân (人). Vi (为): Hành trảo thủ đơm dạo chấm làm Hành động cho rằng coi Móc điều đó là Như Sự.",
+      "radicals": [
+        {
+          "character": "认",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "ngôn đàm lời",
+          "sinoVietnamese": "ngôn"
+        },
+        {
+          "character": "为",
+          "radical": "丶",
+          "pinyin": "zhǔ",
+          "vi": "trọng nét chấm",
+          "sinoVietnamese": "chủ"
+        }
+      ]
     },
     {
       "word": "皮鞋",
@@ -74,7 +128,25 @@
           "vi": "Đôi giày da nhỏ và cái mũ nhỏ bạn tặng thật đẹp!",
           "en": "The little leather shoes and hat you gave are really beautiful!"
         }
-      }
+      },
+      "sinoVietnamese": "bì hài",
+      "mnemonic": "皮 (Bì): Dùng mạn sườn sột móc lột Da (Da bọc bề). 鞋 (Hài): Chất kết tạo từ Da, giày cỏ Khuê Điền ghép thắt dây Thổ đôi bảo vệ Cước Bàn Chân (Chiếc hài, Lô Giày Da).",
+      "radicals": [
+        {
+          "character": "皮",
+          "radical": "皮",
+          "pinyin": "pí",
+          "vi": "thú vỏ da",
+          "sinoVietnamese": "bì"
+        },
+        {
+          "character": "鞋",
+          "radical": "革",
+          "pinyin": "gé",
+          "vi": "lục lột da thuộc",
+          "sinoVietnamese": "cách"
+        }
+      ]
     },
     {
       "word": "帽子",
@@ -91,7 +163,25 @@
           "vi": "Đôi giày da nhỏ và cái mũ nhỏ bạn tặng thật đẹp!",
           "en": "The little leather shoes and hat you gave are really beautiful!"
         }
-      }
+      },
+      "sinoVietnamese": "mạo tử",
+      "mnemonic": "帽 (Mạo): Khăn Cân vuông đội (巾), nhú lên Mục trên Mõm che Cốp (冒). Tấm khăn trùm đầu đội chóp Mũ/Nón quai trùm đầu tránh Nắng Nhật. Tử (Con vật Mũ nón chóp chóp Mạo).",
+      "radicals": [
+        {
+          "character": "帽",
+          "radical": "巾",
+          "pinyin": "jīn",
+          "vi": "nẹp khăn vành",
+          "sinoVietnamese": "cân"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "nhỏ con",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "长",
@@ -108,7 +198,18 @@
           "vi": "Con gái bạn lớn lên trắng trẻo, mập mạp, thật đáng yêu!",
           "en": "Your daughter has grown up white and chubby, so cute!"
         }
-      }
+      },
+      "sinoVietnamese": "trường / trưởng",
+      "mnemonic": "Y phục xổ kéo vung vuốt dài lết đẹt tới gót. Nét sổ cao phết ngang ngọn Cực dài của vật Lớn.",
+      "radicals": [
+        {
+          "character": "长",
+          "radical": "长",
+          "pinyin": "cháng",
+          "vi": "kéo đằng đẵng",
+          "sinoVietnamese": "trưởng"
+        }
+      ]
     },
     {
       "word": "可爱",
@@ -125,7 +226,25 @@
           "vi": "Con gái bạn lớn lên trắng trẻo, mập mạp, thật đáng yêu!",
           "en": "Your daughter has grown up white and chubby, so cute!"
         }
-      }
+      },
+      "sinoVietnamese": "khả ái",
+      "mnemonic": "可 (Khả): Cái miệng bằng chịu Khẩu. 爱 (Ái): Chữ Thụ 爫, Tâm Tim 心 che phủ lại ở bụng, Bằng hữu vuốt ngực Hữu 又 trút Tình đắm say. Hợp: Dễ lấy lòng thương (Dễ thương xĩu Khả yêu).",
+      "radicals": [
+        {
+          "character": "可",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "miệng cười",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "爱",
+          "radical": "爫",
+          "pinyin": "zhǎo",
+          "vi": "vuốt che",
+          "sinoVietnamese": "trảo"
+        }
+      ]
     },
     {
       "word": "米",
@@ -142,7 +261,18 @@
           "vi": "Sắp được 1 mét rồi, 25 ki-lô-gam.",
           "en": "Almost 1 meter tall, 25 kilograms."
         }
-      }
+      },
+      "sinoVietnamese": "mễ",
+      "mnemonic": "Hạt lúa Thập cọng dăm bóc vỏ rơi tãi tung 4 chấm tròn mảy trấu lúa hạt thành Hột Trắng (Hạt gạo bóc/Thước gạo đo mét chiều / Một Mét dài chỏn mễ).",
+      "radicals": [
+        {
+          "character": "米",
+          "radical": "米",
+          "pinyin": "mǐ",
+          "vi": "lúa hột gạo",
+          "sinoVietnamese": "mễ"
+        }
+      ]
     },
     {
       "word": "公斤",
@@ -159,7 +289,25 @@
           "vi": "Sắp được 1 mét rồi, 25 ki-lô-gam.",
           "en": "Almost 1 meter tall, 25 kilograms."
         }
-      }
+      },
+      "sinoVietnamese": "công cân",
+      "mnemonic": "公 (Công): Chung chạ Bát chia ra 2 Cổ phần (八). 斤 (Cân): Cầm Rìu nhát đao chém củi gỗ đong Rìu đập, Đo lượng Đong sức Bằng Kg. Một đơn vị 1 KG Trọng Lực cân đồng.",
+      "radicals": [
+        {
+          "character": "公",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "nhát bát phân",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "斤",
+          "radical": "斤",
+          "pinyin": "jīn",
+          "vi": "sức rìu cân",
+          "sinoVietnamese": "cân"
+        }
+      ]
     },
     {
       "word": "鼻子",
@@ -176,7 +324,25 @@
           "vi": "Bạn xem mũi cô bé nhỏ nhắn kìa.",
           "en": "Look, her nose is small."
         }
-      }
+      },
+      "sinoVietnamese": "tị tử",
+      "mnemonic": "鼻 (Tị): Cái Mũi Tự Bản Ngã (自). Trồng Tý Đất Điền phân khu rãnh (田 / 廾). Luồng khí hở lỗ thông vào lồng phổi (Cái chóp Mũi thở hút oxy hỉ mũi tị).",
+      "radicals": [
+        {
+          "character": "鼻",
+          "radical": "鼻",
+          "pinyin": "bí",
+          "vi": "hố lổ mũi",
+          "sinoVietnamese": "tị"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "phần vật nhỏ",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "头发",
@@ -193,7 +359,25 @@
           "vi": "Tóc đen nhánh, trông giống ai thế?",
           "en": "With black hair, who does she look like?"
         }
-      }
+      },
+      "sinoVietnamese": "đầu phát",
+      "mnemonic": "头 (Đầu): Đỉnh chỏm 2 chỏm tóc 2 bên (丷) Đầu to trên trán cái Đại. Trọng tâm. 发 (Phát): Phóng đâm Hựu lặp lại (Chỏm mọc lông Mọc dài lại sau nhả) (Rành: Chùm Rễ Mái Tóc).",
+      "radicals": [
+        {
+          "character": "头",
+          "radical": "大",
+          "pinyin": "dà",
+          "vi": "chóp đầu to",
+          "sinoVietnamese": "đại"
+        },
+        {
+          "character": "发",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "tay vuốt lại",
+          "sinoVietnamese": "hựu"
+        }
+      ]
     },
     {
       "word": "检查",
@@ -210,7 +394,25 @@
           "vi": "Nếu không thoải mái thì đi bệnh viện kiểm tra một chút đi.",
           "en": "If you're not feeling well, go to the hospital for a check-up."
         }
-      }
+      },
+      "sinoVietnamese": "kiểm tra",
+      "mnemonic": "检 (Kiểm): Cây (木) Mộc làm khuôn Nhất, Cầm bao chùm lấy ngó đo (Khâm 欠 - cái ngáp Thiết Kế vát). 查 (Tra): Gỗ Mộc (木) kê kệ Đán soi Tảo dưới Mắt Trời gắt Mộc tra hạch sách, Cầm Gỗ Khỏa Lại lục.",
+      "radicals": [
+        {
+          "character": "检",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gọn cây cối",
+          "sinoVietnamese": "mộc"
+        },
+        {
+          "character": "查",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "nền khúc mộc",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "刷牙",
@@ -227,7 +429,25 @@
           "vi": "Lần nào bác sĩ cũng bảo tôi về nhà đánh răng cho kỹ.",
           "en": "Every time the doctor tells me to go home and brush my teeth well."
         }
-      }
+      },
+      "sinoVietnamese": "xoát nha",
+      "mnemonic": "刷 (Xoát): Thi Xác rữa chải lông dùng bằng Dao (刂). Lấy cọ Xát lùa rêu làm sạch đánh bóng (Cọ chổi). 牙 (Nha): Hàm Răng móc móc Mài đứt hàm. => Động tác Đánh Cọ chải sạch Hàm Răng miệng.",
+      "radicals": [
+        {
+          "character": "刷",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "con dao sắt",
+          "sinoVietnamese": "đao"
+        },
+        {
+          "character": "牙",
+          "radical": "牙",
+          "pinyin": "yá",
+          "vi": "bộ nhai ngà",
+          "sinoVietnamese": "nha"
+        }
+      ]
     },
     {
       "word": "关系",
@@ -244,7 +464,25 @@
           "vi": "Rất nhiều người cảm thấy mối quan hệ giữa người với người hiện nay rất lạnh nhạt.",
           "en": "Many people feel that relationships between people are cold nowadays."
         }
-      }
+      },
+      "sinoVietnamese": "quan hệ",
+      "mnemonic": "关 (Quan): Khép Bát cửa then ngang then chốt Thiên Cổng đóng kín vào nhau giam ải. 系 (Hệ): Cầm Mịch Dây tơ (纟) xâu vuốt liền thành chùm dài liền kề 1 dọc rễ (Mối Quan hệ, liên luy).",
+      "radicals": [
+        {
+          "character": "关",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "Bát then mở",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "系",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "giàn tơ cột",
+          "sinoVietnamese": "mịch"
+        }
+      ]
     },
     {
       "word": "别人",
@@ -261,7 +499,25 @@
           "vi": "Bận đến nỗi không có thời gian gặp gỡ người khác.",
           "en": "Too busy to have time to meet others."
         }
-      }
+      },
+      "sinoVietnamese": "biệt nhân",
+      "mnemonic": "别 (Biệt): Dùng miêng Khẩu Lực Đao cắt chia xạch ra (刂) hai phần Mọt Nhóm không chung chia tay li biệt biệt xứ. 人 (Nhân): Người xa cách ko chung nòi (Kẻ khác Dân khác người lạ khác).",
+      "radicals": [
+        {
+          "character": "别",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "Đao cắt",
+          "sinoVietnamese": "đao"
+        },
+        {
+          "character": "人",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "dòng người",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "词语",
@@ -278,7 +534,25 @@
           "vi": "Khi nói chuyện nếu có thể dùng nhiều hơn những từ ngữ như \"Xin chào\", \"Cảm ơn\".",
           "en": "If you can use more words like \"Hello\" and \"Thank you\" when speaking."
         }
-      }
+      },
+      "sinoVietnamese": "từ ngữ",
+      "mnemonic": "词 (Từ): Ngôn nói (讠) ti Ty cai quản. Hệ đống lời ráp xâu chuỗi Lời. 语 (Ngữ): Khẩu môn phái lời (讠) ta Ngô (吾 - phát danh Ngũ Khẩu). Mê lộ câu chữ lời nói nói truyện Giao từ.",
+      "radicals": [
+        {
+          "character": "词",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "Chữ lời xướng",
+          "sinoVietnamese": "ngôn"
+        },
+        {
+          "character": "语",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "Chữ lời đáp",
+          "sinoVietnamese": "ngôn"
+        }
+      ]
     }
   ],
   "grammars": [

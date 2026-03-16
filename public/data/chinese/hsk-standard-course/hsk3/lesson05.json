@@ -23,7 +23,25 @@
           "vi": "Mấy hôm trước hơi bị sốt, bây giờ đỡ nhiều rồi.",
           "en": "I had a fever a few days ago, I'm much better now."
         }
-      }
+      },
+      "sinoVietnamese": "phát thiêu",
+      "mnemonic": "发 (Phát): Phóng ra. 烧 (Thiêu): Lửa (火), nóng như bị đốt lửa nướng cháy. Phát ra nhiệt trên người như bị nướng (phát sốt).",
+      "radicals": [
+        {
+          "character": "发",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "lại tiếp",
+          "sinoVietnamese": "hựu"
+        },
+        {
+          "character": "烧",
+          "radical": "火",
+          "pinyin": "huǒ",
+          "vi": "lửa cháy",
+          "sinoVietnamese": "hỏa"
+        }
+      ]
     },
     {
       "word": "为",
@@ -40,7 +58,18 @@
           "vi": "Đây là trà xanh tôi mua cho bạn, rất ngon.",
           "en": "This is green tea I bought for you, it's very good."
         }
-      }
+      },
+      "sinoVietnamese": "vi",
+      "mnemonic": "Hình ảnh giống một bàn tay đang thao tác vì một mục đích nào đó. Nghĩa là Để, Vì.",
+      "radicals": [
+        {
+          "character": "为",
+          "radical": "丶",
+          "pinyin": "zhǔ",
+          "vi": "dấu chấm",
+          "sinoVietnamese": "chủ"
+        }
+      ]
     },
     {
       "word": "照顾",
@@ -57,7 +86,25 @@
           "vi": "Con trai tôi bị ốm rồi, tôi phải ở nhà chăm sóc nó.",
           "en": "My son is sick, I need to take care of him at home."
         }
-      }
+      },
+      "sinoVietnamese": "chiếu cố",
+      "mnemonic": "照 (Chiếu): Ánh dương (日) trên ngọn lửa (灬). 顾 (Cố): Quay đầu (页) nhìn lại. Chiếu rọi quay lại nhìn ngó đến ai đó gọi là chiếu cố chăm sóc (chăm sóc).",
+      "radicals": [
+        {
+          "character": "照",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "ngọn lửa",
+          "sinoVietnamese": "hỏa"
+        },
+        {
+          "character": "顾",
+          "radical": "页",
+          "pinyin": "yè",
+          "vi": "trang giấy, cái đầu",
+          "sinoVietnamese": "hiệt"
+        }
+      ]
     },
     {
       "word": "用",
@@ -74,7 +121,18 @@
           "vi": "Không cần đi bệnh viện, hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
           "en": "No need to go to the hospital, he took cold medicine yesterday, he's a bit better now."
         }
-      }
+      },
+      "sinoVietnamese": "dụng",
+      "mnemonic": "Biến thể của chữ mộc (bức gậy), có nét sổ chéo ở giữa, tạo nên một vật dụng công cụ được sử dụng. Dùng, sử dụng.",
+      "radicals": [
+        {
+          "character": "用",
+          "radical": "用",
+          "pinyin": "yòng",
+          "vi": "sử dụng",
+          "sinoVietnamese": "dụng"
+        }
+      ]
     },
     {
       "word": "感冒",
@@ -91,7 +149,25 @@
           "vi": "Hôm qua uống thuốc cảm rồi, bây giờ đỡ hơn chút rồi.",
           "en": "He took cold medicine yesterday, he's a bit better now."
         }
-      }
+      },
+      "sinoVietnamese": "cảm mạo",
+      "mnemonic": "感 (Cảm): Cảm xúc từ trái tim Tâm (心). 冒 (Mạo): Mặt trời (日) che lên trên (mắt). Sinh cảm xúc bệnh tật đến che mắt mờ (cảm cúm).",
+      "radicals": [
+        {
+          "character": "感",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        },
+        {
+          "character": "冒",
+          "radical": "冂",
+          "pinyin": "jiōng",
+          "vi": "cái hộp",
+          "sinoVietnamese": "quynh"
+        }
+      ]
     },
     {
       "word": "季节",
@@ -108,7 +184,25 @@
           "vi": "Em thích nhất mùa nào?",
           "en": "Which season do you like the best?"
         }
-      }
+      },
+      "sinoVietnamese": "quý tiết",
+      "mnemonic": "季 (Quý): Lúa (禾) trải qua thu hoạch để qua một mùa (Tử 子). 节 (Tiết): Đốt tre cứng (竹), mốc thời gian. Một mùa của năm.",
+      "radicals": [
+        {
+          "character": "季",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "con nít",
+          "sinoVietnamese": "tử"
+        },
+        {
+          "character": "节",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "cỏ cây",
+          "sinoVietnamese": "thảo"
+        }
+      ]
     },
     {
       "word": "当然",
@@ -125,7 +219,25 @@
           "vi": "Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa.",
           "en": "Of course it's spring, the weather isn't that cold anymore."
         }
-      }
+      },
+      "sinoVietnamese": "đương nhiên",
+      "mnemonic": "当 (Đương): Đầu ngẩng thẳng (彐), đứng đúng chỗ. 然 (Nhiên): Thịt lợn chó (犬), nướng trên lửa (灬), sự việc luôn rõ mồn một như thịt bị nướng. Đương nhiên.",
+      "radicals": [
+        {
+          "character": "当",
+          "radical": "彐",
+          "pinyin": "jì",
+          "vi": "mõm heo",
+          "sinoVietnamese": "ký"
+        },
+        {
+          "character": "然",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "lửa cháy",
+          "sinoVietnamese": "hỏa"
+        }
+      ]
     },
     {
       "word": "春（天）",
@@ -142,7 +254,18 @@
           "vi": "Đương nhiên là mùa xuân, thời tiết không lạnh thế nữa.",
           "en": "Of course it's spring, the weather isn't that cold anymore."
         }
-      }
+      },
+      "sinoVietnamese": "xuân",
+      "mnemonic": "Chữ Tam (ba người), bộ Nhật (mặt trời). Ngày có ba người dưới nắng chói rạng rỡ đâm chồi là mùa xuân tươi trẻ.",
+      "radicals": [
+        {
+          "character": "春",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        }
+      ]
     },
     {
       "word": "草",
@@ -159,7 +282,18 @@
           "vi": "Cỏ và cây đều xanh rồi, hoa cũng nở rồi.",
           "en": "The grass and trees are green, and the flowers are blooming."
         }
-      }
+      },
+      "sinoVietnamese": "thảo",
+      "mnemonic": "Bộ Thảo (艹) ở trên, chữ Tảo (早) sớm mai ở dưới. Buổi sáng sớm trên ngọn cỏ sương đọng (Cỏ).",
+      "radicals": [
+        {
+          "character": "草",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "cây cỏ",
+          "sinoVietnamese": "thảo"
+        }
+      ]
     },
     {
       "word": "夏（天）",
@@ -176,7 +310,18 @@
           "vi": "Anh thích nhất mùa hè, bởi vì anh có thể mặc váy đẹp rồi.",
           "en": "I like summer best, because I can wear pretty dresses."
         }
-      }
+      },
+      "sinoVietnamese": "hạ",
+      "mnemonic": "Người có cái đầu (页) dưới nắng nóng mặt trời che bước đi mệt nhọc tới tận cuối ngày vì mặt trời (mùa hè nóng).",
+      "radicals": [
+        {
+          "character": "夏",
+          "radical": "夂",
+          "pinyin": "zhī",
+          "vi": "bước đi chậm",
+          "sinoVietnamese": "trĩ"
+        }
+      ]
     },
     {
       "word": "裙子",
@@ -193,7 +338,25 @@
           "vi": "Chiếc váy này mua năm ngoái, năm nay không mặc được nữa rồi.",
           "en": "This dress was bought last year, I can't wear it this year."
         }
-      }
+      },
+      "sinoVietnamese": "quần tử",
+      "mnemonic": "裙 (Quần): Bộ Y (衤 - quần áo) và chữ Quân (君 - người quyền lực). Quần áo của nam quân ngày xưa cũng giống như cái váy.子 (Tử). Nghĩa là CÁI VÁY.",
+      "radicals": [
+        {
+          "character": "裙",
+          "radical": "衤",
+          "pinyin": "yī",
+          "vi": "y phục",
+          "sinoVietnamese": "y"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "đứa con",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "最近",
@@ -210,7 +373,25 @@
           "vi": "Dạo này em ngày càng béo ra.",
           "en": "I am getting fatter and fatter lately."
         }
-      }
+      },
+      "sinoVietnamese": "tối cận",
+      "mnemonic": "最 (Tối): Mặt trời (日) mọc trên đầu, chiếm lấy phần tốt nhất (Nhĩ). 近 (Cận): Bước chân (辶) tiến lại Cân (斤) vác chiếc rìu lấy đồ. Cực kì gần, dạo này.",
+      "radicals": [
+        {
+          "character": "最",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        },
+        {
+          "character": "近",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "bước chân đi",
+          "sinoVietnamese": "xước"
+        }
+      ]
     },
     {
       "word": "越",
@@ -227,7 +408,18 @@
           "vi": "Anh thấy em ngày càng xinh đẹp.",
           "en": "I think you are getting prettier and prettier."
         }
-      }
+      },
+      "sinoVietnamese": "việt",
+      "mnemonic": "Bộ Tẩu (走 - đi lại chạy). Qua được bằng cách chạy đi gọi là bước qua, vượt qua (việt).",
+      "radicals": [
+        {
+          "character": "越",
+          "radical": "走",
+          "pinyin": "zǒu",
+          "vi": "chạy bộ",
+          "sinoVietnamese": "tẩu"
+        }
+      ]
     }
   ],
   "grammars": [

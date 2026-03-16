@@ -23,7 +23,25 @@
           "vi": "Con gái dạo này thích vén tóc ra sau tai.",
           "en": "Daughter likes to put her hair behind her ears recently."
         }
-      }
+      },
+      "sinoVietnamese": "nhĩ đóa",
+      "mnemonic": "耳 (Nhĩ): Tai uốn lượn thính giác thò rìa bắt tín hiệu. 朵 (Đóa): Bông/đóa cây mộc Nhất (木). Tai có hình bông hoa mọc vách gọi Vành Nhĩ đóa Tai.",
+      "radicals": [
+        {
+          "character": "耳",
+          "radical": "耳",
+          "pinyin": "ěr",
+          "vi": "lỗ vách tai",
+          "sinoVietnamese": "nhĩ"
+        },
+        {
+          "character": "朵",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "đóa gốc gỗ",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "脸",
@@ -40,7 +58,18 @@
           "vi": "Như vậy có thể khiến khuôn mặt con bé trông xinh hơn một chút.",
           "en": "This can make her face look a bit prettier."
         }
-      }
+      },
+      "sinoVietnamese": "kiểm",
+      "mnemonic": "Nhục thân thịt tảng chéo (月 - Thịt máu), Kiểm Chóp che Nhất họp hai khối (Khuôn đúc Gờ Thịt). Khuôn mặt, Mặt người da.",
+      "radicals": [
+        {
+          "character": "脸",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "miếng nhục thịt",
+          "sinoVietnamese": "nhục"
+        }
+      ]
     },
     {
       "word": "短",
@@ -57,7 +86,18 @@
           "vi": "Hồi nhỏ con bé thích tóc ngắn.",
           "en": "She liked short hair when she was little."
         }
-      }
+      },
+      "sinoVietnamese": "đoản",
+      "mnemonic": "Thỉ cung chĩa Mũi tên đoạt dẹp (矢). Đậu giá Đỗ Bếp cốc. Khoảng Cự li bị phi găm Cắt cụt (Ngắn cụn lủn, Đoản Thể).",
+      "radicals": [
+        {
+          "character": "短",
+          "radical": "矢",
+          "pinyin": "shǐ",
+          "vi": "đầu mũi tên",
+          "sinoVietnamese": "thỉ"
+        }
+      ]
     },
     {
       "word": "马",
@@ -74,7 +114,18 @@
           "vi": "Ảnh lần trước chúng ta tham gia cuộc thi cưỡi ngựa.",
           "en": "Photos from the horse riding competition we participated in last time."
         }
-      }
+      },
+      "sinoVietnamese": "mã",
+      "mnemonic": "Mã (马): Con vật bờm dài đứng chõng chạy bằng Lực Chân lớn vót nhọn đuôi dập dài. Con Ngựa cưỡi.",
+      "radicals": [
+        {
+          "character": "马",
+          "radical": "马",
+          "pinyin": "mǎ",
+          "vi": "nòi giống ngựa",
+          "sinoVietnamese": "mã"
+        }
+      ]
     },
     {
       "word": "张",
@@ -91,7 +142,18 @@
           "vi": "Tôi đã chọn vài tấm rửa ra rồi.",
           "en": "I selected a few to develop."
         }
-      }
+      },
+      "sinoVietnamese": "trương",
+      "mnemonic": "Cung giương rướn Cung thắt sức (弓). Trường dài kéo sức Trưởng bung hết nấc sức dãn căng. Trương phồng, Mở toác (Trương ra).",
+      "radicals": [
+        {
+          "character": "张",
+          "radical": "弓",
+          "pinyin": "gōng",
+          "vi": "chiếc cánh cung",
+          "sinoVietnamese": "cung"
+        }
+      ]
     },
     {
       "word": "位",
@@ -108,7 +170,18 @@
           "vi": "Vị cưỡi nhanh nhất này là ai?",
           "en": "Who is this person riding the fastest?"
         }
-      }
+      },
+      "sinoVietnamese": "vị",
+      "mnemonic": "Nhân Lập. Con người Đứng (亻+立). Người đứng chóp chắp tay Lập Ngự Tọa một Vị thế Chỗ ngồi. Ngôi Vị Tôn (Vị - Danh từ lượng).",
+      "radicals": [
+        {
+          "character": "位",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "nhân vị chỉ",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "蓝",
@@ -125,7 +198,18 @@
           "vi": "Hôm nay anh ấy mặc âu phục màu xanh lam.",
           "en": "He is wearing a blue suit today."
         }
-      }
+      },
+      "sinoVietnamese": "lam",
+      "mnemonic": "Thảo (艹 - hoa cỏ) dùng nhúng nặn Màu Lam Mực từ cây Râm bụi chiết xuất lấy chậu rổ Bát Mâm Móng Giám Giám sắc. Màu Xanh Lam nước.",
+      "radicals": [
+        {
+          "character": "蓝",
+          "radical": "艹",
+          "pinyin": "cǎo",
+          "vi": "cây bám mọc",
+          "sinoVietnamese": "thảo"
+        }
+      ]
     },
     {
       "word": "秋(天)",
@@ -142,7 +226,18 @@
           "vi": "Con bé sinh vào mùa thu năm ngoái.",
           "en": "She was born last autumn."
         }
-      }
+      },
+      "sinoVietnamese": "thu",
+      "mnemonic": "Hòa Cây ngậm Lúa hạt Mễ Gạo Gặt (禾). Hỏa (火 - Ngọn đốt đống rơm). Gặt đống lúa rồi đốt Lửa gom Tro Trấu Báo Mùa Thu (Tiết thu hanh).",
+      "radicals": [
+        {
+          "character": "秋",
+          "radical": "禾",
+          "pinyin": "hé",
+          "vi": "hạt kê lúa",
+          "sinoVietnamese": "hòa"
+        }
+      ]
     },
     {
       "word": "过",
@@ -159,7 +254,18 @@
           "vi": "Vừa ăn mừng sinh nhật một tuổi xong.",
           "en": "Just finished celebrating her first birthday."
         }
-      }
+      },
+      "sinoVietnamese": "quá",
+      "mnemonic": "Xước cằm chân Xoài ngang đi lướt rẹt (辶) băng Thốn mốc một Gang Chút (寸). Lấn qua vạch gang tấc (Băng Quá vạch, Đã qua đi lâu).",
+      "radicals": [
+        {
+          "character": "过",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "lê gót bộ",
+          "sinoVietnamese": "xước"
+        }
+      ]
     },
     {
       "word": "鸟",
@@ -176,7 +282,18 @@
           "vi": "Con bé chỉ thích nghe bố nó bắt chước tiếng chim kêu.",
           "en": "She just likes listening to her dad imitate bird calls."
         }
-      }
+      },
+      "sinoVietnamese": "điểu",
+      "mnemonic": "Điểu (鸟): Hình con sinh vật có đầu mắt, chỏm mỏ, bụng chân quắp và đậu Móc bay vụt sải Điểu. Bộ Chim Điểu muông.",
+      "radicals": [
+        {
+          "character": "鸟",
+          "radical": "鸟",
+          "pinyin": "niǎo",
+          "vi": "chim loài điểu",
+          "sinoVietnamese": "điểu"
+        }
+      ]
     },
     {
       "word": "哭",
@@ -193,7 +310,18 @@
           "vi": "Lúc khóc, chỉ cần bố nó bắt chước tiếng chim kêu, nó liền im lặng ngay.",
           "en": "When she cries, as long as her dad imitates a bird, she quiets down immediately."
         }
-      }
+      },
+      "sinoVietnamese": "khốc",
+      "mnemonic": "Hai Khẩu rống bọt rã ngoạc. Hút rú Chó sủa Đai Cục rướn Họng (犬). Sủa gào thét rên Kêu lớn dọa rẫm thút thít (Khóc gào khốc).",
+      "radicals": [
+        {
+          "character": "哭",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "nhai khóc mồm",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "黄河",
@@ -210,7 +338,25 @@
           "vi": "Tôi đi xem sông Hoàng Hà trước.",
           "en": "I went to see the Yellow River first."
         }
-      }
+      },
+      "sinoVietnamese": "hoàng hà",
+      "mnemonic": "黄 (Hoàng): Đất Thổ (土) và Lục Điền Màu Tỏi dải Bát sắc Vàng đất mỡ. 河 (Hà): Nước Thủy (氵) Chảy ngả Khả Có Ngân Hà nứt mạch (Sông Hà / Hoàng Hà).",
+      "radicals": [
+        {
+          "character": "黄",
+          "radical": "黄",
+          "pinyin": "huáng",
+          "vi": "sắc phủ vàng",
+          "sinoVietnamese": "hoàng"
+        },
+        {
+          "character": "河",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "vệt hố thủy",
+          "sinoVietnamese": "thủy"
+        }
+      ]
     },
     {
       "word": "船",
@@ -227,7 +373,18 @@
           "vi": "Tôi ngồi trên thuyền, vừa ngắm vừa chụp ảnh.",
           "en": "I sat on the boat, looking and taking photos at the same time."
         }
-      }
+      },
+      "sinoVietnamese": "thuyền",
+      "mnemonic": "Chu Khúc bọc đục Gỗ Thân sáo rãnh (舟). Thù Kị chèo Ống lùa Nước Bát xoáy nước Cửa Khẩu thoi rẽ rầm (Khẩu Thuyền lái bè).",
+      "radicals": [
+        {
+          "character": "船",
+          "radical": "舟",
+          "pinyin": "zhōu",
+          "vi": "thuyền chu đục",
+          "sinoVietnamese": "chu"
+        }
+      ]
     },
     {
       "word": "经过",
@@ -244,7 +401,25 @@
           "vi": "Trên đường đi đã đi ngang qua rất nhiều nơi.",
           "en": "Passed by many places along the way."
         }
-      }
+      },
+      "sinoVietnamese": "kinh quá",
+      "mnemonic": "经 (Kinh): Căng Mịch Cáp thừng. 过 (Quá): Băng Xước (辶) gang tắc Thốn đo Tấc. Vượt gang dọc theo tơ rãnh kinh độ dũa Kinh lịch đường đã Quá Trải.",
+      "radicals": [
+        {
+          "character": "经",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "sợi vắt mịch",
+          "sinoVietnamese": "mịch"
+        },
+        {
+          "character": "过",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "xước đạp tẩu",
+          "sinoVietnamese": "xước"
+        }
+      ]
     }
   ],
   "grammars": [

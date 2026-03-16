@@ -12,6 +12,24 @@
       "word": "周末",
       "type": "danh từ",
       "pronunciation": "zhōumò",
+      "sinoVietnamese": "chu mạt",
+      "mnemonic": "周 (Chu): Vòng quanh, chu kì. 末 (Mạt): Ngọn, phần cuối. Chu mạt là cuối của một chu kì tuần lễ (cuối tuần).",
+      "radicals": [
+        {
+          "character": "周",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái miệng",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "末",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "cái cây",
+          "sinoVietnamese": "mộc"
+        }
+      ],
       "translations": {
         "vi": "cuối tuần",
         "en": "weekend"
@@ -29,6 +47,24 @@
       "word": "打算",
       "type": "danh từ/động từ",
       "pronunciation": "dǎsuàn",
+      "sinoVietnamese": "đả toán",
+      "mnemonic": "打 (Đả): Dùng tay (扌) thao tác. 算 (Toán): Dùng tay, mắt gẩy bàn tính bằng trúc (⺮). Đả toán biểu thị việc vung tay gảy bàn tính để dự tính, lên kế hoạch.",
+      "radicals": [
+        {
+          "character": "打",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        },
+        {
+          "character": "算",
+          "radical": "⺮",
+          "pinyin": "zhú",
+          "vi": "tre trúc",
+          "sinoVietnamese": "trúc"
+        }
+      ],
       "translations": {
         "vi": "kế hoạch; dự định",
         "en": "plan; to plan"
@@ -46,6 +82,17 @@
       "word": "啊",
       "type": "trợ từ",
       "pronunciation": "a",
+      "sinoVietnamese": "a",
+      "mnemonic": "Bộ Khẩu (口) kết hợp với chữ A (阿). Dùng miệng (口) phát ra tiếng 'a' để thốt lên hoặc khẳng định đồng tình.",
+      "radicals": [
+        {
+          "character": "啊",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái miệng",
+          "sinoVietnamese": "khẩu"
+        }
+      ],
       "translations": {
         "vi": "được dùng ở cuối câu để khẳng định hay biện minh cho điều gì",
         "en": "particle used at the end of a sentence for confirmation or justification"
@@ -63,6 +110,17 @@
       "word": "跟",
       "type": "giới từ",
       "pronunciation": "gēn",
+      "sinoVietnamese": "cân",
+      "mnemonic": "Bộ Túc (⻊) chỉ cái chân. Chữ Cấn (艮). Dùng chân bước theo, bám sát gót (cân) ai đó tức là đi cùng, đồng hành với họ.",
+      "radicals": [
+        {
+          "character": "跟",
+          "radical": "⻊",
+          "pinyin": "zú",
+          "vi": "cái chân",
+          "sinoVietnamese": "túc"
+        }
+      ],
       "translations": {
         "vi": "cùng, với",
         "en": "with"
@@ -80,6 +138,24 @@
       "word": "一直",
       "type": "phó từ",
       "pronunciation": "yìzhí",
+      "sinoVietnamese": "nhất trực",
+      "mnemonic": "一 (Nhất): Một đường. 直 (Trực): Thẳng. Ánh mắt nhìn thẳng một đường (nhất trực) và cứ thế đi thẳng liên tục, thông suốt không thay đổi.",
+      "radicals": [
+        {
+          "character": "一",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số một",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "直",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "con mắt",
+          "sinoVietnamese": "mục"
+        }
+      ],
       "translations": {
         "vi": "suốt, liên tục",
         "en": "always; continuously"
@@ -97,6 +173,24 @@
       "word": "游戏",
       "type": "danh từ",
       "pronunciation": "yóuxì",
+      "sinoVietnamese": "du hí",
+      "mnemonic": "游 (Du): Đi chơi, nhàn rỗi. 戏 (Hí): Vui đùa nghịch ngợm. Du hí là hành động dạo chơi và vui đùa, chỉ trò chơi giải trí.",
+      "radicals": [
+        {
+          "character": "游",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước",
+          "sinoVietnamese": "thủy"
+        },
+        {
+          "character": "戏",
+          "radical": "戈",
+          "pinyin": "gē",
+          "vi": "cây qua (một loại binh khí)",
+          "sinoVietnamese": "qua"
+        }
+      ],
       "translations": {
         "vi": "trò chơi",
         "en": "game"
@@ -114,6 +208,24 @@
       "word": "作业",
       "type": "danh từ",
       "pronunciation": "zuòyè",
+      "sinoVietnamese": "tác nghiệp",
+      "mnemonic": "作 (Tác): Làm việc, thực hiện. 业 (Nghiệp): Công việc, nghiệp vụ. Tác nghiệp là hoạt động làm nhiệm vụ được giao, đối với học sinh là bài tập.",
+      "radicals": [
+        {
+          "character": "作",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "业",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số một",
+          "sinoVietnamese": "nhất"
+        }
+      ],
       "translations": {
         "vi": "bài tập về nhà",
         "en": "homework"
@@ -131,6 +243,24 @@
       "word": "着急",
       "type": "tính từ",
       "pronunciation": "zháojí",
+      "sinoVietnamese": "trước cấp",
+      "mnemonic": "着 (Trước): Để vào, bị tác động. 急 (Cấp): Gấp gáp, có bộ Tâm (心) chỉ tâm trí. Trạng thái tâm trí bị thôi thúc gấp gáp, sinh ra lo lắng, bồn chồn.",
+      "radicals": [
+        {
+          "character": "着",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "con mắt",
+          "sinoVietnamese": "mục"
+        },
+        {
+          "character": "急",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ],
       "translations": {
         "vi": "lo lắng",
         "en": "worried; anxious"
@@ -148,6 +278,24 @@
       "word": "复习",
       "type": "động từ",
       "pronunciation": "fùxí",
+      "sinoVietnamese": "phục tập",
+      "mnemonic": "复 (Phục): Lặp lại nhiều lần. 习 (Tập): Cánh chim vỗ nhiều lần để tập bay. Phục tập là việc lặp đi lặp lại những gì đã học, tức là ôn tập.",
+      "radicals": [
+        {
+          "character": "复",
+          "radical": "夂",
+          "pinyin": "zhī",
+          "vi": "bước đi chậm chạp",
+          "sinoVietnamese": "trĩ"
+        },
+        {
+          "character": "习",
+          "radical": "乙",
+          "pinyin": "yǐ",
+          "vi": "can ất",
+          "sinoVietnamese": "ất"
+        }
+      ],
       "translations": {
         "vi": "ôn tập",
         "en": "to review"
@@ -165,6 +313,24 @@
       "word": "南(方)",
       "type": "danh từ",
       "pronunciation": "nán (fāng)",
+      "sinoVietnamese": "nam phương",
+      "mnemonic": "南 (Nam): Hướng Nam. 方 (Phương): Phương hướng, nơi chốn. Ghép lại là chỉ hướng Nam, khu vực địa lý nằm ở phía Nam.",
+      "radicals": [
+        {
+          "character": "南",
+          "radical": "十",
+          "pinyin": "shí",
+          "vi": "số mười",
+          "sinoVietnamese": "thập"
+        },
+        {
+          "character": "方",
+          "radical": "方",
+          "pinyin": "fāng",
+          "vi": "hình vuông, phương hướng",
+          "sinoVietnamese": "phương"
+        }
+      ],
       "translations": {
         "vi": "phía nam, miền nam",
         "en": "south; southern part"
@@ -182,6 +348,24 @@
       "word": "北方",
       "type": "danh từ",
       "pronunciation": "běifāng",
+      "sinoVietnamese": "bắc phương",
+      "mnemonic": "北 (Bắc): Hình ảnh 2 người quay lưng vào nhau (bội), chỉ phương Bắc. 方 (Phương): Hướng. Nghĩa là phương Bắc.",
+      "radicals": [
+        {
+          "character": "北",
+          "radical": "匕",
+          "pinyin": "bǐ",
+          "vi": "cái thìa",
+          "sinoVietnamese": "chủy"
+        },
+        {
+          "character": "方",
+          "radical": "方",
+          "pinyin": "fāng",
+          "vi": "hình vuông, phương hướng",
+          "sinoVietnamese": "phương"
+        }
+      ],
       "translations": {
         "vi": "phía bắc, miền bắc",
         "en": "north; northern part"
@@ -199,6 +383,24 @@
       "word": "面包",
       "type": "danh từ",
       "pronunciation": "miànbāo",
+      "sinoVietnamese": "miến bao",
+      "mnemonic": "面 (Miến): Bột mì. 包 (Bao): Bao bọc, nặn thành khối. Bột mì được nhào nặn và gói viên lại rồi đem nướng nở ra thành bánh mì.",
+      "radicals": [
+        {
+          "character": "面",
+          "radical": "面",
+          "pinyin": "miàn",
+          "vi": "khuôn mặt, lúa mì",
+          "sinoVietnamese": "diện"
+        },
+        {
+          "character": "包",
+          "radical": "勹",
+          "pinyin": "bāo",
+          "vi": "bao bọc",
+          "sinoVietnamese": "bao"
+        }
+      ],
       "translations": {
         "vi": "bánh mì",
         "en": "bread"
@@ -216,6 +418,17 @@
       "word": "带",
       "type": "động từ",
       "pronunciation": "dài",
+      "sinoVietnamese": "đái",
+      "mnemonic": "带 (Đái): Hình ảnh những dải đai, dải dây. Ngày xưa buộc đai ngang lưng để giắt các vật dụng, nên mang nghĩa là đem theo, mang theo.",
+      "radicals": [
+        {
+          "character": "带",
+          "radical": "巾",
+          "pinyin": "jīn",
+          "vi": "cái khăn",
+          "sinoVietnamese": "cân"
+        }
+      ],
       "translations": {
         "vi": "mang theo",
         "en": "to take; to bring"
@@ -233,6 +446,24 @@
       "word": "地图",
       "type": "danh từ",
       "pronunciation": "dìtú",
+      "sinoVietnamese": "địa đồ",
+      "mnemonic": "地 (Địa): Đất đai (có bộ Thổ 土). 图 (Đồ): Hình vẽ, bản vẽ. Hình vẽ thu nhỏ miêu tả hình thế bề mặt đất đai chính là bản đồ.",
+      "radicals": [
+        {
+          "character": "地",
+          "radical": "土",
+          "pinyin": "tǔ",
+          "vi": "đất",
+          "sinoVietnamese": "thổ"
+        },
+        {
+          "character": "图",
+          "radical": "囗",
+          "pinyin": "wéi",
+          "vi": "bao quanh",
+          "sinoVietnamese": "vi"
+        }
+      ],
       "translations": {
         "vi": "bản đồ",
         "en": "map"
@@ -250,6 +481,17 @@
       "word": "搬",
       "type": "động từ",
       "pronunciation": "bān",
+      "sinoVietnamese": "ban",
+      "mnemonic": "Bộ Thủ (扌): Chỉ hoạt động của tay. 般 (Ban): Hình ảnh chiếc thuyền nhỏ. Dùng tay (扌) khuân vác, chuyển đồ đạc lên thuyền (般) để dời đi, chuyển chỗ.",
+      "radicals": [
+        {
+          "character": "搬",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        }
+      ],
       "translations": {
         "vi": "dọn, dời",
         "en": "to move (house)"

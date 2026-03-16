@@ -23,7 +23,18 @@
           "vi": "Bây giờ chân em đau, bàn chân cũng đau.",
           "en": "My legs hurt now, and my feet hurt too."
         }
-      }
+      },
+      "sinoVietnamese": "thoái",
+      "mnemonic": "Bộ Nhục (月) chỉ cơ thịt, bộ Cấn (艮) chỉ phương vị, bộ Xước (辶) bước đi. Cấu tạo nên cái chân/đùi có thịt để bước đi.",
+      "radicals": [
+        {
+          "character": "腿",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "thịt",
+          "sinoVietnamese": "nhục"
+        }
+      ]
     },
     {
       "word": "疼",
@@ -40,7 +51,25 @@
           "vi": "Bây giờ chân em đau, bàn chân cũng đau.",
           "en": "My legs hurt now, and my feet hurt too."
         }
-      }
+      },
+      "sinoVietnamese": "đông",
+      "mnemonic": "Bộ Nạch (疒) chỉ bệnh tật, chữ Đông (冬) mùa đông lạnh lẽo. Bệnh tật mà lạnh căm căm thì gây ra đau đớn.",
+      "radicals": [
+        {
+          "character": "疼",
+          "radical": "疒",
+          "pinyin": "nè",
+          "vi": "bệnh tật",
+          "sinoVietnamese": "nạch"
+        },
+        {
+          "character": "疼",
+          "radical": "冬",
+          "pinyin": "dōng",
+          "vi": "mùa đông",
+          "sinoVietnamese": "đông"
+        }
+      ]
     },
     {
       "word": "脚",
@@ -57,7 +86,18 @@
           "vi": "Bây giờ chân em đau, bàn chân cũng đau.",
           "en": "My legs hurt now, and my feet hurt too."
         }
-      }
+      },
+      "sinoVietnamese": "cước",
+      "mnemonic": "Bộ Nhục (月) chỉ thịt, chữ Khứ (去) từ bỏ, chữ Tiết (卩) đốt tre. Ý chỉ bàn chân là bộ phận cơ thể bằng thịt tiếp xúc với mặt đất khi đi.",
+      "radicals": [
+        {
+          "character": "脚",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "thịt",
+          "sinoVietnamese": "nhục"
+        }
+      ]
     },
     {
       "word": "树",
@@ -74,7 +114,18 @@
           "vi": "Bên kia nhiều cây, chúng ta qua đó ngồi một lát đi.",
           "en": "There are many trees over there, let's go sit for a bit."
         }
-      }
+      },
+      "sinoVietnamese": "thụ",
+      "mnemonic": "Bộ Mộc (木) chỉ cây cối, chữ Hựu (又) cái tay vươn ra, chữ Thốn (寸). Bàn tay vươn ra đo lường cái cây.",
+      "radicals": [
+        {
+          "character": "树",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "cái cây",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "容易",
@@ -91,7 +142,25 @@
           "vi": "Lên núi dễ xuống núi khó, em không biết sao?",
           "en": "Going up the mountain is easy, coming down is hard, don't you know?"
         }
-      }
+      },
+      "sinoVietnamese": "dung dị",
+      "mnemonic": "容 (Dung): Bộ Miên (宀 - mái nhà), bộ Cốc (谷 - hang sâu), dưới mái nhà sâu rộng có thể chứa được nhiều. 易 (Dị): Mặt trời (日) và tia sáng, dễ dàng nhìn thấy như ánh nắng chói chang.",
+      "radicals": [
+        {
+          "character": "容",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "mái nhà",
+          "sinoVietnamese": "miên"
+        },
+        {
+          "character": "易",
+          "radical": "日",
+          "pinyin": "rì",
+          "vi": "mặt trời",
+          "sinoVietnamese": "nhật"
+        }
+      ]
     },
     {
       "word": "难",
@@ -108,7 +177,18 @@
           "vi": "Lên núi dễ xuống núi khó, em không biết sao?",
           "en": "Going up the mountain is easy, coming down is hard, don't you know?"
         }
-      }
+      },
+      "sinoVietnamese": "nan",
+      "mnemonic": "Bộ Hựu (又 - cái tay) và bộ Truy (隹 - chim đuôi ngắn). Bắt được con chim đang bay bằng một tay là chuyện rất khó (nan).",
+      "radicals": [
+        {
+          "character": "难",
+          "radical": "隹",
+          "pinyin": "zhuī",
+          "vi": "con chim đuôi ngắn",
+          "sinoVietnamese": "truy"
+        }
+      ]
     },
     {
       "word": "太太",
@@ -125,7 +205,18 @@
           "vi": "A lô, xin chào, xin hỏi Chu Minh có đó không? (Bà Chu)",
           "en": "Hello, is Zhou Ming there? (Mrs. Zhou)"
         }
-      }
+      },
+      "sinoVietnamese": "thái thái",
+      "mnemonic": "Chữ Đại (大 - to lớn) thêm một nét chấm ngụ ý sự cực độ, vượt mức (Thái). Bà chủ trong nhà (Thái Thái).",
+      "radicals": [
+        {
+          "character": "太",
+          "radical": "大",
+          "pinyin": "dà",
+          "vi": "to lớn",
+          "sinoVietnamese": "đại"
+        }
+      ]
     },
     {
       "word": "秘书",
@@ -142,7 +233,25 @@
           "vi": "Giám đốc Chu ra ngoài rồi, không có ở văn phòng. (Thư ký)",
           "en": "Manager Zhou went out, he's not in the office. (Secretary)"
         }
-      }
+      },
+      "sinoVietnamese": "bí thư",
+      "mnemonic": "秘 (Bí): Bộ Hòa (禾 - lúa) và chữ Tất (必 - ắt hẳn). Thư (书): Viết sách. Người chép sách cẩn thận và bí mật là bí thư.",
+      "radicals": [
+        {
+          "character": "秘",
+          "radical": "禾",
+          "pinyin": "hé",
+          "vi": "cây lúa",
+          "sinoVietnamese": "hòa"
+        },
+        {
+          "character": "书",
+          "radical": "丨",
+          "pinyin": "gǔn",
+          "vi": "nét sổ",
+          "sinoVietnamese": "cổn"
+        }
+      ]
     },
     {
       "word": "经理",
@@ -159,7 +268,25 @@
           "vi": "Giám đốc Chu ra ngoài rồi, không có ở văn phòng.",
           "en": "Manager Zhou went out, he's not in the office."
         }
-      }
+      },
+      "sinoVietnamese": "kinh lý",
+      "mnemonic": "经 (Kinh): Bộ Mịch (糹 - tơ lụa), làm việc quản lý dệt vải. 理 (Lý): Bộ Vương (王/玉 - ngọc), chế tác ngọc thành hình đẹp. Kinh lý là người quản lý, sắp xếp công việc gọn gàng.",
+      "radicals": [
+        {
+          "character": "经",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "tơ lụa",
+          "sinoVietnamese": "mịch"
+        },
+        {
+          "character": "理",
+          "radical": "王",
+          "pinyin": "wáng",
+          "vi": "vua/ngọc",
+          "sinoVietnamese": "vương"
+        }
+      ]
     },
     {
       "word": "办公室",
@@ -176,7 +303,32 @@
           "vi": "Giám đốc Chu ra ngoài rồi, không có ở văn phòng.",
           "en": "Manager Zhou went out, he's not in the office."
         }
-      }
+      },
+      "sinoVietnamese": "bán công thất",
+      "mnemonic": "办 (Bán): Bộ Lực (力 - sức mạnh), ở giữa có 2 chấm. Dùng sức lực giải quyết công việc. 公 (Công): Việc công. 室 (Thất): Bộ Miên (宀 - mái nhà), căn phòng dưới mái nhà. Ghép lại là văn phòng.",
+      "radicals": [
+        {
+          "character": "办",
+          "radical": "力",
+          "pinyin": "lì",
+          "vi": "sức lực",
+          "sinoVietnamese": "lực"
+        },
+        {
+          "character": "公",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "số tám",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "室",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "mái nhà",
+          "sinoVietnamese": "miên"
+        }
+      ]
     },
     {
       "word": "辆",
@@ -193,7 +345,18 @@
           "vi": "Không sao, em ra ngoài gọi chiếc taxi là được rồi.",
           "en": "It's fine, I'll go out and call a taxi."
         }
-      }
+      },
+      "sinoVietnamese": "lượng",
+      "mnemonic": "Bộ Xa (车 - xe) và chữ Lưỡng (两 - hai). Đơn vị đo đếm hai chiếc xe hoặc lượng xe cộ.",
+      "radicals": [
+        {
+          "character": "辆",
+          "radical": "车",
+          "pinyin": "chē",
+          "vi": "xe cộ",
+          "sinoVietnamese": "xa"
+        }
+      ]
     },
     {
       "word": "楼",
@@ -210,7 +373,18 @@
           "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
           "en": "Then wait a moment, I'll go upstairs to get you an umbrella."
         }
-      }
+      },
+      "sinoVietnamese": "lâu",
+      "mnemonic": "Bộ Mộc (木 - gỗ) và chữ Lâu (娄 - phụ nữ đội đồ). Ngày xưa lầu được xây dựng bằng thiết kế mộc (gỗ) và cao tầng nên con gái thích mặc đẹp ngắm cảnh.",
+      "radicals": [
+        {
+          "character": "楼",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "cái cây, gỗ",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "拿",
@@ -227,7 +401,18 @@
           "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
           "en": "Then wait a moment, I'll go upstairs to get you an umbrella."
         }
-      }
+      },
+      "sinoVietnamese": "nã",
+      "mnemonic": "Hợp bởi chữ Hợp (合 - hợp lại) và bộ Thủ (手 - tay). Hai tay hợp lại với nhau để cầm lấy, bắt nã một vật.",
+      "radicals": [
+        {
+          "character": "拿",
+          "radical": "手",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "把",
@@ -244,7 +429,18 @@
           "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
           "en": "Then wait a moment, I'll go upstairs to get you an umbrella."
         }
-      }
+      },
+      "sinoVietnamese": "bả",
+      "mnemonic": "Bộ Thủ (扌 - tay) và chữ Ba (巴). Dùng tay để nắm lấy, cầm lấy một vật gì đó như cái cán (bả).",
+      "radicals": [
+        {
+          "character": "把",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "bàn tay",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "伞",
@@ -261,7 +457,18 @@
           "vi": "Vậy em đợi chút, anh lên lầu lấy cho em cây dù.",
           "en": "Then wait a moment, I'll go upstairs to get you an umbrella."
         }
-      }
+      },
+      "sinoVietnamese": "tản",
+      "mnemonic": "Hình ảnh cây dù che mưa, chữ Nhân (人) ở trên như mái che, Thập (十) như cái cán dù. Che chở người đi dưới.",
+      "radicals": [
+        {
+          "character": "伞",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "胖",
@@ -278,7 +485,18 @@
           "vi": "Anh xem, em béo thế này, làm thế nào đây?",
           "en": "Look, I'm so fat, what should I do?"
         }
-      }
+      },
+      "sinoVietnamese": "bán",
+      "mnemonic": "Bộ Nhục (月 - thịt) và chữ Bán (半 - một nửa). Một người có phần thịt nở nang vượt mức chiếm cả một nửa không gian là do béo phì, mập mạp.",
+      "radicals": [
+        {
+          "character": "胖",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "thịt",
+          "sinoVietnamese": "nhục"
+        }
+      ]
     },
     {
       "word": "其实",
@@ -295,7 +513,25 @@
           "vi": "Thật ra ngày nào em cũng vận động.",
           "en": "Actually, I exercise every day."
         }
-      }
+      },
+      "sinoVietnamese": "kỳ thực",
+      "mnemonic": "其 (Kỳ): Chỉ định điều gì đó. 实 (Thực): Chữ Đầu (头) trong bộ Miên (宀), nghĩa là cái đầu thực tế trong nhà, ý chỉ sự chân thực. Ghép lại là thực chất, kì thực.",
+      "radicals": [
+        {
+          "character": "其",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "số tám",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "实",
+          "radical": "宀",
+          "pinyin": "mián",
+          "vi": "mái nhà",
+          "sinoVietnamese": "miên"
+        }
+      ]
     },
     {
       "word": "瘦",
@@ -312,7 +548,18 @@
           "vi": "Nhưng em chẳng gầy đi chút nào!",
           "en": "But you haven't gotten any thinner at all!"
         }
-      }
+      },
+      "sinoVietnamese": "sấu",
+      "mnemonic": "Bộ Nạch (疒) chỉ bệnh tật, bên trong là chữ Sấu (叟 - người lớn tuổi). Người già sinh bệnh nên cơ thể ốm gầy (sấu).",
+      "radicals": [
+        {
+          "character": "瘦",
+          "radical": "疒",
+          "pinyin": "nè",
+          "vi": "bệnh tật",
+          "sinoVietnamese": "nạch"
+        }
+      ]
     }
   ],
   "grammars": [

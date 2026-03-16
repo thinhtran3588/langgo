@@ -23,7 +23,25 @@
           "vi": "Cuối cùng anh cũng về rồi!",
           "en": "You're finally back!"
         }
-      }
+      },
+      "sinoVietnamese": "chung vu",
+      "mnemonic": "终 (Chung): Dây Mịch (纟) đi cùng Đông (冬 - đông lạnh). Điểm đứt băng giá cái dây cuối (Chung Cuộc). 于 (Vu chờ): Cuối cùng kết nạp trạm (đánh vạch ở chân 二). Rốt cuộc, chung qui lại.",
+      "radicals": [
+        {
+          "character": "终",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "sợi bông",
+          "sinoVietnamese": "mịch"
+        },
+        {
+          "character": "于",
+          "radical": "二",
+          "pinyin": "èr",
+          "vi": "hai nét thẳng",
+          "sinoVietnamese": "nhị"
+        }
+      ]
     },
     {
       "word": "爷爷",
@@ -40,7 +58,18 @@
           "vi": "Đây là quà tặng ông nội.",
           "en": "This is a gift for grandfather."
         }
-      }
+      },
+      "sinoVietnamese": "gia gia",
+      "mnemonic": "Phụ (父 - cha) đứng trên mái nhà mang chức Quyền (卩). Người cha đẻ của Cha bề thế có gậy tựa là Ông Nội, tổ nội.",
+      "radicals": [
+        {
+          "character": "爷",
+          "radical": "父",
+          "pinyin": "fù",
+          "vi": "phụ mẫu nam",
+          "sinoVietnamese": "phụ"
+        }
+      ]
     },
     {
       "word": "礼物",
@@ -57,7 +86,25 @@
           "vi": "Đây là quà tặng ông nội.",
           "en": "This is a gift for grandfather."
         }
-      }
+      },
+      "sinoVietnamese": "lễ vật",
+      "mnemonic": "礼 (Lễ): Bàn thờ Kỳ chư thần (礻) và Cúi Khấu / Móc đứt (乚). Dâng hiến Cúng. 物 (Vật): Đồ Ngưu tế cáo (牛), vạch tước Phẩy Vật (勿). Món quà kính biếu (vật thiêng Lễ).",
+      "radicals": [
+        {
+          "character": "礼",
+          "radical": "礻",
+          "pinyin": "shì",
+          "vi": "thiêng hiển kỳ",
+          "sinoVietnamese": "thị/kỳ"
+        },
+        {
+          "character": "物",
+          "radical": "牛",
+          "pinyin": "niú",
+          "vi": "trâu vật sừng",
+          "sinoVietnamese": "ngưu"
+        }
+      ]
     },
     {
       "word": "奶奶",
@@ -74,7 +121,18 @@
           "vi": "Ngày mai chúng ta cùng mang qua đó, thăm ông bà nội.",
           "en": "Tomorrow we'll take it over together and visit grandpa and grandma."
         }
-      }
+      },
+      "sinoVietnamese": "nãi nãi",
+      "mnemonic": "奶 (Nãi): Nữ (女) và Nãi (乃 - Vú/ sữa mẹ). Người phụ nữ đã có tuổi dòng dõi bề trên có thể gọi là nãi nãi (Bà nội).",
+      "radicals": [
+        {
+          "character": "奶",
+          "radical": "女",
+          "pinyin": "nǚ",
+          "vi": "nữ giới",
+          "sinoVietnamese": "nữ"
+        }
+      ]
     },
     {
       "word": "遇到",
@@ -91,7 +149,25 @@
           "vi": "Cô ấy là một người bạn học cũ anh tình cờ gặp trên đường hôm nay.",
           "en": "She is an old classmate I ran into on the road today."
         }
-      }
+      },
+      "sinoVietnamese": "ngộ đáo",
+      "mnemonic": "遇 (Ngộ): Đi lại Xước (辶) gặp chú khỉ Ngung (禺) mặt người lạ kỳ nên tạo sự tao ngộ. 到 (Đáo): Dao Đao (刂) tới. Sự bắt gặp bất ngờ.",
+      "radicals": [
+        {
+          "character": "遇",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "đi bộ ngắt",
+          "sinoVietnamese": "xước"
+        },
+        {
+          "character": "到",
+          "radical": "刂",
+          "pinyin": "dāo",
+          "vi": "dao phay",
+          "sinoVietnamese": "đao"
+        }
+      ]
     },
     {
       "word": "一边",
@@ -108,7 +184,25 @@
           "vi": "Vừa uống cà phê vừa nói vài chuyện quá khứ.",
           "en": "We talked about the past while drinking coffee."
         }
-      }
+      },
+      "sinoVietnamese": "nhất biên",
+      "mnemonic": "一 (Nhất). 边 (Biên): Xước (辶 - Bước chân) và Lực (力 - Sức). Đi gắng sức đi bám vào bên rìa (Biên giới/Một bên). Nghĩa đồng thời 'vừa..vừa..'.",
+      "radicals": [
+        {
+          "character": "边",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "bước chân",
+          "sinoVietnamese": "xước"
+        },
+        {
+          "character": "一",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số một",
+          "sinoVietnamese": "nhất"
+        }
+      ]
     },
     {
       "word": "过去",
@@ -125,7 +219,25 @@
           "vi": "Vừa uống cà phê vừa nói vài chuyện quá khứ.",
           "en": "We talked about the past while drinking coffee."
         }
-      }
+      },
+      "sinoVietnamese": "quá khứ/khứ",
+      "mnemonic": "过 (Quá): Xước (辶 - Bước) qua Thốn (寸). Bước đi qua một mốc (Vượt qua, đi qua). 去 (Khứ): Thổ (土) che mất một vật Khư (厶 - riêng tư). Giấu mất đi (Quá khứ).",
+      "radicals": [
+        {
+          "character": "过",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "bước chân đi",
+          "sinoVietnamese": "xước"
+        },
+        {
+          "character": "去",
+          "radical": "厶",
+          "pinyin": "sī",
+          "vi": "vòng kín",
+          "sinoVietnamese": "khư"
+        }
+      ]
     },
     {
       "word": "一般",
@@ -142,7 +254,25 @@
           "vi": "Cuối tuần bạn thường cùng Tiểu Cương ra ngoài xem phim không?",
           "en": "Do you usually go out to watch movies with Xiaogang on weekends?"
         }
-      }
+      },
+      "sinoVietnamese": "nhất ban",
+      "mnemonic": "一 (Nhất). 般 (Ban): Chu (舟 - Thuyền) và Thù (殳 - Binh khí sào). Dùng sào đẩy thuyền nhẹ đi tạo thành một đường trơn (như nhau, bình thường).",
+      "radicals": [
+        {
+          "character": "一",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "số 1",
+          "sinoVietnamese": "nhất"
+        },
+        {
+          "character": "般",
+          "radical": "舟",
+          "pinyin": "zhōu",
+          "vi": "chiếc thuyền",
+          "sinoVietnamese": "chu"
+        }
+      ]
     },
     {
       "word": "愿意",
@@ -159,7 +289,25 @@
           "vi": "Tôi muốn ở nhà xem ti vi hơn.",
           "en": "I prefer to watch TV at home."
         }
-      }
+      },
+      "sinoVietnamese": "nguyện ý",
+      "mnemonic": "愿 (Nguyện): Nguồn Hán (厂) từ Nguyên (原 - gốc suối) Bạch trong Tâm (心). Tự đáy lòng đồng ý trút ra. 意(Ý). Sự sẵn lòng, nguyện ý.",
+      "radicals": [
+        {
+          "character": "愿",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        },
+        {
+          "character": "意",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "起来",
@@ -176,7 +324,25 @@
           "vi": "Còn có thể đứng lên nghỉ ngơi một lát.",
           "en": "You can also stand up and rest for a while."
         }
-      }
+      },
+      "sinoVietnamese": "khởi lai",
+      "mnemonic": "起 (Khởi): Tẩu (走 - đi chạy) Kỷ (己). Tự ta hưng thịnh bật gốc lên. 来 (Lai): Bộ Mộc (木 - Gỗ) có sự Lai ghép 2 điểm (丷). Đứng dậy tiến tới lai đến hiện thực.",
+      "radicals": [
+        {
+          "character": "起",
+          "radical": "走",
+          "pinyin": "zǒu",
+          "vi": "đi bộ / tẩu",
+          "sinoVietnamese": "tẩu"
+        },
+        {
+          "character": "来",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gốc cây",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "应该",
@@ -193,7 +359,25 @@
           "vi": "Bạn nên ra ngoài đi dạo nhiều hơn.",
           "en": "You should go out for walks more often."
         }
-      }
+      },
+      "sinoVietnamese": "ưng cai",
+      "mnemonic": "应 (Ưng): Mái nhà Nghiễm (广), thu nạp bộ Nhất (一) Tâm sự, đáp ứng lại cho xứng (Cần/Nên). 该 (Cai): Lời nói (讠) về con heo / Hợi (亥), lời hứa cần làm thật (Đáng). Nên làm.",
+      "radicals": [
+        {
+          "character": "应",
+          "radical": "广",
+          "pinyin": "yǎn",
+          "vi": "mái lớn",
+          "sinoVietnamese": "nghiễm"
+        },
+        {
+          "character": "该",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "lời lẽ",
+          "sinoVietnamese": "ngôn"
+        }
+      ]
     },
     {
       "word": "生活",
@@ -210,7 +394,25 @@
           "vi": "Như vậy cuộc sống của các bạn sẽ thú vị hơn.",
           "en": "This way your life will be more interesting."
         }
-      }
+      },
+      "sinoVietnamese": "sinh hoạt",
+      "mnemonic": "生 (Sinh): Mọc lên lá. 活 (Hoạt): Nước (氵 - thủy) nuôi sống cái Rễ/Lưỡi Thiệt (舌) nếm vị (Sống sờ sờ). Cuộc sống/Sinh hoạt sôi nổi mọc nở.",
+      "radicals": [
+        {
+          "character": "生",
+          "radical": "生",
+          "pinyin": "shēng",
+          "vi": "nảy mầm",
+          "sinoVietnamese": "sinh"
+        },
+        {
+          "character": "活",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước uống",
+          "sinoVietnamese": "thủy"
+        }
+      ]
     },
     {
       "word": "校长",
@@ -227,7 +429,25 @@
           "vi": "Bây giờ anh ấy đã là hiệu trưởng rồi.",
           "en": "Now he is already the principal."
         }
-      }
+      },
+      "sinoVietnamese": "hiệu trưởng",
+      "mnemonic": "校 (Hiệu): Gỗ mốc Mộc (木), Giao (交). Trường học ghép bằng gỗ kết giao sĩ tử. 长 (Trưởng/Trường): Hình dáng cái cây mọc rễ tỏa dài dài phất lơ phơ. Người đứng đầu lớp (Hiệu trưởng).",
+      "radicals": [
+        {
+          "character": "校",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "chất gỗ",
+          "sinoVietnamese": "mộc"
+        },
+        {
+          "character": "长",
+          "radical": "长",
+          "pinyin": "cháng/zhǎng",
+          "vi": "dài lớn",
+          "sinoVietnamese": "trường/trưởng"
+        }
+      ]
     },
     {
       "word": "坏",
@@ -244,7 +464,18 @@
           "vi": "Tôi thật sự sợ anh ấy mệt quá.",
           "en": "I'm really afraid he's exhausted."
         }
-      }
+      },
+      "sinoVietnamese": "hoại",
+      "mnemonic": "Thổ khu đất (土), Bất / Hoại (不). Đất cát sạt lở không đỡ vững nổi dẫn tới sụp đổ hư hoại (Hư hỏng).",
+      "radicals": [
+        {
+          "character": "坏",
+          "radical": "土",
+          "pinyin": "tǔ",
+          "vi": "mặt đất",
+          "sinoVietnamese": "thổ"
+        }
+      ]
     },
     {
       "word": "经常",
@@ -261,7 +492,25 @@
           "vi": "Có thể thường xuyên ở bên cạnh tôi và con.",
           "en": "Can often be together with me and the children."
         }
-      }
+      },
+      "sinoVietnamese": "kinh thường",
+      "mnemonic": "经 (Kinh): Sợi tơ Mịch (纟) đi xuyên suốt. 常 (Thường): Nhà Thượng (尚) treo Cân Khăn (巾 - vải vóc). Ở trong lều mặc quần áo thông thường hàng ngày (Thường xuyên).",
+      "radicals": [
+        {
+          "character": "经",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "sợi mảnh",
+          "sinoVietnamese": "mịch"
+        },
+        {
+          "character": "常",
+          "radical": "巾",
+          "pinyin": "jīn",
+          "vi": "mảnh khăn",
+          "sinoVietnamese": "cân"
+        }
+      ]
     }
   ],
   "grammars": [

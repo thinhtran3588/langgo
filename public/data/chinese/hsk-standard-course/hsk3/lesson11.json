@@ -23,7 +23,32 @@
           "vi": "Tớ đi thư viện mượn quyển sách.",
           "en": "I'm going to the library to borrow a book."
         }
-      }
+      },
+      "sinoVietnamese": "đồ thư quán",
+      "mnemonic": "图 (Đồ): Bản đồ (Vi 囗, Địa 土). 书 (Thư): Sách viết. 馆 (Quán): Nhà quán có chữ Thực (饣) Quan (官). Nơi ngôi nhà chứa sổ sách bản đồ (Thư viện).",
+      "radicals": [
+        {
+          "character": "图",
+          "radical": "囗",
+          "pinyin": "wéi",
+          "vi": "khoanh vòng",
+          "sinoVietnamese": "vi"
+        },
+        {
+          "character": "书",
+          "radical": "丨",
+          "pinyin": "gǔn",
+          "vi": "sổ thẳng",
+          "sinoVietnamese": "cổn"
+        },
+        {
+          "character": "馆",
+          "radical": "饣",
+          "pinyin": "shí",
+          "vi": "ăn",
+          "sinoVietnamese": "thực"
+        }
+      ]
     },
     {
       "word": "借",
@@ -40,7 +65,18 @@
           "vi": "Tớ đi thư viện mượn quyển sách.",
           "en": "I'm going to the library to borrow a book."
         }
-      }
+      },
+      "sinoVietnamese": "tá",
+      "mnemonic": "Nhân (亻 - Con người). Tích (昔 - Khi xưa). Mượn lại đồ cũ của xưa kia người ta dùng gọi là Tá (Mượn).",
+      "radicals": [
+        {
+          "character": "借",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "người",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "词典",
@@ -57,7 +93,25 @@
           "vi": "Giúp tớ trả quyển từ điển này nhé.",
           "en": "Help me return this dictionary."
         }
-      }
+      },
+      "sinoVietnamese": "từ điển",
+      "mnemonic": "词 (Từ): Lời nói Ngôn (讠), Ti (司) quản lý. Chắp vá lời thành từ ngữ. 典 (Điển): Cuốn sách dày trên kệ Bát (八). Sổ cái chứa từ vụng (Từ điển).",
+      "radicals": [
+        {
+          "character": "词",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "lời nói",
+          "sinoVietnamese": "ngôn"
+        },
+        {
+          "character": "典",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "tám",
+          "sinoVietnamese": "bát"
+        }
+      ]
     },
     {
       "word": "还",
@@ -74,7 +128,18 @@
           "vi": "Giúp tớ trả quyển từ điển này nhé.",
           "en": "Help me return this dictionary."
         }
-      }
+      },
+      "sinoVietnamese": "hoàn / còn",
+      "mnemonic": "Bất (不 - Ko / Cản), Xước (辶 - Đi). Đi xong rồi hoàn lại không mang đi nữa (Hoàn lại) hoặc là 'Cứ còn mãi ko dứt' (còn thế).",
+      "radicals": [
+        {
+          "character": "还",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "đi chân",
+          "sinoVietnamese": "xước"
+        }
+      ]
     },
     {
       "word": "灯",
@@ -91,7 +156,18 @@
           "vi": "Nhớ tắt đèn nhé.",
           "en": "Remember to turn off the light."
         }
-      }
+      },
+      "sinoVietnamese": "đăng",
+      "mnemonic": "Hỏa (火 - Ngọn lửa). Đinh (丁 - Can đinh chữ góc nhọn). Lửa cháy đậu trên chân que sắt (Ngọn đèn thắp). Đèn điện / Đăng lửa.",
+      "radicals": [
+        {
+          "character": "灯",
+          "radical": "火",
+          "pinyin": "huǒ",
+          "vi": "lửa ngự",
+          "sinoVietnamese": "hỏa"
+        }
+      ]
     },
     {
       "word": "会议",
@@ -108,7 +184,25 @@
           "vi": "Sau khi cuộc họp kết thúc, đừng quên tắt điều hòa.",
           "en": "After the meeting ends, don't forget to turn off the air conditioner."
         }
-      }
+      },
+      "sinoVietnamese": "hội nghị",
+      "mnemonic": "会 (Hội): Mọi người tập hợp Nhân (人) dưới Vân (云) trời để họp chợ. 议 (Nghị): Ngôn (讠) phát biểu Nghĩa vụ (义), bàn mưu tính kế (Họp, Hội nghị).",
+      "radicals": [
+        {
+          "character": "会",
+          "radical": "人",
+          "pinyin": "rén",
+          "vi": "người",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "议",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "ngôn ngữ",
+          "sinoVietnamese": "ngôn"
+        }
+      ]
     },
     {
       "word": "结束",
@@ -125,7 +219,25 @@
           "vi": "Sau khi cuộc họp kết thúc, đừng quên tắt điều hòa.",
           "en": "After the meeting ends, don't forget to turn off the air conditioner."
         }
-      }
+      },
+      "sinoVietnamese": "kết thúc",
+      "mnemonic": "结(Kết): Dùng sợi Mịch (纟) xâu Cát (吉). Trói buộc. 束(Thúc): Trói cành mộc (木) vào bằng miệng rào Khẩu (口). Buộc vào lại cho kết thúc công đoạn. Hoàn thành.",
+      "radicals": [
+        {
+          "character": "结",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "dây dợ",
+          "sinoVietnamese": "mịch"
+        },
+        {
+          "character": "束",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "cây cối",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "忘记",
@@ -142,7 +254,25 @@
           "vi": "Sau khi cuộc họp kết thúc, đừng quên tắt điều hòa.",
           "en": "After the meeting ends, don't forget to turn off the air conditioner."
         }
-      }
+      },
+      "sinoVietnamese": "vong ký",
+      "mnemonic": "忘 (Vong): Tâm trí (心) hoảng hốt mờ dần do có sự tàn Vong (亡), quên mất trí nhớ (vong). 记 (Ký): Ghi chép (讠). Vong ký là quên mất thứ đã ghi sổ.",
+      "radicals": [
+        {
+          "character": "忘",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "trái tim",
+          "sinoVietnamese": "tâm"
+        },
+        {
+          "character": "记",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "ngôn",
+          "sinoVietnamese": "ngôn"
+        }
+      ]
     },
     {
       "word": "空调",
@@ -159,7 +289,25 @@
           "vi": "Đừng quên tắt điều hòa nhé.",
           "en": "Don't forget to turn off the air conditioner."
         }
-      }
+      },
+      "sinoVietnamese": "không điều",
+      "mnemonic": "空 (Không): Nhìn qua Huyệt (穴 - hang) là khoảng Công (工) khoảng không vô tận. 调 (Điều): Ngôn (讠 - nói) Châu (周 - vòng quanh) hòa giải. Không điều là máy điểu hoà không khí.",
+      "radicals": [
+        {
+          "character": "空",
+          "radical": "穴",
+          "pinyin": "xué",
+          "vi": "hang động sâu",
+          "sinoVietnamese": "huyệt"
+        },
+        {
+          "character": "调",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "ngôn từ",
+          "sinoVietnamese": "ngôn"
+        }
+      ]
     },
     {
       "word": "关",
@@ -176,7 +324,18 @@
           "vi": "Đừng quên tắt điều hòa nhé.",
           "en": "Don't forget to turn off the air conditioner."
         }
-      }
+      },
+      "sinoVietnamese": "quan",
+      "mnemonic": "Hợp bởi nét móc ở dưới như đôi chân chéo Bát (八) và cài then cửa chữ Thiên (天). Đóng chặt then cửa từ ngàn mặt (Đóng cửa chốt chặn / Cửa ải quan).",
+      "radicals": [
+        {
+          "character": "关",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "số bát 8",
+          "sinoVietnamese": "bát"
+        }
+      ]
     },
     {
       "word": "地铁",
@@ -193,7 +352,25 @@
           "vi": "Ông ấy đang đi tàu điện ngầm đến công ty chúng ta đấy.",
           "en": "He is taking the subway to our company right now."
         }
-      }
+      },
+      "sinoVietnamese": "địa thiết",
+      "mnemonic": "地 (Địa): Đất (土). 铁 (Thiết): Kim loại (钅), chữ Thất (失). Đường ray thép kim loại chạy ôm chìm dưới sâu mặt đất. Tàu điện ngầm.",
+      "radicals": [
+        {
+          "character": "地",
+          "radical": "土",
+          "pinyin": "tǔ",
+          "vi": "mặt đất",
+          "sinoVietnamese": "thổ"
+        },
+        {
+          "character": "铁",
+          "radical": "钅",
+          "pinyin": "jīn",
+          "vi": "kim loại sắt",
+          "sinoVietnamese": "kim"
+        }
+      ]
     },
     {
       "word": "双",
@@ -210,7 +387,18 @@
           "vi": "Vẫn còn thiếu một đôi đũa, con đi lấy đi.",
           "en": "We are still missing a pair of chopsticks, go get them."
         }
-      }
+      },
+      "sinoVietnamese": "song",
+      "mnemonic": "Hai tay Hựu (又, 又) nằm kề cạnh nhau đan chéo biểu lộ cho hai thân hữu kết giao luôn đi chung nhau (Một cặp đôi, Song đôi).",
+      "radicals": [
+        {
+          "character": "双",
+          "radical": "又",
+          "pinyin": "yòu",
+          "vi": "quay lại làm",
+          "sinoVietnamese": "hựu"
+        }
+      ]
     },
     {
       "word": "筷子",
@@ -227,7 +415,25 @@
           "vi": "Vẫn còn thiếu một đôi đũa, con đi lấy đi.",
           "en": "We are still missing a pair of chopsticks, go get them."
         }
-      }
+      },
+      "sinoVietnamese": "khoái tử",
+      "mnemonic": "筷 (Khoái): Trúc (⺮), Khoái (快 - Nhanh, tâm chẻ). Hai que trúc cầm xúc và lùa đồ ăn cực siêu tốc độ (Đôi đũa). 子 (Tử). Vậy là đũa (khoái tử).",
+      "radicals": [
+        {
+          "character": "筷",
+          "radical": "⺮",
+          "pinyin": "zhú",
+          "vi": "cây trúc / tre",
+          "sinoVietnamese": "trúc"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "con thơ",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "啤酒",
@@ -244,7 +450,25 @@
           "vi": "Vậy hôm nay chúng ta uống chút bia đi.",
           "en": "Then let's drink some beer today."
         }
-      }
+      },
+      "sinoVietnamese": "tỳ tửu",
+      "mnemonic": "啤 (Tỳ): Mồm (口) uống thức uống Tỳ (卑). 酒 (Tửu): Nước (氵) chứa trong chiếc Bầu / Dậu (酉) thời xưa để lên men rượu. Bia và Rượu bia.",
+      "radicals": [
+        {
+          "character": "啤",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "cái miệng",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "酒",
+          "radical": "氵",
+          "pinyin": "shuǐ",
+          "vi": "nước",
+          "sinoVietnamese": "thủy"
+        }
+      ]
     },
     {
       "word": "口",
@@ -261,7 +485,18 @@
           "vi": "Bác sĩ nói bố con một ngụm rượu cũng không được uống.",
           "en": "The doctor said your dad can't drink even a mouthful of alcohol."
         }
-      }
+      },
+      "sinoVietnamese": "khẩu",
+      "mnemonic": "Hình thù nguyên vuông của cái miệng đang há ra, hay cánh cửa đường dẫn vào nhà / cái lỗ hở.",
+      "radicals": [
+        {
+          "character": "口",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "mồm họng",
+          "sinoVietnamese": "khẩu"
+        }
+      ]
     },
     {
       "word": "瓶子",
@@ -278,7 +513,25 @@
           "vi": "Đừng để ông ấy nhìn thấy chai rượu.",
           "en": "Don't let him see the wine bottle."
         }
-      }
+      },
+      "sinoVietnamese": "bình tử",
+      "mnemonic": "瓶 (Bình): Hợp phần Tình (并 - song hành) ngoạ Ngõa (瓦 - sành sứ), Đồ bằng sành sứ bình nặn đựng đồ có cổ gọi là Bình. Tử. Tổng là cái bình, chai lọ.",
+      "radicals": [
+        {
+          "character": "瓶",
+          "radical": "瓦",
+          "pinyin": "wǎ",
+          "vi": "gốm ngói",
+          "sinoVietnamese": "ngõa"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "tử con",
+          "sinoVietnamese": "tử"
+        }
+      ]
     },
     {
       "word": "笔记本 (电脑)",
@@ -295,7 +548,25 @@
           "vi": "Cái máy tính xách tay này lúc tôi mua năm ngoái khoảng 5000 tệ.",
           "en": "This laptop cost about 5000 yuan when I bought it last year."
         }
-      }
+      },
+      "sinoVietnamese": "bút ký bản (điện não)",
+      "mnemonic": "笔 (Bút): Bàn chải Trúc Mao nặn. 记 (Ký): Lời ghi Ngôn. 本 (Bản): Mộc rễ Gốc rập. 电脑 (Điện não Máy tính). Máy tính xách tay gấp giống vở Notebook.",
+      "radicals": [
+        {
+          "character": "笔",
+          "radical": "⺮",
+          "pinyin": "zhú",
+          "vi": "trúc/tre",
+          "sinoVietnamese": "trúc"
+        },
+        {
+          "character": "本",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "gốc cây",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "电子邮件",
@@ -312,7 +583,39 @@
           "vi": "Bây giờ việc đầu tiên mỗi ngày sau khi ngủ dậy của tôi là mở máy tính, xem email.",
           "en": "Now the first thing I do every day after getting up is turn on the computer and check email."
         }
-      }
+      },
+      "sinoVietnamese": "điện tử bưu kiện",
+      "mnemonic": "电 (Điện): Nguồn sét chiếu (田). 子 (Tử): Con. 邮 (Bưu): Do (由) và Ấp/Phụ (阝). 件 (Kiện): Người (亻) và trâu (牛). Thư tín bưu phẩm điện máy tử. Email.",
+      "radicals": [
+        {
+          "character": "电",
+          "radical": "田",
+          "pinyin": "tián",
+          "vi": "ruộng",
+          "sinoVietnamese": "điền"
+        },
+        {
+          "character": "子",
+          "radical": "子",
+          "pinyin": "zǐ",
+          "vi": "con nít",
+          "sinoVietnamese": "tử"
+        },
+        {
+          "character": "邮",
+          "radical": "阝",
+          "pinyin": "yòu",
+          "vi": "ấp/tai",
+          "sinoVietnamese": "phụ"
+        },
+        {
+          "character": "件",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "con người",
+          "sinoVietnamese": "nhân"
+        }
+      ]
     },
     {
       "word": "习惯",
@@ -329,7 +632,25 @@
           "vi": "Đã quen dùng máy tính để học tập và làm việc rồi.",
           "en": "I'm already used to using a computer to study and work."
         }
-      }
+      },
+      "sinoVietnamese": "tập quán",
+      "mnemonic": "习 (Tập): Chim vỗ cánh (乙) bay lên trời. Luyện tập. 惯 (Quán): Tâm (忄) có cảm giác rỗng Quán (贯 - thông suốt đồng tiền 贝) vì việc lặp lại vô thức tạo thói quen (tập quán).",
+      "radicals": [
+        {
+          "character": "习",
+          "radical": "乙",
+          "pinyin": "yǐ",
+          "vi": "can ất, bay",
+          "sinoVietnamese": "ất"
+        },
+        {
+          "character": "惯",
+          "radical": "忄",
+          "pinyin": "xīn",
+          "vi": "tâm trí",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     }
   ],
   "grammars": [

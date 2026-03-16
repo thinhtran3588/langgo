@@ -23,7 +23,32 @@
           "vi": "Máy ảnh của tôi bị ai lấy đi rồi?",
           "en": "Who took my camera?"
         }
-      }
+      },
+      "sinoVietnamese": "chiếu tương cơ",
+      "mnemonic": "照 (Chiếu): Chiếu Nhật rọi điểm Lửa tạc Ảnh. 相(Tương/Tướng): Tướng mạo mục cõi thấu. 机 (Cơ): Bộ Cơ Thiết Mộc nhấp đống kỉ Khởi (Cỗ máy Mộc cơ ngắm Bắt Ảnh Cam).",
+      "radicals": [
+        {
+          "character": "照",
+          "radical": "灬",
+          "pinyin": "huǒ",
+          "vi": "nhúm lụi hỏa",
+          "sinoVietnamese": "hỏa"
+        },
+        {
+          "character": "相",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "chõm mắt ngó",
+          "sinoVietnamese": "mục"
+        },
+        {
+          "character": "机",
+          "radical": "木",
+          "pinyin": "mù",
+          "vi": "cây gốc mộc",
+          "sinoVietnamese": "mộc"
+        }
+      ]
     },
     {
       "word": "被",
@@ -40,7 +65,18 @@
           "vi": "Bạn trai tôi thích xem bóng đá, tôi bị ảnh hưởng bởi anh ấy.",
           "en": "My boyfriend likes watching soccer games, I was influenced by him."
         }
-      }
+      },
+      "sinoVietnamese": "bị / phi",
+      "mnemonic": "Y phục may Vá Áo Khoác Phủ Ngoài (衤). Bì (皮 - Tảng Da tróc Sần Bì). Khoác cái chăn hay Mảnh Lông bị Trùm Ép Buộc Bao Trùm (Bị che Bị áp / Câu Bị Động).",
+      "radicals": [
+        {
+          "character": "被",
+          "radical": "衤",
+          "pinyin": "yī",
+          "vi": "lớp vải y",
+          "sinoVietnamese": "y"
+        }
+      ]
     },
     {
       "word": "难过",
@@ -57,7 +93,25 @@
           "vi": "Đừng buồn, mua cái khác đi.",
           "en": "Don't be sad, buy another one."
         }
-      }
+      },
+      "sinoVietnamese": "nan quá",
+      "mnemonic": "难 (Nan): Bắt Chim Truy vồ tay mộc Hựu cực kỳ cam khó Khốc Khó khăn. 过 (Quá): Đi qua Quá cõi kẹt thốn. -> Chuyện Nan trải Đi Khó Nhọc tâm Cam đắng đau buồn tủi Nhục.",
+      "radicals": [
+        {
+          "character": "难",
+          "radical": "隹",
+          "pinyin": "zhuī",
+          "vi": "giống chim truy",
+          "sinoVietnamese": "truy"
+        },
+        {
+          "character": "过",
+          "radical": "辶",
+          "pinyin": "chuò",
+          "vi": "nhón tẩu xước",
+          "sinoVietnamese": "xước"
+        }
+      ]
     },
     {
       "word": "东",
@@ -74,7 +128,18 @@
           "vi": "Chẳng phải ngoài cổng phía đông công ty có một trung tâm thương mại lớn sao?",
           "en": "Isn't there a big shopping mall outside the east gate of the company?"
         }
-      }
+      },
+      "sinoVietnamese": "đông",
+      "mnemonic": "Nhật Thái Mặt Trăng Mọc Xiên Tia sọc Khung Cây Treo Trụ Mộc (木). Rìa Mặt lố Lọc Khởi Ngọn Tia Góc Đông đằng Mọc Ngày Hướng Đông Tái.",
+      "radicals": [
+        {
+          "character": "东",
+          "radical": "一",
+          "pinyin": "yī",
+          "vi": "gạch chèo",
+          "sinoVietnamese": "nhất"
+        }
+      ]
     },
     {
       "word": "信用卡",
@@ -91,7 +156,32 @@
           "vi": "Nhưng tiền trong thẻ tín dụng tháng này tôi tiêu gần hết rồi.",
           "en": "But I've spent almost all the money on my credit card this month."
         }
-      }
+      },
+      "sinoVietnamese": "tín dụng tạp",
+      "mnemonic": "信 (Tín): Niềm Ngôn Chữ Tin do Người giữ mồm Lời. 用 (Dụng): Dùng Xài Chảo vật. 卡 (Tạp/Ca): Thẻ Thượng Hạ chèn mắc kẹt ép Rút Card Tạp Thẻ Tín Chấm. Thẻ Credit Ngân Nợ.",
+      "radicals": [
+        {
+          "character": "信",
+          "radical": "亻",
+          "pinyin": "rén",
+          "vi": "nhân gã trần",
+          "sinoVietnamese": "nhân"
+        },
+        {
+          "character": "用",
+          "radical": "用",
+          "pinyin": "yòng",
+          "vi": "dụng lợi vứt",
+          "sinoVietnamese": "dụng"
+        },
+        {
+          "character": "卡",
+          "radical": "卜",
+          "pinyin": "bǔ",
+          "vi": "khắc chẻ chiêm",
+          "sinoVietnamese": "bốc"
+        }
+      ]
     },
     {
       "word": "关心",
@@ -108,7 +198,25 @@
           "vi": "Sao tự nhiên bạn lại quan tâm đến thể thao thế?",
           "en": "Why are you suddenly interested in sports?"
         }
-      }
+      },
+      "sinoVietnamese": "quan tâm",
+      "mnemonic": "关 (Quan): Khép Trại Khớp Nhị Liên Then (Đóng Tâm Then chốt Yếu điểm Vấn). 心 (Tâm): Để lòng Tim nhĩ Trọng Cảm mến Hữu Hướng Về Theo Trăm Lưu Trú Chú (Quan Tâm Lòng).",
+      "radicals": [
+        {
+          "character": "关",
+          "radical": "八",
+          "pinyin": "bā",
+          "vi": "kẹp số bát",
+          "sinoVietnamese": "bát"
+        },
+        {
+          "character": "心",
+          "radical": "心",
+          "pinyin": "xīn",
+          "vi": "dóc tim tâm",
+          "sinoVietnamese": "tâm"
+        }
+      ]
     },
     {
       "word": "只有……才……",
@@ -125,7 +233,32 @@
           "vi": "Xem ra chỉ có tình yêu mới làm người ta thay đổi.",
           "en": "It seems only love can make people change."
         }
-      }
+      },
+      "sinoVietnamese": "chỉ hữu tài",
+      "mnemonic": "只(Chỉ). 有 (Hữu / Có cầm nằm nắm Tịch sỡ Giữ phần Bóp). 才 (Tài: Mũi đanh đâm thủng Chồi Mới Nẩy Tài Xược - Chỉ mới Móc Chào 1 Có). Cấu trúc Chỉ có Nước Như Thế MỚI THÌ..",
+      "radicals": [
+        {
+          "character": "只",
+          "radical": "口",
+          "pinyin": "kǒu",
+          "vi": "môi khép khẩu",
+          "sinoVietnamese": "khẩu"
+        },
+        {
+          "character": "有",
+          "radical": "月",
+          "pinyin": "yuè",
+          "vi": "chỏm ngực nhục",
+          "sinoVietnamese": "nguyệt"
+        },
+        {
+          "character": "才",
+          "radical": "扌",
+          "pinyin": "shǒu",
+          "vi": "từng thủ móc",
+          "sinoVietnamese": "thủ"
+        }
+      ]
     },
     {
       "word": "成绩",
@@ -142,7 +275,25 @@
           "vi": "Dạo này ngày nào tôi cũng lên mạng chơi game, thành tích của tôi kém cực kỳ.",
           "en": "I've been playing games online every day recently, my grades are terrible."
         }
-      }
+      },
+      "sinoVietnamese": "thành tích",
+      "mnemonic": "成 (Thành): Công cán Đâm Thương Mộc chốt Hoàn Chế dẹp loạn (Vũ lực Trấn Xong Thành Nâng). 绩 (Tích): Dệt Gấm Mịch, gặt Tích Lủy kết đọng vất xót Cầm (Công Tích đọng Kéo Lũy Kết quả).",
+      "radicals": [
+        {
+          "character": "成",
+          "radical": "戈",
+          "pinyin": "gē",
+          "vi": "chích giáo qua",
+          "sinoVietnamese": "qua"
+        },
+        {
+          "character": "绩",
+          "radical": "纟",
+          "pinyin": "sī",
+          "vi": "căng kéo mịch",
+          "sinoVietnamese": "mịch"
+        }
+      ]
     },
     {
       "word": "碗",
@@ -159,7 +310,18 @@
           "vi": "Người đang cầm bát ăn cơm kia là anh trai bạn à?",
           "en": "Is that person holding a bowl and eating your older brother?"
         }
-      }
+      },
+      "sinoVietnamese": "oản / uyển",
+      "mnemonic": "Thạch/Đá (石). Vật gọt bằng đá nặn đất sét Uyển múc khoanh Lòng Tròn Chum sâu đắp Trũng Khum Uyển Tú Tròn (Cái Chén Cốc Oản).",
+      "radicals": [
+        {
+          "character": "碗",
+          "radical": "石",
+          "pinyin": "shí",
+          "vi": "khối sỏi thạch",
+          "sinoVietnamese": "thạch"
+        }
+      ]
     },
     {
       "word": "分",
@@ -176,7 +338,18 @@
           "vi": "Chắc chỉ có bố mẹ các bạn mới phân biệt được ai là anh, ai là em nhỉ.",
           "en": "Only your parents can distinguish who is the older brother and who is the younger brother."
         }
-      }
+      },
+      "sinoVietnamese": "phân",
+      "mnemonic": "Bát phân dạt Băng chẻ, Dùng Đao Băm Chém Chia đứt rách Rạch Nát (Thành Cọng Vén Tắt Phần) - Phút - Mảnh Khắc Miếng Lượng Chia Đo.",
+      "radicals": [
+        {
+          "character": "分",
+          "radical": "刀",
+          "pinyin": "dāo",
+          "vi": "dao phập đi",
+          "sinoVietnamese": "đao"
+        }
+      ]
     },
     {
       "word": "解决",
@@ -193,7 +366,25 @@
           "vi": "Thực ra, vấn đề khác nhau thì có cách giải quyết khác nhau.",
           "en": "Actually, different problems have different solutions."
         }
-      }
+      },
+      "sinoVietnamese": "giải quyết",
+      "mnemonic": "解 (Giải): Đao Mổ Gắp Gỡ Chặt Trâu Sừng Giác Chỏm Tháo Xù Gút Thòng lọng Tháo ngõ (Giải toả). 决 (Quyết): Xéo Phá Giao Phá Khúc Băng Tan Băng Chảy Mỡ Nứt Tuyết Chẻ gẫy Chút Quyết Dứt Vỡ.",
+      "radicals": [
+        {
+          "character": "解",
+          "radical": "角",
+          "pinyin": "jiǎo",
+          "vi": "giác nhọn sừng",
+          "sinoVietnamese": "giác"
+        },
+        {
+          "character": "决",
+          "radical": "冫",
+          "pinyin": "bīng",
+          "vi": "dăm hạt cước",
+          "sinoVietnamese": "băng"
+        }
+      ]
     },
     {
       "word": "试",
@@ -210,7 +401,18 @@
           "vi": "Cho nên phải thử làm xem sao.",
           "en": "So you have to try doing it."
         }
-      }
+      },
+      "sinoVietnamese": "thí",
+      "mnemonic": "Ngôn (讠 - Nói lời). Thức Thể (式 - Cách Cấu / Kẻ mốc Kĩ Gạch Công Cụ dọng Dịch Xét Khỏa Thử Bày Mẫu Thử Nghiệm Thí Trắc).",
+      "radicals": [
+        {
+          "character": "试",
+          "radical": "讠",
+          "pinyin": "yán",
+          "vi": "chỉ ngôn thốt",
+          "sinoVietnamese": "ngôn"
+        }
+      ]
     },
     {
       "word": "真正",
@@ -227,7 +429,25 @@
           "vi": "Cho nên chỉ khi thực sự làm việc, mới có thể hiểu được khó khăn đến mức nào.",
           "en": "So only when you are truly doing something can you understand how difficult it is."
         }
-      }
+      },
+      "sinoVietnamese": "chân chính",
+      "mnemonic": "真 (Chân): Mục soi Đích Bát Khí Góc móng Cận Tỏ Xét Chăm Thẳng Thiệt Không Dối Gạt Chân Tâm Chất Mộc. 正 (Chính): Chỉnh Dựng Đi ngay gắp rảnh Cắm Trực Thẳng Nhất ngay Ngắn Thật Thà Chuẩn.",
+      "radicals": [
+        {
+          "character": "真",
+          "radical": "目",
+          "pinyin": "mù",
+          "vi": "sóng khoé mục",
+          "sinoVietnamese": "mục"
+        },
+        {
+          "character": "正",
+          "radical": "止",
+          "pinyin": "zhǐ",
+          "vi": "đi đành chỉ",
+          "sinoVietnamese": "chỉ"
+        }
+      ]
     },
     {
       "word": "多么",
@@ -244,7 +464,25 @@
           "vi": "Chúng ta nhất định phải tin rằng: vấn đề dù khó đến mấy, cũng đều sẽ được giải quyết.",
           "en": "We must believe: no matter how difficult the problem is, it will be solved."
         }
-      }
+      },
+      "sinoVietnamese": "đa ma",
+      "mnemonic": "多 (Đa): Bộ Tịch (夕) nhiều mặt Trăng Khuyết tụ gom chồng gác Lệ Chiều Dăng Lắm Trăng Thiếu Góp Đại Đa Quá Cực Chừng Đống. 么 (Ma): Nét Băng nảy cộc Bẻ Từ Để Hỏi Đỡ Than Vãn Kì Thế Thật Than.",
+      "radicals": [
+        {
+          "character": "多",
+          "radical": "夕",
+          "pinyin": "xī",
+          "vi": "chập khuya tịch",
+          "sinoVietnamese": "tịch"
+        },
+        {
+          "character": "么",
+          "radical": "丿",
+          "pinyin": "piě",
+          "vi": "nét ngoắc phất",
+          "sinoVietnamese": "phiệt"
+        }
+      ]
     }
   ],
   "grammars": [
