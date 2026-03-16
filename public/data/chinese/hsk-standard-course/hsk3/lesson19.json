@@ -60,14 +60,14 @@
         }
       },
       "sinoVietnamese": "kiểm",
-      "mnemonic": "Nhục thân thịt tảng chéo (月 - Thịt máu), Kiểm Chóp che Nhất họp hai khối (Khuôn đúc Gờ Thịt). Khuôn mặt, Mặt người da.",
+      "mnemonic": "Nguyệt (月 - mặt trăng), Kiểm Chóp che Nhất họp hai khối (Khuôn đúc Gờ Thịt). Khuôn mặt, Mặt người da.",
       "radicals": [
         {
           "character": "脸",
           "radical": "月",
           "pinyin": "yuè",
-          "vi": "miếng nhục thịt",
-          "sinoVietnamese": "nhục"
+          "vi": "mặt trăng",
+          "sinoVietnamese": "nguyệt"
         }
       ]
     },

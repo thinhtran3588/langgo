@@ -480,7 +480,7 @@
         }
       },
       "sinoVietnamese": "thư phục",
-      "mnemonic": "舒 (Thư): Xá (舍 - cái nhà), Dư (予 - ta). Căn nhà của ta làm ta thư dãn. 服 (Phục): Nhục (月), cái thân thể luôn phục tùng (mặc quần áo).",
+      "mnemonic": "舒 (Thư): Xá (舍 - cái nhà), Dư (予 - ta). Căn nhà của ta làm ta thư dãn. 服 (Phục): Nguyệt (月), cái thân thể luôn phục tùng (mặc quần áo).",
       "radicals": [
         {
           "character": "舒",
@@ -493,8 +493,8 @@
           "character": "服",
           "radical": "月",
           "pinyin": "yuè",
-          "vi": "thịt",
-          "sinoVietnamese": "nhục"
+          "vi": "mặt trăng",
+          "sinoVietnamese": "nguyệt"
         }
       ]
     },

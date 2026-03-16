@@ -235,13 +235,13 @@
         }
       },
       "sinoVietnamese": "hữu danh",
-      "mnemonic": "有 (Hữu): Hữu Nhục Nguyệt / Có sỡ hữu tay nắm (Nguyệt/Tịch). 名 (Danh): Ban Tịch chiều tối Tịch gọi Mồm Khẩu gọi tên. Đi đêm Có Gọi Tên (Có tiếng tăm Nổi Danh).",
+      "mnemonic": "有 (Hữu): Nguyệt (月 - mặt trăng). 名 (Danh): Ban Tịch chiều tối Tịch gọi Mồm Khẩu gọi tên. Đi đêm Có Gọi Tên (Có tiếng tăm Nổi Danh).",
       "radicals": [
         {
           "character": "有",
           "radical": "月",
           "pinyin": "yuè",
-          "vi": "trăng khuya thịt",
+          "vi": "mặt trăng",
           "sinoVietnamese": "nguyệt"
         },
         {

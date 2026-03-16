@@ -123,7 +123,7 @@
         }
       },
       "sinoVietnamese": "thể dục",
-      "mnemonic": "体 (Thể): Nhân (亻), Bản (本 - gốc rễ), Con người lấy bản thể thân xác là bộ gốc cốt lõi. 育 (Dục): Dưỡng lớn trẻ Tử lên bằng nhục nhã (月 - Thịt). Môn thể dục phát triển cơ thể.",
+      "mnemonic": "体 (Thể): Nhân (亻), Bản (本 - gốc rễ), Con người lấy bản thể thân xác là bộ gốc cốt lõi. 育 (Dục): Dưỡng lớn trẻ Tử lên bằng bộ nguyệt (月 - mặt trăng). Môn thể dục phát triển cơ thể.",
       "radicals": [
         {
           "character": "体",
@@ -135,9 +135,9 @@
         {
           "character": "育",
           "radical": "月",
-          "pinyin": "ròu",
-          "vi": "thịt",
-          "sinoVietnamese": "nhục"
+          "pinyin": "yuè",
+          "vi": "mặt trăng",
+          "sinoVietnamese": "nguyệt"
         }
       ]
     },
