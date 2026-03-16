@@ -95,14 +95,14 @@
         }
       },
       "sinoVietnamese": "ly khai",
-      "mnemonic": "离 (Ly): Một con chim (隹) bay đi bỏ lại tổ nhà. 开 (Khai): Hai tay cầm then cài tháo cửa. Cấu tạo thành việc mở cửa mà đi. (rời đi, ly khai)",
+      "mnemonic": "离 (Ly): Bộ Hung (凶 - hung dữ), Đầu (亠), Nhựu (禸 - vết chân). Thú dữ bước dẫm chân rời đi. 开 (Khai): Hai tay cầm then cài tháo cửa. Mở cửa mà đi (Rời đi, ly khai).",
       "radicals": [
         {
           "character": "离",
-          "radical": "隹",
-          "pinyin": "zhuī",
-          "vi": "chim đuôi ngắn",
-          "sinoVietnamese": "truy"
+          "radical": "禸",
+          "pinyin": "róu",
+          "vi": "vết chân",
+          "sinoVietnamese": "nhựu"
         },
         {
           "character": "开",
@@ -368,7 +368,7 @@
         }
       },
       "sinoVietnamese": "âm nhạc",
-      "mnemonic": "音 (Âm): Lập (立), Vi (日). Âm thanh từ nhạc khí. 乐 (Nhạc): Cây đàn có dây tơ (白 / 木). Tạo ra âm nhạc.",
+      "mnemonic": "音 (Âm): Lập (立), Vi (日). Âm thanh từ nhạc khí. 乐 (Nhạc): Nét phẩy (丿) trên chữ Tiểu mọc rễ. Vẻ mặt vui vẻ phẩy tay múa hát tạo ra âm nhạc.",
       "radicals": [
         {
           "character": "音",

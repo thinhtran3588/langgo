@@ -235,7 +235,7 @@
         }
       },
       "sinoVietnamese": "chỉ hữu tài",
-      "mnemonic": "只(Chỉ). 有 (Hữu / Có cầm nằm nắm Tịch sỡ Giữ phần Bóp). 才 (Tài: Mũi đanh đâm thủng Chồi Mới Nẩy Tài Xược - Chỉ mới Móc Chào 1 Có). Cấu trúc Chỉ có Nước Như Thế MỚI THÌ..",
+      "mnemonic": "只 (Chỉ): Mồm. 有 (Hữu): Nguyệt. Chỉ có (như thế)... 才 (Tài/mới): Vừa mới đâm chồi đẽo gốc... thì MỚI có thể.",
       "radicals": [
         {
           "character": "只",
@@ -253,10 +253,10 @@
         },
         {
           "character": "才",
-          "radical": "扌",
-          "pinyin": "shǒu",
-          "vi": "từng thủ móc",
-          "sinoVietnamese": "thủ"
+          "radical": "才",
+          "pinyin": "cái",
+          "vi": "vừa mới / tài năng",
+          "sinoVietnamese": "tài"
         }
       ]
     },
